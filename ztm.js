@@ -23,9 +23,54 @@ function getPage(url, callback) {
 	});
 }
 
+function parseTimetable(page, line) {
+	var matches = page.match(routeRegExp);
+
+	if (matches) {
+		// parsuj trasę + usuń przystanki końcowe
+		var streets = matches[1].split(/-|–/).
+			slice(1, -1).
+			map(function(item) {
+				return item.trim();
+			});
+
+		console.log('#' + line + ': ' + streets.join(', '));
+
+		streets.forEach(function(street) {
+			// ignoruj ronda
+			if (street.indexOf('Rondo') > -1) {
+				return;
+			}
+
+			// rozwiń skróty + małe poprawki
+			street = street.
+				replace("Al.", 'Aleja').
+				replace(/[śŚ]w\./, 'Święty').
+				replace('ŚwiętyMarcin', 'Święty Marcin').
+				replace('Świety', 'Święty').
+				replace('Piasnicka', 'Piaśnicka').
+				replace('Os. ', 'Osiedle ');
+
+			if (street.indexOf('28 Czerwca') === 0) {
+				street = '28 Czerwca 1956 r.';
+			}
+
+			ulice[street] = ulice[street] || [];
+
+			if (ulice[street].indexOf(line) === -1) {
+				ulice[street].push(line);
+			}
+		});
+
+		// katualizuj "bazę"
+		fs.writeFileSync('db/ulice-ztm.json', JSON.stringify(ulice));
+	}
+}
+
 var petle = {},
  	ulice = {},
 	timetableRegExp = /<a href='(timetable.html[^']+)'>/,
+	timetableLastRegExp = /\<a href='(timetable.html.php[^']+)'>[^>]+<\/a><\/li><\/ul><\/div>/,
 	routeRegExp = /<div id='descriptions'><p>([^<]+)/,
 	petleRegExp = />([^<]+)<\/a><\/li><\/ul>/g;
 
@@ -54,46 +99,25 @@ lines.forEach(function(line) {
 	};
 
 	getPage(url, function(page) {
-		// pobierz rozkład jazdy -> trasa
-		var timetableUrl = page.match(timetableRegExp);
+		// pobierz rozkład jazdy -> trasa w obie strony
+		var timetableUrl = page.match(timetableRegExp),
+			timetableLastUrl = page.match(timetableLastRegExp);
 
-		// TODO: parsowanie trasy w obie strony (np. linia 5)
 		if (timetableUrl) {
 			getPage({
 				host: '193.218.154.93',
 				path: '/dbServices/gtfs-ztm/' + timetableUrl[1]
 			}, function(page) {
-				var matches = page.match(routeRegExp);
+				parseTimetable(page, line);
+			});
+		}
 
-				if (matches) {
-					// parsuj trasę + usuń przystanki końcowe
-					var streets = matches[1].split(/-|–/).
-						slice(1, -1).
-						map(function(item) {
-							return item.trim();
-						});
-
-					console.log('#' + line + ': ' + streets.join(', '));
-
-					streets.forEach(function(street) {
-						// ignoruj ronda
-						if (street.indexOf('Rondo') > -1) {
-							return;
-						}
-
-						// rozwiń skróty + małe poprawki
-						street = street.
-							replace(/Al\./, 'Aleja').
-							replace(/[śŚ]w\./, 'Święty').
-							replace('Piasnicka', 'Piaśnicka');
-
-						ulice[street] = ulice[street] || [];
-						ulice[street].push(line);
-					});
-
-					// katualizuj "bazę"
-					fs.writeFileSync('db/ulice-ztm.json', JSON.stringify(ulice));
-				}
+		if (timetableLastUrl) {
+			getPage({
+				host: '193.218.154.93',
+				path: '/dbServices/gtfs-ztm/' + timetableLastUrl[1]
+			}, function(page) {
+				parseTimetable(page, line);
 			});
 		}
 
