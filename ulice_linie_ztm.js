@@ -1,7 +1,8 @@
-var fs = require('fs');
-
-var bot = require('../lib/bot').bot,
+var fs = require('fs'),
+	bot = require('../lib/bot').bot,
 	client = new bot('config.js');
+
+var SUMMARY = 'Aktualizacja danych o liniach ZTM';
 
 var db = JSON.parse(fs.readFileSync('db/ulice-ztm.json'));
 
@@ -30,6 +31,20 @@ client.logIn(function(data) {
 				});
 
 				console.log(page.title + ': ' + JSON.stringify({tram: tramLines, bus: busLines}));
+
+				client.getArticle(page.title, function(content) {
+					// wstaw nowe dane
+					content = content.
+						replace(/\|autobusy\s?\=(.*)\n/, '|autobusy=' + busLines.join(',') + "\n").
+						replace(/\|tramwaje\s?\=(.*)\n/, '|tramwaje=' + tramLines.join(',') + "\n");
+
+					//console.log(content);
+
+					// edytuj
+					client.edit(page.title, content, SUMMARY, function() {
+						console.log(page.title + ' done!');
+					});
+				});
 			}
 		});
 	});
