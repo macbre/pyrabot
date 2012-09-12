@@ -59,6 +59,11 @@ function parseTimetable(page, line) {
 
 			if (ulice[street].indexOf(line) === -1) {
 				ulice[street].push(line);
+
+				// sortuj mr linii jako wartości liczbowe
+				ulice[street].sort(function(a,b) {
+					return a - b;
+				});
 			}
 		});
 
