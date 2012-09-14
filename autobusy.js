@@ -13,7 +13,7 @@ client.logIn(function(data) {
 
 	for (var line in db) {
 		// tylko linie autobusowe
-		if (line > 40) {
+		if (line > 40 || line === 'L') {
 			(function(line) {
 				var petle = db[line],
 					nocna = line > 230,

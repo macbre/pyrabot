@@ -27,7 +27,7 @@ client.logIn(function(data) {
 		      			busLines = [];
 
 				lines.forEach(function(line) {
-					(line > 40 ? busLines : tramLines).push(line);
+					((line > 40 || line === 'L') ? busLines : tramLines).push(line);
 				});
 
 				console.log(page.title + ': ' + JSON.stringify({tram: tramLines, bus: busLines}));
@@ -39,6 +39,7 @@ client.logIn(function(data) {
 						replace(/\|tramwaje\s?\=(.*)\n/, '|tramwaje=' + tramLines.join(',') + "\n");
 
 					//console.log(content);
+					console.log(page.title + ' gotowa do edycji...');
 
 					// edytuj
 					client.edit(page.title, content, SUMMARY, function() {
