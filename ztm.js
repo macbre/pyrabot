@@ -88,7 +88,7 @@ for (l=1; l<30; l++) {
 lines.push('N21');
 
 // linie autobusowe (dzienne)
-for (l=40; l<100; l++) {
+for (l=40; l<=100; l++) {
 	lines.push(l);
 }
 
@@ -96,6 +96,9 @@ for (l=40; l<100; l++) {
 for (l=231; l<255; l++) {
 	lines.push(l);
 }
+
+// dodatkowe linie
+lines.push('L');
 
 lines.forEach(function(line) {
 	var url = {
