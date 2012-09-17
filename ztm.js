@@ -1,27 +1,9 @@
 /**
  * Skrypt generujący dane o przystankach końcowych oraz trasach linii tramwajowych i autobusowych
  */
-var http = require('http'),
-	fs = require('fs');
-
-// TODO: przenieść do klasy bota
-function getPage(url, callback) {
-	var page = '';
-
-	http.get(url, function(resp) {
-		resp.on("data", function(chunk) {
-			page += chunk;
-		});
-
-		resp.on('end', function() {
-			if (typeof callback === 'function') {
-				callback(page);
-			}
-		});
-	}).on('error', function(e) {
-		console.log(e);
-	});
-}
+var fs = require('fs'),
+	bot = require('../lib/bot').bot,
+	client = new bot('config.js');
 
 function parseTimetable(page, line) {
 	var matches = page.match(routeRegExp);
@@ -106,25 +88,25 @@ lines.forEach(function(line) {
 		path: '/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK'
 	};
 
-	getPage(url, function(page) {
+	client.fetchUrl(url).then(function(page) {
 		// pobierz rozkład jazdy -> trasa w obie strony
 		var timetableUrl = page.match(timetableRegExp),
 			timetableLastUrl = page.match(timetableLastRegExp);
 
 		if (timetableUrl) {
-			getPage({
+			client.fetchUrl({
 				host: '193.218.154.93',
 				path: '/dbServices/gtfs-ztm/' + timetableUrl[1]
-			}, function(page) {
+			}).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
 
 		if (timetableLastUrl) {
-			getPage({
+			client.fetchUrl({
 				host: '193.218.154.93',
 				path: '/dbServices/gtfs-ztm/' + timetableLastUrl[1]
-			}, function(page) {
+			}).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
