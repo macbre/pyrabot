@@ -26,7 +26,7 @@ function parseTimetable(page, line) {
 
 			// rozwiń skróty + małe poprawki
 			street = street.
-				replace("Al.", 'Aleja').
+			replace("Al.", 'Aleja').
 				replace(/[śŚ]w\./, 'Święty').
 				replace('ŚwiętyMarcin', 'Święty Marcin').
 				replace('Świety', 'Święty').
@@ -49,7 +49,7 @@ function parseTimetable(page, line) {
 			}
 		});
 
-		// katualizuj "bazę"
+		// aktualizuj "bazę"
 		fs.writeFileSync('db/ulice-ztm.json', JSON.stringify(ulice));
 	}
 }
@@ -83,10 +83,7 @@ for (l=231; l<255; l++) {
 lines.push('L');
 
 lines.forEach(function(line) {
-	var url = {
-		host: '193.218.154.93',
-		path: '/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK'
-	};
+	var url ='http://193.218.154.93/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK';
 
 	client.fetchUrl(url).then(function(page) {
 		// pobierz rozkład jazdy -> trasa w obie strony
@@ -94,19 +91,13 @@ lines.forEach(function(line) {
 			timetableLastUrl = page.match(timetableLastRegExp);
 
 		if (timetableUrl) {
-			client.fetchUrl({
-				host: '193.218.154.93',
-				path: '/dbServices/gtfs-ztm/' + timetableUrl[1]
-			}).then(function(page) {
+			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableUrl[1]).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
 
 		if (timetableLastUrl) {
-			client.fetchUrl({
-				host: '193.218.154.93',
-				path: '/dbServices/gtfs-ztm/' + timetableLastUrl[1]
-			}).then(function(page) {
+			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableLastUrl[1]).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
