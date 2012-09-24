@@ -20,10 +20,12 @@ client.logIn(function() {
 	IMAGES.forEach(function(image) {
 		var filename = STREET + ' ' + (cnt++) + '.jpg';
 
+		// dodaj zdjęcia
 		client.uploadByUrl(filename, image, 'Import ze strony 11ujec.blogspot.com', function(res) {
 			console.log('Upload ' + filename + ' zakończony');
 
 			// oznacz zdjęcia szablonem autora + kategoria
+			// TODO: The modification you tried to make was aborted by an extension hook
 			var content = '{{Szablon:Fotografie 11 ujęć}}\n\n[[Kategoria:' + STREET + ']]';
 			client.edit('Plik:' + filename, content, 'Oznaczanie zdjęć ze strony 11ujec.blogspot.com', function(res) {
 				console.log('Plik ' + filename + ' oznaczony');
@@ -47,5 +49,7 @@ client.logIn(function() {
 
 	wikitext = wikitext.join("\n");
 
+	console.log('');
 	console.log(wikitext);
+	console.log('');
 });

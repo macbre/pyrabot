@@ -37,13 +37,13 @@ function processImages(images) {
 				switch(meta.user) {
 					case 'Macbre':
 						if (meta.exif.Model === 'Canon EOS 450D') {
-							marker = '{{Szablon:Fotografie użytkownika Macbre}}';
+							marker = 'Fotografie użytkownika Macbre';
 						}
 						break;
 
 					case 'Porywacz zwlok':
 						//if (meta.exif.Model === 'Canon EOS 600D') {
-							marker = '{{Szablon:Fotografie 11 ujęć}}';
+							marker = 'Fotografie 11 ujęć';
 						//}
 						break;
 				}
@@ -58,7 +58,9 @@ function processImages(images) {
 						}
 
 						// dodaj szablon
-						content = (marker + "\n\n" + (content || '')).trim();
+						var template = '{{Szablon:' + marker + '}}';
+
+						content = (template + "\n\n" + (content || '')).trim();
 
 						console.log(image.title + ' oznaczam...');
 
