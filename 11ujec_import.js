@@ -4,12 +4,12 @@
 var bot = require('../lib/bot').bot,
 	client = new bot('config.js');
 
-var STREET = 'Ulica Inflancka',
-	URL = 'http://11ujec.blogspot.com/2012/09/ulica-inflancka.html',
+var STREET = 'Ulica Wiatraczna',
+	URL = 'http://11ujec.blogspot.com/2012/05/ulica-wiatraczna.html',
 	IMAGES = [
-		'http://4.bp.blogspot.com/-QMXJ8Q5_SQc/UF9u17ZVy0I/AAAAAAAANxI/nIqck2_-PvM/s1600/IMG_0447.jpg',
-		'http://3.bp.blogspot.com/-shiPSjV9NmE/UF9u3IkTxFI/AAAAAAAANxM/NMe0bWMPM60/s1600/IMG_0450.jpg',
-		'http://2.bp.blogspot.com/-BMtStFWTNlQ/UF9u9gnDVnI/AAAAAAAANyA/TsJEKT5Xpfg/s1600/IMG_0466.jpg'
+		'http://4.bp.blogspot.com/-Rj-7oQJD9Ds/T6aZNqgLYqI/AAAAAAAAJr8/mOBtpyV_8AY/s1600/IMG_6217.jpg',
+		'http://4.bp.blogspot.com/-HojAtiJj9K0/T6aZVHmrNAI/AAAAAAAAJsk/FygBisOitFk/s1600/IMG_6224.jpg',
+		'http://1.bp.blogspot.com/-qDe_G9CWifA/T6aZYBmv8EI/AAAAAAAAJs0/nvDrJfDf4bI/s1600/IMG_6227.jpg'
 	];
 
 client.logIn(function() {
@@ -21,13 +21,12 @@ client.logIn(function() {
 		var filename = STREET + ' ' + (cnt++) + '.jpg';
 
 		// dodaj zdjęcia
-		client.uploadByUrl(filename, image, 'Import ze strony 11ujec.blogspot.com', function(res) {
+		client.uploadByUrl(filename, image, 'Import zdjęć ze strony 11ujec.blogspot.com', function(res) {
 			console.log('Upload ' + filename + ' zakończony');
-
+			
 			// oznacz zdjęcia szablonem autora + kategoria
-			// TODO: The modification you tried to make was aborted by an extension hook
-			var content = '{{Szablon:Fotografie 11 ujęć}}\n\n[[Kategoria:' + STREET + ']]';
-			client.edit('Plik:' + filename, content, 'Oznaczanie zdjęć ze strony 11ujec.blogspot.com', function(res) {
+			var content = '{{Fotografie 11 ujęć}}\n\n[[Kategoria:' + STREET + ']]';
+			client.edit('Plik:' + filename, content, 'Oznaczanie zdjęć ze strony 11ujec', function(res) {
 				console.log('Plik ' + filename + ' oznaczony');
 			});
 		});
