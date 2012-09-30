@@ -6,11 +6,19 @@ var fs = require('fs'),
 	client = new bot('config.js');
 
 // konfiguracja
+/**
 var CATEGORY = 'Linie tramwajowe',
     	REGEXP = /29\dpx\]\]/,
 	REPLACEMENT = '300px]]',
 	SUMMARY = 'Korekta rozmiaru zdjęć w infoboxach';
-// konfiguracja
+**/
+var wiek = 'XIV';
+
+var CATEGORY = 'Wiek ' + wiek,
+    	REGEXP = '[[Kategoria:Wiek ' + wiek +']]',
+	REPLACEMENT = '[[Kategoria:' + wiek + ' wiek]]',
+	SUMMARY = 'Unifikacja nazewnictwa kategorii ze stuleciami (' + wiek + ' wiek)';
+// konfiguracja - koniec
 
 client.logIn(function() {
 	client.getPagesInCategory(CATEGORY, function(pages) {
@@ -18,16 +26,24 @@ client.logIn(function() {
 			console.log('Sprawdzam ' + page.title + '...');
 
 			client.getArticle(page.title, function(content) {
-				if (!REGEXP.test(content)) {
-					console.log(page.title + ' - pomijam');
-					return;
+				if (typeof REGEXP === 'string') {
+					if (content.indexOf(REPLACEMENT) > -1) {
+						console.log(page.title + ' - pomijam');
+						return;
+					}
+				}
+				else {
+					if (!REGEXP.test(content)) {
+						console.log(page.title + ' - pomijam');
+						return;
+					}
 				}
 
 				// dokonaj zmiany
 				content = content.replace(REGEXP, REPLACEMENT);
 
 				console.log(page.title + ':');
-				console.log(content.substr(0,250) + '...');
+				console.log(content.substr(0,750) + '...');
 
 				// zapisz zmianę
 				client.edit(page.title, content, SUMMARY, function() {

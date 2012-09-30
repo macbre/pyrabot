@@ -48,7 +48,7 @@ client.logIn(function(data) {
 
 			// kategorie
 			if (kosciol.wiek) {
-				content += "\n[[Kategoria:Wiek " + kosciol.wiek + "]]";
+				content += "\n[[Kategoria:" + kosciol.wiek + " wiek]]";
 			}
 
 			console.log(content);
