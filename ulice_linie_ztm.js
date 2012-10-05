@@ -17,8 +17,9 @@ client.logIn(function(data) {
 			// sprawdź bazę ulic
 			var lines;
 			for (var street in db) {
-				if (page.title.indexOf(street) > 0) {
+				if (page.title.indexOf(street) > -1) {
 					lines = db[street];
+					break;
 				}
 			}
 

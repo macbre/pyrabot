@@ -37,6 +37,10 @@ function parseTimetable(page, line) {
 				street = '28 Czerwca 1956 r.';
 			}
 
+			if (street === '') {
+				return;
+			}
+
 			ulice[street] = ulice[street] || [];
 
 			if (ulice[street].indexOf(line) === -1) {
