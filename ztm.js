@@ -32,7 +32,7 @@ function parseTimetable(page, line) {
 				replace('Świety', 'Święty').
 				replace('Piasnicka', 'Piaśnicka').
 				replace('Os. ', 'Osiedle ');
-
+		
 			if (street.indexOf('28 Czerwca') === 0) {
 				street = '28 Czerwca 1956 r.';
 			}
@@ -121,6 +121,7 @@ lines.forEach(function(line) {
 				replace("Os. sobieskiego", "Osiedle Jana III Sobieskiego").
 				replace(/pl\. /i, "Plac ").
 				replace(/os\. /i, "Osiedle ").
+				replace('Os.wichrowe', 'Osiedle Wichrowe').
 				replace("os.", "Osiedle ").
 				// os. batorego ii -> os. batorego II
 				replace(/\si+$/g, function(match) {
