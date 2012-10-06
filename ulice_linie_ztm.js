@@ -7,12 +7,10 @@ var SUMMARY = 'Aktualizacja danych o liniach ZTM';
 var db = JSON.parse(fs.readFileSync('db/ulice-ztm.json'));
 
 client.logIn(function(data) {
+	// aktualizuj infoboxy
 	client.getPagesInCategory('Ulice', function(pages) {
 		pages && pages.forEach(function(page) {
-			// ignore pages outside main namespace
-			if (page.ns != 0) {
-				return;
-			}
+			if (page.ns != 0) return;
 
 			// sprawdź bazę ulic
 			var lines;
@@ -40,7 +38,7 @@ client.logIn(function(data) {
 						replace(/\|tramwaje\s?\=(.*)\n/, '|tramwaje=' + tramLines.join(',') + "\n");
 
 					//console.log(content);
-					console.log(page.title + ' gotowa do edycji...');
+					console.log(page.title + ' gotowa do aktualizacji...');
 
 					// edytuj
 					client.edit(page.title, content, SUMMARY, function() {
@@ -50,4 +48,38 @@ client.logIn(function(data) {
 			}
 		});
 	});
+	
+	client.getPagesInCategory('Ulice z transportem publicznym', function(pages) {
+		pages && pages.forEach(function(page) {
+			if (page.ns != 0) return;
+
+			// sprawdź bazę ulic
+			var found = false;
+			for (var street in db) {
+				if (page.title.indexOf(street) > -1) {
+					found = true;
+					break;
+				}
+			}
+
+			if (found) return;
+
+			console.log(page.title + ': brak danych');
+
+			client.getArticle(page.title, function(content) {
+				// wstaw nowe dane
+				content = content.
+					replace(/\|autobusy\s?\=(.*)\n/, '|autobusy=' + "\n").
+					replace(/\|tramwaje\s?\=(.*)\n/, '|tramwaje=' + "\n");
+
+				//console.log(content);
+				console.log(page.title + ' gotowa do usunięcia danych o liniach ZTM...');
+
+				// edytuj
+				client.edit(page.title, content, SUMMARY + ' (usunięcie danych)', function() {
+					console.log(page.title + ' done!');
+				});
+			});
+		});
+	});	
 });
