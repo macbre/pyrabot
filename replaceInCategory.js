@@ -11,15 +11,25 @@ var CATEGORY = 'Linie tramwajowe',
     	REGEXP = /29\dpx\]\]/,
 	REPLACEMENT = '300px]]',
 	SUMMARY = 'Korekta rozmiaru zdjęć w infoboxach';
-**/
+**
 var wiek = 'XIV';
 
 var CATEGORY = 'Wiek ' + wiek,
     	REGEXP = '[[Kategoria:Wiek ' + wiek +']]',
 	REPLACEMENT = '[[Kategoria:' + wiek + ' wiek]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii ze stuleciami (' + wiek + ' wiek)';
+**/
+/**
+var CATEGORY = 'Poznańskie Autobusy',
+	REGEXP = '[[Kategoria:Poznańskie Autobusy]]',
+	REPLACEMENT = '[[Kategoria:Transport publiczny]]\n[[Kategoria:Autobus]]\n[[Kategoria:Tabor]]',
+	SUMMARY = 'Unifikacja nazewnictwa kategorii';
+/**/
+var CATEGORY = 'Osoby',
+	REGEXP = / \(ur\.[^\)]+zm\.[^\)]+\) /,
+	REPLACEMENT = ' ',
+	SUMMARY = 'Przeniesienie danych biograficznych do infoboxa';
 // konfiguracja - koniec
-
 client.logIn(function() {
 	client.getPagesInCategory(CATEGORY, function(pages) {
 		pages.forEach(function(page) {
@@ -44,6 +54,8 @@ client.logIn(function() {
 
 				console.log(page.title + ':');
 				console.log(content.substr(0,750) + '...');
+
+				// return; // !!!!!!!!
 
 				// zapisz zmianę
 				client.edit(page.title, content, SUMMARY, function() {
