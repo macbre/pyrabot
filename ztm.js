@@ -87,7 +87,7 @@ for (l=231; l<255; l++) {
 lines.push('L');
 
 lines.forEach(function(line) {
-	var url ='http://193.218.154.93/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK';
+	var url ='http://193.218.154.93/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK&dbname=gtfs';
 
 	client.fetchUrl(url).then(function(page) {
 		// pobierz rozkład jazdy -> trasa w obie strony
@@ -95,13 +95,13 @@ lines.forEach(function(line) {
 			timetableLastUrl = page.match(timetableLastRegExp);
 
 		if (timetableUrl) {
-			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableUrl[1]).then(function(page) {
+			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableUrl[1] + '&dbname=gtfs').then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
 
 		if (timetableLastUrl) {
-			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableLastUrl[1]).then(function(page) {
+			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableLastUrl[1] + '&dbname=gtfs').then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
