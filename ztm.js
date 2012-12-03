@@ -112,6 +112,9 @@ lines.forEach(function(line) {
 		matches.forEach(function(match) {
 			var stop = match.substr(1, match.length - 15).trim();
 
+			// strefy taryfowe
+			stop = stop.replace('(B)', '');
+
 			// ucfirst()
 			stop = stop[0] + stop.substring(1).toLowerCase();
 
