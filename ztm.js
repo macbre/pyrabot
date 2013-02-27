@@ -89,6 +89,9 @@ lines.push('L');
 lines.forEach(function(line) {
 	var url ='http://193.218.154.93/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK';
 
+	// nowe wersje rozkładu (przed zmianami tras)
+	url += '&dbname=gtfs';
+
 	client.fetchUrl(url).then(function(page) {
 		// pobierz rozkład jazdy -> trasa w obie strony
 		var timetableUrl = page.match(timetableRegExp),
