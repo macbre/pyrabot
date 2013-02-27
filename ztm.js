@@ -54,16 +54,35 @@ function parseTimetable(page, line) {
 		});
 
 		// aktualizuj "bazę"
-		fs.writeFileSync('db/ulice-ztm.json', JSON.stringify(ulice));
+		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(ulice));
 	}
+
+	// TODO: przystanki na trasie
+
+	// czas przejazdu
+	matches = page.match(czasPrzejazduRegExp);
+
+	if (matches) {
+		var czas = matches.pop().substr(4);
+		czas = parseInt(czas, 10);
+
+		if (czas > 0) {
+			linie[line].czas = czas;
+			console.log('#' + line + ': ' + czas + ' min');
+		}
+	}
+
+	// aktualizuj "bazę"
+	fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie));
 }
 
-var petle = {},
+var linie = {},
  	ulice = {},
 	timetableRegExp = /<a href='(timetable.html[^']+)'>/,
 	timetableLastRegExp = /\<a href='(timetable.html.php[^']+)'>[^>]+<\/a><\/li><\/ul><\/div>/,
 	routeRegExp = /<div id='descriptions'><p>([^<]+)/,
-	petleRegExp = />([^<]+)<\/a><\/li><\/ul>/g;
+	petleRegExp = />([^<]+)<\/a><\/li><\/ul>/g,
+	czasPrzejazduRegExp = /><b>\d+<\/b>/g;
 
 var l, lines = [];
 
@@ -96,6 +115,13 @@ lines.forEach(function(line) {
 		// pobierz rozkład jazdy -> trasa w obie strony
 		var timetableUrl = page.match(timetableRegExp),
 			timetableLastUrl = page.match(timetableLastRegExp);
+		
+		// przygotuj dane linii
+		linie[line] = {
+			petle: [],
+			przystanki: [],
+			czas: false
+		};
 
 		if (timetableUrl) {
 			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableUrl[1]).then(function(page) {
@@ -139,14 +165,13 @@ lines.forEach(function(line) {
 				return match.toUpperCase()
 			});
 
-			// dodaj pętle do danych linii
-			petle[line] = petle[line] || [];
-			petle[line].push(stop);
+			// końcówki
+			linie[line].petle.push(stop);
 
 			console.log('#' + line + ': ' + stop);
 		});
 		
-		// katualizuj "bazę"
-		fs.writeFileSync('db/petle.json', JSON.stringify(petle));
+		// aktualizuj "bazę"
+		fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie));
 	});
 });

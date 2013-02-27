@@ -2,16 +2,16 @@ var fs = require('fs'),
 	bot = require('../lib/bot').bot,
 	client = new bot('config.js');
 
-var SUMMARY = 'Zaktualizowano dane o przystankach końcowych';
+var SUMMARY = 'Zaktualizowano dane o liniach ZTM';
 
 // odczytaj bazę pętli
-var db = JSON.parse(fs.readFileSync('db/petle.json'));
+var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
 
 function updateLine(pageTitle) {
 	var page = {title: pageTitle};
 
 	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
-		stops = db[line];
+		stops = db[line] && db[line].petle;
 
 	console.log("\n" + page.title + ' (#' + line + ')');
 
@@ -40,6 +40,8 @@ function updateLine(pageTitle) {
 			console.log('\n\n> ' + page.title + ' zaktualizowana!');
 		});
 	});
+
+	// TODO: aktualizuj czas przejazdu
 }
 
 client.logIn(function() {

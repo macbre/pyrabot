@@ -4,7 +4,7 @@ var fs = require('fs'),
 
 var SUMMARY = 'Aktualizacja danych o liniach ZTM';
 
-var db = JSON.parse(fs.readFileSync('db/ulice-ztm.json'));
+var db = JSON.parse(fs.readFileSync('db/ztm-ulice.json'));
 
 client.logIn(function(data) {
 	// aktualizuj infoboxy
