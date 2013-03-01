@@ -12,7 +12,8 @@ function updateLine(pageTitle) {
 
 	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
 		stops = db[line] && db[line].petle,
-		czas = db[line] && db[line].czas;
+		czas = db[line] && db[line].czas,
+		przystanki = db[line] && db[line].przystanki;
 
 	console.log("\n" + page.title + ' (#' + line + ')');
 
@@ -28,6 +29,7 @@ function updateLine(pageTitle) {
 
 	console.log(stops);
 	console.log('Czas: ' + czas);
+	console.log('Przystanków: ' + przystanki);
 
 	client.getArticle(page.title, function(content) {
 		// aktualizuj infobox
@@ -41,6 +43,15 @@ function updateLine(pageTitle) {
 			}
 
 			content = content.replace(/\|przejazd\s?=[^|]+/, "|przejazd=" + czas + "\n");
+		}
+
+		if (przystanki > 0) {
+			// dodaj parametr do wukitekstu
+			if (content.indexOf('|przystanki') < 0) {
+				content = content.replace(/\|dlugosc=/, '|przystanki=\n|dlugosc=');
+			}
+
+			content = content.replace(/\|przystanki\s?=[^|]+/, "|przystanki=" + przystanki + "\n");
 		}
 
 		//console.log('\n\n================================\n' + page.title + '\n================================');
