@@ -57,18 +57,20 @@ function parseTimetable(page, line) {
 		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(ulice));
 	}
 
-	// TODO: przystanki na trasie
+	// przystanki na trasie
+	var stops = page.match(czasPrzejazduRegExp);
 
-	// czas przejazdu
-	matches = page.match(czasPrzejazduRegExp);
+	if (stops) {
+		// liczba przystanków
+		linie[line].przystanki = stops.length + 1 /* przystanek początkowy */;
 
-	if (matches) {
-		var czas = matches.pop().substr(4);
+		// czas przejazdu
+		var czas = stops.pop().substr(4);
 		czas = parseInt(czas, 10);
 
 		if (czas > 0) {
 			linie[line].czas = czas;
-			console.log('#' + line + ': ' + czas + ' min');
+			console.log('#' + line + ': ' + czas + ' min / ' + (stops.length + 1) + ' przystanków');
 		}
 	}
 
@@ -119,7 +121,7 @@ lines.forEach(function(line) {
 		// przygotuj dane linii
 		linie[line] = {
 			petle: [],
-			przystanki: [],
+			przystanki: false,
 			czas: false
 		};
 
