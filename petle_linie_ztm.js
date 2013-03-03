@@ -2,7 +2,7 @@ var fs = require('fs'),
 	bot = require('../lib/bot').bot,
 	client = new bot('config.js');
 
-var SUMMARY = 'Zaktualizowano dane o liniach ZTM';
+var SUMMARY = 'Zaktualizowano dane o liniach ZTM (strefy taryfowe)';
 
 // odczytaj bazę pętli
 var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
@@ -13,8 +13,9 @@ function updateLine(pageTitle) {
 	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
 		stops = db[line] && db[line].petle,
 		czas = db[line] && db[line].czas,
-		przystanki = db[line] && db[line].przystanki;
-
+		przystanki = db[line] && db[line].przystanki,
+		strefy = db[line] && db[line].strefy.join(', ');
+ 
 	console.log("\n" + page.title + ' (#' + line + ')');
 
 	if (typeof stops === 'undefined' || stops.length === 0) {
@@ -27,9 +28,11 @@ function updateLine(pageTitle) {
 		stops[1] = stops[0];
 	}
 
+	console.log(JSON.stringify(db[line]));
 	console.log(stops);
 	console.log('Czas: ' + czas);
 	console.log('Przystanków: ' + przystanki);
+	console.log('Strefy: ' + strefy);
 
 	client.getArticle(page.title, function(content) {
 		// aktualizuj infobox
@@ -54,6 +57,16 @@ function updateLine(pageTitle) {
 			content = content.replace(/\|przystanki\s?=[^|]+/, "|przystanki=" + przystanki + "\n");
 		}
 
+		if (strefy) {
+			// dodaj parametr do wukitekstu
+			if (content.indexOf('|strefy') < 0) {
+				content = content.replace(/\|dlugosc=/, '|strefy=\n|dlugosc=');
+			}
+
+			content = content.replace(/\|strefy\s?=[^|]+/, "|strefy=" + strefy + "\n");
+		}
+
+
 		//console.log('\n\n================================\n' + page.title + '\n================================');
 		//console.log(content); return;
 	
@@ -62,11 +75,10 @@ function updateLine(pageTitle) {
 			console.log('\n\n> ' + page.title + ' zaktualizowana!');
 		});
 	});
-
-	// TODO: aktualizuj czas przejazdu
 }
 
 client.logIn(function() {
+	/**
 	client.getPagesByPrefix('Linia tramwajowa nr', function(pages) {
 		pages && pages.forEach(function(page) {
 			if (page.ns != 0) {
@@ -76,7 +88,7 @@ client.logIn(function() {
 			updateLine(page.title);
 		});
 	});
-
+	**/
 	client.getPagesByPrefix('Linia autobusowa nr', function(pages) {
 		pages && pages.forEach(function(page) {
 			if (page.ns != 0) {

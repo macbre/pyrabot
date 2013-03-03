@@ -84,7 +84,8 @@ var linie = {},
 	timetableLastRegExp = /\<a href='(timetable.html.php[^']+)'>[^>]+<\/a><\/li><\/ul><\/div>/,
 	routeRegExp = /<div id='descriptions'><p>([^<]+)/,
 	petleRegExp = />([^<]+)<\/a><\/li><\/ul>/g,
-	czasPrzejazduRegExp = /><b>\d+<\/b>/g;
+	czasPrzejazduRegExp = /><b>\d+<\/b>/g,
+	strefyRegExp = /<li class=\Szone(\S)/g;
 
 var l, lines = [];
 
@@ -101,6 +102,20 @@ for (l=40; l<=100; l++) {
 
 // linie autobusowe (nocne)
 for (l=231; l<255; l++) {
+	lines.push(l);
+}
+
+// komunikacja podmiejska
+lines.push(527);
+for (l=601; l<620; l++) {
+	lines.push(l);
+}
+lines.push(651);
+lines.push(691);
+for (l=701; l<720; l++) {
+	lines.push(l);
+}
+for (l=901; l<920; l++) {
 	lines.push(l);
 }
 
@@ -121,6 +136,7 @@ lines.forEach(function(line) {
 		// przygotuj dane linii
 		linie[line] = {
 			petle: [],
+			strefy: [],
 			przystanki: false,
 			czas: false
 		};
@@ -169,9 +185,21 @@ lines.forEach(function(line) {
 
 			// końcówki
 			linie[line].petle.push(stop);
-
-			console.log('#' + line + ': ' + stop);
 		});
+
+		// parsuj strefy taryfowe
+		matches = page.match(strefyRegExp) || [];
+
+		matches.forEach(function(match) {
+			var strefa = match.substr(-1).toUpperCase();
+
+			if (linie[line].strefy.indexOf(strefa) === -1) {
+				linie[line].strefy.push(strefa);
+				linie[line].strefy = linie[line].strefy.sort();
+			}
+		});
+
+		console.log('#' + line + ': ' + JSON.stringify(linie[line]));
 		
 		// aktualizuj "bazę"
 		fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie));
