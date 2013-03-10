@@ -7,7 +7,7 @@ var fs = require('fs'),
 
 var SUMMARY = 'Automatyczne tworzenie stron o liniach autobusowych';
 
-var db = JSON.parse(fs.readFileSync('db/petle.json'));
+var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
 
 client.logIn(function(data) {
 
@@ -15,9 +15,14 @@ client.logIn(function(data) {
 		// tylko linie autobusowe
 		if (line > 40 || line === 'L') {
 			(function(line) {
-				var petle = db[line],
-					nocna = line > 230,
+				var data = db[line],
+					petle = data.petle || [],
+					nocna = line > 230 && line < 300,
 					title = 'Linia autobusowa nr ' + line;
+
+				if (petle.length === 0) {
+					return;
+				}
 
 				if (petle.length == 1) {
 					petle[1] = petle[0];
@@ -42,6 +47,9 @@ client.logIn(function(data) {
 |foto=\n\
 |pętla1=" + petle[0] + "\n\
 |pętla2=" + petle[1] + "\n\
+|przejazd=" + data.czas + "\n\
+|przystanki=" + data.przystanki + "\n\
+|strefy=" + data.strefy.join(", ") + "\n\
 |dlugosc=\n\
 |uruchomiona=\n\
 |zlikwidowana=\n\
