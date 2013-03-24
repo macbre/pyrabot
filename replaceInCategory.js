@@ -1,12 +1,11 @@
 /**
  * Skrypt dokonujący zamiany tekstu w artykułach podanej kategorii
  */
-var fs = require('fs'),
-	bot = require('../lib/bot').bot,
+var bot = require('../lib/bot').bot,
 	client = new bot('config.js');
 
 // konfiguracja
-/**/
+/**
 var CATEGORY = 'Linie tramwajowe',
     	REGEXP = /(foto=\[\[Plik:[^\|]+)\|thumb/,
 	REPLACEMENT = '$1',
@@ -34,17 +33,26 @@ var CATEGORY = 'Osoby',
 	REGEXP = / \(ur\.[^\)]+zm\.[^\)]+\) /,
 	REPLACEMENT = ' ',
 	SUMMARY = 'Przeniesienie danych biograficznych do infoboxa';
-*/
+*
 var CATEGORY = 'Kalendarium',
 	REGEXP = /<(span|p)[^>]+>|<\/span>|<\/p>/g,
 	REPLACEMENT = '',
 	SUMMARY = 'Oczyszczanie wikitekstu';
+**/
+var CATEGORY = 'Kalendarium',
+	REGEXP = /^(''')?W roku (.*) w Poznaniu:(''')?/g,
+	REPLACEMENT = '{{Kalendarium}}',
+	REMOVE = '[[Kategoria:Kalendarium]]',
+	SUMMARY = 'Dodaję nagłówek stron kalendarium';
 // konfiguracja - koniec
 
 client.logIn(function() {
+	var cnt = 0;
+
 	client.getPagesInCategory(CATEGORY, function(pages) {
 		pages.forEach(function(page) {
-			console.log('Sprawdzam ' + page.title + '...');
+			cnt++;
+			console.log(cnt + ') sprawdzam ' + page.title + '...');
 
 			client.getArticle(page.title, function(content) {
 				if (typeof REGEXP === 'string') {
@@ -67,6 +75,9 @@ client.logIn(function() {
 
 				// dokonaj zmiany
 				content = content.replace(REGEXP, REPLACEMENT);
+				if (typeof REMOVE !== 'undefined') {
+					content = content.replace(REMOVE, '').trim();
+				}
 
 				console.log(content.substr(0,750) + '...');
 
