@@ -35,6 +35,10 @@ var CATEGORY = 'Osoby',
 	REPLACEMENT = ' ',
 	SUMMARY = 'Przeniesienie danych biograficznych do infoboxa';
 */
+var CATEGORY = 'Kalendarium',
+	REGEXP = /<(span|p)[^>]+>|<\/span>|<\/p>/g,
+	REPLACEMENT = '',
+	SUMMARY = 'Oczyszczanie wikitekstu';
 // konfiguracja - koniec
 
 client.logIn(function() {
@@ -56,10 +60,14 @@ client.logIn(function() {
 					}
 				}
 
+				console.log("\n\n");
+				console.log(page.title + ':');
+				console.log(content.substr(0,750) + '...');
+				console.log('---');
+
 				// dokonaj zmiany
 				content = content.replace(REGEXP, REPLACEMENT);
 
-				console.log(page.title + ':');
 				console.log(content.substr(0,750) + '...');
 
 				//return; // !!!!!!!!
