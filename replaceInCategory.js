@@ -40,10 +40,16 @@ var CATEGORY = 'Kalendarium',
 	SUMMARY = 'Oczyszczanie wikitekstu';
 **/
 var CATEGORY = 'Kalendarium',
-	REGEXP = /^(''')?W roku (.*) w Poznaniu:(''')?/g,
+	REGEXP = /(''')?W roku [^\n]+ w Poznaniu:(''')?/g,
 	REPLACEMENT = '{{Kalendarium}}',
 	REMOVE = '[[Kategoria:Kalendarium]]',
 	SUMMARY = 'Dodaję nagłówek stron kalendarium';
+/**
+var CATEGORY = 'Kalendarium',
+	REGEXP = '[[Kategoria:Wydarzenia]]',
+	REPLACEMENT = '',
+	SUMMARY = 'Kalendarium - porządki w kategoriach';
+/**/
 // konfiguracja - koniec
 
 client.logIn(function() {
@@ -56,7 +62,7 @@ client.logIn(function() {
 
 			client.getArticle(page.title, function(content) {
 				if (typeof REGEXP === 'string') {
-					if (content.indexOf(REPLACEMENT) > -1) {
+					if (REPLACEMENT !== '' && content.indexOf(REPLACEMENT) > -1) {
 						console.log(page.title + ' - pomijam');
 						return;
 					}

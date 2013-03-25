@@ -1,7 +1,6 @@
-var fs = require('fs');
-var bot = require('../lib/bot').bot;
-
-var client = new bot('config.js');
+var fs = require('fs'),
+    bot = require('nodemw'),
+    client = new bot('config.js');
 
 var fromRegExp = /<part><name>zbudowana\s*<\/name>=<value>([^>]+)<\/value>/,
     toRegExp = /<part><name>zburzona\s*<\/name>=<value>([^>]+)<\/value>/;

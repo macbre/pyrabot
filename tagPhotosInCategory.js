@@ -5,10 +5,11 @@
 var bot = require('../lib/bot').bot,
 	client = new bot('config.js');
 
-var CATEGORY = 'Tabor',
+var CATEGORY = 'Linie autobusowe',
     	CATEGORIES = [
 		'Transport publiczny',
 		'Tabor',
+		'Autobus',
 		'%ARTICLENAME%'
 	],
     	SUMMARY = 'Kategoryzowanie zdjęć umieszczonych w artykułach w kategorii ' + CATEGORY;

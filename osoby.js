@@ -1,5 +1,5 @@
 var fs = require('fs'),
-	bot = require('../lib/bot').bot,
+	bot = require('nodemw'),
 	client = new bot('config.js');
 
 var persons = [];

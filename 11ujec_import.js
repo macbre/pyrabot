@@ -4,16 +4,16 @@
 var bot = require('../lib/bot').bot,
 	client = new bot('config.js');
 
-var STREET = 'Ulica Rzeczańska',
-	URL = 'http://11ujec.blogspot.com/2012/05/ulica-rzeczanska.html',
+var STREET = 'Ulica Masztalarska',
+	URL = 'http://11ujec.blogspot.com/2012/02/ulica-masztalarska.html',
 	IMAGES = [
-		'http://3.bp.blogspot.com/-9MHvoWj0j1I/T7FQsH_0UZI/AAAAAAAAJ7c/zmN5_u8yBqk/s1600/IMG_6295.jpg',
-		'http://2.bp.blogspot.com/-HROHvjjn1es/T7FQjP_5d0I/AAAAAAAAJ6k/lssq8o76enE/s1600/IMG_6286.jpg',
-		'http://3.bp.blogspot.com/-TnPJn-_5jrg/T7FQwixBiLI/AAAAAAAAJ70/G_NSG5HdJN4/s1600/IMG_6310.jpg'
+		'http://2.bp.blogspot.com/-hwxYUudU8xk/Ty2dOs14yRI/AAAAAAAAHck/r_yjk0uVquo/s1600/IMG_8540.jpg',
+		'http://1.bp.blogspot.com/-ocTwlZzD3iY/Ty2dSme4sgI/AAAAAAAAHdA/fcmZ0vJqyoo/s1600/IMG_8548.jpg',
+		'http://2.bp.blogspot.com/-f1tchrb_0z0/Ty2dWYwpxtI/AAAAAAAAHdY/Zp2hH_VceCk/s1600/IMG_8554.jpg',
 	],
 	CATEGORIES = [
 		STREET,
-		'Żegrze'
+		//'Śródka'
 	];
 
 client.logIn(function() {
