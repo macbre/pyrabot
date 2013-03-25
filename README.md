@@ -6,14 +6,13 @@ Skrypty [bota](http://poznan.wikia.com/wiki/Użytkownik:Pyrabot) używanego na [
 ## Wymagania
 
 * nodejs
-* [nodemw](https://github.com/macbre/nodemw) - bot MW oparty o nodejs
+* [nodemw](https://github.com/macbre/nodemw) - bot / klient API MediaWiki oparty o nodejs
 
 ## Instalacja
 
 ```bash
-git clone https://github.com/macbre/nodemw
-cd nodemw
 git clone https://github.com/macbre/pyrabot
+npm install
 ```
 
 ## Skrypty
