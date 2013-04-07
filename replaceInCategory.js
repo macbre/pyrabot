@@ -1,7 +1,7 @@
 /**
  * Skrypt dokonujący zamiany tekstu w artykułach podanej kategorii
  */
-var bot = require('../lib/bot').bot,
+var bot = require('nodemw'),
 	client = new bot('config.js');
 
 // konfiguracja
@@ -33,12 +33,12 @@ var CATEGORY = 'Osoby',
 	REGEXP = / \(ur\.[^\)]+zm\.[^\)]+\) /,
 	REPLACEMENT = ' ',
 	SUMMARY = 'Przeniesienie danych biograficznych do infoboxa';
-*
-var CATEGORY = 'Kalendarium',
+**/
+var CATEGORY = 'Inicjatywy obywatelskie',
 	REGEXP = /<(span|p)[^>]+>|<\/span>|<\/p>/g,
 	REPLACEMENT = '',
 	SUMMARY = 'Oczyszczanie wikitekstu';
-**/
+/**
 var CATEGORY = 'Kalendarium',
 	REGEXP = /(''')?W roku [^\n]+ w Poznaniu:(''')?/g,
 	REPLACEMENT = '{{Kalendarium}}',
@@ -49,7 +49,13 @@ var CATEGORY = 'Kalendarium',
 	REGEXP = '[[Kategoria:Wydarzenia]]',
 	REPLACEMENT = '',
 	SUMMARY = 'Kalendarium - porządki w kategoriach';
-/**/
+/**
+// [http://pl.wikipedia.org/wiki/Genesis_(grupa_muzyczna) Genesis] -> [[wikipedia:pl:Genesis_(grupa_muzyczna)|Genesis]]
+var CATEGORY = 'Kalendarium',
+	REGEXP = /\[http:\/\/pl.wikipedia.org\/wiki\/([^\s]+) ([^\]]+)\]/g,
+	REPLACEMENT = '[[wikipedia:pl:$1|$2]]',
+	SUMMARY = 'Interwiki do Wikipedii';
+**/
 // konfiguracja - koniec
 
 client.logIn(function() {

@@ -1,14 +1,14 @@
 /**
  * Skrypt importujący wybrane zdjęcia ze strony 11ujec.blogspot.com
  */
-var bot = require('../lib/bot').bot,
+var bot = require('nodemw'),
 	client = new bot('config.js'),
 	commons = new bot({
 		server: 'commons.wikimedia.org',
 		path: '/w'
 	}),
 
-	IMAGE = 'File:MPK_Poznań_Tramwaj.Konstal_102Na_Tram_nr_40,_Linia_1,_Poznan_May_1991_-_Flickr_-_sludgegulper.jpg';
+	IMAGE = 'File:Poznań, Galeria MM - fotopolska.eu (272239).jpg';
 
 client.logIn(function() {
 	// pobierz URL do "pełnej" wersji obrazka

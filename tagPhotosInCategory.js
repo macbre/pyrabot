@@ -2,15 +2,14 @@
  * Skrypt kategoryzujący zdjęcia umieszczone w artykułach w podanej kategorii
  */
 
-var bot = require('../lib/bot').bot,
+var bot = require('nodemw'),
 	client = new bot('config.js');
 
-var CATEGORY = 'Linie autobusowe',
+var CATEGORY = 'Muzeum Uzbrojenia',
     	CATEGORIES = [
-		'Transport publiczny',
-		'Tabor',
-		'Autobus',
-		'%ARTICLENAME%'
+		'Muzeum Uzbrojenia',
+		'Cytadela'
+		//'%ARTICLENAME%'
 	],
     	SUMMARY = 'Kategoryzowanie zdjęć umieszczonych w artykułach w kategorii ' + CATEGORY;
 
