@@ -1,15 +1,15 @@
 /**
  * Skrypt importujący wybrane zdjęcia ze strony 11ujec.blogspot.com
  */
-var bot = require('../lib/bot').bot,
+var bot = require('nodemw'),
 	client = new bot('config.js');
 
-var STREET = 'Ulica Masztalarska',
-	URL = 'http://11ujec.blogspot.com/2012/02/ulica-masztalarska.html',
+var STREET = 'Ulica Gołębia',
+	URL = 'http://11ujec.blogspot.com/2012/02/ulica-goebia.html',
 	IMAGES = [
-		'http://2.bp.blogspot.com/-hwxYUudU8xk/Ty2dOs14yRI/AAAAAAAAHck/r_yjk0uVquo/s1600/IMG_8540.jpg',
-		'http://1.bp.blogspot.com/-ocTwlZzD3iY/Ty2dSme4sgI/AAAAAAAAHdA/fcmZ0vJqyoo/s1600/IMG_8548.jpg',
-		'http://2.bp.blogspot.com/-f1tchrb_0z0/Ty2dWYwpxtI/AAAAAAAAHdY/Zp2hH_VceCk/s1600/IMG_8554.jpg',
+		'http://4.bp.blogspot.com/-PWM-0BtCN50/T0aaD60jHCI/AAAAAAAAHws/q2YD1hWZREU/s1600/IMG_0974.jpg',
+		'http://4.bp.blogspot.com/-KpdbhvYQAM0/T0aaNnAALaI/AAAAAAAAHxk/QT68mVzo9Go/s1600/IMG_0982.jpg',
+		'http://3.bp.blogspot.com/-PdXji6zYNE8/T0aaFR5NG6I/AAAAAAAAHw0/I6ejpeCqltE/s1600/IMG_0975.jpg',
 	],
 	CATEGORIES = [
 		STREET,
