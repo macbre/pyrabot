@@ -1,9 +1,11 @@
 /**
  * Skrypt kategoryzujący zdjęcia opublikowane przez poszczególnych użytkowników
  */
-var bot = require('../lib/bot').bot,
+var bot = require('nodemw'),
 	client = new bot('config.js'),
 	images = [];
+
+var PREFIX = 'Plik:IMG '; // 11 ujęć
 
 function getBatch(start) {
 	client.getImages(start, function(data, next) {
@@ -24,6 +26,10 @@ function processImages(images) {
 			item = 1;
 
 		images.forEach(function(image) {
+			if ((typeof PREFIX !== 'undefined') && image.title.indexOf(PREFIX) !== 0) {
+				return;
+			}
+
 			client.getImageInfo(image.title, function(meta) {
 				console.log((item++) + '/' + total + ': ' + image.title + '...');
 
