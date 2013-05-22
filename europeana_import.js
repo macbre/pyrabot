@@ -1,24 +1,38 @@
 /**
- * Skrypt importujący wybrane zdjęcia ze strony 11ujec.blogspot.com
+ * Skrypt importujący wybrane zdjęcia z serwisu Europeana
  */
 var bot = require('nodemw'),
-	client = new bot('config.js'),
+	client = new bot('config.js');
 
-	URL = 'http://resources21.kb.nl/gvn/SFA03/SFA03_SFA022001417_X.jpg',
-	ID = '512ab1187f976de2d33bd7ce',
-	DESC = 'Paul von Hindenburg (1847 - 1934) in militair uniform. Opperbevelhebber van het Duitse leger en drager van vele onderscheidingen, o.a. het IJzeren Kruis en het IJzeren Kruis met de gouden stralen. Plaats en datum van de foto onbekend.',
-	NAME = 'File:Paul von Hindenburg.jpg';
+	URL = 'http://resources21.kb.nl/gvn/SFA03/SFA03_SFA022001409_X.jpg', // adres obrazka (oryginał)
+	ID = '92034/CA041B490D078A94D2F53B36B27AAD994B679189', // ID publikacji (Europeana)
+	NAME = 'File:Paul von Hindenburg - w szkole kadetów.jpg'; // docelowa nazwa pliku
 
 client.logIn(function() {
 	console.log('Import pliku <' + NAME + '> z serwisu Europeana...');
 
-	// dodaj zdjęcia
-	client.uploadByUrl(NAME, URL, 'Import zdjęcia z serwisu Europeana', function(res) {
-		console.log('Upload ' + NAME + ' zakończony');
+	client.fetchUrl("http://www.europeana.eu/portal/record/" + ID + ".html", function(res) {
+		if (!res) {
+			return;
+		}
 
-		var content = '{{Europeana|' + ID + '}}\n\n' + DESC;
-		client.edit(NAME, content.trim(), 'Oznaczanie pliku z serwisu Europeana', function(res) {
-			console.log('Plik ' + NAME + ' oznaczony');
+		// opis zdjęcia
+		var matches = res.match(/<title>([^<]+)<\/title>/);
+		if (!matches) {
+			return;
+		}
+
+		var DESC = matches[1].trim();
+		console.log("Opis: " + DESC);
+
+		// dodaj zdjęcia
+		client.uploadByUrl(NAME, URL, 'Import zdjęcia z serwisu Europeana', function(res) {
+			console.log('Upload ' + NAME + ' zakończony');
+
+			var content = '{{Europeana|' + ID + '}}\n\n' + DESC;
+			client.edit(NAME, content.trim(), 'Oznaczanie pliku z serwisu Europeana', function(res) {
+				console.log('Plik ' + NAME + ' oznaczony');
+			});
 		});
 	});
 });
