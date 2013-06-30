@@ -33,7 +33,7 @@ function processImages(images) {
 			client.getImageInfo(image.title, function(meta) {
 				console.log((item++) + '/' + total + ': ' + image.title + '...');
 
-				if (!meta.exif) {
+				if (!meta || !meta.exif) {
 					return;
 				}
 
