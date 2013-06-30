@@ -2,7 +2,7 @@
  * Skrypt generujący dane o przystankach końcowych oraz trasach linii tramwajowych i autobusowych
  */
 var fs = require('fs'),
-	bot = require('../lib/bot').bot,
+	bot = require('nodemw'),
 	client = new bot('config.js');
 
 function parseTimetable(page, line) {
@@ -123,7 +123,7 @@ for (l=901; l<920; l++) {
 lines.push('L');
 
 lines.forEach(function(line) {
-	var url ='http://193.218.154.93/dbServices/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK';
+	var url ='http://www.ztm.poznan.pl/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK';
 
 	// nowe wersje rozkładu (przed zmianami tras)
 	url += '&dbname=gtfs';
@@ -142,13 +142,13 @@ lines.forEach(function(line) {
 		};
 
 		if (timetableUrl) {
-			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableUrl[1]).then(function(page) {
+			client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/' + timetableUrl[1]).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
 
 		if (timetableLastUrl) {
-			client.fetchUrl('http://193.218.154.93/dbServices/gtfs-ztm/' + timetableLastUrl[1]).then(function(page) {
+			client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/' + timetableLastUrl[1]).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
