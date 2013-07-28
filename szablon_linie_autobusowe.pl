@@ -31,11 +31,15 @@ my @linie = (
 	# historyczne
 	{
 		name => "Dzienne",
-		lines => [56, "62 bis", 99]
+		lines => [56, 99]
 	},
 	{
 		name => "Pospieszne",
-		lines => ["A".."F", "P"]
+		lines => ["A".."F", 401, 402]
+	},
+	{
+		name => "Sezonowe",
+		lines => ["62 bis", "J", "K", "P", "S", "S1", "W", "Z"]
 	},
 	{
 		name => "Specjalne",
