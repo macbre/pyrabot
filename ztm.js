@@ -89,44 +89,33 @@ var linie = {},
 
 var l, lines = [];
 
-// linie tramwajowe
-for (l=1; l<30; l++) {
-	lines.push(l);
-}
-lines.push('N21');
+client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/routes_by_name.html.php').then(function(page) {
+	var links = page.match(/<a class='route' href='([^']+)'/g) || [],
+		lines = [];
 
-// linie autobusowe (dzienne)
-for (l=40; l<=100; l++) {
-	lines.push(l);
-}
+	links.forEach(function(link) {
+		lines.push({
+			no: link.match(/route_name=([^&]+)/)[1],
+			agency: link.match(/agency_name=([^']+)/)[1]
+		});
+	});
 
-// linie autobusowe (nocne)
-for (l=231; l<255; l++) {
-	lines.push(l);
-}
+	//console.log(links); console.log(lines); process.exit(1);
 
-// komunikacja podmiejska
-lines.push(527);
-for (l=601; l<620; l++) {
-	lines.push(l);
-}
-lines.push(651);
-lines.push(691);
-for (l=701; l<720; l++) {
-	lines.push(l);
-}
-for (l=901; l<920; l++) {
-	lines.push(l);
-}
+lines.forEach(function(lineData) {
+	var line = lineData.no;
 
-// dodatkowe linie
-lines.push('L');
+	// autobusy za tramwaj / linia turystyczna
+	if (line[0] == 'T' || line === '0') {
+		return;
+	}
 
-lines.forEach(function(line) {
-	var url ='http://www.ztm.poznan.pl/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=ZTM_MPK';
+	var url ='http://www.ztm.poznan.pl/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=' + lineData.agency;
 
 	// nowe wersje rozkładu (przed zmianami tras)
-	url += '&dbname=gtfs';
+	//url += '&dbname=gtfs';
+
+	console.log("Linia " + line + " (" + lineData.agency + ")");
 
 	client.fetchUrl(url).then(function(page) {
 		// pobierz rozkład jazdy -> trasa w obie strony
@@ -138,7 +127,8 @@ lines.forEach(function(line) {
 			petle: [],
 			strefy: [],
 			przystanki: false,
-			czas: false
+			czas: false,
+			agency: lineData.agency.replace(/_/g, ' ')
 		};
 
 		if (timetableUrl) {
@@ -204,4 +194,5 @@ lines.forEach(function(line) {
 		// aktualizuj "bazę"
 		fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie));
 	});
+});
 });
