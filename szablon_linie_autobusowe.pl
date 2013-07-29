@@ -10,7 +10,7 @@ use Data::Dumper;
 my @linie = (
 	{
 		name => "Dzienne",
-		lines => [45..55, 57..98]
+		lines => [45..55, 57..87, 89..98]
 	},
 	{
 		name => "Pospieszne",
@@ -22,7 +22,7 @@ my @linie = (
 	},
 	{
 		name => "Nocne",
-		lines => [231..249, 251..252]
+		lines => [231..240, 242..249, 251..252]
 	},
 	{
 		name => "Turystyczne",
@@ -31,7 +31,7 @@ my @linie = (
 	# historyczne
 	{
 		name => "Dzienne",
-		lines => [56, 99]
+		lines => [56, 88, 99]
 	},
 	{
 		name => "Pospieszne",
@@ -40,6 +40,10 @@ my @linie = (
 	{
 		name => "Sezonowe",
 		lines => ["62 bis", "J", "K", "P", "S", "S1", "W", "Z"]
+	},
+	{
+		name => "Nocne",
+		lines => [241]
 	},
 	{
 		name => "Specjalne",
