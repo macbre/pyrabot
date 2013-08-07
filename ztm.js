@@ -90,7 +90,7 @@ var linie = {},
 var l, lines = [];
 
 client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/routes_by_name.html.php').then(function(page) {
-	var links = page.match(/<a class='route' href='([^']+)'/g) || [],
+	var links = page.match(/<a class='[^']+' href='[^']+'/g) || [],
 		lines = [];
 
 	links.forEach(function(link) {
@@ -104,6 +104,8 @@ client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/routes_by_name.html.php').the
 
 lines.forEach(function(lineData) {
 	var line = lineData.no;
+
+	line = parseInt(line, 10) || line;
 
 	// autobusy za tramwaj / linia turystyczna
 	if (line[0] == 'T' || line === '0') {
