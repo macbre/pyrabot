@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Skrypt importujący wybrane zdjęcia ze strony 11ujec.blogspot.com
  */
@@ -7,8 +8,12 @@ var bot = require('nodemw'),
 		server: 'commons.wikimedia.org',
 		path: '/w'
 	}),
+	IMAGE = process.argv[2] || '';
 
-	IMAGE = 'File:Poznań, Galeria MM - fotopolska.eu (272239).jpg';
+if (IMAGE === '') {
+	console.log('Podaj nazwę obrazka do importu');
+	process.exit(1);
+}
 
 client.logIn(function() {
 	// pobierz URL do "pełnej" wersji obrazka
