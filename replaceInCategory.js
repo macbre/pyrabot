@@ -33,7 +33,7 @@ var CATEGORY = 'Osoby',
 	REGEXP = / \(ur\.[^\)]+zm\.[^\)]+\) /,
 	REPLACEMENT = ' ',
 	SUMMARY = 'Przeniesienie danych biograficznych do infoboxa';
-**/
+**
 var CATEGORY = 'Inicjatywy obywatelskie',
 	REGEXP = /<(span|p)[^>]+>|<\/span>|<\/p>/g,
 	REPLACEMENT = '',
@@ -55,7 +55,61 @@ var CATEGORY = 'Kalendarium',
 	REGEXP = /\[http:\/\/pl.wikipedia.org\/wiki\/([^\s]+) ([^\]]+)\]/g,
 	REPLACEMENT = '[[wikipedia:pl:$1|$2]]',
 	SUMMARY = 'Interwiki do Wikipedii';
+**
+var CATEGORY = 'Ul. Wroniecka',
+    	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
+	REPLACEMENT = '[[Ulica Wroniecka]]',
+	SUMMARY = 'Unifikacja nazewnictwa kategorii';
+**
+var CATEGORY = 'Linie autobusowe',
+    	REGEXP = /$/,
+	REPLACEMENT = '\n\n{{Nawigacja Linie autobusowe}}',
+	SUMMARY = 'Dodaję nawigację po liniach autobusowych';
 **/
+var CATEGORY = 'Dzień po dniu',
+    	REGEXP = /'''W dniu [^']+'''/,
+	REPLACEMENT = function(page, content) { //console.log(arguments);
+		var months = {
+				'stycznia': 1,
+				'lutego': 2,
+				'marca': 3,
+				'kwietnia': 4,
+				'maja': 5,
+				'czerwca': 6,
+				'lipca': 7,
+				'sierpnia': 8,
+				'września': 9,
+				'października': 10,
+				'listopada': 11,
+				'grudnia': 12
+			},
+			header = '{{Dzień po dniu|$1}}';
+
+		// wytnij nagłówek i kategorie
+		content = content.
+			replace(REGEXP, '').
+			replace(/\[\[Kategoria:Dzień po d[^\]]+\]\]/, '').
+			trim();
+
+		var month, day,
+			titleParts = page.title.split(' ');
+
+		// parsuj datę
+		day = parseInt(titleParts[0], 10);
+		month = months[ titleParts[1] ];
+
+		if (typeof month === 'undefined') {
+			process.exit(1);
+		}
+
+		// dodaj nagłówek z datą
+		content = header.replace('$1', (month < 10 ? '0' + month : month) + '-' + (day < 10 ? '0' + day : day)) +
+			"\n\n" + content;
+
+		return content;
+	},
+	SUMMARY = 'Dodaję nawigację po kalendarium';
+
 // konfiguracja - koniec
 
 client.logIn(function() {
@@ -68,13 +122,15 @@ client.logIn(function() {
 
 			client.getArticle(page.title, function(content) {
 				if (typeof REGEXP === 'string') {
-					if (REPLACEMENT !== '' && content.indexOf(REPLACEMENT) > -1) {
+					// docelowy tekst znajduje się już w artykule
+					if (typeof REPLACEMENT === 'string' &&  REPLACEMENT !== '' && content.indexOf(REPLACEMENT) > -1) {
 						console.log(page.title + ' - pomijam');
 						return;
 					}
 				}
 				else {
-					if (!REGEXP.test(content)) {
+					// regexp nie "matchuje" artykułu lub docelowy tekst znajduje się już w artykule
+					if (!REGEXP.test(content) || (typeof REPLACEMENT === 'string' && content.indexOf(REPLACEMENT) > -1)) {
 						console.log(page.title + ' - pomijam');
 						return;
 					}
@@ -86,7 +142,14 @@ client.logIn(function() {
 				console.log('---');
 
 				// dokonaj zmiany
-				content = content.replace(REGEXP, REPLACEMENT);
+				if (typeof REPLACEMENT === 'function') {
+					content = REPLACEMENT(page, content);
+				}
+				else {
+					content = content.replace(REGEXP, REPLACEMENT);
+				}
+
+				// usuń string
 				if (typeof REMOVE !== 'undefined') {
 					content = content.replace(REMOVE, '').trim();
 				}
