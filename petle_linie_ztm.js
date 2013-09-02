@@ -1,8 +1,8 @@
 var fs = require('fs'),
-	bot = require('../lib/bot').bot,
+	bot = require('nodemw'),
 	client = new bot('config.js');
 
-var SUMMARY = 'Zaktualizowano dane o liniach ZTM (strefy taryfowe)';
+var SUMMARY = 'Zaktualizowano dane o liniach ZTM';
 
 // odczytaj bazę pętli
 var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
@@ -78,7 +78,7 @@ function updateLine(pageTitle) {
 }
 
 client.logIn(function() {
-	/**
+	/**/
 	client.getPagesByPrefix('Linia tramwajowa nr', function(pages) {
 		pages && pages.forEach(function(page) {
 			if (page.ns != 0) {
@@ -88,7 +88,7 @@ client.logIn(function() {
 			updateLine(page.title);
 		});
 	});
-	**/
+	/**/
 	client.getPagesByPrefix('Linia autobusowa nr', function(pages) {
 		pages && pages.forEach(function(page) {
 			if (page.ns != 0) {
