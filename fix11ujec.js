@@ -6,8 +6,8 @@ var bot = require('nodemw'),
 
 // [[Plik:IMG_7111.jpg|thumb]][[Plik:IMG_7116.jpg|thumb]][[Plik:IMG_7118.jpg|thumb]]{{11_ujęć|http://11ujec.blogspot.com/2011/12/ulica-ks-ignacego-posadzego.html}}
 var CATEGORY = '11 ujęć',
-	REGEX = /(\[\[Plik:[^\|]+\|thumb\]\])+{{(Szablon:)?11[_ ]ujęć\|(.*)}}/,
-	IMG = /\[\[Plik:([^\|]+)\|thumb\]\]/g,
+	REGEX = /(\[\[Plik:[^\|]+\|[^\]]+\]\])+{{(Szablon:)?11[_ ]ujęć\|(.*)}}/,
+	IMG = /\[\[Plik:([^\|]+)\|thumb/g,
 	SUMMARY = 'Porządki w galeriach';
 
 client.logIn(function() {
@@ -15,12 +15,14 @@ client.logIn(function() {
 
 	client.getPagesInCategory(CATEGORY, function(pages) {
 		pages.forEach(function(page, idx) {
-			if (page.ns !== 0) return;
+			if (page.ns !== 0 && page.ns !== 2500 /* MS_ULICA */) return;
 
 			client.getArticle(page.title, function(content) {
 				if (content.indexOf('<gallery ') > -1) {
 					//return;
 				}
+
+				content = content.replace('{{Fotografie_11_ujęć}}', '');
 
 				var matches = content.match(REGEX),
 					gallery,
@@ -43,7 +45,7 @@ client.logIn(function() {
 
 					images.forEach(function(img) {
 						gallery += img.
-							replace('|thumb]]', '').
+							replace('|thumb', '').
 							replace('[[Plik:', '');
 
 						gallery += "\n";
@@ -62,7 +64,7 @@ client.logIn(function() {
 					});
 				}
 				else {
-					console.log('> BRAK!');
+					console.log('> BRAK na ' + page.title);
 				}
 			});
 		});
