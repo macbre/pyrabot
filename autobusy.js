@@ -2,7 +2,7 @@
  * Skrypt tworzący szkice stron o liniach autobusowych na podstawie danych z ZTM
  */
 var fs = require('fs'),
-	bot = require('../lib/bot').bot,
+	bot = require('nodemw'),
 	client = new bot('config.js');
 
 var SUMMARY = 'Automatyczne tworzenie stron o liniach autobusowych';
@@ -44,12 +44,14 @@ client.logIn(function(data) {
 |historyczna=\n\
 |wahadłowa=\n\
 |nocna=" + (nocna ? "tak" : "") + "\n\
+|podmiejska=" + (line > 500 ? "tak" : "") + "\n\
 |foto=\n\
 |pętla1=" + petle[0] + "\n\
 |pętla2=" + petle[1] + "\n\
 |przejazd=" + data.czas + "\n\
 |przystanki=" + data.przystanki + "\n\
 |strefy=" + data.strefy.join(", ") + "\n\
+|operator=" + data.agency + "\n\
 |dlugosc=\n\
 |uruchomiona=\n\
 |zlikwidowana=\n\
@@ -58,7 +60,7 @@ client.logIn(function(data) {
 }}\n\
 {{Szkic}}"
 
-					//console.log(content);
+					//console.log(content); return;
 
 					// edytuj
 					client.edit(title, content, SUMMARY, function() {
