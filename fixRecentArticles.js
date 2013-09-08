@@ -5,9 +5,15 @@ var bot = require('nodemw'),
 	client = new bot('config.js'),
 	SUMMARY = 'Oczyszczanie wikitekstu',
 	REPLACEMENTS = [
+		// spany
 		{
 			regexp: /<(span|p) [^>]+>|<\/span>|<\/p>/g,
 			repl: ''
+		},
+		// unifikacja szerokości obrazków - 300px
+		{
+			regexp: /\|\d+px/g,
+			repl: '|300px'
 		}
 	];
 
