@@ -5,15 +5,39 @@ var bot = require('nodemw'),
 	client = new bot('config.js'),
 	SUMMARY = 'Oczyszczanie wikitekstu',
 	REPLACEMENTS = [
-		// spany
+		// spany, paragrafy, podkreślenia
 		{
-			regexp: /<(span|p) [^>]+>|<\/span>|<\/p>/g,
+			regexp: /<(span|p) [^>]+>|<\/span>|<\/p>|<u>|<\/u>/g,
 			repl: ''
 		},
 		// unifikacja szerokości obrazków - 300px
 		{
-			regexp: /\|\d+px/g,
-			repl: '|300px'
+			regexp: /\|thumb\|\d+px/g,
+			repl: '|thumb|300px'
+		},
+		// linki do wikipedii -> interwiki
+		// [http://pl.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz Czesławem Miłoszem]
+		{
+			regexp: /\[http:\/\/pl.wikipedia.org\/wiki[^\]]+\]/g,
+			repl: function(link) {
+				var re = /\/wiki\/([^\s]+) (.*)$/,
+					matches,
+					isDigit;
+
+				link = link.substring(1, link.length - 1);
+				matches = link.match(re);
+
+				//console.log(link); console.log(matches);
+
+				// fallback
+				if (!matches) return link;
+
+				// 23 stycznia / 1910
+				isDigit = /^\d/.test(matches[1]);
+
+				return isDigit ? ('[[' + decodeURIComponent(matches[1]) + '|' + matches[2] + ']]')
+					: ('[[wikipedia:pl:' + decodeURIComponent(matches[1]) + '|' + matches[2] + ']]');
+			}
 		}
 	];
 
@@ -22,7 +46,7 @@ client.logIn(function() {
 	var params = {
 		action: 'query',
 		list: 'recentchanges',
-		rclimit: 5000,
+		rclimit: 250,
 		rctoponly: 1, // pokazuj tylko ostatnią edycję artykułu
 		rcnamespace: 0
 	},
@@ -45,8 +69,8 @@ client.logIn(function() {
 
 				console.log("\n\n");
 				console.log(page.title + ':');
-				console.log(origContent.substr(0,750) + '...');
-				console.log(content.substr(0,750) + '...');
+				console.log(origContent.substr(0,1500) + '...\n');
+				console.log(content.substr(0,1500) + '...');
 				console.log('---');
 
 				//return; // !!!!!!!!
