@@ -6,10 +6,12 @@ var bot = require('nodemw'),
 	SUMMARY = 'Oczyszczanie wikitekstu',
 	REPLACEMENTS = [
 		// spany, paragrafy, podkreślenia
+/**
 		{
 			regexp: /<(span|p) [^>]+>|<\/span>|<\/p>|<u>|<\/u>/g,
 			repl: ''
 		},
+**/
 		// unifikacja szerokości obrazków - 300px
 		{
 			regexp: /\|thumb\|\d+px/g,
@@ -37,6 +39,20 @@ var bot = require('nodemw'),
 
 				return isDigit ? ('[[' + decodeURIComponent(matches[1]) + '|' + matches[2] + ']]')
 					: ('[[wikipedia:pl:' + decodeURIComponent(matches[1]) + '|' + matches[2] + ']]');
+			}
+		},
+		// galerie
+		// <gallery spacing="medium" columns="4">
+		// <gallery captionalign="left" orientation="none" widths="200" columns="3" bordercolor="#ffffff" bordersize="large" spacing="small">
+		{
+			regexp: /<gallery[^>]?>/g,
+			repl: function(tag) {
+				if (tag.indexOf('orientation') < 0) {
+					tag = '<gallery captionalign="left" orientation="none" widths="200" columns="3" bordercolor="#ffffff" bordersize="large" spacing="small">';
+					console.log('Gallery fixed');
+				}
+
+				return tag;
 			}
 		}
 	];
@@ -73,7 +89,7 @@ client.logIn(function() {
 				console.log(content.substr(0,1500) + '...');
 				console.log('---');
 
-				//return; // !!!!!!!!
+				if (process.env.DEBUG) return;
 
 				// zapisz zmianę
 				client.edit(page.title, content, SUMMARY, function() {
