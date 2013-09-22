@@ -35,6 +35,11 @@ function updateLine(pageTitle) {
 	console.log('Strefy: ' + strefy);
 
 	client.getArticle(page.title, function(content) {
+		if (content.indexOf('|historyczna=tak') > -1) {
+			client.log(page.title + ': linia historyczna - pomijam');
+			return;
+		}
+
 		// aktualizuj infobox
 		content = content.replace(/\|pętla1\s?=[^|]+/, "|pętla1=" + stops[0] + "\n");
 		content = content.replace(/\|pętla2\s?=[^|]+/, "|pętla2=" + stops[1] + "\n");
@@ -71,7 +76,9 @@ function updateLine(pageTitle) {
 		//console.log(content); return;
 	
 		// zapisz zmiany
-		client.edit(page.title, content, SUMMARY, function(data) {
+		var comment = stops[0] + ' - ' + stops[1];
+
+		client.edit(page.title, content, comment, function(data) {
 			console.log('\n\n> ' + page.title + ' zaktualizowana!');
 		});
 	});
