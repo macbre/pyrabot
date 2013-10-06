@@ -18,18 +18,19 @@ if (IMAGE === '') {
 client.logIn(function() {
 	// pobierz URL do "pełnej" wersji obrazka
 	commons.getImageInfo(IMAGE, function(res) {
-		var url = res.url;
+		var url = res.url,
+			params;
+
+		params = {
+			comment: 'Import zdjęcia z Wikimedia Commons',
+			text: '{{Wikimedia}}'
+		};
 
 		console.log('Import pliku <' + IMAGE + '> z Wikimedia Commons...');
 
 		// dodaj zdjęcia
-		client.uploadByUrl(IMAGE, url, 'Import zdjęcia z Wikimedia Commons', function(res) {
+		client.uploadByUrl(IMAGE, url, params, function(res) {
 			console.log('Upload ' + IMAGE + ' zakończony');
-
-			var content = '{{Wikimedia}}'
-			client.edit(IMAGE, content, 'Oznaczanie pliku z Wikimedia Commons', function(res) {
-				console.log('Plik ' + IMAGE + ' oznaczony');
-			});
 		});
 	});
 });
