@@ -5,6 +5,19 @@ var fs = require('fs'),
 	bot = require('nodemw'),
 	client = new bot('config.js');
 
+function sortObject(obj) {
+	var sorted = {},
+		keys = Object.keys(obj);
+
+	keys.sort();
+
+	for (var i=0, len = keys.length; i<len; i++) {
+		sorted[keys[i]] = obj[keys[i]];
+	}
+
+	return sorted;
+}
+
 function parseTimetable(page, line) {
 	var matches = page.match(routeRegExp);
 
@@ -54,7 +67,7 @@ function parseTimetable(page, line) {
 		});
 
 		// aktualizuj "bazę"
-		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(ulice));
+		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(sortObject(ulice)));
 	}
 
 	// przystanki na trasie
