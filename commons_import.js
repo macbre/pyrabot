@@ -15,6 +15,12 @@ if (IMAGE === '') {
 	process.exit(1);
 }
 
+if (IMAGE.indexOf('File:') < 0) {
+	IMAGE = 'File:' + IMAGE;
+}
+
+client.log(IMAGE);
+
 client.logIn(function() {
 	// pobierz URL do "pełnej" wersji obrazka
 	commons.getImageInfo(IMAGE, function(res) {
