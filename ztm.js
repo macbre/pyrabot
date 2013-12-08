@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Skrypt generujący dane o przystankach końcowych oraz trasach linii tramwajowych i autobusowych
  */
