@@ -28,6 +28,22 @@ var CATEGORY = 'Poznańskie Autobusy',
 	REGEXP = '[[Kategoria:Poznańskie Autobusy]]',
 	REPLACEMENT = '[[Kategoria:Transport publiczny]]\n[[Kategoria:Autobus]]\n[[Kategoria:Tabor]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
+**/
+var CATEGORY = 'Ceglorz',
+	REGEXP = '[[Kategoria:Ceglorz]]',
+	REPLACEMENT = '[[Kategoria:Zakłady Hipolita Cegielskiego]]',
+	SUMMARY = 'Unifikacja nazewnictwa kategorii';
+/**/
+/**
+var CATEGORY = 'Zniszczone',
+	REGEXP = '[[Kategoria:Zniszczone]]',
+	REPLACEMENT = '',
+	SUMMARY = 'Usunięcie kategorii Zniszczone';
+/**
+var CATEGORY = 'Komunikacja miejska',
+	REGEXP = '[[Kategoria:Komunikacja miejska]]',
+	REPLACEMENT = '',
+	SUMMARY = 'Unifikacja nazewnictwa kategorii';
 /**
 var CATEGORY = 'Osoby',
 	REGEXP = / \(ur\.[^\)]+zm\.[^\)]+\) /,
@@ -65,7 +81,7 @@ var CATEGORY = 'Linie autobusowe',
     	REGEXP = /$/,
 	REPLACEMENT = '\n\n{{Nawigacja Linie autobusowe}}',
 	SUMMARY = 'Dodaję nawigację po liniach autobusowych';
-**/
+**
 var CATEGORY = 'Dzień po dniu',
     	REGEXP = /'''W dniu [^']+'''/,
 	REPLACEMENT = function(page, content) { //console.log(arguments);
@@ -109,7 +125,7 @@ var CATEGORY = 'Dzień po dniu',
 		return content;
 	},
 	SUMMARY = 'Dodaję nawigację po kalendarium';
-
+**/
 // konfiguracja - koniec
 
 client.logIn(function() {
