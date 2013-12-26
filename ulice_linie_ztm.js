@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require('fs'),
 	bot = require('nodemw'),
 	client = new bot('config.js');
@@ -9,8 +10,8 @@ var db = JSON.parse(fs.readFileSync('db/ztm-ulice.json'));
 client.logIn(function(data) {
 	// aktualizuj infoboxy
 	client.getPagesInCategory('Ulice', function(pages) {
-		pages && pages.forEach(function(page) {
-			if (page.ns != 0) return;
+		if (pages) pages.forEach(function(page) {
+			if (page.ns !== 0) return;
 
 			// sprawdź bazę ulic
 			var lines;
@@ -23,7 +24,7 @@ client.logIn(function(data) {
 
 			if (typeof lines !== 'undefined') {
 				var tramLines = [],
-		      			busLines = [];
+					busLines = [];
 
 				lines.forEach(function(line) {
 					((line > 40 || line === 'L') ? busLines : tramLines).push(line);
@@ -50,8 +51,8 @@ client.logIn(function(data) {
 	});
 	
 	client.getPagesInCategory('Ulice z transportem publicznym', function(pages) {
-		pages && pages.forEach(function(page) {
-			if (page.ns != 0) return;
+		if (pages) pages.forEach(function(page) {
+			if (page.ns !== 0) return;
 
 			// sprawdź bazę ulic
 			var found = false;
