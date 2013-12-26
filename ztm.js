@@ -40,18 +40,45 @@ function parseTimetable(page, line) {
 
 			// rozwiń skróty + małe poprawki
 			street = street.
-			replace("Al.", 'Aleja').
-				replace(/[śŚ]w\./, 'Święty').
+			replace(/^Al\./i, 'Aleja').
+				replace(/[śŚ]w\.\s?Ma/, 'Święty Ma').
 				replace('ŚwiętyMarcin', 'Święty Marcin').
 				replace('Świety', 'Święty').
+				replace('św.', 'Św.').
+				replace('Św. Antoniego', 'Świętego Antoniego').
+				replace('Ks. Mieszka', 'Księcia Mieszka').
 				replace('Piasnicka', 'Piaśnicka').
-				replace('Os. ', 'Osiedle ');
+				replace('Os. ', 'Osiedle ').
+				replace('abpa ', ''). // abpa Dymka
+				replace('gen. ', ''). // gen. Maczka
+				replace(/^Niepodległości$/, 'Aleja Niepodległości');
 		
 			if (street.indexOf('28 Czerwca') === 0) {
 				street = '28 Czerwca 1956 r.';
 			}
 
 			if (street === '') {
+				return;
+			}
+
+			// Złotkowo, Lipowa
+			if (street.indexOf(', ') > -1) {
+				return;
+			}
+
+			// strefa taryfowa; STAROŁĘKA
+			if (street.indexOf('strefa taryfowa') === 0) {
+				return;
+			}
+
+			// Luboń Kościelna
+			// Wiry Łęczycka
+			if (/^(Luboń|Wiry) /.test(street)) {
+				return;
+			}
+
+			// (B)BIEDRUSKO; (B)
+			if (street.indexOf('(') > -1) {
 				return;
 			}
 
@@ -68,7 +95,7 @@ function parseTimetable(page, line) {
 		});
 
 		// aktualizuj "bazę"
-		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(sortObject(ulice)));
+		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(sortObject(ulice), null, '  '));
 	}
 
 	// przystanki na trasie
@@ -89,7 +116,7 @@ function parseTimetable(page, line) {
 	}
 
 	// aktualizuj "bazę"
-	fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie));
+	fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie, null, '  '));
 }
 
 var linie = {},
@@ -208,7 +235,7 @@ lines.forEach(function(lineData) {
 		console.log('#' + line + ': ' + JSON.stringify(linie[line]));
 		
 		// aktualizuj "bazę"
-		fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie));
+		fs.writeFileSync('db/ztm-linie.json', JSON.stringify(linie, null, '  '));
 	});
 });
 });
