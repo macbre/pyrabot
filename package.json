@@ -1,13 +1,14 @@
 {
-	"name": "pyrabot",
-	"version": "0.0.0",
-	"dependencies": {
-		"nodemw": ">=0.3.13"
-	},
-	"devDependencies": {
-		"jshint": "~2.4.0"
-	},
-	"scripts": {
-		"lint": "jshint --verbose *.js"
-	}
+  "name": "pyrabot",
+  "version": "0.0.0",
+  "dependencies": {
+    "nodemw": ">=0.3.13",
+    "jsdom": "~0.8.10"
+  },
+  "devDependencies": {
+    "jshint": "~2.4.0"
+  },
+  "scripts": {
+    "lint": "jshint --verbose *.js"
+  }
 }
