@@ -1,11 +1,15 @@
 var fs = require('fs'),
-	bot = require('../lib/bot').bot,
+	bot = require('nodemw'),
 	client = new bot('config.js');
 
 var lines = [];
 
 client.getPagesInCategory('Linie tramwajowe', function(pages) {
 	pages.forEach(function(page) {
+		if (page.ns !== 0) {
+			return;
+		}
+
 		client.getArticle(page.title, function(content) {
 			client.expandTemplates(content, page.title, function(tmpl) {
 				var from = client.getTemplateParamFromXml(tmpl, 'uruchomiona') || '',
@@ -36,7 +40,7 @@ client.getPagesInCategory('Linie tramwajowe', function(pages) {
 						}
 					});
 
-					fs.writeFileSync('db/tramwaj.json', JSON.stringify(lines));
+					fs.writeFileSync('db/tramwaj.json', JSON.stringify(lines, null, '  '));
 				}
 			});
 		});
