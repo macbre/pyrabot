@@ -12,8 +12,8 @@ client.getPagesInCategory('Osoby', function(pages) {
 					sm = client.getTemplateParamFromXml(tmpl, 'data_sm') || '';
 
 				// pobierz tylko rok + usuń brackety linków
-				ur = parseInt(ur.split(' ').pop().replace(/\[|\]/g, ''), 10) || '';
-				sm = parseInt(sm.split(' ').pop().replace(/\[|\]/g, ''), 10) || '';
+				ur = parseInt(ur.split(' ').pop().replace(/\[|\]/g, ''), 10) || false;
+				sm = parseInt(sm.split(' ').pop().replace(/\[|\]/g, ''), 10) || false;
 
 				//console.log('Ur: ' + ur);
 				//console.log('Sm: ' + sm);
@@ -29,7 +29,7 @@ client.getPagesInCategory('Osoby', function(pages) {
 				});
 
 				if (persons.length === pages.length) {
-					fs.writeFileSync('db/osoby.json', JSON.stringify(persons));
+					fs.writeFileSync('db/osoby.json', JSON.stringify(persons, null, '  '));
 				}
 			});
 		});
