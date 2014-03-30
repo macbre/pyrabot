@@ -43,32 +43,32 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 28,
-    "czas": 40,
+    "przystanki": 26,
+    "czas": 39,
     "agency": "ZTM MPK"
   },
   "5": {
     "petle": [
       "Górczyn",
-      "Stomil"
+      "Starołęka"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 28,
-    "czas": 46,
+    "przystanki": 30,
+    "czas": 49,
     "agency": "ZTM MPK"
   },
   "6": {
     "petle": [
-      "Junikowo",
+      "Budziszyńska",
       "Miłostowo"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 34,
-    "czas": 44,
+    "przystanki": 33,
+    "czas": 40,
     "agency": "ZTM MPK"
   },
   "7": {
@@ -79,8 +79,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 22,
-    "czas": 35,
+    "przystanki": 25,
+    "czas": 43,
     "agency": "ZTM MPK"
   },
   "8": {
@@ -151,8 +151,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 33,
-    "czas": 45,
+    "przystanki": 31,
+    "czas": 42,
     "agency": "ZTM MPK"
   },
   "14": {
@@ -163,7 +163,7 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 14,
+    "przystanki": 17,
     "czas": 25,
     "agency": "ZTM MPK"
   },
@@ -193,26 +193,26 @@
   },
   "17": {
     "petle": [
-      "Starołęka",
-      "Ogrody"
-    ],
-    "strefy": [
-      "A"
-    ],
-    "przystanki": 27,
-    "czas": 44,
-    "agency": "ZTM MPK"
-  },
-  "18": {
-    "petle": [
       "Franowo",
       "Ogrody"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 23,
-    "czas": 38,
+    "przystanki": 22,
+    "czas": 35,
+    "agency": "ZTM MPK"
+  },
+  "18": {
+    "petle": [
+      "Stomil",
+      "Ogrody"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 19,
+    "czas": 32,
     "agency": "ZTM MPK"
   },
   "19": {
@@ -314,7 +314,7 @@
   "51": {
     "petle": [
       "Sobieskiego Dworzec",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
@@ -333,19 +333,6 @@
     ],
     "przystanki": 21,
     "czas": 26,
-    "agency": "ZTM MPK"
-  },
-  "53": {
-    "petle": [
-      "Świątniczki",
-      "Franowo"
-    ],
-    "strefy": [
-      "A",
-      "B"
-    ],
-    "przystanki": 24,
-    "czas": 32,
     "agency": "ZTM MPK"
   },
   "54": {
@@ -369,8 +356,8 @@
       "A",
       "B"
     ],
-    "przystanki": 24,
-    "czas": 31,
+    "przystanki": 26,
+    "czas": 33,
     "agency": "ZTM MPK"
   },
   "57": {
@@ -507,13 +494,13 @@
   "68": {
     "petle": [
       "Podolany",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
     ],
     "przystanki": 20,
-    "czas": 30,
+    "czas": 31,
     "agency": "ZTM MPK"
   },
   "69": {
@@ -550,7 +537,7 @@
       "A"
     ],
     "przystanki": 26,
-    "czas": 48,
+    "czas": 49,
     "agency": "ZTM MPK"
   },
   "72": {
@@ -825,7 +812,7 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 20,
+    "przystanki": 21,
     "czas": 35,
     "agency": "ZTM MPK"
   },
@@ -873,7 +860,7 @@
       "A"
     ],
     "przystanki": 27,
-    "czas": 33,
+    "czas": 36,
     "agency": "ZTM MPK"
   },
   "231": {
@@ -896,8 +883,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 16,
-    "czas": 18,
+    "przystanki": 15,
+    "czas": 17,
     "agency": "ZTM MPK"
   },
   "233": {
@@ -914,7 +901,7 @@
   },
   "234": {
     "petle": [
-      "Dworzec Główny",
+      "Poznań Główny",
       "Osiedle Batorego II"
     ],
     "strefy": [
@@ -927,7 +914,7 @@
   "235": {
     "petle": [
       "Sobieskiego Dworzec",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
@@ -938,7 +925,7 @@
   },
   "236": {
     "petle": [
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
@@ -975,7 +962,7 @@
   "239": {
     "petle": [
       "Kiekrz",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
@@ -987,38 +974,38 @@
   "240": {
     "petle": [
       "Kacza",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
     ],
     "przystanki": 17,
-    "czas": 21,
+    "czas": 20,
     "agency": "ZTM MPK"
   },
   "242": {
     "petle": [
       "Port Lotniczy Ławica",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
     ],
     "przystanki": 22,
-    "czas": 21,
+    "czas": 20,
     "agency": "ZTM MPK"
   },
   "243": {
     "petle": [
-      "Dworzec Główny",
+      "Poznań Główny",
       "Luboń/Kręta"
     ],
     "strefy": [
       "A",
       "B"
     ],
-    "przystanki": 36,
-    "czas": 38,
+    "przystanki": 38,
+    "czas": 40,
     "agency": "ZTM MPK"
   },
   "244": {
@@ -1028,8 +1015,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 29,
-    "czas": 28,
+    "przystanki": 34,
+    "czas": 32,
     "agency": "ZTM MPK"
   },
   "245": {
@@ -1046,7 +1033,7 @@
   },
   "246": {
     "petle": [
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
@@ -1087,8 +1074,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 24,
-    "czas": 24,
+    "przystanki": 25,
+    "czas": 25,
     "agency": "ZTM MPK"
   },
   "251": {
@@ -1111,13 +1098,39 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 17,
-    "czas": 16,
+    "przystanki": 18,
+    "czas": 17,
     "agency": "ZTM MPK"
+  },
+  "511": {
+    "petle": [
+      "Kamionki/Klonowa",
+      "Franowo"
+    ],
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 40,
+    "czas": 50,
+    "agency": "ZTM KOMBUS"
+  },
+  "512": {
+    "petle": [
+      "Borówiec/Dębowa",
+      "Franowo"
+    ],
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 42,
+    "czas": 50,
+    "agency": "ZTM KOMBUS"
   },
   "527": {
     "petle": [
-      "Borówiec - Szkoła",
+      "Kamionki/Pętla",
       "Starołęka Dworzec"
     ],
     "strefy": [
@@ -1169,7 +1182,7 @@
   },
   "611": {
     "petle": [
-      "Auchan/Sycowska",
+      "Poznań - Auchan/Sycowska",
       "Dębiec"
     ],
     "strefy": [
@@ -1189,8 +1202,8 @@
       "A",
       "B"
     ],
-    "przystanki": 20,
-    "czas": 29,
+    "przystanki": 21,
+    "czas": 28,
     "agency": "ZTM TRANSLUB"
   },
   "616": {
@@ -1229,8 +1242,8 @@
       "A",
       "B"
     ],
-    "przystanki": 29,
-    "czas": 45,
+    "przystanki": 30,
+    "czas": 42,
     "agency": "PUK"
   },
   "702": {
@@ -1243,7 +1256,7 @@
       "B"
     ],
     "przystanki": 21,
-    "czas": 29,
+    "czas": 30,
     "agency": "PUK"
   },
   "703": {
@@ -1356,7 +1369,7 @@
   },
   "905": {
     "petle": [
-      "Zintegrowane Centrum Komunikacyjne",
+      "Poznań Główny",
       "Chludowo/Szkoła (c)"
     ],
     "strefy": [
@@ -1365,7 +1378,7 @@
       "C"
     ],
     "przystanki": 47,
-    "czas": 69,
+    "czas": 70,
     "agency": "ZTM ZKP"
   },
   "907": {
@@ -1398,7 +1411,7 @@
   "L": {
     "petle": [
       "Port Lotniczy Ławica",
-      "Dworzec Główny"
+      "Poznań Główny"
     ],
     "strefy": [
       "A"
