@@ -28,17 +28,17 @@ var CATEGORY = 'Poznańskie Autobusy',
 	REGEXP = '[[Kategoria:Poznańskie Autobusy]]',
 	REPLACEMENT = '[[Kategoria:Transport publiczny]]\n[[Kategoria:Autobus]]\n[[Kategoria:Tabor]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
-**/
+**
 var CATEGORY = 'Ceglorz',
 	REGEXP = '[[Kategoria:Ceglorz]]',
 	REPLACEMENT = '[[Kategoria:Zakłady Hipolita Cegielskiego]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
 /**/
 /**
-var CATEGORY = 'Zniszczone',
-	REGEXP = '[[Kategoria:Zniszczone]]',
+var CATEGORY = 'MPK Poznań',
+	REGEXP = '[[Kategoria:MPK Poznań]]',
 	REPLACEMENT = '',
-	SUMMARY = 'Usunięcie kategorii Zniszczone';
+	SUMMARY = 'Usunięcie kategorii MPK Poznań';
 /**
 var CATEGORY = 'Komunikacja miejska',
 	REGEXP = '[[Kategoria:Komunikacja miejska]]',
@@ -60,11 +60,11 @@ var CATEGORY = 'Kalendarium',
 	REPLACEMENT = '{{Kalendarium}}',
 	REMOVE = '[[Kategoria:Kalendarium]]',
 	SUMMARY = 'Dodaję nagłówek stron kalendarium';
-/**
-var CATEGORY = 'Kalendarium',
-	REGEXP = '[[Kategoria:Wydarzenia]]',
-	REPLACEMENT = '',
-	SUMMARY = 'Kalendarium - porządki w kategoriach';
+/**/
+var CATEGORY = 'Zegary świetlne',
+	REGEXP = '[[Kategoria:Zegary świetlne]]',
+	REPLACEMENT = '[[Kategoria:Zegary neonowe]]',
+	SUMMARY = 'Porządki w kategoriach';
 /**
 // [http://pl.wikipedia.org/wiki/Genesis_(grupa_muzyczna) Genesis] -> [[wikipedia:pl:Genesis_(grupa_muzyczna)|Genesis]]
 var CATEGORY = 'Kalendarium',
@@ -77,11 +77,11 @@ var CATEGORY = 'Ul. Wroniecka',
 	REPLACEMENT = '[[Ulica Wroniecka]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
 **
-var CATEGORY = 'Linie autobusowe',
-    	REGEXP = /$/,
-	REPLACEMENT = '\n\n{{Nawigacja Linie autobusowe}}',
-	SUMMARY = 'Dodaję nawigację po liniach autobusowych';
-**
+var CATEGORY = 'Pętle tramwajowe historyczne',
+    	REGEXP = /$/, // dodaj na końcu wikitekstu
+	REPLACEMENT = '\n\n{{Nawigacja Pętle tramwajowe}}',
+	SUMMARY = 'Dodaję nawigację po historycznych pętlach';
+/**
 var CATEGORY = 'Dzień po dniu',
     	REGEXP = /'''W dniu [^']+'''/,
 	REPLACEMENT = function(page, content) { //console.log(arguments);
