@@ -12,6 +12,8 @@ var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
 client.logIn(function(data) {
 
 	for (var line in db) {
+		if (line == 201) continue;
+
 		// tylko linie autobusowe
 		if (line > 40 || line === 'L') {
 			(function(line) {
