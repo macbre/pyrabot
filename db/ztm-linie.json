@@ -97,14 +97,14 @@
   },
   "9": {
     "petle": [
-      "Piątkowska",
+      "Gwarna",
       "Dębiec"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 27,
-    "czas": 40,
+    "przystanki": 15,
+    "czas": 23,
     "agency": "ZTM MPK"
   },
   "10": {
@@ -122,13 +122,13 @@
   "11": {
     "petle": [
       "Starołęka",
-      "Piątkowska"
+      "Rynek Jeżycki"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 27,
-    "czas": 42,
+    "przystanki": 17,
+    "czas": 30,
     "agency": "ZTM MPK"
   },
   "12": {
@@ -682,7 +682,7 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 25,
+    "przystanki": 26,
     "czas": 38,
     "agency": "ZTM MPK"
   },
@@ -851,28 +851,28 @@
     "czas": 12,
     "agency": "ZTM MPK"
   },
-  "201": {
+  "100": {
     "petle": [
-      "Osiedle Jana III Sobieskiego",
-      "Osiedle Lecha"
+      "Nowe Zoo",
+      "Gajowa"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 27,
-    "czas": 33,
+    "przystanki": 7,
+    "czas": 28,
     "agency": "ZTM MPK"
   },
-  "231": {
+  "201": {
     "petle": [
-      "Rondo Rataje",
-      "Rondo Kaponiera"
+      "Rondo Starołęka",
+      "Osiedle Jana III Sobieskiego"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 8,
-    "czas": 8,
+    "przystanki": 25,
+    "czas": 38,
     "agency": "ZTM MPK"
   },
   "232": {
@@ -895,7 +895,7 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 18,
+    "przystanki": 19,
     "czas": 21,
     "agency": "ZTM MPK"
   },
@@ -979,7 +979,7 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 17,
+    "przystanki": 18,
     "czas": 21,
     "agency": "ZTM MPK"
   },
@@ -991,7 +991,7 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 22,
+    "przystanki": 23,
     "czas": 21,
     "agency": "ZTM MPK"
   },
@@ -1075,7 +1075,7 @@
       "A"
     ],
     "przystanki": 25,
-    "czas": 25,
+    "czas": 26,
     "agency": "ZTM MPK"
   },
   "251": {
@@ -1099,7 +1099,7 @@
       "A"
     ],
     "przystanki": 18,
-    "czas": 17,
+    "czas": 18,
     "agency": "ZTM MPK"
   },
   "511": {
@@ -1137,8 +1137,8 @@
       "A",
       "B"
     ],
-    "przystanki": 11,
-    "czas": 13,
+    "przystanki": 30,
+    "czas": 33,
     "agency": "ZTM KOMBUS"
   },
   "602": {
