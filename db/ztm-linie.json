@@ -61,14 +61,14 @@
   },
   "6": {
     "petle": [
-      "Junikowo",
-      "Miłostowo"
+      "Budziszyńska",
+      "Rondo Śródka"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 34,
-    "czas": 44,
+    "przystanki": 27,
+    "czas": 33,
     "agency": "ZTM MPK"
   },
   "7": {
@@ -86,13 +86,13 @@
   "8": {
     "petle": [
       "Górczyn",
-      "Miłostowo"
+      "Rondo Śródka"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 22,
-    "czas": 35,
+    "przystanki": 15,
+    "czas": 27,
     "agency": "ZTM MPK"
   },
   "9": {
@@ -368,8 +368,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 22,
-    "czas": 24,
+    "przystanki": 23,
+    "czas": 27,
     "agency": "ZTM MPK"
   },
   "58": {
@@ -875,6 +875,18 @@
     "czas": 38,
     "agency": "ZTM MPK"
   },
+  "231": {
+    "petle": [
+      "Rondo Rataje",
+      "Rondo Kaponiera"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 8,
+    "czas": 8,
+    "agency": "ZTM MPK"
+  },
   "232": {
     "petle": [
       "Osiedle Rusa",
@@ -895,8 +907,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 19,
-    "czas": 21,
+    "przystanki": 21,
+    "czas": 20,
     "agency": "ZTM MPK"
   },
   "234": {
@@ -998,14 +1010,14 @@
   "243": {
     "petle": [
       "Poznań Główny",
-      "Luboń/Kręta"
+      "Luboń/Parkowa"
     ],
     "strefy": [
       "A",
       "B"
     ],
-    "przystanki": 38,
-    "czas": 40,
+    "przystanki": 34,
+    "czas": 37,
     "agency": "ZTM MPK"
   },
   "244": {
@@ -1027,8 +1039,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 25,
-    "czas": 24,
+    "przystanki": 28,
+    "czas": 27,
     "agency": "ZTM MPK"
   },
   "246": {
@@ -1203,7 +1215,7 @@
       "B"
     ],
     "przystanki": 21,
-    "czas": 28,
+    "czas": 29,
     "agency": "ZTM TRANSLUB"
   },
   "616": {
@@ -1242,8 +1254,8 @@
       "A",
       "B"
     ],
-    "przystanki": 30,
-    "czas": 42,
+    "przystanki": 29,
+    "czas": 40,
     "agency": "PUK"
   },
   "702": {
@@ -1283,7 +1295,7 @@
       "B"
     ],
     "przystanki": 22,
-    "czas": 31,
+    "czas": 32,
     "agency": "PUK"
   },
   "716": {
@@ -1302,7 +1314,7 @@
   },
   "718": {
     "petle": [
-      "Dopiewo - D.k.",
+      "Dopiewo/Dworzec Kolejowy",
       "Ogrody"
     ],
     "strefy": [
@@ -1316,7 +1328,7 @@
   },
   "719": {
     "petle": [
-      "Dopiewo - D.k.",
+      "Dopiewo/Dworzec Kolejowy",
       "Ogrody"
     ],
     "strefy": [
