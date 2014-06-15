@@ -1,28 +1,28 @@
 [
   {
-    "name": "Pętla Bolkowicka",
-    "from": 1955,
-    "to": 1975
+    "name": "Pętla Stary Rynek",
+    "from": 1880,
+    "to": 1955
   },
   {
-    "name": "Pętla Dworzec Zachodni",
-    "from": 2013,
-    "to": false
+    "name": "Pętla Dworzec Główny",
+    "from": 1880,
+    "to": 1970
   },
   {
-    "name": "Pętla Górczyn",
-    "from": 1928,
-    "to": false
+    "name": "Pętla Tama Garbarska",
+    "from": 1900,
+    "to": 1977
   },
   {
-    "name": "Pętla Dębiec",
-    "from": 1948,
-    "to": false
+    "name": "Pętla Plac Wielkopolski",
+    "from": 1906,
+    "to": 1977
   },
   {
-    "name": "Pętla Franowo",
-    "from": 2012,
-    "to": false
+    "name": "Pętla Sołacz",
+    "from": 1913,
+    "to": 1925
   },
   {
     "name": "Pętla Golęcin",
@@ -30,8 +30,28 @@
     "to": 1974
   },
   {
-    "name": "Pętla Miłostowo",
-    "from": 1974,
+    "name": "Pętla Łęgi Dębińskie",
+    "from": 1925,
+    "to": 1959
+  },
+  {
+    "name": "Pętla Górczyn",
+    "from": 1928,
+    "to": false
+  },
+  {
+    "name": "Pętla Sczanieckiej",
+    "from": 1928,
+    "to": 1973
+  },
+  {
+    "name": "Pętla Winiary",
+    "from": 1935,
+    "to": 1980
+  },
+  {
+    "name": "Pętla Dębiec",
+    "from": 1948,
     "to": false
   },
   {
@@ -45,49 +65,9 @@
     "to": false
   },
   {
-    "name": "Pętla Osiedle Warszawskie",
-    "from": 1959,
-    "to": 1974
-  },
-  {
-    "name": "Pętla Połabska",
-    "from": 1974,
-    "to": false
-  },
-  {
-    "name": "Pętla Plac Wielkopolski",
-    "from": 1906,
-    "to": 1977
-  },
-  {
-    "name": "Pętla Rataje Dworzec",
-    "from": 1979,
-    "to": false
-  },
-  {
-    "name": "Pętla Piątkowska",
-    "from": 1980,
-    "to": false
-  },
-  {
-    "name": "Pętla Sczanieckiej",
-    "from": 1928,
-    "to": 1973
-  },
-  {
-    "name": "Pętla Starołęka",
-    "from": 1967,
-    "to": false
-  },
-  {
-    "name": "Pętla Stary Rynek",
-    "from": 1880,
-    "to": 1955
-  },
-  {
-    "name": "Pętla Sołacz",
-    "from": 1913,
-    "to": 1925
+    "name": "Pętla Bolkowicka",
+    "from": 1955,
+    "to": 1975
   },
   {
     "name": "Pętla Stomil",
@@ -95,13 +75,33 @@
     "to": false
   },
   {
-    "name": "Pętla Tama Garbarska",
-    "from": 1900,
-    "to": 1977
+    "name": "Pętla Zawady",
+    "from": 1959,
+    "to": false
   },
   {
-    "name": "Pętla Jana III Sobieskiego",
-    "from": 1997,
+    "name": "Pętla Osiedle Warszawskie",
+    "from": 1959,
+    "to": 1974
+  },
+  {
+    "name": "Pętla Wilczak",
+    "from": 1964,
+    "to": false
+  },
+  {
+    "name": "Pętla Starołęka",
+    "from": 1967,
+    "to": false
+  },
+  {
+    "name": "Pętla Miłostowo",
+    "from": 1974,
+    "to": false
+  },
+  {
+    "name": "Pętla Połabska",
+    "from": 1974,
     "to": false
   },
   {
@@ -115,28 +115,28 @@
     "to": 2011
   },
   {
-    "name": "Pętla Dworzec Główny",
-    "from": 1880,
-    "to": 1970
-  },
-  {
-    "name": "Pętla Wilczak",
-    "from": 1964,
+    "name": "Pętla Rataje Dworzec",
+    "from": 1979,
     "to": false
   },
   {
-    "name": "Pętla Zawady",
-    "from": 1959,
+    "name": "Pętla Piątkowska",
+    "from": 1980,
     "to": false
   },
   {
-    "name": "Pętla Łęgi Dębińskie",
-    "from": 1925,
-    "to": 1959
+    "name": "Pętla Jana III Sobieskiego",
+    "from": 1997,
+    "to": false
   },
   {
-    "name": "Pętla Winiary",
-    "from": 1935,
-    "to": 1980
+    "name": "Pętla Franowo",
+    "from": 2012,
+    "to": false
+  },
+  {
+    "name": "Pętla Dworzec Zachodni",
+    "from": 2013,
+    "to": false
   }
 ]

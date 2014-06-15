@@ -1,13 +1,14 @@
 var fs = require('fs'),
 	//data = JSON.parse(fs.readFileSync('osoby.json'));
-	data = JSON.parse(fs.readFileSync('db/tramwaj.json'));
+	//data = JSON.parse(fs.readFileSync('db/tramwaj.json'));
 	//data = JSON.parse(fs.readFileSync('bramy_festung.json'));
+	data = JSON.parse(fs.readFileSync('db/petle.json'));
 
 //console.log(data);
 
 // ................................
 //var since = 1820, to = 1860;
-var since = 1880, to = 2012;
+var since = 1880, to = 2014;
 // ................................
 
 var items = [];
@@ -16,13 +17,14 @@ var items = [];
 data.forEach(function(item) {
 
 	/**/
-	if (!item.from || !item.to) return;
+	//if (!item.from || !item.to) return;
+	if (!item.from) return;
 
 	items.push({
 		id: items.length,
 		label: item.name,
 		from: item.from,
-		to: item.to
+		to: item.to || to
 	});
 	/**/
 

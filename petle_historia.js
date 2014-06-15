@@ -31,6 +31,10 @@ client.getPagesInCategory('Infrastruktura', function(pages) {
 					to: to
 				});
 
+				items = items.sort(function(a, b) {
+					return a.from - b.from;
+				});
+
 				fs.writeFileSync('db/petle.json', JSON.stringify(items, null, '  '));
 			});
 		});
