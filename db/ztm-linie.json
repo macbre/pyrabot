@@ -2,13 +2,13 @@
   "1": {
     "petle": [
       "Franowo",
-      "Traugutta"
+      "Junikowo"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 15,
-    "czas": 20,
+    "przystanki": 30,
+    "czas": 42,
     "agency": "ZTM MPK"
   },
   "2": {
@@ -56,7 +56,7 @@
       "A"
     ],
     "przystanki": 28,
-    "czas": 46,
+    "czas": 43,
     "agency": "ZTM MPK"
   },
   "6": {
@@ -67,32 +67,32 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 34,
-    "czas": 44,
+    "przystanki": 37,
+    "czas": 48,
     "agency": "ZTM MPK"
   },
   "7": {
     "petle": [
-      "Traugutta",
+      "Ogrody",
       "Zawady"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 13,
-    "czas": 19,
+    "przystanki": 21,
+    "czas": 35,
     "agency": "ZTM MPK"
   },
   "8": {
     "petle": [
-      "Górczyn",
+      "Połabska",
       "Miłostowo"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 22,
-    "czas": 35,
+    "przystanki": 23,
+    "czas": 31,
     "agency": "ZTM MPK"
   },
   "9": {
@@ -109,26 +109,26 @@
   },
   "10": {
     "petle": [
-      "Połabska",
+      "Osiedle Jana III Sobieskiego",
       "Dębiec"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 21,
-    "czas": 32,
+    "przystanki": 20,
+    "czas": 31,
     "agency": "ZTM MPK"
   },
   "11": {
     "petle": [
-      "Ogrody",
+      "Starołęka",
       "Piątkowska"
     ],
     "strefy": [
       "A"
     ],
-    "przystanki": 23,
-    "czas": 39,
+    "przystanki": 36,
+    "czas": 55,
     "agency": "ZTM MPK"
   },
   "12": {
@@ -151,8 +151,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 33,
-    "czas": 45,
+    "przystanki": 34,
+    "czas": 47,
     "agency": "ZTM MPK"
   },
   "14": {
@@ -175,8 +175,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 19,
-    "czas": 28,
+    "przystanki": 20,
+    "czas": 30,
     "agency": "ZTM MPK"
   },
   "16": {
@@ -211,8 +211,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 23,
-    "czas": 38,
+    "przystanki": 21,
+    "czas": 32,
     "agency": "ZTM MPK"
   },
   "19": {
@@ -907,8 +907,8 @@
     "strefy": [
       "A"
     ],
-    "przystanki": 16,
-    "czas": 19,
+    "przystanki": 17,
+    "czas": 20,
     "agency": "ZTM MPK"
   },
   "234": {
@@ -1406,19 +1406,6 @@
     "przystanki": 39,
     "czas": 51,
     "agency": "ZTM ZKP"
-  },
-  "911": {
-    "petle": [
-      "Biedrusko/Park",
-      "Śródka Dworzec"
-    ],
-    "strefy": [
-      "A",
-      "B"
-    ],
-    "przystanki": 28,
-    "czas": 42,
-    "agency": "ZTM MPK"
   },
   "L": {
     "petle": [
