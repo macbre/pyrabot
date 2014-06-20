@@ -130,7 +130,7 @@ var linie = {},
 
 var l, lines = [];
 
-client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/routes_by_name.html.php?dbname=gtfs').then(function(page) {
+client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/routes_by_name.html.php').then(function(page) {
 	var links = page.match(/<a class='[^']+' href='[^']+'/g) || [],
 		lines = [];
 
@@ -156,7 +156,7 @@ lines.forEach(function(lineData) {
 	var url ='http://www.ztm.poznan.pl/gtfs-ztm/route_directions.html.php?route_name=' + line + '&agency_name=' + lineData.agency;
 
 	// nowe wersje rozkładu (przed zmianami tras)
-	url += '&dbname=gtfs';
+	//url += '&dbname=gtfs';
 
 	console.log("Linia " + line + " (" + lineData.agency + ")");
 
@@ -175,13 +175,13 @@ lines.forEach(function(lineData) {
 		};
 
 		if (timetableUrl) {
-			client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/' + timetableUrl[1] + '&dbname=gtfs').then(function(page) {
+			client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/' + timetableUrl[1] /**+ '&dbname=gtfs'**/).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
 
 		if (timetableLastUrl) {
-			client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/' + timetableLastUrl[1] + '&dbname=gtfs').then(function(page) {
+			client.fetchUrl('http://www.ztm.poznan.pl/gtfs-ztm/' + timetableLastUrl[1] /** + '&dbname=gtfs'**/).then(function(page) {
 				parseTimetable(page, line);
 			});
 		}
