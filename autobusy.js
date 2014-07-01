@@ -60,7 +60,8 @@ client.logIn(function(data) {
 |wydział=\n\
 |historia=\n\
 }}\n\
-{{Szkic}}"
+{{Szkic}}\n\
+{{Nawigacja Linie autobusowe}}"
 
 					//console.log(content); return;
 
