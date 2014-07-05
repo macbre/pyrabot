@@ -46,7 +46,6 @@ def read_data(file_name):
             streets[line[1]] = set()
 
         # numeracja
-        # 10b
         matches = re.findall('(\d+)', line[2])
         if matches is None:
             continue
@@ -54,10 +53,13 @@ def read_data(file_name):
         # 82/239 -> nr domu / nr lokalu -> tylko pierwsza wartość
         if '/' in line[2]:
             matches = matches[0:1]
-
         # 183-185 -> zakres
-        if '-' in line[2]:
+        elif '-' in line[2]:
             matches = range(int(matches[0]), int(matches[-1]) + 1)
+        # 10b
+        # 84paw5
+        else:
+            matches = matches[0:1]
 
         for match in matches:
             streets[line[1]].add(int(match))
