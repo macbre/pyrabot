@@ -15,7 +15,7 @@ class CsvReader:
     items = {}
 
     def __init__(self, file_name, delimiter='\t'):
-        csvfile = open(file_name)
+        csvfile = open(file_name, 'r')
         self.csv = csv.reader(csvfile, delimiter=delimiter)
 
         logger.info("Reading %s file..." % file_name)
@@ -74,6 +74,22 @@ class DlugoscUlic(CsvReader):
                 streets[street] = 0
 
             streets[street] += length
+
+        self.set_items(streets)
+
+
+class KodyPocztowe(CsvReader):
+    """ Dane o kodach pocztowych """
+    def read(self):
+        streets = {}
+
+        for line in self.get_csv_line():
+            street = line[1].replace('ul. ', '')
+
+            if street not in streets:
+                streets[street] = []
+
+            streets[street].append(line[0])
 
         self.set_items(streets)
 
@@ -151,11 +167,15 @@ class Numeracja(CsvReader):
 if __name__ == "__main__":
     # dane do JSONa
     res = {}
-    missing_length = 0
+    missing_data = 0
 
     # numeracja ulic
     numeracja = Numeracja("sources/ulice-numeracja.csv", "\t")
     numeracja.read()
+
+    # kody pocztowe
+    kody = KodyPocztowe("sources/kody-pocztowe.csv", "\t")
+    kody.read()
 
     # dlugości ulic
     dlugosci_podstawowe = DlugoscUlic("sources/ulice-ztm-podstawowy.csv", column=5)
@@ -174,16 +194,22 @@ if __name__ == "__main__":
     # generuj dane do kolejnych ulic
     for street in items:
         numbers = numeracja.get_item(street)
+        zip_codes = kody.get_item(street)
         length = dlugosci_podstawowe.get_item(street)\
             or dlugosci_uzupelniajace.get_item(street)\
             or dlugosci_wewnetrzne.get_item(street)
 
         if length is None:
             logger.warning("Brak informacji o długości dla %s" % street)
-            missing_length += 1
+            missing_data += 1
 
-        res[street] = {
+        if zip_codes is None:
+            logger.warning("Brak informacji o kodzie pocztowym dla %s" % street)
+            missing_data += 1
+
+        res[unicode(street, 'utf-8')] = {
             'numeracja': numbers,
+            'kody_pocztowe': ','.join(zip_codes) if zip_codes is not None else None,
             'dlugosc': length
         }
 
@@ -193,4 +219,4 @@ if __name__ == "__main__":
     f.close()
 
     logger.info("Zapisano dane o %d ulicach" % len(items))
-    logger.info("Brakująca informacja o długości dla %d ulic" % missing_length)
+    logger.info("Brakujące informacje dla %d ulic" % missing_data)
