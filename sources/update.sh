@@ -17,6 +17,12 @@ curl -s "http://www.zdm.poznan.pl/content/pliki/Ukl%20uzupelniajacy%20wg%20stanu
 echo "\n> Pobieram dane o ulicach wewnętrznych..."
 curl -s "http://www.zdm.poznan.pl/content/pliki/Uk%C5%82ad_uzupe%C5%82niaj%C4%85cy_wykaz_stan_na_I_2014.xls" > tmp.xls && xls2csv tmp.xls > ulice-ztm-wewnetrzne.csv
 
+# kody pocztowe
+echo "\n> Pobieram dane o kodach pocztowych..."
+curl -s "http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/Du%C5%BCe_miasta/Pozna%C5%84?action=raw" | grep "61-" | \
+	grep "; ul. " | awk -F " od " '{ print $1}' | awk -F "; " '{ print $1 "\t" $3 }' | sed 's/*//g' | sort \
+	> kody-pocztowe.csv
+
 #
 unlink tmp*
 echo "\nGotowe"
