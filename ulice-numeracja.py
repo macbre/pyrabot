@@ -73,7 +73,7 @@ def read_data(file_name):
     return streets
 
 if __name__ == "__main__":
-    data = read_data("db/ulice-numeracja.csv")
+    data = read_data("sources/ulice-numeracja.csv")
     res = []
 
     for street, numbers in data.iteritems():
