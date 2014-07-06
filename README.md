@@ -26,5 +26,7 @@ Repozytorium Pyrabota zawiera (w katalogu [/db](https://github.com/macbre/pyrabo
 * [Rok urodzenia i śmierci osób opisanych na wiki](https://raw.github.com/macbre/pyrabot/master/db/osoby.json)
 * [Przystanki końcowe oraz czas przejazdu linii ZTM](https://raw.github.com/macbre/pyrabot/master/db/ztm-linie.json)
 * [Linie kursujące poszczególnymi ulicami](https://raw.github.com/macbre/pyrabot/master/db/ztm-ulice.json)
-* [Baza długości ulic w Poznaniu](https://raw.github.com/macbre/pyrabot/master/db/ulice_dlugosc.json)
+* [Baza długości i numeracji ulic w Poznaniu](https://raw.github.com/macbre/pyrabot/master/db/ulice.json)
 * [Baza kodów pocztowy](https://raw.github.com/macbre/pyrabot/master/db/ulice_kody_pocztowe.json)
+
+Do wygenerowania powyższych plików wymagane są dane wejściowe - patrz katalog ``sources``.
