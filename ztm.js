@@ -23,12 +23,24 @@ function parseTimetable(page, line) {
 	var matches = page.match(routeRegExp);
 
 	if (matches) {
-		// parsuj trasę + usuń przystanki końcowe
-		var streets = matches[1].split(/-|–/).
-			slice(1, -1).
+		// parsuj trasę
+		var streets = matches[1].split(/-|–|,/).
 			map(function(item) {
 				return item.trim();
 			});
+
+		// usuń pętle (jeśli podane)
+		// SŁUPSKA - DĄBROWSKIEGO (wyjątek - linia 61)
+		if (streets.length > 2) {
+			//streets = streets.slice(1, -1);
+		}
+		else {
+			streets = streets,map(function(item) {
+				// DĄBROWSKIEGO -> Dąbrowskiego
+				return item.charAt(0) + item.substring(1).toLowerCase()
+			});
+			console.log('#' + line + ': krótka trasa!');
+		}
 
 		console.log('#' + line + ': ' + streets.join(', '));
 
@@ -49,6 +61,7 @@ function parseTimetable(page, line) {
 				replace('Ks. Mieszka', 'Księcia Mieszka').
 				replace('Piasnicka', 'Piaśnicka').
 				replace('Os. ', 'Osiedle ').
+				replace('pl. ', 'Plac '). // pl. Ratajskiego
 				replace('abpa ', ''). // abpa Dymka
 				replace('gen. ', ''). // gen. Maczka
 				replace(/^Niepodległości$/, 'Aleja Niepodległości');
@@ -96,6 +109,9 @@ function parseTimetable(page, line) {
 
 		// aktualizuj "bazę"
 		fs.writeFileSync('db/ztm-ulice.json', JSON.stringify(sortObject(ulice), null, '  '));
+	}
+	else {
+		console.log('%d: brak trasy!', line);
 	}
 
 	// przystanki na trasie
