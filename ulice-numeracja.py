@@ -34,9 +34,14 @@ class CsvReader:
     def get_items(self):
         return self.items.keys()
 
-    # spróbuj zmienić kolejność słów w pobieranym kluczu
-    # Marcinkowskiego Karola Aleje -> Aleje Karola Marcinkowskiego
     def get_item(self, key):
+        # spróbuj zmienić kolejność słów w pobieranym kluczu
+        # Święty Marcin -> Świętego Marcina
+        # św. Leonarda -> Świętego Leonarda
+        if ('św.' in key or 'Święty' in key) and key not in self.items:
+            key = key.replace('św.', 'Świętego').replace('Święty Marcin', 'Świętego Marcina')
+
+        # Marcinkowskiego Karola Aleje -> Aleje Karola Marcinkowskiego
         if ' ' in key and key not in self.items:
             words = key.split(' ')
             words.reverse()
