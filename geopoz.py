@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+"""
+Skrypt importujący dane z bazy Geopozu dot. ulic, mostów, wiaduktów, osiedle, parków i skwerów
+
+Dane o ulicach uzupełniane są przez kody pocztowe oraz informację o długości ulicy (źródło: ZDM)
+"""
+
 import csv
 import json
 import logging
@@ -41,7 +48,11 @@ class CsvReader:
         if ('św.' in key or 'Święty' in key) and key not in self.items:
             key = key.replace('św.', 'Świętego').replace('Święty Marcin', 'Świętego Marcina')
 
-        # Marcinkowskiego Karola Aleje -> Aleje Karola Marcinkowskiego
+        # Aleje Karola Marcinkowskiego -> Karola Marcinkowskiego
+        if ('Aleje' in key) and key not in self.items:
+            key = key.replace('Aleje ', '')
+
+        # Puszkina Aleksandra -> Aleksandra Puszkina
         if ' ' in key and key not in self.items:
             words = key.split(' ')
             words.reverse()
@@ -74,6 +85,10 @@ class DlugoscUlic(CsvReader):
             if 'bez nazwy' in street:
                 continue
 
+            # Niepodległości aleja -> Niepodległości
+            # Marcinkowskiego Karola Aleje -> Marcinkowskiego Karola
+            street = street.replace(' aleja', '').replace(' Aleje', '')
+
             # sumuj dlugosc
             if street not in streets:
                 streets[street] = 0
@@ -97,6 +112,16 @@ class KodyPocztowe(CsvReader):
             streets[street].append(line[0])
 
         self.set_items(streets)
+
+
+class Ulice(CsvReader):
+    """ Dane o ulicach """
+    def read(self):
+        for line in self.get_csv_line():
+            if line[0] not in ['ul.', 'al.']:
+                continue
+
+            self.push_item(line[1].strip(), value=True)
 
 
 class Numeracja(CsvReader):
@@ -137,10 +162,6 @@ class Numeracja(CsvReader):
             numbers = list(v)
             numbers.sort()
 
-            # prefixy
-            if k in ['Niepodległości', 'Armii Poznań', 'Wielkopolska']:
-                k = 'aleja ' + k
-
             self.push_item(k, ', '.join(self.get_ranges(numbers)))
 
     @staticmethod
@@ -174,6 +195,10 @@ if __name__ == "__main__":
     res = {}
     missing_data = 0
 
+    # baza ulic z Geopozu
+    ulice = Ulice("sources/geopoz.csv", "\t")
+    ulice.read()
+
     # numeracja ulic
     numeracja = Numeracja("sources/ulice-numeracja.csv", "\t")
     numeracja.read()
@@ -193,7 +218,7 @@ if __name__ == "__main__":
     dlugosci_wewnetrzne.read()
 
     # lista ulic
-    items = numeracja.get_items()
+    items = ulice.get_items()
     items.sort()
 
     # generuj dane do kolejnych ulic
@@ -212,7 +237,7 @@ if __name__ == "__main__":
             logger.warning("Brak informacji o kodzie pocztowym dla %s" % street)
             missing_data += 1
 
-        res[unicode(street, 'utf-8')] = {
+        res[street] = {
             'numeracja': numbers,
             'kody_pocztowe': ','.join(zip_codes) if zip_codes is not None else None,
             'dlugosc': length

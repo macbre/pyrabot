@@ -24,6 +24,11 @@
   "kody_pocztowe": "60-408", 
   "numeracja": "4, 6, 8"
  }, 
+ "9 Maja": {
+  "dlugosc": 844, 
+  "kody_pocztowe": "61-643", 
+  "numeracja": true
+ }, 
  "Adama Asnyka": {
   "dlugosc": 126, 
   "kody_pocztowe": "60-832", 
@@ -106,7 +111,7 @@
  }, 
  "Aleje Karola Marcinkowskiego": {
   "dlugosc": 648, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-745,61-827", 
   "numeracja": "1-4, 9, 11-16, 20-32"
  }, 
  "Aleje Solidarno\u015bci": {
@@ -158,6 +163,11 @@
   "dlugosc": 173, 
   "kody_pocztowe": "61-680", 
   "numeracja": "2-14, 16"
+ }, 
+ "Ananasowa": {
+  "dlugosc": 85, 
+  "kody_pocztowe": "61-601", 
+  "numeracja": true
  }, 
  "Andaluzyjska": {
   "dlugosc": 208, 
@@ -254,10 +264,20 @@
   "kody_pocztowe": "61-059", 
   "numeracja": "34-53"
  }, 
+ "Arme\u0144ska": {
+  "dlugosc": 405, 
+  "kody_pocztowe": "61-672", 
+  "numeracja": true
+ }, 
  "Armii Ludowej": {
   "dlugosc": 123, 
   "kody_pocztowe": "61-695", 
   "numeracja": "1-9, 11-23, 25"
+ }, 
+ "Armii Pozna\u0144": {
+  "dlugosc": 1657, 
+  "kody_pocztowe": "61-663", 
+  "numeracja": "15, 17"
  }, 
  "Arnikowa": {
   "dlugosc": 553, 
@@ -439,6 +459,11 @@
   "kody_pocztowe": "60-275,60-287", 
   "numeracja": "1, 3-13, 15, 17-33, 35, 37"
  }, 
+ "Benedykta Tadeusza Dybowskiego": {
+  "dlugosc": null, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Berdychowo": {
   "dlugosc": 184, 
   "kody_pocztowe": "61-131", 
@@ -489,6 +514,11 @@
   "kody_pocztowe": "60-416", 
   "numeracja": "1-2, 4, 6-10"
  }, 
+ "Bia\u0142oruska": {
+  "dlugosc": 297, 
+  "kody_pocztowe": "61-672", 
+  "numeracja": true
+ }, 
  "Bia\u0142ostocka": {
   "dlugosc": 144, 
   "kody_pocztowe": "61-047", 
@@ -534,10 +564,25 @@
   "kody_pocztowe": "60-416,60-463", 
   "numeracja": "1, 9-11, 19, 27-28, 30-38, 40-43, 45, 48-55, 58-67, 126, 129, 138, 140, 142, 144, 146, 148, 150"
  }, 
+ "Bitwy pod Siekierkami": {
+  "dlugosc": 288, 
+  "kody_pocztowe": "61-643", 
+  "numeracja": true
+ }, 
+ "Bitwy pod Studziankami": {
+  "dlugosc": 304, 
+  "kody_pocztowe": "61-643", 
+  "numeracja": true
+ }, 
  "Biwakowa": {
   "dlugosc": 557, 
   "kody_pocztowe": "60-480", 
   "numeracja": "1-19, 50"
+ }, 
+ "Bi\u0142gorajska": {
+  "dlugosc": 143, 
+  "kody_pocztowe": "61-056", 
+  "numeracja": true
  }, 
  "Blacharska": {
   "dlugosc": 208, 
@@ -639,6 +684,11 @@
   "kody_pocztowe": "61-414", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20"
  }, 
+ "Boles\u0142awa Kontryma": {
+  "dlugosc": null, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Boles\u0142awa Krysiewicza": {
   "dlugosc": 221, 
   "kody_pocztowe": "61-825", 
@@ -693,6 +743,11 @@
   "dlugosc": 2352, 
   "kody_pocztowe": "61-313", 
   "numeracja": "1-2, 4, 6, 8, 10, 12, 14, 16"
+ }, 
+ "Borowa": {
+  "dlugosc": 2289, 
+  "kody_pocztowe": "61-304", 
+  "numeracja": true
  }, 
  "Borowikowa": {
   "dlugosc": 187, 
@@ -764,6 +819,11 @@
   "kody_pocztowe": "60-454", 
   "numeracja": "2-8, 10, 12-16, 20, 23, 32, 36, 38, 40, 42"
  }, 
+ "Braterstwa Broni": {
+  "dlugosc": 341, 
+  "kody_pocztowe": "61-663", 
+  "numeracja": true
+ }, 
  "Bratkowa": {
   "dlugosc": 154, 
   "kody_pocztowe": "60-175", 
@@ -808,6 +868,11 @@
   "dlugosc": 203, 
   "kody_pocztowe": "61-324", 
   "numeracja": "4, 6-8"
+ }, 
+ "Brylantowa": {
+  "dlugosc": 137, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Brzask": {
   "dlugosc": 451, 
@@ -994,6 +1059,16 @@
   "kody_pocztowe": "60-001", 
   "numeracja": "1, 3-4"
  }, 
+ "Celichowskich": {
+  "dlugosc": 249, 
+  "kody_pocztowe": "61-680", 
+  "numeracja": true
+ }, 
+ "Ceramiczna": {
+  "dlugosc": 101, 
+  "kody_pocztowe": "60-001", 
+  "numeracja": true
+ }, 
  "Cetniewska": {
   "dlugosc": 320, 
   "kody_pocztowe": "60-446", 
@@ -1114,6 +1189,11 @@
   "kody_pocztowe": "60-224", 
   "numeracja": "3-10"
  }, 
+ "Ciasna": {
+  "dlugosc": 35, 
+  "kody_pocztowe": "61-101", 
+  "numeracja": true
+ }, 
  "Cicha": {
   "dlugosc": 359, 
   "kody_pocztowe": "61-710", 
@@ -1154,10 +1234,20 @@
   "kody_pocztowe": "60-176", 
   "numeracja": "6, 12, 18, 20, 22, 24, 26"
  }, 
+ "Conrada Drzewieckiego": {
+  "dlugosc": 70, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Cybi\u0144ska": {
   "dlugosc": 35, 
   "kody_pocztowe": "61-124", 
   "numeracja": "1-3, 5, 13, 15"
+ }, 
+ "Cynamonowa": {
+  "dlugosc": 235, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Cyniowa": {
   "dlugosc": 154, 
@@ -1169,10 +1259,25 @@
   "kody_pocztowe": "60-867", 
   "numeracja": "6-11, 13-15, 17-19, 21"
  }, 
+ "Cyprysowa": {
+  "dlugosc": 119, 
+  "kody_pocztowe": "61-449", 
+  "numeracja": true
+ }, 
  "Cyraneczki": {
   "dlugosc": 61, 
   "kody_pocztowe": null, 
   "numeracja": "1-3, 5"
+ }, 
+ "Cyrkoniowa": {
+  "dlugosc": 123, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
+ "Cytadelowc\u00f3w": {
+  "dlugosc": 602, 
+  "kody_pocztowe": "61-663", 
+  "numeracja": true
  }, 
  "Cytrynowa": {
   "dlugosc": 915, 
@@ -1238,6 +1343,11 @@
   "dlugosc": 269, 
   "kody_pocztowe": null, 
   "numeracja": "1"
+ }, 
+ "Czeladzka": {
+  "dlugosc": 393, 
+  "kody_pocztowe": "61-401", 
+  "numeracja": true
  }, 
  "Czempi\u0144ska": {
   "dlugosc": 85, 
@@ -1389,10 +1499,20 @@
   "kody_pocztowe": "61-503,61-504", 
   "numeracja": "1-10, 12-15, 17, 19, 21, 24-30"
  }, 
+ "Diamentowa": {
+  "dlugosc": 445, 
+  "kody_pocztowe": "61-680", 
+  "numeracja": true
+ }, 
  "Dniestrza\u0144ska": {
   "dlugosc": 233, 
   "kody_pocztowe": "60-412", 
   "numeracja": "1-8, 10-19"
+ }, 
+ "Do Alei": {
+  "dlugosc": 167, 
+  "kody_pocztowe": "61-628", 
+  "numeracja": true
  }, 
  "Dobiegniewska": {
   "dlugosc": 288, 
@@ -1459,6 +1579,11 @@
   "kody_pocztowe": "60-480", 
   "numeracja": "10"
  }, 
+ "Dolska": {
+  "dlugosc": 684, 
+  "kody_pocztowe": "61-205", 
+  "numeracja": true
+ }, 
  "Dominika\u0144ska": {
   "dlugosc": 146, 
   "kody_pocztowe": "61-762", 
@@ -1513,6 +1638,11 @@
   "dlugosc": 186, 
   "kody_pocztowe": "61-058", 
   "numeracja": "1-13, 15, 17, 19"
+ }, 
+ "Drzewna": {
+  "dlugosc": 165, 
+  "kody_pocztowe": "61-581", 
+  "numeracja": true
  }, 
  "Dukielska": {
   "dlugosc": 220, 
@@ -1669,6 +1799,11 @@
   "kody_pocztowe": "60-465", 
   "numeracja": "1-26, 28-30, 32-33, 35, 37-38, 40, 42, 44, 46-49, 52, 57, 59-65, 67-70, 72-90, 92, 94, 96"
  }, 
+ "Edwarda Stachury": {
+  "dlugosc": 142, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Edwarda Taylora": {
   "dlugosc": 75, 
   "kody_pocztowe": "61-897", 
@@ -1699,6 +1834,11 @@
   "kody_pocztowe": "60-215,60-216", 
   "numeracja": "1-12, 14, 16"
  }, 
+ "Esto\u0144ska": {
+  "dlugosc": 478, 
+  "kody_pocztowe": "61-672", 
+  "numeracja": true
+ }, 
  "Eugeniusza Kwiatkowskiego": {
   "dlugosc": 1385, 
   "kody_pocztowe": "61-417", 
@@ -1708,6 +1848,11 @@
   "dlugosc": 144, 
   "kody_pocztowe": null, 
   "numeracja": "1, 3-10, 12"
+ }, 
+ "Eugeniusza Piaseckiego": {
+  "dlugosc": 423, 
+  "kody_pocztowe": "61-285", 
+  "numeracja": true
  }, 
  "Eurypidesa": {
   "dlugosc": 329, 
@@ -1939,6 +2084,11 @@
   "kody_pocztowe": "60-815", 
   "numeracja": "1, 3-4, 6, 8, 10, 12, 14"
  }, 
+ "Galeonowa": {
+  "dlugosc": 42, 
+  "kody_pocztowe": "60-480", 
+  "numeracja": true
+ }, 
  "Galileusza": {
   "dlugosc": 762, 
   "kody_pocztowe": "60-159", 
@@ -1994,6 +2144,11 @@
   "kody_pocztowe": null, 
   "numeracja": "1-10, 13, 15, 17-27, 29-32, 37, 39-43, 45-47"
  }, 
+ "Gieorgija Dobrowolskiego": {
+  "dlugosc": 298, 
+  "kody_pocztowe": "61-621", 
+  "numeracja": true
+ }, 
  "Gi\u017cycka": {
   "dlugosc": 324, 
   "kody_pocztowe": "60-106", 
@@ -2008,6 +2163,11 @@
   "dlugosc": 1782, 
   "kody_pocztowe": "61-312", 
   "numeracja": "1-62, 64, 66, 68, 70, 72, 74, 76, 78"
+ }, 
+ "Gliniana": {
+  "dlugosc": 66, 
+  "kody_pocztowe": "60-001", 
+  "numeracja": true
  }, 
  "Glinianki": {
   "dlugosc": 279, 
@@ -2199,6 +2359,11 @@
   "kody_pocztowe": "61-059", 
   "numeracja": "4, 6, 8, 10, 14, 18, 20, 22"
  }, 
+ "Grodzie\u0144ska": {
+  "dlugosc": 423, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Grodziska": {
   "dlugosc": 1094, 
   "kody_pocztowe": "60-363,60-564", 
@@ -2249,6 +2414,11 @@
   "kody_pocztowe": "61-426,61-474", 
   "numeracja": "1-13"
  }, 
+ "Gruzi\u0144ska": {
+  "dlugosc": 397, 
+  "kody_pocztowe": "61-672", 
+  "numeracja": true
+ }, 
  "Gryfi\u0144ska": {
   "dlugosc": 513, 
   "kody_pocztowe": "60-192", 
@@ -2258,6 +2428,11 @@
   "dlugosc": 185, 
   "kody_pocztowe": "61-472", 
   "numeracja": "2-32"
+ }, 
+ "Gr\u00f3jecka": {
+  "dlugosc": 93, 
+  "kody_pocztowe": "61-335", 
+  "numeracja": true
  }, 
  "Gr\u0105bczowska": {
   "dlugosc": 304, 
@@ -2488,6 +2663,11 @@
   "dlugosc": 98, 
   "kody_pocztowe": "61-332", 
   "numeracja": "3-5, 7-10, 12, 14, 16"
+ }, 
+ "Henryka Jordana": {
+  "dlugosc": 250, 
+  "kody_pocztowe": "61-555", 
+  "numeracja": true
  }, 
  "Henryka Kowal\u00f3wki": {
   "dlugosc": 101, 
@@ -2744,6 +2924,11 @@
   "kody_pocztowe": "60-480", 
   "numeracja": "1-17, 19-29, 31-33, 35, 37-38, 41, 43, 45-46"
  }, 
+ "Jacka Malczewskiego": {
+  "dlugosc": 54, 
+  "kody_pocztowe": "61-407", 
+  "numeracja": true
+ }, 
  "Jadwigi \u0141uszczewskiej": {
   "dlugosc": 103, 
   "kody_pocztowe": null, 
@@ -2758,6 +2943,11 @@
   "dlugosc": 713, 
   "kody_pocztowe": "60-202,60-203", 
   "numeracja": "3, 5, 7, 9, 11, 13, 15-23, 25-26, 31, 33, 35-37, 39-40, 42, 44, 46, 48, 50, 52, 54-56, 58"
+ }, 
+ "Jana Baptysty Quadro": {
+  "dlugosc": null, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Jana Brzechwy": {
   "dlugosc": 1139, 
@@ -2788,6 +2978,11 @@
   "dlugosc": null, 
   "kody_pocztowe": null, 
   "numeracja": "3, 5, 7-10, 12, 14-15, 17-18, 20, 23-30, 32-36, 38-47, 49-54, 56-58, 60, 62-73, 75-82, 84, 86-98, 100, 102, 104-118, 120, 122-124, 127, 129-130, 132-134, 136-141, 143-144, 146-147, 149, 151-156, 158-160, 162-166, 168-172, 174-175, 177, 179, 181-203, 205, 211, 213, 215, 217, 219, 221, 223, 225, 227, 229, 231, 233, 235, 237, 239, 241, 243, 245, 249, 251-253, 255, 257, 259, 261, 263, 265, 267, 269, 271, 273, 275, 277, 279, 281-283, 285-310, 312, 314-316, 318, 320, 322, 324, 326, 328, 330, 332-339, 341, 343, 345, 347, 349, 351, 353, 355, 357, 383, 385, 387, 399, 419, 425, 427, 431, 435, 437, 439, 441, 443, 445, 447, 449, 451, 453, 455, 457-459, 461, 465, 467, 469-470, 472-473, 475, 479, 481, 483, 485, 487, 489, 493, 495, 497, 499, 501, 503, 505-507, 509, 511, 513, 515, 517, 525, 527, 529, 531, 533, 536, 543-544, 550-554, 556, 558, 560, 562, 566, 568, 570, 572, 574"
+ }, 
+ "Jana Karskiego": {
+  "dlugosc": 220, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Jana Kasprowicza": {
   "dlugosc": 424, 
@@ -2869,10 +3064,20 @@
   "kody_pocztowe": "61-418", 
   "numeracja": "1, 3-7, 9, 11-37, 39, 41, 43, 45, 47, 49, 51, 53"
  }, 
+ "Jana Piwnika": {
+  "dlugosc": null, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Jana Rakowicza": {
   "dlugosc": 238, 
   "kody_pocztowe": "60-475", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18-39, 41, 43"
+ }, 
+ "Jana Rodowicza": {
+  "dlugosc": 98, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Jana Rymarkiewicza": {
   "dlugosc": 258, 
@@ -2928,6 +3133,11 @@
   "dlugosc": null, 
   "kody_pocztowe": null, 
   "numeracja": "1-25, 27, 29, 31, 33, 35, 37, 39"
+ }, 
+ "Janis\u0142awy": {
+  "dlugosc": 92, 
+  "kody_pocztowe": "61-057", 
+  "numeracja": true
  }, 
  "Janosika": {
   "dlugosc": 202, 
@@ -3024,6 +3234,11 @@
   "kody_pocztowe": "60-115", 
   "numeracja": "1-2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26"
  }, 
+ "Jask\u00f3\u0142cza": {
+  "dlugosc": 65, 
+  "kody_pocztowe": "61-836", 
+  "numeracja": true
+ }, 
  "Jasna": {
   "dlugosc": 336, 
   "kody_pocztowe": "60-198", 
@@ -3049,6 +3264,16 @@
   "kody_pocztowe": "60-472", 
   "numeracja": "5, 7, 9, 11, 13, 15, 17"
  }, 
+ "Jastrowska": {
+  "dlugosc": 1533, 
+  "kody_pocztowe": "60-461", 
+  "numeracja": true
+ }, 
+ "Jastrz\u0119bia": {
+  "dlugosc": 253, 
+  "kody_pocztowe": "61-397", 
+  "numeracja": true
+ }, 
  "Jawornicka": {
   "dlugosc": 794, 
   "kody_pocztowe": "60-161", 
@@ -3058,6 +3283,11 @@
   "dlugosc": 683, 
   "kody_pocztowe": "61-453,61-454,61-462,61-468", 
   "numeracja": "15, 17, 19, 21, 23, 30-32, 34, 36, 38, 40, 42-43, 45-52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82"
+ }, 
+ "Ja\u0142owcowa": {
+  "dlugosc": 283, 
+  "kody_pocztowe": "61-472", 
+  "numeracja": true
  }, 
  "Ja\u015bminowa": {
   "dlugosc": 179, 
@@ -3073,6 +3303,11 @@
   "dlugosc": 1083, 
   "kody_pocztowe": "60-179", 
   "numeracja": "1, 4-5, 7-8, 10, 12, 14, 16, 18-20, 22, 24, 26"
+ }, 
+ "Jelitkowska": {
+  "dlugosc": 162, 
+  "kody_pocztowe": "60-446", 
+  "numeracja": true
  }, 
  "Jemio\u0142owa": {
   "dlugosc": 149, 
@@ -3139,6 +3374,11 @@
   "kody_pocztowe": "60-149,60-301", 
   "numeracja": "3, 5, 7, 9-23, 25-26, 28, 30-34, 36, 38, 41, 43-45, 47-57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79"
  }, 
+ "Juliana Le\u0144skiego": {
+  "dlugosc": 409, 
+  "kody_pocztowe": "61-679", 
+  "numeracja": true
+ }, 
  "Juliana Niemcewicza": {
   "dlugosc": 136, 
   "kody_pocztowe": "60-573", 
@@ -3178,6 +3418,11 @@
   "dlugosc": 963, 
   "kody_pocztowe": "60-163", 
   "numeracja": "1-2, 4-9, 11, 13, 15-43, 45-56, 58, 60, 62, 64"
+ }, 
+ "Juracka": {
+  "dlugosc": 331, 
+  "kody_pocztowe": "61-145", 
+  "numeracja": true
  }, 
  "Juranda": {
   "dlugosc": 297, 
@@ -3219,6 +3464,11 @@
   "kody_pocztowe": "60-255,60-256,60-257,60-258,60-259,60-261", 
   "numeracja": "2, 4, 6-7, 9, 11-13, 15-50, 52, 54, 56"
  }, 
+ "J\u00f3zefa Dowbora-Mu\u015bnickiego": {
+  "dlugosc": 132, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "J\u00f3zefa Edwarda Grobelnego": {
   "dlugosc": null, 
   "kody_pocztowe": null, 
@@ -3238,6 +3488,11 @@
   "dlugosc": 149, 
   "kody_pocztowe": "61-415", 
   "numeracja": "1-17, 19"
+ }, 
+ "J\u00f3zefa Kostrzewskiego": {
+  "dlugosc": 374, 
+  "kody_pocztowe": "60-685", 
+  "numeracja": true
  }, 
  "J\u00f3zefa Ko\u015bcielskiego": {
   "dlugosc": 138, 
@@ -3323,6 +3578,11 @@
   "dlugosc": 166, 
   "kody_pocztowe": "60-177", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21-23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47"
+ }, 
+ "J\u0119czmienna": {
+  "dlugosc": 165, 
+  "kody_pocztowe": "61-668", 
+  "numeracja": true
  }, 
  "J\u0119drzejowska": {
   "dlugosc": 1325, 
@@ -3449,6 +3709,11 @@
   "kody_pocztowe": "60-461", 
   "numeracja": "2, 4, 6, 8"
  }, 
+ "Karola Kurpi\u0144skiego": {
+  "dlugosc": 791, 
+  "kody_pocztowe": "60-681", 
+  "numeracja": true
+ }, 
  "Karola Libelta": {
   "dlugosc": 221, 
   "kody_pocztowe": "61-706,61-707", 
@@ -3534,6 +3799,11 @@
   "kody_pocztowe": "61-606", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32"
  }, 
+ "Kazimierza Brandysa": {
+  "dlugosc": 94, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Kazimierza Brossa": {
   "dlugosc": 239, 
   "kody_pocztowe": "60-177", 
@@ -3553,6 +3823,11 @@
   "dlugosc": 110, 
   "kody_pocztowe": "61-494", 
   "numeracja": "1, 3, 5, 7, 9"
+ }, 
+ "Kazimierza Nie\u017cychowskiego": {
+  "dlugosc": 108, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Kazimierza Pu\u0142askiego": {
   "dlugosc": 980, 
@@ -3624,6 +3899,11 @@
   "kody_pocztowe": "60-542", 
   "numeracja": "1-24, 26, 28"
  }, 
+ "Klementyny Hoffmanowej": {
+  "dlugosc": 236, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Klenowska": {
   "dlugosc": 878, 
   "kody_pocztowe": "61-302", 
@@ -3694,6 +3974,11 @@
   "kody_pocztowe": "61-602", 
   "numeracja": "3-5, 11-18"
  }, 
+ "Kolbuszowska": {
+  "dlugosc": 1556, 
+  "kody_pocztowe": "61-335", 
+  "numeracja": true
+ }, 
  "Kolejowa": {
   "dlugosc": 1359, 
   "kody_pocztowe": "60-715,60-716,60-717,60-718,60-719,60-720", 
@@ -3748,6 +4033,21 @@
   "dlugosc": 257, 
   "kody_pocztowe": "61-041", 
   "numeracja": "1, 3-28, 30"
+ }, 
+ "Konopna": {
+  "dlugosc": 576, 
+  "kody_pocztowe": "61-603", 
+  "numeracja": true
+ }, 
+ "Konstancji \u0141ubie\u0144skiej": {
+  "dlugosc": 933, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
+ "Konstantego Hrynakowskiego": {
+  "dlugosc": 110, 
+  "kody_pocztowe": "60-177", 
+  "numeracja": true
  }, 
  "Konstantego Ildefonsa Ga\u0142czy\u0144skiego": {
   "dlugosc": null, 
@@ -3949,6 +4249,11 @@
   "kody_pocztowe": "60-461", 
   "numeracja": "4, 6, 8, 10, 13-14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 38, 40, 42, 44, 46, 48, 50, 52, 54"
  }, 
+ "Krakowiak\u00f3w i G\u00f3rali": {
+  "dlugosc": 434, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Krakowska": {
   "dlugosc": 543, 
   "kody_pocztowe": "61-889,61-893", 
@@ -3973,6 +4278,11 @@
   "dlugosc": 1911, 
   "kody_pocztowe": "61-021,61-022,61-033,61-035,61-036,61-037,61-046,61-048", 
   "numeracja": "2-3, 5-7, 9-12, 14, 18, 20, 24, 27-29, 31, 35, 37, 39-45, 47-55, 57, 59, 61, 63, 67, 69, 71, 73, 75, 77, 79, 83, 89, 91, 98"
+ }, 
+ "Kra\u015bnicka": {
+  "dlugosc": 271, 
+  "kody_pocztowe": "61-335", 
+  "numeracja": true
  }, 
  "Kresowa": {
   "dlugosc": 787, 
@@ -4004,6 +4314,11 @@
   "kody_pocztowe": "60-162", 
   "numeracja": "1-28"
  }, 
+ "Krucza": {
+  "dlugosc": 491, 
+  "kody_pocztowe": "61-387", 
+  "numeracja": true
+ }, 
  "Kruszwicka": {
   "dlugosc": 202, 
   "kody_pocztowe": "61-045", 
@@ -4023,6 +4338,16 @@
   "dlugosc": 106, 
   "kody_pocztowe": "61-680", 
   "numeracja": "1-2, 4-6, 8-17, 19"
+ }, 
+ "Krywicza\u0144ska": {
+  "dlugosc": 151, 
+  "kody_pocztowe": "61-614", 
+  "numeracja": true
+ }, 
+ "Krzemieniowa": {
+  "dlugosc": 247, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Krzepicka": {
   "dlugosc": 251, 
@@ -4139,6 +4464,11 @@
   "kody_pocztowe": "60-618", 
   "numeracja": "1, 3-4"
  }, 
+ "Kuku\u0142cza": {
+  "dlugosc": 420, 
+  "kody_pocztowe": "61-373", 
+  "numeracja": true
+ }, 
  "Kupa\u0142y": {
   "dlugosc": 189, 
   "kody_pocztowe": "61-614", 
@@ -4153,6 +4483,11 @@
   "dlugosc": 52, 
   "kody_pocztowe": "60-602", 
   "numeracja": "1, 4, 6, 8"
+ }, 
+ "Kurzanoga": {
+  "dlugosc": 59, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Kutnowska": {
   "dlugosc": 224, 
@@ -4203,6 +4538,11 @@
   "dlugosc": 293, 
   "kody_pocztowe": "60-115", 
   "numeracja": "3-4, 6-13, 15, 17, 19"
+ }, 
+ "K\u0142ecka": {
+  "dlugosc": 63, 
+  "kody_pocztowe": "61-045", 
+  "numeracja": true
  }, 
  "K\u0142osowa": {
   "dlugosc": 261, 
@@ -4489,6 +4829,11 @@
   "kody_pocztowe": "60-473", 
   "numeracja": "4, 6, 8-10, 14"
  }, 
+ "Lubosi\u0144ska": {
+  "dlugosc": 44, 
+  "kody_pocztowe": "60-427", 
+  "numeracja": true
+ }, 
  "Lubowska": {
   "dlugosc": 1357, 
   "kody_pocztowe": "60-433,60-454", 
@@ -4513,6 +4858,11 @@
   "dlugosc": 84, 
   "kody_pocztowe": "61-406", 
   "numeracja": "1-11"
+ }, 
+ "Ludgardy": {
+  "dlugosc": 68, 
+  "kody_pocztowe": "61-770", 
+  "numeracja": true
  }, 
  "Ludmi\u0142y": {
   "dlugosc": 474, 
@@ -4569,6 +4919,11 @@
   "kody_pocztowe": null, 
   "numeracja": "5, 7-9, 11-12, 15, 17, 19, 21, 23, 25, 27"
  }, 
+ "Lw\u00f3wecka": {
+  "dlugosc": 78, 
+  "kody_pocztowe": "60-012", 
+  "numeracja": true
+ }, 
  "L\u0105decka": {
   "dlugosc": 124, 
   "kody_pocztowe": "60-464", 
@@ -4604,6 +4959,11 @@
   "kody_pocztowe": "61-615", 
   "numeracja": "1-17, 19, 21-24, 26, 28-32, 34-36, 38, 40, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72"
  }, 
+ "Magazynowa": {
+  "dlugosc": 534, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Magnacka": {
   "dlugosc": 203, 
   "kody_pocztowe": "60-685", 
@@ -4613,6 +4973,16 @@
   "dlugosc": 806, 
   "kody_pocztowe": "60-175", 
   "numeracja": "3-24, 26, 28, 33-38, 44"
+ }, 
+ "Majerankowa": {
+  "dlugosc": 56, 
+  "kody_pocztowe": "61-680", 
+  "numeracja": true
+ }, 
+ "Majowa": {
+  "dlugosc": 64, 
+  "kody_pocztowe": "60-592", 
+  "numeracja": true
  }, 
  "Makoszowska": {
   "dlugosc": 417, 
@@ -4954,6 +5324,16 @@
   "kody_pocztowe": "61-344", 
   "numeracja": "4, 7, 9-29"
  }, 
+ "Miecznikowska": {
+  "dlugosc": 191, 
+  "kody_pocztowe": "60-325", 
+  "numeracja": true
+ }, 
+ "Mieczykowa": {
+  "dlugosc": 88, 
+  "kody_pocztowe": "60-175", 
+  "numeracja": true
+ }, 
  "Mieczys\u0142awa Jastruna": {
   "dlugosc": 136, 
   "kody_pocztowe": null, 
@@ -4989,6 +5369,11 @@
   "kody_pocztowe": "60-008,61-408", 
   "numeracja": "2, 4, 19, 21, 27, 32, 56, 58"
  }, 
+ "Mieszkowska": {
+  "dlugosc": 501, 
+  "kody_pocztowe": "61-213", 
+  "numeracja": true
+ }, 
  "Migda\u0142owa": {
   "dlugosc": 1170, 
   "kody_pocztowe": "61-612", 
@@ -5019,6 +5404,11 @@
   "kody_pocztowe": null, 
   "numeracja": "1-13"
  }, 
+ "Miko\u0142owska": {
+  "dlugosc": 505, 
+  "kody_pocztowe": "60-102", 
+  "numeracja": true
+ }, 
  "Mikstacka": {
   "dlugosc": 137, 
   "kody_pocztowe": "60-163", 
@@ -5048,6 +5438,11 @@
   "dlugosc": 114, 
   "kody_pocztowe": "60-182", 
   "numeracja": "3-16, 18, 20-35, 37"
+ }, 
+ "Miros\u0142awy": {
+  "dlugosc": 224, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Mirtowa": {
   "dlugosc": 194, 
@@ -5158,6 +5553,11 @@
   "dlugosc": 169, 
   "kody_pocztowe": "61-474", 
   "numeracja": "1-9, 11-13, 15-16"
+ }, 
+ "Morenowa": {
+  "dlugosc": 1140, 
+  "kody_pocztowe": "61-680", 
+  "numeracja": true
  }, 
  "Morska": {
   "dlugosc": 229, 
@@ -5283,6 +5683,11 @@
   "dlugosc": 218, 
   "kody_pocztowe": "61-721", 
   "numeracja": "1"
+ }, 
+ "Na Skarpie": {
+  "dlugosc": 563, 
+  "kody_pocztowe": "61-164", 
+  "numeracja": true
  }, 
  "Na Stoku": {
   "dlugosc": 829, 
@@ -5458,6 +5863,11 @@
   "dlugosc": 253, 
   "kody_pocztowe": "60-412", 
   "numeracja": "4-11, 13-19, 21"
+ }, 
+ "Niepodleg\u0142o\u015bci": {
+  "dlugosc": 2519, 
+  "kody_pocztowe": "61-712,61-713,61-714,61-874,61-875", 
+  "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 22, 24, 26-36, 39, 41, 43, 51, 53, 55, 59, 109"
  }, 
  "Niepo\u0142omicka": {
   "dlugosc": 76, 
@@ -5639,6 +6049,11 @@
   "kody_pocztowe": "61-820,61-821", 
   "numeracja": "2-6, 8-20"
  }, 
+ "Ojcowska": {
+  "dlugosc": 80, 
+  "kody_pocztowe": "61-333", 
+  "numeracja": true
+ }, 
  "Okolewo": {
   "dlugosc": 707, 
   "kody_pocztowe": "61-680", 
@@ -5763,6 +6178,11 @@
   "dlugosc": 662, 
   "kody_pocztowe": "60-012", 
   "numeracja": "3, 5, 7, 9, 11, 13, 15, 19, 21, 23"
+ }, 
+ "Orla": {
+  "dlugosc": 231, 
+  "kody_pocztowe": "61-164", 
+  "numeracja": true
  }, 
  "Orl\u0105t": {
   "dlugosc": 66, 
@@ -5969,6 +6389,11 @@
   "kody_pocztowe": "61-657", 
   "numeracja": "2-34, 36"
  }, 
+ "Pastelowa": {
+  "dlugosc": 405, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Pasterska": {
   "dlugosc": 567, 
   "kody_pocztowe": "61-625", 
@@ -6073,6 +6498,11 @@
   "dlugosc": 550, 
   "kody_pocztowe": "61-492,61-556", 
   "numeracja": "35, 38, 40, 48, 71, 98"
+ }, 
+ "Pia\u015bnicka": {
+  "dlugosc": 1327, 
+  "kody_pocztowe": "61-243", 
+  "numeracja": true
  }, 
  "Piekary": {
   "dlugosc": 258, 
@@ -6219,6 +6649,11 @@
   "kody_pocztowe": "61-367", 
   "numeracja": "1, 4-29, 31, 33, 35, 37, 39, 41, 43, 45, 47"
  }, 
+ "Pod Lipami": {
+  "dlugosc": 695, 
+  "kody_pocztowe": "61-628", 
+  "numeracja": true
+ }, 
  "Podbia\u0142owa": {
   "dlugosc": 234, 
   "kody_pocztowe": "61-680", 
@@ -6303,6 +6738,11 @@
   "dlugosc": 150, 
   "kody_pocztowe": "60-328", 
   "numeracja": "1, 3-13"
+ }, 
+ "Podwale": {
+  "dlugosc": 475, 
+  "kody_pocztowe": "61-128", 
+  "numeracja": true
  }, 
  "Pogodna": {
   "dlugosc": 1280, 
@@ -6464,6 +6904,11 @@
   "kody_pocztowe": "61-312", 
   "numeracja": "1-9, 11-13, 15, 17-19"
  }, 
+ "Po\u0142abska": {
+  "dlugosc": 779, 
+  "kody_pocztowe": "61-643", 
+  "numeracja": true
+ }, 
  "Po\u0142aniecka": {
   "dlugosc": 198, 
   "kody_pocztowe": "61-335", 
@@ -6484,6 +6929,11 @@
   "kody_pocztowe": "60-284", 
   "numeracja": "20, 22"
  }, 
+ "Prabucka": {
+  "dlugosc": 120, 
+  "kody_pocztowe": "60-446", 
+  "numeracja": true
+ }, 
  "Promienista": {
   "dlugosc": 2529, 
   "kody_pocztowe": "60-141,60-142,60-157,60-276,60-288,60-289", 
@@ -6493,6 +6943,11 @@
   "dlugosc": 141, 
   "kody_pocztowe": "60-393,60-395", 
   "numeracja": "2, 4"
+ }, 
+ "Prosta": {
+  "dlugosc": 211, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Prowansalska": {
   "dlugosc": 173, 
@@ -6859,6 +7314,11 @@
   "kody_pocztowe": "61-402", 
   "numeracja": "1-2"
  }, 
+ "Redarowska": {
+  "dlugosc": 417, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Regatowa": {
   "dlugosc": 423, 
   "kody_pocztowe": "60-480", 
@@ -6883,6 +7343,11 @@
   "dlugosc": 368, 
   "kody_pocztowe": null, 
   "numeracja": "17, 42"
+ }, 
+ "Republik": {
+  "dlugosc": 2261, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Retma\u0144ska": {
   "dlugosc": 353, 
@@ -7149,6 +7614,11 @@
   "kody_pocztowe": null, 
   "numeracja": "3, 5-7, 9, 11, 13, 15, 17, 19"
  }, 
+ "Rynkowa": {
+  "dlugosc": 31, 
+  "kody_pocztowe": "61-768", 
+  "numeracja": true
+ }, 
  "Rypi\u0144ska": {
   "dlugosc": 61, 
   "kody_pocztowe": null, 
@@ -7163,6 +7633,11 @@
   "dlugosc": 93, 
   "kody_pocztowe": "60-765", 
   "numeracja": "1-2, 5"
+ }, 
+ "Rzecza\u0144ska": {
+  "dlugosc": 403, 
+  "kody_pocztowe": "61-249", 
+  "numeracja": true
  }, 
  "Rzeczna": {
   "dlugosc": 241, 
@@ -7193,6 +7668,11 @@
   "dlugosc": 335, 
   "kody_pocztowe": "61-577", 
   "numeracja": "1, 4-6, 9-10, 12-19, 21-23"
+ }, 
+ "R\u00f3\u017cany Targ": {
+  "dlugosc": 72, 
+  "kody_pocztowe": "61-772", 
+  "numeracja": true
  }, 
  "R\u00f3\u017cyczkowa": {
   "dlugosc": 354, 
@@ -7308,6 +7788,11 @@
   "dlugosc": 228, 
   "kody_pocztowe": "61-313", 
   "numeracja": "1-10"
+ }, 
+ "Serwisowa": {
+  "dlugosc": 731, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Seweryna Miel\u017cy\u0144skiego": {
   "dlugosc": 146, 
@@ -7449,6 +7934,11 @@
   "kody_pocztowe": null, 
   "numeracja": "1-21, 23, 28, 30-35, 37-39, 41"
  }, 
+ "Sk\u00f3rzewska": {
+  "dlugosc": 648, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Sk\u0142adowa": {
   "dlugosc": 472, 
   "kody_pocztowe": "61-588,61-888,61-897", 
@@ -7463,6 +7953,11 @@
   "dlugosc": 162, 
   "kody_pocztowe": null, 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42"
+ }, 
+ "Smole\u0144ska": {
+  "dlugosc": 509, 
+  "kody_pocztowe": "60-685", 
+  "numeracja": true
  }, 
  "Smolna": {
   "dlugosc": 483, 
@@ -7569,6 +8064,11 @@
   "kody_pocztowe": "61-565", 
   "numeracja": "1"
  }, 
+ "Spichrzowa": {
+  "dlugosc": 716, 
+  "kody_pocztowe": "61-581", 
+  "numeracja": true
+ }, 
  "Spokojna": {
   "dlugosc": 232, 
   "kody_pocztowe": null, 
@@ -7599,10 +8099,20 @@
   "kody_pocztowe": "61-065", 
   "numeracja": "4"
  }, 
+ "Stanis\u0142awa Broniewskiego": {
+  "dlugosc": 347, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Stanis\u0142awa Czernika": {
   "dlugosc": 42, 
   "kody_pocztowe": "60-194", 
   "numeracja": "1-8"
+ }, 
+ "Stanis\u0142awa Dygata": {
+  "dlugosc": 69, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Stanis\u0142awa Grochowiaka": {
   "dlugosc": 191, 
@@ -7624,6 +8134,11 @@
   "kody_pocztowe": "60-195", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28-33, 35-44"
  }, 
+ "Stanis\u0142awa Jakiela": {
+  "dlugosc": 111, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Stanis\u0142awa Karwowskiego": {
   "dlugosc": 141, 
   "kody_pocztowe": "60-724", 
@@ -7638,6 +8153,11 @@
   "dlugosc": 365, 
   "kody_pocztowe": "61-114,61-115", 
   "numeracja": "3-12, 14, 20, 22, 24, 26, 28, 30, 32, 34"
+ }, 
+ "Stanis\u0142awa Kr\u00f3lickiego": {
+  "dlugosc": 85, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Stanis\u0142awa Kunickiego": {
   "dlugosc": 298, 
@@ -7684,10 +8204,20 @@
   "kody_pocztowe": "60-355,60-356,60-357,60-561,60-562,60-563", 
   "numeracja": "1, 3, 5, 7-46, 48-50, 52, 54, 56, 58, 60, 62, 64, 66"
  }, 
+ "Stanis\u0142awa Rostworowskiego": {
+  "dlugosc": 641, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Stanis\u0142awa Rungego": {
   "dlugosc": 87, 
   "kody_pocztowe": null, 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18"
+ }, 
+ "Stanis\u0142awa Skalskiego": {
+  "dlugosc": 655, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Stanis\u0142awa Skar\u017cy\u0144skiego": {
   "dlugosc": 236, 
@@ -7718,6 +8248,11 @@
   "dlugosc": 334, 
   "kody_pocztowe": "60-681", 
   "numeracja": "2, 5-6, 8, 10, 12, 14-16, 18"
+ }, 
+ "Stanis\u0142awa Wiechowicza": {
+  "dlugosc": 392, 
+  "kody_pocztowe": "60-681", 
+  "numeracja": true
  }, 
  "Stanis\u0142awa Wigury": {
   "dlugosc": 304, 
@@ -8109,6 +8644,11 @@
   "kody_pocztowe": "61-306,61-311,61-313", 
   "numeracja": "4, 6, 8, 11, 13, 15, 17, 19-26, 28, 30, 32-86, 88-116, 118, 120-144, 146-163, 165, 167-169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 201, 203, 209"
  }, 
+ "Szczytnicka": {
+  "dlugosc": 345, 
+  "kody_pocztowe": "61-167", 
+  "numeracja": true
+ }, 
  "Szcz\u0119sna": {
   "dlugosc": 187, 
   "kody_pocztowe": "60-587", 
@@ -8339,6 +8879,11 @@
   "kody_pocztowe": "61-715,61-716,61-717,61-891,61-892", 
   "numeracja": "1, 42, 57, 68, 70-77, 79-80, 82, 84, 86-87, 93, 95, 98-99, 101-110, 112, 114, 118, 128, 130, 136"
  }, 
+ "Tadeusza Mikke": {
+  "dlugosc": 207, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Tadeusza Rejtana": {
   "dlugosc": 354, 
   "kody_pocztowe": "60-653", 
@@ -8348,6 +8893,11 @@
   "dlugosc": 186, 
   "kody_pocztowe": "60-688", 
   "numeracja": "1-5, 7-10, 13, 15, 17"
+ }, 
+ "Tadeusza Szeligowskiego": {
+  "dlugosc": 1676, 
+  "kody_pocztowe": "60-685", 
+  "numeracja": true
  }, 
  "Tadeusza Vetulaniego": {
   "dlugosc": 167, 
@@ -8488,6 +9038,11 @@
   "dlugosc": 132, 
   "kody_pocztowe": "61-333", 
   "numeracja": "21, 23, 25"
+ }, 
+ "Trocka": {
+  "dlugosc": 239, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Truskawiecka": {
   "dlugosc": 298, 
@@ -8654,6 +9209,11 @@
   "kody_pocztowe": null, 
   "numeracja": "5, 7-8, 10-11"
  }, 
+ "Urszulanek": {
+  "dlugosc": 415, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Urszuli Led\u00f3chowskiej": {
   "dlugosc": 235, 
   "kody_pocztowe": "60-462", 
@@ -8729,10 +9289,20 @@
   "kody_pocztowe": "61-415", 
   "numeracja": "1-13, 15, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49"
  }, 
+ "Walerego Wr\u00f3blewskiego": {
+  "dlugosc": 338, 
+  "kody_pocztowe": "61-414", 
+  "numeracja": true
+ }, 
  "Wandy": {
   "dlugosc": 379, 
   "kody_pocztowe": "61-054", 
   "numeracja": "3, 5-6, 8-11, 13, 15, 17"
+ }, 
+ "Waniliowa": {
+  "dlugosc": 120, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Warecka": {
   "dlugosc": 98, 
@@ -8879,6 +9449,11 @@
   "kody_pocztowe": "61-774,61-775", 
   "numeracja": "1-14, 17-24, 27"
  }, 
+ "Wielkopolska": {
+  "dlugosc": 802, 
+  "kody_pocztowe": "60-603,60-608", 
+  "numeracja": "2, 4, 6-8, 10-14, 16, 19, 21, 26-36, 39-45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67"
+ }, 
  "Wielu\u0144ska": {
   "dlugosc": 90, 
   "kody_pocztowe": "61-403", 
@@ -8888,6 +9463,11 @@
   "dlugosc": 824, 
   "kody_pocztowe": "61-312", 
   "numeracja": "3-8, 10, 12, 14, 16-18, 20-21, 23-58"
+ }, 
+ "Wierchowa": {
+  "dlugosc": 109, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "Wieruszowska": {
   "dlugosc": 959, 
@@ -8944,6 +9524,11 @@
   "kody_pocztowe": "61-407", 
   "numeracja": "1-24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48"
  }, 
+ "Wiktora Pacajewa": {
+  "dlugosc": 361, 
+  "kody_pocztowe": "61-621", 
+  "numeracja": true
+ }, 
  "Wilanowska": {
   "dlugosc": 313, 
   "kody_pocztowe": "60-688", 
@@ -8958,6 +9543,11 @@
   "dlugosc": 937, 
   "kody_pocztowe": null, 
   "numeracja": "3-18, 20, 22, 24, 26, 45, 49, 51, 53"
+ }, 
+ "Wile\u0144ska": {
+  "dlugosc": 409, 
+  "kody_pocztowe": "61-024", 
+  "numeracja": true
  }, 
  "Wilhelma Grimma": {
   "dlugosc": 263, 
@@ -9404,6 +9994,11 @@
   "kody_pocztowe": "60-681", 
   "numeracja": "5-33"
  }, 
+ "W\u0142adys\u0142awa Wo\u0142kowa": {
+  "dlugosc": 103, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "W\u0142adys\u0142awa W\u0119gorka": {
   "dlugosc": 718, 
   "kody_pocztowe": null, 
@@ -9413,6 +10008,11 @@
   "dlugosc": 158, 
   "kody_pocztowe": "61-406", 
   "numeracja": "1-8, 10"
+ }, 
+ "W\u0142oc\u0142awska": {
+  "dlugosc": 547, 
+  "kody_pocztowe": "61-046", 
+  "numeracja": true
  }, 
  "W\u0142odarska": {
   "dlugosc": 383, 
@@ -9459,6 +10059,11 @@
   "kody_pocztowe": "61-860", 
   "numeracja": "1-3, 5-9"
  }, 
+ "Zaborowska": {
+  "dlugosc": 85, 
+  "kody_pocztowe": "61-334", 
+  "numeracja": true
+ }, 
  "Zabrza\u0144ska": {
   "dlugosc": 231, 
   "kody_pocztowe": "61-131", 
@@ -9503,6 +10108,11 @@
   "dlugosc": 155, 
   "kody_pocztowe": "61-065", 
   "numeracja": "1-6, 8-10, 12-14, 16-24"
+ }, 
+ "Zaklikowska": {
+  "dlugosc": 638, 
+  "kody_pocztowe": "61-335", 
+  "numeracja": true
  }, 
  "Zakopia\u0144ska": {
   "dlugosc": 2327, 
@@ -9739,6 +10349,11 @@
   "kody_pocztowe": null, 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28"
  }, 
+ "Zwole\u0144ska": {
+  "dlugosc": 125, 
+  "kody_pocztowe": "61-335", 
+  "numeracja": true
+ }, 
  "Zwrotnicza": {
   "dlugosc": 418, 
   "kody_pocztowe": "61-482", 
@@ -9784,6 +10399,11 @@
   "kody_pocztowe": null, 
   "numeracja": "9-13, 15, 17-21, 23-27, 29, 31"
  }, 
+ "Zygmunta \u017buraszka": {
+  "dlugosc": 344, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "Z\u0105bkowicka": {
   "dlugosc": 402, 
   "kody_pocztowe": null, 
@@ -9824,21 +10444,6 @@
   "kody_pocztowe": null, 
   "numeracja": "186, 188, 190, 194, 196, 198-200, 212, 231, 300, 304"
  }, 
- "aleja Armii Pozna\u0144": {
-  "dlugosc": null, 
-  "kody_pocztowe": null, 
-  "numeracja": "15, 17"
- }, 
- "aleja Niepodleg\u0142o\u015bci": {
-  "dlugosc": 2519, 
-  "kody_pocztowe": null, 
-  "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 22, 24, 26-36, 39, 41, 43, 51, 53, 55, 59, 109"
- }, 
- "aleja Wielkopolska": {
-  "dlugosc": 802, 
-  "kody_pocztowe": null, 
-  "numeracja": "2, 4, 6-8, 10-14, 16, 19, 21, 26-36, 39-45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67"
- }, 
  "gen. Stanis\u0142awa Maczka": {
   "dlugosc": 419, 
   "kody_pocztowe": null, 
@@ -9870,7 +10475,7 @@
   "numeracja": "1-8, 10, 12, 14, 16, 18"
  }, 
  "ks. Mieczys\u0142awa Radziejewskiego": {
-  "dlugosc": null, 
+  "dlugosc": 619, 
   "kody_pocztowe": null, 
   "numeracja": "4"
  }, 
@@ -9878,6 +10483,21 @@
   "dlugosc": 71, 
   "kody_pocztowe": null, 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18"
+ }, 
+ "ks. Zdzis\u0142awa Bernata": {
+  "dlugosc": 757, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
+ "o. Honoriusza Kowalczyka": {
+  "dlugosc": 105, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
+ "o. Mariana \u017belazka": {
+  "dlugosc": 415, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "\u0106mielowska": {
   "dlugosc": 161, 
@@ -9888,6 +10508,11 @@
   "dlugosc": 62, 
   "kody_pocztowe": "61-038", 
   "numeracja": "1-18"
+ }, 
+ "\u0141ab\u0119dzia": {
+  "dlugosc": 334, 
+  "kody_pocztowe": "61-391", 
+  "numeracja": true
  }, 
  "\u0141acina": {
   "dlugosc": 154, 
@@ -9969,6 +10594,11 @@
   "kody_pocztowe": "61-302", 
   "numeracja": "1-5, 7, 9, 11, 15-17, 19, 21"
  }, 
+ "\u0141otewska": {
+  "dlugosc": 260, 
+  "kody_pocztowe": "61-672", 
+  "numeracja": true
+ }, 
  "\u0141owicka": {
   "dlugosc": 62, 
   "kody_pocztowe": "61-046", 
@@ -10044,6 +10674,11 @@
   "kody_pocztowe": "61-044", 
   "numeracja": "1-22, 24, 26, 28, 30"
  }, 
+ "\u0141\u0119gi D\u0119bi\u0144skie": {
+  "dlugosc": 135, 
+  "kody_pocztowe": "61-492", 
+  "numeracja": true
+ }, 
  "\u015acinawska": {
   "dlugosc": 1146, 
   "kody_pocztowe": null, 
@@ -10053,6 +10688,11 @@
   "dlugosc": 146, 
   "kody_pocztowe": null, 
   "numeracja": "3"
+ }, 
+ "\u015alesi\u0144ska": {
+  "dlugosc": 95, 
+  "kody_pocztowe": "61-049", 
+  "numeracja": true
  }, 
  "\u015aliska": {
   "dlugosc": 558, 
@@ -10078,6 +10718,11 @@
   "dlugosc": 375, 
   "kody_pocztowe": "61-248", 
   "numeracja": "1, 3, 5, 7-13, 15, 17-18, 20, 22-27, 29, 31, 33, 35, 37, 39, 41, 43"
+ }, 
+ "\u015amia\u0142a": {
+  "dlugosc": 103, 
+  "kody_pocztowe": "61-317", 
+  "numeracja": true
  }, 
  "\u015amie\u0142owska": {
   "dlugosc": 864, 
@@ -10118,6 +10763,11 @@
   "dlugosc": 396, 
   "kody_pocztowe": "61-023", 
   "numeracja": "10, 18, 20"
+ }, 
+ "\u015aremska": {
+  "dlugosc": 736, 
+  "kody_pocztowe": "61-212", 
+  "numeracja": true
  }, 
  "\u015ar\u00f3dka": {
   "dlugosc": 72, 
@@ -10224,6 +10874,11 @@
   "kody_pocztowe": "61-359", 
   "numeracja": "5, 7-21, 23-25, 27-36, 38-43, 45-76, 78, 80"
  }, 
+ "\u015bw. Barbary": {
+  "dlugosc": 65, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "\u015bw. Czes\u0142awa": {
   "dlugosc": 308, 
   "kody_pocztowe": "61-575,61-582,61-583", 
@@ -10268,6 +10923,11 @@
   "dlugosc": 354, 
   "kody_pocztowe": "61-142", 
   "numeracja": "2-4, 6, 8-11, 13, 16, 19"
+ }, 
+ "\u015bw. Stanis\u0142awa": {
+  "dlugosc": 121, 
+  "kody_pocztowe": "60-661", 
+  "numeracja": true
  }, 
  "\u015bw. Szczepana": {
   "dlugosc": 846, 
@@ -10329,6 +10989,11 @@
   "kody_pocztowe": "61-347", 
   "numeracja": "1, 3-18, 21-40, 42, 44-57, 59-62, 64-65, 67, 69-70, 72, 76, 78"
  }, 
+ "\u017begrze": {
+  "dlugosc": 1507, 
+  "kody_pocztowe": "61-252", 
+  "numeracja": true
+ }, 
  "\u017belazna": {
   "dlugosc": 326, 
   "kody_pocztowe": "61-064", 
@@ -10384,6 +11049,11 @@
   "kody_pocztowe": null, 
   "numeracja": "3-27"
  }, 
+ "\u017bo\u0142nierzy Wykl\u0119tych": {
+  "dlugosc": 563, 
+  "kody_pocztowe": null, 
+  "numeracja": true
+ }, 
  "\u017bukowska": {
   "dlugosc": 224, 
   "kody_pocztowe": null, 
@@ -10428,6 +11098,11 @@
   "dlugosc": 236, 
   "kody_pocztowe": null, 
   "numeracja": "16-20, 22-35, 37"
+ }, 
+ "\u017bywiczna": {
+  "dlugosc": 1227, 
+  "kody_pocztowe": null, 
+  "numeracja": true
  }, 
  "\u017bywiecka": {
   "dlugosc": 554, 
