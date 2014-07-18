@@ -18,12 +18,10 @@ logger = logging.getLogger()
 
 class CsvReader:
     """ Klasa bazowa do czytania plików CSV """
-    csv = None
-    items = {}
-
     def __init__(self, file_name, delimiter='\t'):
-        csvfile = open(file_name, 'r')
-        self.csv = csv.reader(csvfile, delimiter=delimiter)
+        self.csvfile = open(file_name, 'r')
+        self.csv = csv.reader(self.csvfile, delimiter=delimiter)
+        self.items = {}
 
         logger.info("Reading %s file..." % file_name)
 
@@ -124,6 +122,29 @@ class Ulice(CsvReader):
             self.push_item(line[1].strip(), value=True)
 
 
+class Dzielnice(CsvReader):
+    """ Dane o dzielnicach """
+    def read(self):
+        for line in self.get_csv_line():
+            # "1392","Radziejowska","Nowe Miasto","droga wewnętrzna","59",,
+            if len(line) < 3:
+                continue
+
+            street = line[1].strip()
+            dzielnica = line[2]
+
+            if re.match('^\d+$', street):
+                continue
+
+            if 'bez nazwy' in street:
+                continue
+
+            logger.debug("Dzielnice - %s: %s", street, dzielnica)
+
+            if street and dzielnica:
+                self.push_item(street, value=dzielnica)
+
+
 class Numeracja(CsvReader):
     """ Dane o numeracji ulic """
     def read(self):
@@ -217,6 +238,10 @@ if __name__ == "__main__":
     dlugosci_wewnetrzne = DlugoscUlic("sources/ulice-ztm-wewnetrzne.csv", column=5)
     dlugosci_wewnetrzne.read()
 
+    # dzielnice
+    dzielnice = Dzielnice("sources/ulice-ztm-uzupelniajacy.csv", ",")
+    dzielnice.read()
+
     # lista ulic
     items = ulice.get_items()
     items.sort()
@@ -229,6 +254,8 @@ if __name__ == "__main__":
             or dlugosci_uzupelniajace.get_item(street)\
             or dlugosci_wewnetrzne.get_item(street)
 
+        dzielnica = dzielnice.get_item(street)
+
         if length is None:
             logger.warning("Brak informacji o długości dla %s" % street)
             missing_data += 1
@@ -237,10 +264,15 @@ if __name__ == "__main__":
             logger.warning("Brak informacji o kodzie pocztowym dla %s" % street)
             missing_data += 1
 
+        if dzielnica is None:
+            logger.warning("Brak informacji o dzielnicy dla %s" % street)
+            missing_data += 1
+
         res[street] = {
-            'numeracja': numbers,
+            'numeracja': numbers if numbers is not None else False,
             'kody_pocztowe': ','.join(zip_codes) if zip_codes is not None else None,
-            'dlugosc': length
+            'dzielnica': dzielnica if dzielnica is not None else False,
+            'dlugosc': length,
         }
 
     # zapisz do pliku
