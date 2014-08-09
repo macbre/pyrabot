@@ -122,7 +122,7 @@ function parseTimetable(page, line) {
 		linie[line].przystanki = stops.length + 1 /* przystanek początkowy */;
 
 		// czas przejazdu
-		var czas = stops.pop().substr(4);
+		var czas = stops.pop().split('<b>').pop();
 		czas = parseInt(czas, 10);
 
 		if (czas > 0) {
@@ -141,7 +141,7 @@ var linie = {},
 	timetableLastRegExp = /\<a href='(timetable.html.php[^']+)'>[^>]+<\/a><\/li><\/ul><\/div>/,
 	routeRegExp = /<div id='descriptions'><p>([^<]+)/,
 	petleRegExp = />([^<]+)<\/a><\/li><\/ul>/g,
-	czasPrzejazduRegExp = /><b>\d+<\/b>/g,
+	czasPrzejazduRegExp = /["']><b>\d+<\/b>/g,
 	strefyRegExp = /<li class=\Szone(\S)/g;
 
 var l, lines = [];
