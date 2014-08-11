@@ -31,7 +31,9 @@ page.open(URL, function(status) {
 	setTimeout(function() {
 		var json = page.evaluate(function() {
 			var lines,
-				data = {};
+				data = {
+					'lines': []
+				};
 
 			console.log('Pobieram listę linii...');
 			$('#tab_time_table_title').click();
@@ -49,12 +51,10 @@ page.open(URL, function(status) {
 				}
 
 				entry = {
+					name: currentLine,
 					typ: '',
 					petle: [],
-					//strefy: [],
 					przystanki: 0,
-					//czas: 0,
-					//agency: ''
 				};
 
 				console.log('> Linia nr ' + currentLine);
@@ -93,22 +93,26 @@ page.open(URL, function(status) {
 					entry.petle.push(text);
 				});
 
-				//console.log(JSON.stringify(entry));
-				data[currentLine] = entry;
+				data.lines.push(entry);
 			});
+
+			if (lines.length === 0) {
+				return false;
+			}
 
 			console.log('Gotowe');
 			return JSON.stringify(data, null, '  ');
 		});
 
-		if (json === '{}') {
+		if (json === false) {
 			phantom.exit(1);
+			return;
 		}
 
 		// zapisz do pliku
 		var fs = require('fs');
-		fs.write('../db/ztm-linie.json', json, 'w');
+		fs.write('ztm-routes.json', json, 'w');
 
 		phantom.exit(0);
-	}, 100);
+	}, 750);
 });

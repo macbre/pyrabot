@@ -1,0 +1,1057 @@
+{
+  "lines": [
+    {
+      "name": "1",
+      "typ": "tram",
+      "petle": [
+        "Junikowo",
+        "Franowo"
+      ],
+      "przystanki": 31
+    },
+    {
+      "name": "2",
+      "typ": "tram",
+      "petle": [
+        "Ogrody",
+        "Dębiec"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "4",
+      "typ": "tram",
+      "petle": [
+        "Starołęka",
+        "Połabska"
+      ],
+      "przystanki": 29
+    },
+    {
+      "name": "5",
+      "typ": "tram",
+      "petle": [
+        "Górczyn",
+        "Górczyn"
+      ],
+      "przystanki": 48
+    },
+    {
+      "name": "6",
+      "typ": "tram",
+      "petle": [
+        "Budziszyńska",
+        "Miłostowo"
+      ],
+      "przystanki": 29
+    },
+    {
+      "name": "7",
+      "typ": "tram",
+      "petle": [
+        "Ogrody",
+        "Zawady"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "8",
+      "typ": "tram",
+      "petle": [
+        "Górczyn",
+        "Miłostowo"
+      ],
+      "przystanki": 22
+    },
+    {
+      "name": "9",
+      "typ": "tram",
+      "petle": [
+        "Piątkowska",
+        "Dębiec"
+      ],
+      "przystanki": 27
+    },
+    {
+      "name": "10",
+      "typ": "tram",
+      "petle": [
+        "Połabska",
+        "Dębiec"
+      ],
+      "przystanki": 21
+    },
+    {
+      "name": "11",
+      "typ": "tram",
+      "petle": [
+        "Piątkowska",
+        "Dębiec"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "12",
+      "typ": "tram",
+      "petle": [
+        "Starołęka",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "13",
+      "typ": "tram",
+      "petle": [
+        "Junikowo",
+        "Starołęka"
+      ],
+      "przystanki": 31
+    },
+    {
+      "name": "14",
+      "typ": "tram",
+      "petle": [
+        "Górczyn",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 14
+    },
+    {
+      "name": "15",
+      "typ": "tram",
+      "petle": [
+        "Budziszyńska",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 18
+    },
+    {
+      "name": "16",
+      "typ": "tram",
+      "petle": [
+        "Franowo",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 23
+    },
+    {
+      "name": "17",
+      "typ": "tram",
+      "petle": [
+        "Ogrody",
+        "Ogrody"
+      ],
+      "przystanki": 42
+    },
+    {
+      "name": "18",
+      "typ": "tram",
+      "petle": [
+        "Franowo",
+        "Ogrody"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "20",
+      "typ": "tram",
+      "petle": [
+        "Marcinkowskiego",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 11
+    },
+    {
+      "name": "45",
+      "typ": "bus",
+      "petle": [
+        "Dworzec Zachodni",
+        "Kacza"
+      ],
+      "przystanki": 14
+    },
+    {
+      "name": "46",
+      "typ": "bus",
+      "petle": [
+        "Boranta/Park Naukowo-Technologiczny",
+        "Strzeszynek"
+      ],
+      "przystanki": 30
+    },
+    {
+      "name": "48",
+      "typ": "bus",
+      "petle": [
+        "Rondo Kaponiera",
+        "Ławica"
+      ],
+      "przystanki": 19
+    },
+    {
+      "name": "49",
+      "typ": "bus",
+      "petle": [
+        "Azaliowa",
+        "Górczyn"
+      ],
+      "przystanki": 11
+    },
+    {
+      "name": "50",
+      "typ": "bus",
+      "petle": [
+        "Ogrody",
+        "Górczyn"
+      ],
+      "przystanki": 14
+    },
+    {
+      "name": "51",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 26
+    },
+    {
+      "name": "52",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "Darzybór"
+      ],
+      "przystanki": 21
+    },
+    {
+      "name": "54",
+      "typ": "bus",
+      "petle": [
+        "Spławie",
+        "Franowo"
+      ],
+      "przystanki": 15
+    },
+    {
+      "name": "55",
+      "typ": "bus",
+      "petle": [
+        "Zalasewo/Planetarna Gimnazjum",
+        "Rondo Rataje"
+      ],
+      "przystanki": 25
+    },
+    {
+      "name": "56",
+      "typ": "bus",
+      "petle": [
+        "Ogrody",
+        "Krzyżowniki"
+      ],
+      "przystanki": 14
+    },
+    {
+      "name": "57",
+      "typ": "bus",
+      "petle": [
+        "Mogileńska",
+        "Rondo Śródka"
+      ],
+      "przystanki": 18
+    },
+    {
+      "name": "58",
+      "typ": "bus",
+      "petle": [
+        "Piotrowo",
+        "Starołęka"
+      ],
+      "przystanki": 16
+    },
+    {
+      "name": "59",
+      "typ": "bus",
+      "petle": [
+        "Rondo Kaponiera",
+        "Port Lotniczy Ławica"
+      ],
+      "przystanki": 15
+    },
+    {
+      "name": "60",
+      "typ": "bus",
+      "petle": [
+        "Garbary",
+        "Strzeszyn"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "61",
+      "typ": "bus",
+      "petle": [
+        "Krzyżowniki",
+        "Ogrody"
+      ],
+      "przystanki": 11
+    },
+    {
+      "name": "62",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "Rondo Rataje"
+      ],
+      "przystanki": 28
+    },
+    {
+      "name": "63",
+      "typ": "bus",
+      "petle": [
+        "Garbary",
+        "Górczyn"
+      ],
+      "przystanki": 21
+    },
+    {
+      "name": "64",
+      "typ": "bus",
+      "petle": [
+        "Kacza",
+        "Literacka"
+      ],
+      "przystanki": 28
+    },
+    {
+      "name": "65",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "Starołęka"
+      ],
+      "przystanki": 12
+    },
+    {
+      "name": "66",
+      "typ": "bus",
+      "petle": [
+        "Zieliniec",
+        "Rondo Rataje"
+      ],
+      "przystanki": 23
+    },
+    {
+      "name": "67",
+      "typ": "bus",
+      "petle": [
+        "Radojewo",
+        "Rondo Śródka"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "68",
+      "typ": "bus",
+      "petle": [
+        "Podolany",
+        "Poznań Główny"
+      ],
+      "przystanki": 23
+    },
+    {
+      "name": "69",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Łokietka",
+        "Osiedle Kopernika"
+      ],
+      "przystanki": 28
+    },
+    {
+      "name": "70",
+      "typ": "bus",
+      "petle": [
+        "Rondo Śródka",
+        "Koziegłowy/Zakłady Drobiarskie"
+      ],
+      "przystanki": 17
+    },
+    {
+      "name": "71",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Wichrowe Wzgórze",
+        "Osiedle Dębina"
+      ],
+      "przystanki": 28
+    },
+    {
+      "name": "72",
+      "typ": "bus",
+      "petle": [
+        "Koziegłowy/Cmentarz",
+        "Piątkowska"
+      ],
+      "przystanki": 19
+    },
+    {
+      "name": "73",
+      "typ": "bus",
+      "petle": [
+        "Rondo Śródka",
+        "Janikowo"
+      ],
+      "przystanki": 16
+    },
+    {
+      "name": "74",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Orła Białego",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 33
+    },
+    {
+      "name": "75",
+      "typ": "bus",
+      "petle": [
+        "Górczyn",
+        "Dębiec"
+      ],
+      "przystanki": 14
+    },
+    {
+      "name": "76",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Dębina",
+        "Plac Bernardyński"
+      ],
+      "przystanki": 12
+    },
+    {
+      "name": "77",
+      "typ": "bus",
+      "petle": [
+        "Junikowo",
+        "Rondo Kaponiera"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "78",
+      "typ": "bus",
+      "petle": [
+        "Rondo Śródka",
+        "Szarych Szeregów"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "79",
+      "typ": "bus",
+      "petle": [
+        "Kacza",
+        "Dębiec"
+      ],
+      "przystanki": 16
+    },
+    {
+      "name": "80",
+      "typ": "bus",
+      "petle": [
+        "Auchan/Sycowska",
+        "Górczyn"
+      ],
+      "przystanki": 19
+    },
+    {
+      "name": "81",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "M1 Centrum Handlowe"
+      ],
+      "przystanki": 11
+    },
+    {
+      "name": "82",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Wichrowe Wzgórze",
+        "Górczyn"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "83",
+      "typ": "bus",
+      "petle": [
+        "Rondo Śródka",
+        "Szarych Szeregów"
+      ],
+      "przystanki": 26
+    },
+    {
+      "name": "84",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "Nowe Zoo"
+      ],
+      "przystanki": 32
+    },
+    {
+      "name": "85",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Rondo Śródka"
+      ],
+      "przystanki": 27
+    },
+    {
+      "name": "89",
+      "typ": "bus",
+      "petle": [
+        "Starołęka",
+        "Starołęka"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "90",
+      "typ": "bus",
+      "petle": [
+        "Kazimierza Wielkiego",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 27
+    },
+    {
+      "name": "91",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Osiedle Kopernika"
+      ],
+      "przystanki": 29
+    },
+    {
+      "name": "92",
+      "typ": "bus",
+      "petle": [
+        "Giełda Ogrodnicza Franowo",
+        "Rondo Rataje"
+      ],
+      "przystanki": 10
+    },
+    {
+      "name": "93",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Górczyn"
+      ],
+      "przystanki": 25
+    },
+    {
+      "name": "94",
+      "typ": "bus",
+      "petle": [
+        "Starołęka",
+        "Starołęka"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "95",
+      "typ": "bus",
+      "petle": [
+        "Kiekrz",
+        "Ogrody"
+      ],
+      "przystanki": 21
+    },
+    {
+      "name": "96",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "Rondo Rataje"
+      ],
+      "przystanki": 30
+    },
+    {
+      "name": "97",
+      "typ": "bus",
+      "petle": [
+        "Rondo Rataje",
+        "Osiedle Rusa Szpital"
+      ],
+      "przystanki": 11
+    },
+    {
+      "name": "98",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Różany Potok",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 10
+    },
+    {
+      "name": "100",
+      "typ": "bus",
+      "petle": [
+        "Nowe Zoo",
+        "Gajowa"
+      ],
+      "przystanki": 8
+    },
+    {
+      "name": "201",
+      "typ": "tram",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 44
+    },
+    {
+      "name": "232",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Rusa",
+        "Rondo Kaponiera"
+      ],
+      "przystanki": 19
+    },
+    {
+      "name": "233",
+      "typ": "bus",
+      "petle": [
+        "Mogileńska",
+        "Rondo Kaponiera"
+      ],
+      "przystanki": 10
+    },
+    {
+      "name": "234",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Batorego II",
+        "Poznań Główny"
+      ],
+      "przystanki": 23
+    },
+    {
+      "name": "235",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 23
+    },
+    {
+      "name": "236",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Poznań Główny"
+      ],
+      "przystanki": 43
+    },
+    {
+      "name": "237",
+      "typ": "bus",
+      "petle": [
+        "Koziegłowy/Os. Leśne",
+        "Starołęka"
+      ],
+      "przystanki": 26
+    },
+    {
+      "name": "238",
+      "typ": "bus",
+      "petle": [
+        "Rondo Kaponiera",
+        "Franowo"
+      ],
+      "przystanki": 27
+    },
+    {
+      "name": "239",
+      "typ": "bus",
+      "petle": [
+        "Wichrowa",
+        "Poznań Główny"
+      ],
+      "przystanki": 17
+    },
+    {
+      "name": "240",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Kacza"
+      ],
+      "przystanki": 19
+    },
+    {
+      "name": "242",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Port Lotniczy Ławica"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "243",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Dębina",
+        "Poznań Główny"
+      ],
+      "przystanki": 18
+    },
+    {
+      "name": "244",
+      "typ": "bus",
+      "petle": [
+        "Krzesiny",
+        "Rondo Rataje"
+      ],
+      "przystanki": 22
+    },
+    {
+      "name": "245",
+      "typ": "bus",
+      "petle": [
+        "Starołęka",
+        "Mogileńska"
+      ],
+      "przystanki": 26
+    },
+    {
+      "name": "246",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Poznań Główny"
+      ],
+      "przystanki": 45
+    },
+    {
+      "name": "247",
+      "typ": "bus",
+      "petle": [
+        "Piotrowo",
+        "Rondo Rataje"
+      ],
+      "przystanki": 30
+    },
+    {
+      "name": "248",
+      "typ": "bus",
+      "petle": [
+        "Rondo Kaponiera",
+        "Radojewo"
+      ],
+      "przystanki": 24
+    },
+    {
+      "name": "249",
+      "typ": "bus",
+      "petle": [
+        "Dębiec",
+        "Rondo Kaponiera"
+      ],
+      "przystanki": 25
+    },
+    {
+      "name": "251",
+      "typ": "bus",
+      "petle": [
+        "Rondo Kaponiera",
+        "Junikowo Stacja"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "252",
+      "typ": "bus",
+      "petle": [
+        "Rondo Kaponiera",
+        "Kacza"
+      ],
+      "przystanki": 18
+    },
+    {
+      "name": "511",
+      "typ": "bus",
+      "petle": [
+        "Kamionki/Klonowa",
+        "Franowo"
+      ],
+      "przystanki": 43
+    },
+    {
+      "name": "512",
+      "typ": "bus",
+      "petle": [
+        "Borówiec/Dębowa",
+        "Franowo"
+      ],
+      "przystanki": 43
+    },
+    {
+      "name": "527",
+      "typ": "bus",
+      "petle": [
+        "Czapury/Żurawinowa",
+        "Starołęka"
+      ],
+      "przystanki": 13
+    },
+    {
+      "name": "602",
+      "typ": "bus",
+      "petle": [
+        "Luboń/Lasek",
+        "Dębiec"
+      ],
+      "przystanki": 10
+    },
+    {
+      "name": "603",
+      "typ": "bus",
+      "petle": [
+        "Luboń/Lasek",
+        "Plac Bernardyński"
+      ],
+      "przystanki": 19
+    },
+    {
+      "name": "610",
+      "typ": "bus",
+      "petle": [
+        "Dębiec",
+        "Górczyn"
+      ],
+      "przystanki": 26
+    },
+    {
+      "name": "611",
+      "typ": "bus",
+      "petle": [
+        "Dębiec",
+        "Luboń Żabikowo"
+      ],
+      "przystanki": 13
+    },
+    {
+      "name": "614",
+      "typ": "bus",
+      "petle": [
+        "Luboń/Kręta",
+        "Górczyn"
+      ],
+      "przystanki": 21
+    },
+    {
+      "name": "616",
+      "typ": "bus",
+      "petle": [
+        "Górczyn",
+        "Luboń Żabikowo"
+      ],
+      "przystanki": 12
+    },
+    {
+      "name": "651",
+      "typ": "bus",
+      "petle": [
+        "Dymaczewo Nowe/Klub",
+        "Dębiec"
+      ],
+      "przystanki": 32
+    },
+    {
+      "name": "701",
+      "typ": "bus",
+      "petle": [
+        "Górczyn",
+        "Komorniki/Jeziorna"
+      ],
+      "przystanki": 29
+    },
+    {
+      "name": "702",
+      "typ": "bus",
+      "petle": [
+        "Komorniki/Urząd Gminy",
+        "Górczyn"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "703",
+      "typ": "bus",
+      "petle": [
+        "Konarzewo/Pętla",
+        "Górczyn"
+      ],
+      "przystanki": 23
+    },
+    {
+      "name": "710",
+      "typ": "bus",
+      "petle": [
+        "Plewiska/Kościół",
+        "Górczyn"
+      ],
+      "przystanki": 16
+    },
+    {
+      "name": "716",
+      "typ": "bus",
+      "petle": [
+        "Junikowo",
+        "Głuchowo/Stawna"
+      ],
+      "przystanki": 14
+    },
+    {
+      "name": "718",
+      "typ": "bus",
+      "petle": [
+        "Ogrody",
+        "Dopiewo, D.K."
+      ],
+      "przystanki": 29
+    },
+    {
+      "name": "719",
+      "typ": "bus",
+      "petle": [
+        "Ogrody",
+        "Dopiewo, D.K."
+      ],
+      "przystanki": 34
+    },
+    {
+      "name": "830",
+      "typ": "bus",
+      "petle": [
+        "Pawłowice/Pętla",
+        "Kiekrz"
+      ],
+      "przystanki": 7
+    },
+    {
+      "name": "832",
+      "typ": "bus",
+      "petle": [
+        "Przybroda/Pętla",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 35
+    },
+    {
+      "name": "833",
+      "typ": "bus",
+      "petle": [
+        "Ogrody",
+        "Rokietnica/Os. Kalinowe"
+      ],
+      "przystanki": 35
+    },
+    {
+      "name": "891",
+      "typ": "bus",
+      "petle": [
+        "Mrowino/Szkoła",
+        "Rokietnica/Stacja"
+      ],
+      "przystanki": 10
+    },
+    {
+      "name": "893",
+      "typ": "bus",
+      "petle": [
+        "Żydowo/Pętla",
+        "Rokietnica/Ros"
+      ],
+      "przystanki": 11
+    },
+    {
+      "name": "901",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Złotniki/Os. Grzybowe"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "902",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Suchy Las/Działki"
+      ],
+      "przystanki": 16
+    },
+    {
+      "name": "904",
+      "typ": "bus",
+      "petle": [
+        "Osiedle Jana III Sobieskiego",
+        "Złotniki/Wieś"
+      ],
+      "przystanki": 20
+    },
+    {
+      "name": "905",
+      "typ": "bus",
+      "petle": [
+        "Chludowo/Szkoła",
+        "Poznań Główny"
+      ],
+      "przystanki": 48
+    },
+    {
+      "name": "907",
+      "typ": "bus",
+      "petle": [
+        "Chludowo/Szkoła",
+        "Osiedle Jana III Sobieskiego"
+      ],
+      "przystanki": 36
+    },
+    {
+      "name": "911",
+      "typ": "bus",
+      "petle": [
+        "Biedrusko/Park",
+        "Rondo Śródka"
+      ],
+      "przystanki": 28
+    },
+    {
+      "name": "L",
+      "typ": "bus",
+      "petle": [
+        "Poznań Główny",
+        "Port Lotniczy Ławica"
+      ],
+      "przystanki": 4
+    }
+  ]
+}

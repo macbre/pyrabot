@@ -31,6 +31,9 @@ curl -s "http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/Du%C
 echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
 ./rozkladzik.js
 
+echo "\n> Pobieram dane o operatorach linii komunikacji miejskiej..."
+curl -s "http://ztm.poznan.pl/gtfs-ztm/routes_by_name.json.php?dbname=production_gtfs" | jsonlint > ztm-operators.json
+
 #
 unlink tmp*
 echo "\nGotowe"
