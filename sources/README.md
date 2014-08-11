@@ -6,7 +6,9 @@ Katalog ten zawiera pliki źródłowe służące pyrabotowi do generowania plik�
 
 * ``curl``
 * ``xls2csv`` do konwersji plików Excel do CSV
+* ``phantomjs``
 
 ```
 sudo apt-get install catdoc
+sudo npm install --global phantomjs
 ```
