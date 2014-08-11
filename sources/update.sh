@@ -27,6 +27,10 @@ curl -s "http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/Du%C
 	grep "; ul. " | awk -F " od " '{ print $1}' | awk -F "; " '{ print $1 "\t" $3 }' | sed 's/*//g' | sort | uniq \
 	> kody-pocztowe.csv
 
+# komunikacja miejska
+echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
+./rozkladzik.js
+
 #
 unlink tmp*
 echo "\nGotowe"
