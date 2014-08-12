@@ -8,6 +8,7 @@ Skrypt importujący dane o lokalizacji przystanków
 """
 
 import json
+from geojson import FeatureCollection, Point, Feature
 import sys
 
 stops = []
@@ -36,17 +37,32 @@ for idx, stop in enumerate(raw[2]):
     if stop == '':
         continue
 
-    #print stop
-    #print raw[5][idx]
     name_idx = int(raw[7][idx])
 
     stops.append({
         "id": stop,
         "name": raw[0][name_idx],
-        "lat": raw[3][idx],
-        "lng": raw[4][idx],
+        "lat": float(raw[3][idx]),
+        "lng": float(raw[4][idx]),
     })
 
 sys.stderr.write("Znalezionych przystanków: %d\n" % (len(stops)))
 
-print json.dumps(stops, indent=True)
+#print json.dumps(stops, indent=True)
+
+# konwersja na GeoJSON
+points = []
+
+for stop in stops:
+    # longitude and latitude
+    feature = Feature(
+        geometry=Point((stop['lng'], stop['lat'])),
+        id=stop['id'],
+        properties={
+            'name': stop['name']
+        }
+    )
+
+    points.append(feature)
+
+print json.dumps(FeatureCollection(points), indent=True)
