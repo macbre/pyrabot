@@ -55,6 +55,7 @@ page.open(URL, function(status) {
 					typ: '',
 					petle: [],
 					przystanki: 0,
+					przystankiSymbole: ''
 				};
 
 				console.log('> Linia nr ' + currentLine);
@@ -93,25 +94,37 @@ page.open(URL, function(status) {
 					entry.petle.push(text);
 				});
 
+				// symbole przystanków
+				// Plac Bernardyński (PLBE71) -> PLBE71
+
+				// dodaj przystanki z trasy w drugą stronę
+				$('.dirName[nr=1]').click();
+
+				stopsNames = $.map(
+					stops.add($('.timeTable .busStopRow').not('[title]').children('.bsName')),
+					function(node) {
+						return $(node).text().match(/\((.*)\)$/).pop();
+					});
+
+				entry.przystankiSymbole = $.unique(stopsNames).sort().join(',');
+
+				// dodaj wpis o linii
 				data.lines.push(entry);
 			});
 
 			if (lines.length === 0) {
-				return false;
+				return;
 			}
 
 			console.log('Gotowe');
 			return JSON.stringify(data, null, '  ');
 		});
 
-		if (json === false) {
-			phantom.exit(1);
-			return;
+		if (typeof json !== 'undefined') {
+			// zapisz do pliku
+			var fs = require('fs');
+			fs.write('ztm-routes.json', json, 'w');
 		}
-
-		// zapisz do pliku
-		var fs = require('fs');
-		fs.write('ztm-routes.json', json, 'w');
 
 		phantom.exit(0);
 	}, 750);
