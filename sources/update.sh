@@ -34,6 +34,9 @@ echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
 echo "\n> Pobieram dane o operatorach linii komunikacji miejskiej..."
 curl -s "http://ztm.poznan.pl/gtfs-ztm/routes_by_name.json.php?dbname=production_gtfs" | jsonlint > ztm-operators.json
 
+echo "\n> Pobieram listę przystanków z rozkladzik.pl..."
+curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
+
 #
 unlink tmp*
 echo "\nGotowe"
