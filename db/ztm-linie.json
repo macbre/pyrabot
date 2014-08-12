@@ -1,938 +1,1433 @@
 {
   "1": {
-    "typ": "tram",
     "petle": [
       "Junikowo",
       "Franowo"
     ],
-    "przystanki": 31
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 31,
+    "czas": 41,
+    "agency": "ZTM MPK"
   },
   "2": {
-    "typ": "tram",
     "petle": [
-      "Ogrody",
-      "Dębiec"
+      "Dębiec",
+      "Ogrody"
     ],
-    "przystanki": 20
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 20,
+    "czas": 34,
+    "agency": "ZTM MPK"
   },
   "4": {
-    "typ": "tram",
     "petle": [
-      "Starołęka",
       "Połabska"
     ],
-    "przystanki": 29
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 53,
+    "czas": 80,
+    "agency": "ZTM MPK"
   },
   "5": {
-    "typ": "tram",
     "petle": [
-      "Górczyn",
       "Górczyn"
     ],
-    "przystanki": 48
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 48,
+    "czas": 82,
+    "agency": "ZTM MPK"
   },
   "6": {
-    "typ": "tram",
     "petle": [
-      "Budziszyńska",
+      "Junikowo",
       "Miłostowo"
     ],
-    "przystanki": 29
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 34,
+    "czas": 44,
+    "agency": "ZTM MPK"
   },
   "7": {
-    "typ": "tram",
     "petle": [
       "Ogrody",
       "Zawady"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 7,
+    "czas": 11,
+    "agency": "ZTM MPK"
   },
   "8": {
-    "typ": "tram",
     "petle": [
-      "Górczyn",
-      "Miłostowo"
+      "Miłostowo",
+      "Górczyn"
     ],
-    "przystanki": 22
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 22,
+    "czas": 35,
+    "agency": "ZTM MPK"
   },
   "9": {
-    "typ": "tram",
     "petle": [
       "Piątkowska",
       "Dębiec"
     ],
-    "przystanki": 27
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 27,
+    "czas": 40,
+    "agency": "ZTM MPK"
   },
   "10": {
-    "typ": "tram",
     "petle": [
-      "Połabska",
-      "Dębiec"
+      "Dębiec",
+      "Połabska"
     ],
-    "przystanki": 21
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 21,
+    "czas": 32,
+    "agency": "ZTM MPK"
   },
   "11": {
-    "typ": "tram",
     "petle": [
-      "Piątkowska",
-      "Dębiec"
+      "Dębiec",
+      "Piątkowska"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 37,
+    "agency": "ZTM MPK"
   },
   "12": {
-    "typ": "tram",
     "petle": [
-      "Starołęka",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 20,
+    "czas": 33,
+    "agency": "ZTM MPK"
   },
   "13": {
-    "typ": "tram",
     "petle": [
-      "Junikowo",
-      "Starołęka"
+      "Junikowo"
     ],
-    "przystanki": 31
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 61,
+    "czas": 88,
+    "agency": "ZTM MPK"
   },
   "14": {
-    "typ": "tram",
     "petle": [
       "Górczyn",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki": 14
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 14,
+    "czas": 25,
+    "agency": "ZTM MPK"
   },
   "15": {
-    "typ": "tram",
     "petle": [
-      "Budziszyńska",
-      "Osiedle Jana III Sobieskiego"
+      "Osiedle Jana III Sobieskiego",
+      "Budziszyńska"
     ],
-    "przystanki": 18
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 18,
+    "czas": 29,
+    "agency": "ZTM MPK"
   },
   "16": {
-    "typ": "tram",
     "petle": [
-      "Franowo",
-      "Osiedle Jana III Sobieskiego"
+      "Osiedle Jana III Sobieskiego",
+      "Franowo"
     ],
-    "przystanki": 23
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 23,
+    "czas": 34,
+    "agency": "ZTM MPK"
   },
   "17": {
-    "typ": "tram",
     "petle": [
-      "Ogrody",
       "Ogrody"
     ],
-    "przystanki": 42
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 43,
+    "czas": 74,
+    "agency": "ZTM MPK"
   },
   "18": {
-    "typ": "tram",
     "petle": [
-      "Franowo",
-      "Ogrody"
+      "Ogrody",
+      "Franowo"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 38,
+    "agency": "ZTM MPK"
   },
   "20": {
-    "typ": "tram",
     "petle": [
-      "Marcinkowskiego",
-      "Osiedle Jana III Sobieskiego"
+      "Osiedle Jana III Sobieskiego",
+      "Marcinkowskiego"
     ],
-    "przystanki": 11
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 11,
+    "czas": 18,
+    "agency": "ZTM MPK"
   },
   "45": {
-    "typ": "bus",
     "petle": [
-      "Dworzec Zachodni",
-      "Kacza"
+      "Kacza",
+      "Dworzec Zachodni"
     ],
-    "przystanki": 14
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 14,
+    "czas": 28,
+    "agency": "ZTM MPK"
   },
   "46": {
-    "typ": "bus",
     "petle": [
-      "Boranta/Park Naukowo-Technologiczny",
+      "Boranta/Park Naukowo-technologiczny",
       "Strzeszynek"
     ],
-    "przystanki": 30
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 23,
+    "czas": 28,
+    "agency": "ZTM MPK"
   },
   "48": {
-    "typ": "bus",
     "petle": [
       "Rondo Kaponiera",
       "Ławica"
     ],
-    "przystanki": 19
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 15,
+    "czas": 22,
+    "agency": "ZTM MPK"
   },
   "49": {
-    "typ": "bus",
     "petle": [
-      "Azaliowa",
-      "Górczyn"
+      "Górczyn",
+      "Azaliowa"
     ],
-    "przystanki": 11
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 11,
+    "czas": 17,
+    "agency": "ZTM MPK"
   },
   "50": {
-    "typ": "bus",
     "petle": [
-      "Ogrody",
-      "Górczyn"
+      "Górczyn",
+      "Ogrody"
     ],
-    "przystanki": 14
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 14,
+    "czas": 24,
+    "agency": "ZTM MPK"
   },
   "51": {
-    "typ": "bus",
     "petle": [
-      "Poznań Główny",
-      "Osiedle Jana III Sobieskiego"
+      "Osiedle Jana III Sobieskiego",
+      "Poznań Główny"
     ],
-    "przystanki": 26
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 26,
+    "czas": 39,
+    "agency": "ZTM MPK"
   },
   "52": {
-    "typ": "bus",
     "petle": [
       "Rondo Rataje",
       "Darzybór"
     ],
-    "przystanki": 21
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 19,
+    "czas": 25,
+    "agency": "ZTM MPK"
   },
   "54": {
-    "typ": "bus",
     "petle": [
-      "Spławie",
-      "Franowo"
+      "Franowo",
+      "Spławie"
     ],
-    "przystanki": 15
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 15,
+    "czas": 21,
+    "agency": "ZTM MPK"
   },
   "55": {
-    "typ": "bus",
     "petle": [
-      "Zalasewo/Planetarna Gimnazjum",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Zalasewo/Planetarna Gimnazjum"
     ],
-    "przystanki": 25
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 25,
+    "czas": 32,
+    "agency": "ZTM MPK"
   },
   "56": {
-    "typ": "bus",
     "petle": [
       "Ogrody",
       "Krzyżowniki"
     ],
-    "przystanki": 14
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 12,
+    "czas": 15,
+    "agency": "ZTM MPK"
   },
   "57": {
-    "typ": "bus",
     "petle": [
-      "Mogileńska",
-      "Rondo Śródka"
+      "Rondo Śródka",
+      "Mogileńska"
     ],
-    "przystanki": 18
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 18,
+    "czas": 26,
+    "agency": "ZTM MPK"
   },
   "58": {
-    "typ": "bus",
     "petle": [
-      "Piotrowo",
-      "Starołęka"
+      "Starołęka",
+      "Piotrowo"
     ],
-    "przystanki": 16
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 16,
+    "czas": 17,
+    "agency": "ZTM MPK"
   },
   "59": {
-    "typ": "bus",
     "petle": [
       "Rondo Kaponiera",
       "Port Lotniczy Ławica"
     ],
-    "przystanki": 15
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 14,
+    "czas": 20,
+    "agency": "ZTM MPK"
   },
   "60": {
-    "typ": "bus",
     "petle": [
-      "Garbary",
-      "Strzeszyn"
+      "Strzeszyn",
+      "Garbary"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 34,
+    "agency": "ZTM MPK"
   },
   "61": {
-    "typ": "bus",
     "petle": [
-      "Krzyżowniki",
-      "Ogrody"
+      "Ogrody",
+      "Kiekrz"
     ],
-    "przystanki": 11
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 11,
+    "czas": 15,
+    "agency": "ZTM MPK"
   },
   "62": {
-    "typ": "bus",
     "petle": [
-      "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki": 28
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 36,
+    "czas": 46,
+    "agency": "ZTM MPK"
   },
   "63": {
-    "typ": "bus",
     "petle": [
-      "Garbary",
-      "Górczyn"
+      "Górczyn",
+      "Garbary"
     ],
-    "przystanki": 21
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 21,
+    "czas": 37,
+    "agency": "ZTM MPK"
   },
   "64": {
-    "typ": "bus",
     "petle": [
       "Kacza",
-      "Literacka"
+      "Puszkina"
     ],
-    "przystanki": 28
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 29,
+    "czas": 45,
+    "agency": "ZTM MPK"
   },
   "65": {
-    "typ": "bus",
     "petle": [
       "Rondo Rataje",
       "Starołęka"
     ],
-    "przystanki": 12
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 13,
+    "czas": 16,
+    "agency": "ZTM MPK"
   },
   "66": {
-    "typ": "bus",
     "petle": [
-      "Zieliniec",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Zieliniec"
     ],
-    "przystanki": 23
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 23,
+    "czas": 32,
+    "agency": "ZTM MPK"
   },
   "67": {
-    "typ": "bus",
     "petle": [
-      "Radojewo",
-      "Rondo Śródka"
+      "Rondo Śródka",
+      "Radojewo"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 31,
+    "agency": "ZTM MPK"
   },
   "68": {
-    "typ": "bus",
     "petle": [
-      "Podolany",
-      "Poznań Główny"
+      "Poznań Główny",
+      "Podolany"
     ],
-    "przystanki": 23
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 23,
+    "czas": 30,
+    "agency": "ZTM MPK"
   },
   "69": {
-    "typ": "bus",
     "petle": [
-      "Osiedle Łokietka",
-      "Osiedle Kopernika"
+      "Osiedle Kopernika",
+      "Osiedle Łokietka"
     ],
-    "przystanki": 28
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 28,
+    "czas": 45,
+    "agency": "ZTM MPK"
   },
   "70": {
-    "typ": "bus",
     "petle": [
       "Rondo Śródka",
       "Koziegłowy/Zakłady Drobiarskie"
     ],
-    "przystanki": 17
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 17,
+    "czas": 25,
+    "agency": "ZTM MPK"
   },
   "71": {
-    "typ": "bus",
     "petle": [
-      "Osiedle Wichrowe Wzgórze",
-      "Osiedle Dębina"
+      "Osiedle Dębina",
+      "Osiedle Wichrowe Wzgórze"
     ],
-    "przystanki": 28
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 28,
+    "czas": 46,
+    "agency": "ZTM MPK"
   },
   "72": {
-    "typ": "bus",
     "petle": [
-      "Koziegłowy/Cmentarz",
-      "Piątkowska"
+      "Piątkowska",
+      "Koziegłowy/Cmentarz"
     ],
-    "przystanki": 19
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 19,
+    "czas": 30,
+    "agency": "ZTM MPK"
   },
   "73": {
-    "typ": "bus",
     "petle": [
       "Rondo Śródka",
-      "Janikowo"
+      "Janikowo/Ogrodnicza"
     ],
-    "przystanki": 16
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 16,
+    "czas": 23,
+    "agency": "ZTM MPK"
   },
   "74": {
-    "typ": "bus",
     "petle": [
       "Osiedle Orła Białego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki": 33
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 30,
+    "czas": 45,
+    "agency": "ZTM MPK"
   },
   "75": {
-    "typ": "bus",
     "petle": [
       "Górczyn",
       "Dębiec"
     ],
-    "przystanki": 14
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 11,
+    "czas": 13,
+    "agency": "ZTM MPK"
   },
   "76": {
-    "typ": "bus",
     "petle": [
       "Osiedle Dębina",
       "Plac Bernardyński"
     ],
-    "przystanki": 12
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 10,
+    "czas": 17,
+    "agency": "ZTM MPK"
   },
   "77": {
-    "typ": "bus",
     "petle": [
-      "Junikowo",
-      "Rondo Kaponiera"
+      "Rondo Kaponiera",
+      "Junikowo"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 33,
+    "agency": "ZTM MPK"
   },
   "78": {
-    "typ": "bus",
     "petle": [
       "Rondo Śródka",
       "Szarych Szeregów"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 22,
+    "czas": 34,
+    "agency": "ZTM MPK"
   },
   "79": {
-    "typ": "bus",
     "petle": [
       "Kacza",
       "Dębiec"
     ],
-    "przystanki": 16
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 16,
+    "czas": 27,
+    "agency": "ZTM MPK"
   },
   "80": {
-    "typ": "bus",
     "petle": [
-      "Auchan/Sycowska",
-      "Górczyn"
+      "Górczyn",
+      "Sycowska/Auchan"
     ],
-    "przystanki": 19
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 19,
+    "czas": 25,
+    "agency": "ZTM MPK"
   },
   "81": {
-    "typ": "bus",
     "petle": [
       "Rondo Rataje",
       "M1 Centrum Handlowe"
     ],
-    "przystanki": 11
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 11,
+    "czas": 18,
+    "agency": "ZTM MPK"
   },
   "82": {
-    "typ": "bus",
     "petle": [
-      "Osiedle Wichrowe Wzgórze",
-      "Górczyn"
+      "Górczyn",
+      "Osiedle Wichrowe Wzgórze"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 39,
+    "agency": "ZTM MPK"
   },
   "83": {
-    "typ": "bus",
     "petle": [
       "Rondo Śródka",
       "Szarych Szeregów"
     ],
-    "przystanki": 26
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 26,
+    "czas": 39,
+    "agency": "ZTM MPK"
   },
   "84": {
-    "typ": "bus",
     "petle": [
-      "Rondo Rataje",
-      "Nowe Zoo"
-    ],
-    "przystanki": 32
-  },
-  "85": {
-    "typ": "bus",
-    "petle": [
-      "Osiedle Jana III Sobieskiego",
-      "Rondo Śródka"
-    ],
-    "przystanki": 27
-  },
-  "89": {
-    "typ": "bus",
-    "petle": [
-      "Starołęka",
-      "Starołęka"
-    ],
-    "przystanki": 20
-  },
-  "90": {
-    "typ": "bus",
-    "petle": [
-      "Kazimierza Wielkiego",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki": 27
-  },
-  "91": {
-    "typ": "bus",
-    "petle": [
-      "Osiedle Jana III Sobieskiego",
-      "Osiedle Kopernika"
-    ],
-    "przystanki": 29
-  },
-  "92": {
-    "typ": "bus",
-    "petle": [
-      "Giełda Ogrodnicza Franowo",
+      "Nowe Zoo",
       "Rondo Rataje"
     ],
-    "przystanki": 10
-  },
-  "93": {
-    "typ": "bus",
-    "petle": [
-      "Osiedle Jana III Sobieskiego",
-      "Górczyn"
+    "strefy": [
+      "A"
     ],
-    "przystanki": 25
+    "przystanki": 32,
+    "czas": 48,
+    "agency": "ZTM MPK"
   },
-  "94": {
-    "typ": "bus",
+  "85": {
     "petle": [
-      "Starołęka",
+      "Rondo Śródka",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 27,
+    "czas": 40,
+    "agency": "ZTM MPK"
+  },
+  "89": {
+    "petle": [
       "Starołęka"
     ],
-    "przystanki": 20
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 20,
+    "czas": 19,
+    "agency": "ZTM MPK"
+  },
+  "90": {
+    "petle": [
+      "Osiedle Jana III Sobieskiego",
+      "Kazimierza Wielkiego"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 27,
+    "czas": 34,
+    "agency": "ZTM MPK"
+  },
+  "91": {
+    "petle": [
+      "Osiedle Kopernika",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 29,
+    "czas": 42,
+    "agency": "ZTM MPK"
+  },
+  "92": {
+    "petle": [
+      "Rondo Rataje",
+      "Giełda Ogrodnicza Franowo"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 10,
+    "czas": 18,
+    "agency": "ZTM MPK"
+  },
+  "93": {
+    "petle": [
+      "Górczyn",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 24,
+    "czas": 34,
+    "agency": "ZTM MPK"
+  },
+  "94": {
+    "petle": [
+      "Starołęka"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 20,
+    "czas": 20,
+    "agency": "ZTM MPK"
   },
   "95": {
-    "typ": "bus",
     "petle": [
       "Kiekrz",
       "Ogrody"
     ],
-    "przystanki": 21
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 21,
+    "czas": 30,
+    "agency": "ZTM MPK"
   },
   "96": {
-    "typ": "bus",
     "petle": [
-      "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki": 30
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 28,
+    "czas": 39,
+    "agency": "ZTM MPK"
   },
   "97": {
-    "typ": "bus",
     "petle": [
       "Rondo Rataje",
-      "Osiedle Rusa Szpital"
+      "Osiedle Rusa/Szpital"
     ],
-    "przystanki": 11
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 11,
+    "czas": 14,
+    "agency": "ZTM MPK"
   },
   "98": {
-    "typ": "bus",
-    "petle": [
-      "Osiedle Różany Potok",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki": 10
-  },
-  "100": {
-    "typ": "bus",
-    "petle": [
-      "Nowe Zoo",
-      "Gajowa"
-    ],
-    "przystanki": 8
-  },
-  "201": {
-    "typ": "tram",
     "petle": [
       "Osiedle Jana III Sobieskiego",
+      "Radojewo"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 20,
+    "czas": 17,
+    "agency": "ZTM MPK"
+  },
+  "100": {
+    "petle": [
+      "Gajowa",
+      "Nowe Zoo"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 8,
+    "czas": 34,
+    "agency": "ZTM MPK"
+  },
+  "201": {
+    "petle": [
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki": 44
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 44,
+    "czas": 61,
+    "agency": "ZTM MPK"
   },
   "232": {
-    "typ": "bus",
     "petle": [
-      "Osiedle Rusa",
-      "Rondo Kaponiera"
+      "Rondo Kaponiera",
+      "Osiedle Rusa"
     ],
-    "przystanki": 19
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 19,
+    "czas": 18,
+    "agency": "ZTM MPK"
   },
   "233": {
-    "typ": "bus",
     "petle": [
-      "Mogileńska",
-      "Rondo Kaponiera"
+      "Rondo Kaponiera",
+      "Zieliniec"
     ],
-    "przystanki": 10
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 16,
+    "czas": 26,
+    "agency": "ZTM MPK"
   },
   "234": {
-    "typ": "bus",
     "petle": [
-      "Osiedle Batorego II",
-      "Poznań Główny"
+      "Poznań Główny",
+      "Osiedle Batorego II"
     ],
-    "przystanki": 23
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 23,
+    "czas": 23,
+    "agency": "ZTM MPK"
   },
   "235": {
-    "typ": "bus",
     "petle": [
       "Poznań Główny",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki": 23
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 22,
+    "czas": 23,
+    "agency": "ZTM MPK"
   },
   "236": {
-    "typ": "bus",
     "petle": [
-      "Poznań Główny",
       "Poznań Główny"
     ],
-    "przystanki": 43
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 43,
+    "czas": 49,
+    "agency": "ZTM MPK"
   },
   "237": {
-    "typ": "bus",
     "petle": [
-      "Koziegłowy/Os. Leśne",
-      "Starołęka"
+      "Starołęka",
+      "Koziegłowy/Osiedle Leśne"
     ],
-    "przystanki": 26
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 26,
+    "czas": 32,
+    "agency": "ZTM MPK"
   },
   "238": {
-    "typ": "bus",
     "petle": [
       "Rondo Kaponiera",
       "Franowo"
     ],
-    "przystanki": 27
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 18,
+    "czas": 19,
+    "agency": "ZTM MPK"
   },
   "239": {
-    "typ": "bus",
     "petle": [
-      "Wichrowa",
-      "Poznań Główny"
+      "Poznań Główny",
+      "Kiekrz"
     ],
-    "przystanki": 17
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 28,
+    "czas": 26,
+    "agency": "ZTM MPK"
   },
   "240": {
-    "typ": "bus",
     "petle": [
       "Poznań Główny",
       "Kacza"
     ],
-    "przystanki": 19
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 15,
+    "czas": 18,
+    "agency": "ZTM MPK"
   },
   "242": {
-    "typ": "bus",
     "petle": [
       "Poznań Główny",
       "Port Lotniczy Ławica"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 23,
+    "czas": 23,
+    "agency": "ZTM MPK"
   },
   "243": {
-    "typ": "bus",
-    "petle": [
-      "Osiedle Dębina",
-      "Poznań Główny"
-    ],
-    "przystanki": 18
-  },
-  "244": {
-    "typ": "bus",
-    "petle": [
-      "Krzesiny",
-      "Rondo Rataje"
-    ],
-    "przystanki": 22
-  },
-  "245": {
-    "typ": "bus",
-    "petle": [
-      "Starołęka",
-      "Mogileńska"
-    ],
-    "przystanki": 26
-  },
-  "246": {
-    "typ": "bus",
     "petle": [
       "Poznań Główny",
+      "Luboń/Parkowa"
+    ],
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 34,
+    "czas": 37,
+    "agency": "ZTM MPK"
+  },
+  "244": {
+    "petle": [
+      "Rondo Rataje",
+      "Krzesiny"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 22,
+    "czas": 20,
+    "agency": "ZTM MPK"
+  },
+  "245": {
+    "petle": [
+      "Mogileńska",
+      "Starołęka"
+    ],
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 26,
+    "czas": 24,
+    "agency": "ZTM MPK"
+  },
+  "246": {
+    "petle": [
       "Poznań Główny"
     ],
-    "przystanki": 45
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 31,
+    "czas": 31,
+    "agency": "ZTM MPK"
   },
   "247": {
-    "typ": "bus",
     "petle": [
-      "Piotrowo",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Piotrowo"
     ],
-    "przystanki": 30
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 30,
+    "czas": 24,
+    "agency": "ZTM MPK"
   },
   "248": {
-    "typ": "bus",
     "petle": [
       "Rondo Kaponiera",
       "Radojewo"
     ],
-    "przystanki": 24
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 28,
+    "czas": 25,
+    "agency": "ZTM MPK"
   },
   "249": {
-    "typ": "bus",
     "petle": [
-      "Dębiec",
-      "Rondo Kaponiera"
+      "Rondo Kaponiera",
+      "Dębiec"
     ],
-    "przystanki": 25
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 25,
+    "czas": 25,
+    "agency": "ZTM MPK"
   },
   "251": {
-    "typ": "bus",
     "petle": [
       "Rondo Kaponiera",
       "Junikowo Stacja"
     ],
-    "przystanki": 20
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 15,
+    "czas": 12,
+    "agency": "ZTM MPK"
   },
   "252": {
-    "typ": "bus",
     "petle": [
       "Rondo Kaponiera",
       "Kacza"
     ],
-    "przystanki": 18
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 18,
+    "czas": 17,
+    "agency": "ZTM MPK"
   },
   "511": {
-    "typ": "bus",
     "petle": [
-      "Kamionki/Klonowa",
-      "Franowo"
+      "Franowo",
+      "Kamionki/Klonowa"
     ],
-    "przystanki": 43
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 43,
+    "czas": 54,
+    "agency": "ZTM KOMBUS"
   },
   "512": {
-    "typ": "bus",
     "petle": [
-      "Borówiec/Dębowa",
-      "Franowo"
+      "Franowo",
+      "Borówiec/Dębowa"
     ],
-    "przystanki": 43
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 42,
+    "czas": 56,
+    "agency": "ZTM KOMBUS"
   },
   "527": {
-    "typ": "bus",
     "petle": [
-      "Czapury/Żurawinowa",
-      "Starołęka"
+      "Starołęka",
+      "Czapury/Żurawinowa"
     ],
-    "przystanki": 13
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 13,
+    "czas": 13,
+    "agency": "ZTM KOMBUS"
   },
   "602": {
-    "typ": "bus",
     "petle": [
-      "Luboń/Lasek",
-      "Dębiec"
+      "Dębiec",
+      "Luboń/Lasek"
     ],
-    "przystanki": 10
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 10,
+    "czas": 15,
+    "agency": "ZTM TRANSLUB"
   },
   "603": {
-    "typ": "bus",
     "petle": [
       "Luboń/Lasek",
       "Plac Bernardyński"
     ],
-    "przystanki": 19
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 16,
+    "czas": 29,
+    "agency": "ZTM TRANSLUB"
   },
   "610": {
-    "typ": "bus",
     "petle": [
-      "Dębiec",
-      "Górczyn"
+      "Górczyn",
+      "Dębiec"
     ],
-    "przystanki": 26
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 26,
+    "czas": 38,
+    "agency": "ZTM TRANSLUB"
   },
   "611": {
-    "typ": "bus",
     "petle": [
       "Dębiec",
-      "Luboń Żabikowo"
+      "Sycowska/Auchan"
     ],
-    "przystanki": 13
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 15,
+    "czas": 18,
+    "agency": "ZTM TRANSLUB"
   },
   "614": {
-    "typ": "bus",
     "petle": [
       "Luboń/Kręta",
       "Górczyn"
     ],
-    "przystanki": 21
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 22,
+    "czas": 30,
+    "agency": "ZTM TRANSLUB"
   },
   "616": {
-    "typ": "bus",
     "petle": [
       "Górczyn",
-      "Luboń Żabikowo"
+      "Luboń/Żabikowo"
     ],
-    "przystanki": 12
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 11,
+    "czas": 16,
+    "agency": "ZTM MPK"
   },
   "651": {
-    "typ": "bus",
     "petle": [
-      "Dymaczewo Nowe/Klub",
-      "Dębiec"
+      "Dębiec",
+      "Dymaczewo Nowe/Klub"
     ],
-    "przystanki": 32
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 34,
+    "czas": 66,
+    "agency": "ZTM TRANSLUB"
   },
   "701": {
-    "typ": "bus",
     "petle": [
       "Górczyn",
       "Komorniki/Jeziorna"
     ],
-    "przystanki": 29
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 29,
+    "czas": 40,
+    "agency": "PUK"
   },
   "702": {
-    "typ": "bus",
     "petle": [
-      "Komorniki/Urząd Gminy",
-      "Górczyn"
+      "Górczyn",
+      "Komorniki/Urząd Gminy"
     ],
-    "przystanki": 20
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 20,
+    "czas": 30,
+    "agency": "PUK"
   },
   "703": {
-    "typ": "bus",
     "petle": [
-      "Konarzewo/Pętla",
-      "Górczyn"
+      "Górczyn",
+      "Konarzewo/Pętla"
     ],
-    "przystanki": 23
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 24,
+    "czas": 42,
+    "agency": "PUK"
   },
   "710": {
-    "typ": "bus",
     "petle": [
-      "Plewiska/Kościół",
-      "Górczyn"
+      "Górczyn",
+      "Plewiska/Kościół"
     ],
-    "przystanki": 16
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 19,
+    "czas": 28,
+    "agency": "PUK"
   },
   "716": {
-    "typ": "bus",
     "petle": [
       "Junikowo",
-      "Głuchowo/Stawna"
+      "Gołuski/Pętla"
     ],
-    "przystanki": 14
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 16,
+    "czas": 24,
+    "agency": "PUK"
   },
   "718": {
-    "typ": "bus",
     "petle": [
       "Ogrody",
-      "Dopiewo, D.K."
+      "Dopiewo/Dworzec Kolejowy"
     ],
-    "przystanki": 29
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 25,
+    "czas": 48,
+    "agency": "PUK"
   },
   "719": {
-    "typ": "bus",
     "petle": [
       "Ogrody",
-      "Dopiewo, D.K."
+      "Dopiewo/Dworzec Kolejowy"
     ],
-    "przystanki": 34
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 32,
+    "czas": 58,
+    "agency": "PUK"
   },
   "830": {
-    "typ": "bus",
     "petle": [
-      "Pawłowice/Pętla",
-      "Kiekrz"
+      "Kiekrz",
+      "Pawłowice/Pętla"
     ],
-    "przystanki": 7
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 7,
+    "czas": 9,
+    "agency": "ZTM ROKBUS"
   },
   "832": {
-    "typ": "bus",
     "petle": [
       "Przybroda/Pętla",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki": 35
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 37,
+    "czas": 50,
+    "agency": "ZTM ROKBUS"
   },
   "833": {
-    "typ": "bus",
     "petle": [
       "Ogrody",
-      "Rokietnica/Os. Kalinowe"
+      "Rokietnica/Osiedle Kalinowe"
     ],
-    "przystanki": 35
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 31,
+    "czas": 39,
+    "agency": "ZTM ROKBUS"
   },
   "891": {
-    "typ": "bus",
     "petle": [
-      "Mrowino/Szkoła",
-      "Rokietnica/Stacja"
+      "Rokietnica/Stacja",
+      "Mrowino/Szkoła"
     ],
-    "przystanki": 10
+    "strefy": [
+      "B"
+    ],
+    "przystanki": 10,
+    "czas": 12,
+    "agency": "ZTM ROKBUS"
   },
   "893": {
-    "typ": "bus",
     "petle": [
-      "Żydowo/Pętla",
-      "Rokietnica/Ros"
+      "Rokietnica/Stacja",
+      "Przecław/Pętla"
     ],
-    "przystanki": 11
+    "strefy": [
+      "B",
+      "C"
+    ],
+    "przystanki": 12,
+    "czas": 16,
+    "agency": "ZTM ROKBUS"
   },
   "901": {
-    "typ": "bus",
     "petle": [
       "Osiedle Jana III Sobieskiego",
-      "Złotniki/Os. Grzybowe"
+      "Złotniki/Osiedle Grzybowe"
     ],
-    "przystanki": 20
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 18,
+    "czas": 25,
+    "agency": "ZTM ZKP"
   },
   "902": {
-    "typ": "bus",
     "petle": [
       "Osiedle Jana III Sobieskiego",
       "Suchy Las/Działki"
     ],
-    "przystanki": 16
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 15,
+    "czas": 20,
+    "agency": "ZTM ZKP"
   },
   "904": {
-    "typ": "bus",
     "petle": [
       "Osiedle Jana III Sobieskiego",
       "Złotniki/Wieś"
     ],
-    "przystanki": 20
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 18,
+    "czas": 28,
+    "agency": "ZTM ZKP"
   },
   "905": {
-    "typ": "bus",
     "petle": [
-      "Chludowo/Szkoła",
-      "Poznań Główny"
+      "Poznań Główny",
+      "Chludowo/Szkoła"
     ],
-    "przystanki": 48
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 48,
+    "czas": 70,
+    "agency": "ZTM ZKP"
   },
   "907": {
-    "typ": "bus",
     "petle": [
-      "Chludowo/Szkoła",
-      "Osiedle Jana III Sobieskiego"
+      "Osiedle Jana III Sobieskiego",
+      "Chludowo/Szkoła"
     ],
-    "przystanki": 36
+    "strefy": [
+      "A",
+      "B",
+      "C"
+    ],
+    "przystanki": 39,
+    "czas": 48,
+    "agency": "ZTM ZKP"
   },
   "911": {
-    "typ": "bus",
     "petle": [
       "Biedrusko/Park",
       "Rondo Śródka"
     ],
-    "przystanki": 28
+    "strefy": [
+      "A",
+      "B"
+    ],
+    "przystanki": 28,
+    "czas": 42,
+    "agency": "ZTM MPK"
   },
   "L": {
-    "typ": "bus",
     "petle": [
-      "Poznań Główny",
-      "Port Lotniczy Ławica"
+      "Poznań Główny"
     ],
-    "przystanki": 4
+    "strefy": [
+      "A"
+    ],
+    "przystanki": 4,
+    "czas": 22,
+    "agency": "ZTM MPK"
   }
 }
