@@ -4,7 +4,7 @@ echo "Aktualizuje dane"
 
 # baza Geopozu
 echo "\n> Pobieram spis obiektów w bazie Geopozu..."
-./geopoz.sh
+./scripts/geopoz.sh
 
 # numeracja ulic
 echo "\n> Pobieram dane o numeracji ulic..."
@@ -29,13 +29,16 @@ curl -s "http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/Du%C
 
 # komunikacja miejska
 echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
-./rozkladzik.js
+./scripts/rozkladzik.js
 
 echo "\n> Pobieram dane o operatorach linii komunikacji miejskiej..."
 curl -s "http://ztm.poznan.pl/gtfs-ztm/routes_by_name.json.php?dbname=production_gtfs" | jsonlint > ztm-operators.json
 
 echo "\n> Pobieram listę przystanków z rozkladzik.pl..."
 curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
+
+echo "\n> Baza GeoJSON przystanków..."
+./scripts/ztm-stops.py > ../db/ztm-stops.geojson
 
 #
 unlink tmp*
