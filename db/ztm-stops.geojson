@@ -3659,20 +3659,6 @@
    "geometry": {
     "type": "Point", 
     "coordinates": [
-     16.932523, 
-     52.368599000000003
-    ]
-   }, 
-   "type": "Feature", 
-   "id": "STAR43", 
-   "properties": {
-    "name": "Staro\u0142\u0119ka"
-   }
-  }, 
-  {
-   "geometry": {
-    "type": "Point", 
-    "coordinates": [
      16.834499999999998, 
      52.383420000000001
     ]
@@ -3897,8 +3883,8 @@
    "geometry": {
     "type": "Point", 
     "coordinates": [
-     16.864795000000001, 
-     52.401381000000001
+     16.864218000000001, 
+     52.400660000000002
     ]
    }, 
    "type": "Feature", 
@@ -4051,8 +4037,8 @@
    "geometry": {
     "type": "Point", 
     "coordinates": [
-     16.864502000000002, 
-     52.400702000000003
+     16.865148999999999, 
+     52.401381000000001
     ]
    }, 
    "type": "Feature", 
@@ -16147,8 +16133,8 @@
    "geometry": {
     "type": "Point", 
     "coordinates": [
-     16.913277000000001, 
-     52.433847
+     16.914746000000001, 
+     52.431386000000003
     ]
    }, 
    "type": "Feature", 
@@ -25359,6 +25345,20 @@
    "geometry": {
     "type": "Point", 
     "coordinates": [
+     16.891017999999999, 
+     52.415486000000001
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "ZERO72", 
+   "properties": {
+    "name": "\u017beromskiego"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
      16.888300999999998, 
      52.402282999999997
     ]
@@ -25387,6 +25387,20 @@
    "geometry": {
     "type": "Point", 
     "coordinates": [
+     16.893533999999999, 
+     52.390386999999997
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "GLHE45", 
+   "properties": {
+    "name": "G\u0142ogowska/Hetma\u0144ska"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
      16.886928999999999, 
      52.392698000000003
     ]
@@ -25409,6 +25423,20 @@
    "id": "AREN42", 
    "properties": {
     "name": "Arena"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
+     16.914868999999999, 
+     52.385621999999998
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "TRAU45", 
+   "properties": {
+    "name": "Traugutta"
    }
   }, 
   {
@@ -25463,20 +25491,6 @@
    }, 
    "type": "Feature", 
    "id": "GROT41", 
-   "properties": {
-    "name": "Grotkowska"
-   }
-  }, 
-  {
-   "geometry": {
-    "type": "Point", 
-    "coordinates": [
-     16.843579999999999, 
-     52.386330000000001
-    ]
-   }, 
-   "type": "Feature", 
-   "id": "GROT42", 
    "properties": {
     "name": "Grotkowska"
    }
@@ -25787,6 +25801,20 @@
    "id": "POGL91", 
    "properties": {
     "name": "Pozna\u0144 G\u0142\u00f3wny"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
+     16.921005999999998, 
+     52.401885999999998
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "WIER91", 
+   "properties": {
+    "name": "Wierzbi\u0119cice"
    }
   }, 
   {
@@ -26263,6 +26291,62 @@
    "id": "RSTA91", 
    "properties": {
     "name": "Rondo Staro\u0142\u0119ka"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
+     16.910972000000001, 
+     52.403137999999998
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "MODW24", 
+   "properties": {
+    "name": "Most Dworcowy"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
+     16.909873000000001, 
+     52.402192999999997
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "DWZA91", 
+   "properties": {
+    "name": "Dworzec Zachodni"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
+     16.915631999999999, 
+     52.402644000000002
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "POGL92", 
+   "properties": {
+    "name": "Pozna\u0144 G\u0142\u00f3wny"
+   }
+  }, 
+  {
+   "geometry": {
+    "type": "Point", 
+    "coordinates": [
+     16.920902999999999, 
+     52.401561999999998
+    ]
+   }, 
+   "type": "Feature", 
+   "id": "WIER92", 
+   "properties": {
+    "name": "Wierzbi\u0119cice"
    }
   }
  ]
