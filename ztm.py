@@ -42,7 +42,6 @@ for line in routes['lines']:
         "typ": line['typ'],
         "petle": line['petle'],
         "przystanki": line['przystanki'],
-        "agency": ''
     }
 
 for line in operators['lines']:
@@ -55,7 +54,16 @@ for line in operators['lines']:
         if line['night'] is True:
             lines[line['name']]['night'] = True
 
+        # operator
         lines[line['name']]['agency'] = line['operator'].replace('ZTM_', '')
 
+        # link do rozkładu jazdy
+        lines[line['name']]['rozklad'] = \
+            'http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/%s/linia/%s' % (line['operator'], line['name'])
+
+# TODO: inni operatorzy
+# * Kombus - http://www.kombus.pl/komunikacja
+
+# generuj plik JSON
 with open("db/ztm-linie.json", "w") as out:
     json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=True)
