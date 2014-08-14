@@ -48,7 +48,7 @@ for idx, stop in enumerate(raw[2]):
 
 sys.stderr.write("Znalezionych przystanków: %d\n" % (len(stops)))
 
-#print json.dumps(stops, indent=True)
+# print json.dumps(stops, indent=True)
 
 # konwersja na GeoJSON
 points = []

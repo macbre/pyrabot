@@ -56,7 +56,7 @@ class CsvReader:
             words.reverse()
             key = ' '.join(words)
 
-            #logger.debug("Key fallback for %s..." % key)
+            # logger.debug("Key fallback for %s..." % key)
 
         return self.items[key] if key in self.items else None
 
