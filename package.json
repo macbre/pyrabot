@@ -6,7 +6,9 @@
     "jsdom": "~0.8.10"
   },
   "devDependencies": {
-    "jshint": "~2.4.0"
+    "jshint": "~2.4.0",
+    "jsonlint": "^1.6.0",
+    "phantomjs": "^1.9.7-15"
   },
   "scripts": {
     "lint": "jshint --verbose *.js"
