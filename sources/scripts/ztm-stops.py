@@ -7,11 +7,11 @@ Skrypt importujący dane o lokalizacji przystanków
 @see http://www.rozkladzik.pl/poznan/data.txt
 """
 
-import csv
 import json
 import logging
 
 import requests
+import unicodecsv
 from geojson import FeatureCollection, Point, Feature
 
 logging.basicConfig(level=logging.INFO)
@@ -36,7 +36,7 @@ class ReverseGeo(object):
 
         if 'address' in data:
             details = data['address']
-            self.logger.info(json.dumps(details))
+            self.logger.info('[%s] %s', data['osm_type'], json.dumps(details))
 
             # Folwarczna
             if 'road' in details:
@@ -112,7 +112,7 @@ print("Znalezionych przystanków: %d" % (len(stops)))
 
 # zapisz jak CSV
 with open('ztm-stops.csv', 'wb') as out:
-    writer = csv.writer(out, delimiter='\t')
+    writer = unicodecsv.writer(out, delimiter='\t')
 
     for stop in stops:
         writer.writerow([
