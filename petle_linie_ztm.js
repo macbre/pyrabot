@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require('fs'),
 	bot = require('nodemw'),
 	client = new bot('config.js');
@@ -12,9 +13,8 @@ function updateLine(pageTitle) {
 
 	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
 		stops = db[line] && db[line].petle,
-		czas = db[line] && db[line].czas,
-		przystanki = db[line] && db[line].przystanki,
-		strefy = db[line] && db[line].strefy.join(', ');
+		rozklad = db[line] && db[line].rozklad,
+		przystanki = db[line] && db[line].przystanki;;
  
 	console.log("\n" + page.title + ' (#' + line + ')');
 
@@ -30,9 +30,7 @@ function updateLine(pageTitle) {
 
 	console.log(JSON.stringify(db[line]));
 	console.log(stops);
-	console.log('Czas: ' + czas);
 	console.log('Przystanków: ' + przystanki);
-	console.log('Strefy: ' + strefy);
 
 	client.getArticle(page.title, function(content) {
 		if (content.indexOf('|historyczna=tak') > -1) {
@@ -44,15 +42,6 @@ function updateLine(pageTitle) {
 		content = content.replace(/\|pętla1\s?=[^|]+/, "|pętla1=" + stops[0] + "\n");
 		content = content.replace(/\|pętla2\s?=[^|]+/, "|pętla2=" + stops[1] + "\n");
 
-		if (czas > 0) {
-			// dodaj parametr do wukitekstu
-			if (content.indexOf('|przejazd') < 0) {
-				content = content.replace(/\|dlugosc=/, '|przejazd=\n|dlugosc=');
-			}
-
-			content = content.replace(/\|przejazd\s?=[^|]+/, "|przejazd=" + czas + "\n");
-		}
-
 		if (przystanki > 0) {
 			// dodaj parametr do wukitekstu
 			if (content.indexOf('|przystanki') < 0) {
@@ -62,15 +51,21 @@ function updateLine(pageTitle) {
 			content = content.replace(/\|przystanki\s?=[^|]+/, "|przystanki=" + przystanki + "\n");
 		}
 
-		if (strefy) {
+		if (rozklad) {
 			// dodaj parametr do wukitekstu
-			if (content.indexOf('|strefy') < 0) {
-				content = content.replace(/\|dlugosc=/, '|strefy=\n|dlugosc=');
+			if (content.indexOf('|rozkład') < 0) {
+				content = content.replace(/\|przystanki=/, '|rozkład=\n|przystanki=');
 			}
 
-			content = content.replace(/\|strefy\s?=[^|]+/, "|strefy=" + strefy + "\n");
+			content = content.replace(/\|rozkład\s?=[^|]+/, "|rozkład=" + rozklad + "\n");
 		}
 
+		// usuń stare parametry
+		// |przejazd=82
+		// |strefy=A
+		content = content.
+			replace(/\|przejazd=\d+\n/, '').
+			replace(/\|strefy=[ABC, ]+\n/, '');
 
 		//console.log('\n\n================================\n' + page.title + '\n================================');
 		//console.log(content); return;
