@@ -65,4 +65,4 @@ for stop in stops:
 
     points.append(feature)
 
-print json.dumps(FeatureCollection(points), indent=True)
+print json.dumps(FeatureCollection(points), indent=True, separators=(',', ':'))
