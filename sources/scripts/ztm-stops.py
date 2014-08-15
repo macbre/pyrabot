@@ -110,8 +110,8 @@ print("Znalezionych przystanków: %d" % (len(stops)))
 
 # print json.dumps(stops, indent=True)
 
-# zapisz jak CSV
-with open('ztm-stops.csv', 'wb') as out:
+# zapisz jak TSV
+with open('ztm-stops.tsv', 'wb') as out:
     writer = unicodecsv.writer(out, delimiter='\t')
 
     for stop in stops:
