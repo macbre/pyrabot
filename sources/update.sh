@@ -37,9 +37,6 @@ curl -s "http://ztm.poznan.pl/gtfs-ztm/routes_by_name.json.php?dbname=production
 echo "\n> Pobieram listę przystanków z rozkladzik.pl..."
 curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
 
-echo "\n> Baza GeoJSON przystanków..."
-./scripts/ztm-stops.py > ../db/ztm-stops.geojson
-
 #
 unlink tmp*
 echo "\nGotowe"

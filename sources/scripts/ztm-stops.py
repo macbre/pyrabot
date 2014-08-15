@@ -7,9 +7,57 @@ Skrypt importujący dane o lokalizacji przystanków
 @see http://www.rozkladzik.pl/poznan/data.txt
 """
 
+import csv
 import json
+import logging
+
+import requests
 from geojson import FeatureCollection, Point, Feature
-import sys
+
+logging.basicConfig(level=logging.INFO)
+
+
+class ReverseGeo(object):
+    def __init__(self, base_url="http://nominatim.openstreetmap.org/reverse"):
+        self.base_url = base_url
+        self.logger = logging.getLogger('ReverseGeo')
+
+    def query(self, lat, lon):
+        """
+        Zwraca informacje o mieście i ulicy dla podanej lokalizacji
+        """
+        r = requests.get(self.base_url, params={
+            "lat": lat,
+            "lon": lon,
+            "format": "json"
+        })
+
+        data = r.json()
+
+        if 'address' in data:
+            details = data['address']
+            self.logger.info(json.dumps(details))
+
+            # Folwarczna
+            if 'road' in details:
+                place = details['road']
+            # M1 Centrum Handlowe
+            elif 'address26' in details:
+                place = details['address26']
+            # Park Handlowy Franowo
+            elif 'retail' in details:
+                place = details['retail']
+            else:
+                return None
+
+            self.logger.info('Place: %s (%s)', place, data['address']['county'])
+
+            return {
+                "city": data['address']['county'],
+                "place": place,
+            }
+
+        return None
 
 stops = []
 
@@ -33,22 +81,48 @@ for part in parts:
 # 5 - ID (?)
 # 6 - ID (?)
 # 7 - ID wpisu w indeksie 0 (nazwa przystanku)
+geo = ReverseGeo(base_url="http://open.mapquestapi.com/nominatim/v1/reverse.php")
+
 for idx, stop in enumerate(raw[2]):
     if stop == '':
         continue
 
     name_idx = int(raw[7][idx])
 
-    stops.append({
+    entry = {
         "id": stop,
         "name": raw[0][name_idx],
         "lat": float(raw[3][idx]),
-        "lng": float(raw[4][idx]),
-    })
+        "lon": float(raw[4][idx]),
+        "city": '',
+        "place": '',
+    }
 
-sys.stderr.write("Znalezionych przystanków: %d\n" % (len(stops)))
+    # geolokalizacja
+    ret = geo.query(entry['lat'], entry['lon'])
+    if ret is not None:
+        entry['city'] = ret['city']
+        entry['place'] = ret['place']
+
+    stops.append(entry)
+
+print("Znalezionych przystanków: %d" % (len(stops)))
 
 # print json.dumps(stops, indent=True)
+
+# zapisz jak CSV
+with open('ztm-stops.csv', 'wb') as out:
+    writer = csv.writer(out, delimiter='\t')
+
+    for stop in stops:
+        writer.writerow([
+            stop['id'],
+            stop['name'],
+            round(stop['lat'], 6),
+            round(stop['lon'], 6),
+            stop['city'],
+            stop['place'],
+        ])
 
 # konwersja na GeoJSON
 points = []
@@ -56,13 +130,16 @@ points = []
 for stop in stops:
     # longitude and latitude
     feature = Feature(
-        geometry=Point((stop['lng'], stop['lat'])),
+        geometry=Point((stop['lon'], stop['lat'])),
         id=stop['id'],
         properties={
-            'name': stop['name']
+            'name': stop['name'],
+            'city': stop['city'],
+            'place': stop['place'],
         }
     )
 
     points.append(feature)
 
-print json.dumps(FeatureCollection(points), indent=True, separators=(',', ':'))
+with open("../db/ztm-stops.geojson", "w") as out:
+    json.dump(FeatureCollection(points), out, indent=True, separators=(',', ':'))
