@@ -51,7 +51,7 @@ page.open(URL, function(status) {
 				}
 
 				entry = {
-					name: currentLine,
+					name: parseInt(currentLine, 10) || currentLine,
 					typ: '',
 					petle: [],
 					przystanki: 0,
