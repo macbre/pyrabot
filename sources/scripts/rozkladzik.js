@@ -94,6 +94,9 @@ page.open(URL, function(status) {
 					entry.petle.push(text);
 				});
 
+				// sortuj pętle alfabetycznie
+				entry.petle = entry.petle.sort();
+
 				// symbole przystanków
 				// Plac Bernardyński (PLBE71) -> PLBE71
 
