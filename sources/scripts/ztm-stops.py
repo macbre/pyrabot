@@ -10,54 +10,12 @@ Skrypt importujący dane o lokalizacji przystanków
 import json
 import logging
 
-import requests
 import unicodecsv
 from geojson import FeatureCollection, Point, Feature
 
 logging.basicConfig(level=logging.INFO)
 
-
-class ReverseGeo(object):
-    def __init__(self, base_url="http://nominatim.openstreetmap.org/reverse"):
-        self.base_url = base_url
-        self.logger = logging.getLogger('ReverseGeo')
-
-    def query(self, lat, lon):
-        """
-        Zwraca informacje o mieście i ulicy dla podanej lokalizacji
-        """
-        r = requests.get(self.base_url, params={
-            "lat": lat,
-            "lon": lon,
-            "format": "json"
-        })
-
-        data = r.json()
-
-        if 'address' in data:
-            details = data['address']
-            self.logger.info('[%s] %s', data['osm_type'], json.dumps(details))
-
-            # Folwarczna
-            if 'road' in details:
-                place = details['road']
-            # M1 Centrum Handlowe
-            elif 'address26' in details:
-                place = details['address26']
-            # Park Handlowy Franowo
-            elif 'retail' in details:
-                place = details['retail']
-            else:
-                return None
-
-            self.logger.info('Place: %s (%s)', place, data['address']['county'])
-
-            return {
-                "city": data['address']['county'],
-                "place": place,
-            }
-
-        return None
+from utils import ReverseGeo
 
 stops = []
 
