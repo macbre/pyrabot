@@ -34,6 +34,18 @@ db/ztm-ulice.json:
         245
     ]
 
+db/ztm-stops.lua:
+
+local database = {
+    ["LUGA01"] = { "54" },
+    ["LUGA02"] = { "54", "62", "244" },
+    ["PILS01"] = { "52", "55", "62", "65" },
+    ["OSWI01"] = { "52", "55", "62", "65" },
+    ["SZII02"] = { "52", "74", "84" },
+}
+
+return database
+
 """
 
 import csv
@@ -46,8 +58,9 @@ with open("sources/ztm-routes.json") as f:
 with open("sources/ztm-operators.json") as f:
     operators = json.load(f)
 
-# generuj dane o liniach
+# generuj dane o liniach i przystankach
 lines = {}
+stops = {}
 
 for line in routes['lines']:
     try:
@@ -55,12 +68,27 @@ for line in routes['lines']:
     except:
         pass
 
+    # rejestruj linię
     lines[line['name']] = {
         "typ": line['typ'],
         "petle": line['petle'],
         "przystanki": line['przystanki'],
     }
 
+    # rejestruj linię zatrzymujące się na poszczególnych przystankach
+    for stop in line['przystankiSymbole'].split(','):
+        if stop not in stops:
+            stops[stop] = []
+
+        stops[stop].append(str(line['name']))
+
+# generuj dane o przystankach (format dla skryptów LUA)
+with open("db/ztm-stops.lua", "w") as lua:
+    lua_lines = ['    ["%s"] = { "%s" }' % (stop, '", "'.join(stops[stop])) for stop in sorted(stops.keys())]
+
+    lua.write('local database = {\n%s}\n\nreturn database\n' % ',\n'.join(lua_lines))
+
+# typ / operator linii + rozkład jazdy
 for line in operators['lines']:
     try:
         line['name'] = int(line['name'])
