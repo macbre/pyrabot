@@ -80,7 +80,10 @@ for line in routes['lines']:
         if stop not in stops:
             stops[stop] = []
 
-        stops[stop].append(str(line['name']))
+	line_name = str(line['name'])
+
+	if line_name not in stops[stop]:
+	        stops[stop].append(line_name)
 
 # generuj dane o przystankach (format dla skryptów LUA)
 with open("db/ztm-stops.lua", "w") as lua:
