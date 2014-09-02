@@ -91,6 +91,7 @@ for stop in stops:
         geometry=Point((stop['lon'], stop['lat'])),
         id=stop['id'],
         properties={
+            'id': stop['id'],
             'name': stop['name'],
             'city': stop['city'],
             'place': stop['place'],
