@@ -73,6 +73,7 @@ categories = {
     "Muzea": "http://www.poznan.pl/mim/main/muzea-w-poznaniu,poi,202,12/",
     "Puby i kluby": "http://www.poznan.pl/mim/turystyka/-,poi,92,6117/",
     "Licea ogólnokształcące": "http://www.poznan.pl/mim/oswiata/liceum-ogolnoksztalcace,poi,2286,8884/",
+    "Pomniki": "http://www.poznan.pl/mim/turystyka/pomniki,poi,2473/",
 }
 
 # translacja adres -> lat, lon
