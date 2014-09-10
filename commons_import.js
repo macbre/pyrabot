@@ -8,7 +8,8 @@ var bot = require('nodemw'),
 		server: 'commons.wikimedia.org',
 		path: '/w'
 	}),
-	IMAGE = process.argv[2] || '';
+	IMAGE = process.argv[2] || '',
+	DEST;
 
 if (IMAGE === '') {
 	console.log('Podaj nazwę obrazka do importu');
@@ -19,7 +20,10 @@ if (IMAGE.indexOf('File:') < 0) {
 	IMAGE = 'File:' + IMAGE;
 }
 
+DEST = process.argv[3] || IMAGE;
+
 client.log(IMAGE);
+client.log(DEST);
 
 client.logIn(function() {
 	// pobierz URL do "pełnej" wersji obrazka
@@ -32,11 +36,11 @@ client.logIn(function() {
 			text: '{{Wikimedia}}'
 		};
 
-		console.log('Import pliku <' + IMAGE + '> z Wikimedia Commons...');
+		console.log('Import pliku <' + IMAGE + '> z Wikimedia Commons jako <' + DEST + '>...');
 
 		// dodaj zdjęcia
-		client.uploadByUrl(IMAGE, url, params, function(res) {
-			console.log('Upload ' + IMAGE + ' zakończony');
+		client.uploadByUrl(DEST, url, params, function(res) {
+			console.log('Upload ' + DEST + ' zakończony');
 		});
 	});
 });
