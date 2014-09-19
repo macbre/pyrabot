@@ -221,6 +221,15 @@ class Numeracja(CsvReader):
         return ranges
 
 
+class NumeracjaOsiedla(Numeracja):
+    """ Dane o numeracji osiedli """
+    @staticmethod
+    def filter_out_line(line):
+        # line = ['os.', 'Jagiellońskie', '99']
+        # indeksuj tylko osiedla
+        return line[0] != 'os.'
+
+
 if __name__ == "__main__":
     # dane do JSONa
     res = {}
@@ -286,9 +295,25 @@ if __name__ == "__main__":
         }
 
     # zapisz do pliku
-    f = open("db/ulice.json", 'w')
-    json.dump(res, f, indent=True, sort_keys=True)
-    f.close()
+    with open("db/ulice.json", 'w') as f:
+        json.dump(res, f, indent=True, sort_keys=True)
 
     logger.info("Zapisano dane o %d ulicach" % len(items))
     logger.info("Brakujące informacje dla %d ulic" % missing_data)
+
+    # osiedla
+    osiedla_numeracja = NumeracjaOsiedla("sources/ulice-numeracja.csv", "\t")
+    osiedla_numeracja.read()
+
+    res = {}
+    items = osiedla_numeracja.get_items()
+
+    for osiedle in items:
+        res['Osiedle %s' % osiedle] = {
+            'numeracja': osiedla_numeracja.get_item(osiedle)
+        }
+
+    with open("db/osiedla.json", 'w') as f:
+        json.dump(res, f, indent=True, sort_keys=True)
+
+    logger.info("Zapisano dane o %d osiedlach" % len(items))
