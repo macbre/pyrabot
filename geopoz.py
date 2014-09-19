@@ -28,7 +28,13 @@ class CsvReader:
     def get_csv_line(self):
         """ Pobieraj kolejne linie z pliku CSV """
         for line in self.csv:
-            yield line
+            if self.filter_out_line(line) is not True:
+                yield line
+
+    @staticmethod
+    def filter_out_line(line):
+        """ Odfiltruj podaną linię z CSV """
+        return False
 
     def set_items(self, items):
         self.items = items
@@ -69,13 +75,14 @@ class DlugoscUlic(CsvReader):
         CsvReader.__init__(self, file_name, delimiter=',')
         self.column = column
 
+    @staticmethod
+    def filter_out_line(line):
+        return not re.match('^\d+$', line[0])
+
     def read(self):
         streets = {}
 
         for line in self.get_csv_line():
-            if not re.match('^\d+$', line[0]):
-                continue
-
             street = line[1]
             length = int(line[self.column])
 
@@ -114,22 +121,24 @@ class KodyPocztowe(CsvReader):
 
 class Ulice(CsvReader):
     """ Dane o ulicach """
+    @staticmethod
+    def filter_out_line(line):
+        return line[0] not in ['ul.', 'al.']
+
     def read(self):
         for line in self.get_csv_line():
-            if line[0] not in ['ul.', 'al.']:
-                continue
-
             self.push_item(line[1].strip(), value=True)
 
 
 class Dzielnice(CsvReader):
     """ Dane o dzielnicach """
+    @staticmethod
+    def filter_out_line(line):
+        # "1392","Radziejowska","Nowe Miasto","droga wewnętrzna","59",,
+        return len(line) < 3
+
     def read(self):
         for line in self.get_csv_line():
-            # "1392","Radziejowska","Nowe Miasto","droga wewnętrzna","59",,
-            if len(line) < 3:
-                continue
-
             street = line[1].strip()
             dzielnica = line[2]
 
@@ -147,15 +156,16 @@ class Dzielnice(CsvReader):
 
 class Numeracja(CsvReader):
     """ Dane o numeracji ulic """
+    @staticmethod
+    def filter_out_line(line):
+        # line = ['ul.', 'Jesienna', '11']
+        # indeksuj tylko ulice i aleje
+        return line[0] != 'ul.' and line[0] != 'al.'
+
     def read(self):
         streets = {}
 
         for line in self.get_csv_line():
-            # line = ['ul.', 'Jesienna', '11']
-            # indeksuj tylko ulice i aleje
-            if line[0] != 'ul.' and line[0] != 'al.':
-                continue
-
             if line[1] not in streets:
                 streets[line[1]] = set()
 
