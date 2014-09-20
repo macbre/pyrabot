@@ -814,7 +814,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":27,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -840,6 +840,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
+  "242":{
+    "agency":"MPK",
+    "night":true,
+    "petle":[
+      "Port Lotniczy \u0141awica",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/242",
+    "typ":"bus"
+  },
   "243":{
     "agency":"MPK",
     "night":true,
@@ -851,6 +862,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/243",
     "typ":"bus"
   },
+  "244":{
+    "agency":"MPK",
+    "night":true,
+    "petle":[
+      "Krzesiny",
+      "Rondo Rataje"
+    ],
+    "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/244",
+    "typ":"bus"
+  },
   "245":{
     "agency":"MPK",
     "night":true,
@@ -860,6 +882,17 @@
     ],
     "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
+    "typ":"bus"
+  },
+  "246":{
+    "agency":"MPK",
+    "night":true,
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "przystanki":45,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/246",
     "typ":"bus"
   },
   "247":{
@@ -902,7 +935,7 @@
       "Junikowo Stacja",
       "Rondo Kaponiera"
     ],
-    "przystanki":20,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
     "typ":"bus"
   },
