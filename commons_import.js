@@ -9,7 +9,8 @@ var bot = require('nodemw'),
 		path: '/w'
 	}),
 	IMAGE = process.argv[2] || '',
-	DEST;
+	DEST,
+	src = IMAGE;
 
 if (IMAGE === '') {
 	console.log('Podaj nazwę obrazka do importu');
@@ -33,7 +34,7 @@ client.logIn(function() {
 
 		params = {
 			comment: 'Import zdjęcia z Wikimedia Commons',
-			text: '{{Wikimedia}}'
+			text: '{{Wikimedia|' + src + '}}'
 		};
 
 		console.log('Import pliku <' + IMAGE + '> z Wikimedia Commons jako <' + DEST + '>...');
