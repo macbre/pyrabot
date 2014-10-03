@@ -505,13 +505,6 @@
       "night": false
     },
     {
-      "name": "100",
-      "type": "3",
-      "operator": "ZTM_MPK",
-      "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
       "name": "201",
       "type": "0",
       "operator": "ZTM_MPK",
@@ -677,6 +670,13 @@
       "type": "3",
       "operator": "ZTM_KOMBUS",
       "agencyName": "ZTM_KOMBUS",
+      "night": false
+    },
+    {
+      "name": "601",
+      "type": "3",
+      "operator": "ZTM_TRANSLUB",
+      "agencyName": "ZTM_TRANSLUB",
       "night": false
     },
     {
