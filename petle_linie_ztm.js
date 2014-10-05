@@ -80,6 +80,13 @@ function updateLine(pageTitle) {
 }
 
 client.logIn(function() {
+	// aktualizuj Moduł:Przystanki-linie
+	var lua = fs.readFileSync('db/ztm-stops.lua').toString();
+
+	client.edit('Module:Przystanki-linie', lua, 'Aktualizacja listy przystanków', function(data) {
+		console.log('\n\n> Moduł:Przystanki-linie zaktualizowany!');
+	});
+
 	/**/
 	client.getPagesByPrefix('Linia tramwajowa nr', function(pages) {
 		pages && pages.forEach(function(page) {
