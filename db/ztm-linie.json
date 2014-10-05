@@ -12,10 +12,10 @@
   "2":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
+      "Ogrody",
       "Ogrody"
     ],
-    "przystanki":20,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -82,10 +82,10 @@
   "9":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
+      "Pi\u0105tkowska",
       "Pi\u0105tkowska"
     ],
-    "przystanki":27,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -495,7 +495,7 @@
       "D\u0119biec",
       "G\u00f3rczyn"
     ],
-    "przystanki":13,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/75",
     "typ":"bus"
   },
@@ -804,7 +804,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":26,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -925,7 +925,7 @@
       "Junikowo Stacja",
       "Rondo Kaponiera"
     ],
-    "przystanki":19,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
     "typ":"bus"
   },
@@ -1016,7 +1016,7 @@
       "D\u0119biec",
       "Lubo\u0144 \u017babikowo"
     ],
-    "przystanki":13,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/611",
     "typ":"bus"
   },
