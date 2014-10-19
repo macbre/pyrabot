@@ -31,15 +31,19 @@ my @linie = (
 	# historyczne
 	{
 		name => "Dzienne",
-		lines => [56, 88, 99]
+		lines => [1..5, 53, "79 bis", 86, 88, "95 bis", 99]
 	},
 	{
 		name => "Pospieszne",
-		lines => ["A".."F", 401, 402]
+		lines => ["A".."C", "C bis", "D".."F", 401, 402]
 	},
 	{
 		name => "Sezonowe",
 		lines => ["62 bis", "J", "K", "P", "S", "S1", "W", "Z"]
+	},
+	{
+		name => "Podmiejskie",
+		lines => [101..121]
 	},
 	{
 		name => "Nocne",
@@ -62,8 +66,7 @@ foreach my $sekcja (@linie) {
 
 	# formatuj wiersze
 	say "<tr>";
-	say "\t<td>$sekcja->{name}</td>";
-	say "\t<td>" . join(" &middot; ", @links) . "</td>";
-	say "\t</td>";
+	say "<td align=\"right\">'''$sekcja->{name}''':</td>";
+	say "<td align=\"left\" style=\"font-size: 0.95em\">" . join(" &middot; ", @links) . "</td>";
 	say "</tr>";
 }
