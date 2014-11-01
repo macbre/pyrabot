@@ -95,17 +95,17 @@
       "D\u0119biec",
       "Po\u0142abska"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
   "11":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
-      "Pi\u0105tkowska"
+      "Pi\u0105tkowska",
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":24,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
@@ -495,7 +495,7 @@
       "D\u0119biec",
       "G\u00f3rczyn"
     ],
-    "przystanki":16,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/75",
     "typ":"bus"
   },
@@ -635,7 +635,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Kopernika"
     ],
-    "przystanki":29,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91",
     "typ":"bus"
   },
@@ -804,7 +804,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":27,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -826,7 +826,7 @@
       "Kacza",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":19,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
@@ -925,7 +925,7 @@
       "Junikowo Stacja",
       "Rondo Kaponiera"
     ],
-    "przystanki":20,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
     "typ":"bus"
   },
@@ -936,7 +936,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":17,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
@@ -976,7 +976,7 @@
       "D\u0119biec",
       "Lubo\u0144 \u017babikowo"
     ],
-    "przystanki":23,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/601",
     "typ":"bus"
   },
@@ -1016,7 +1016,7 @@
       "D\u0119biec",
       "Lubo\u0144 \u017babikowo"
     ],
-    "przystanki":16,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/611",
     "typ":"bus"
   },
@@ -1026,7 +1026,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":21,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
@@ -1056,7 +1056,7 @@
       "G\u00f3rczyn",
       "Komorniki/Jeziorna"
     ],
-    "przystanki":30,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
     "typ":"bus"
   },
@@ -1106,7 +1106,7 @@
       "Dopiewo, D.K.",
       "Ogrody"
     ],
-    "przystanki":25,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/718",
     "typ":"bus"
   },
@@ -1116,7 +1116,7 @@
       "Dopiewo, D.K.",
       "Ogrody"
     ],
-    "przystanki":34,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/719",
     "typ":"bus"
   },
@@ -1146,7 +1146,7 @@
       "Ogrody",
       "Rokietnica/Os. Kalinowe"
     ],
-    "przystanki":35,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/833",
     "typ":"bus"
   },
