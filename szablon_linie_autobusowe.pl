@@ -10,7 +10,7 @@ use Data::Dumper;
 my @linie = (
 	{
 		name => "Dzienne",
-		lines => [45..55, 57..87, 89..98]
+		lines => [45..55, 57..85, 87, 89..98]
 	},
 	{
 		name => "Pospieszne",
@@ -18,11 +18,28 @@ my @linie = (
 	},
 	{
 		name => "Podmiejskie",
-		lines => [401, 405, 406, 412, 511, 512, 527, 602, 603, 610, 611, 614, 616, 651, 691, 701, 702, 703, 710, 716, 718, 719, 830, 832, 833, 891, 893, 901, 902, 904, 905, 907, 911]
+		lines => [
+			# Swarzędz (połączenie z Poznaniem)
+			401, 405, 406, 407, 412,
+			# KOMBUS Kórnik (połączenie z Poznaniem)
+			501, 511, 512, 527, # 502, 560, 561, 580..583, 590..592, 594..596,
+			# TRANSLUB Luboń
+			601, 602, 603, 610, 611, 614, 616, 651, 691,
+			# PUK Komorniki
+			701, 702, 703, 710, 716, 718, 719,
+			# ROKBUS Rokietnica
+			830, 832, 833, 891, 893,
+			# ZKP Sychy Las
+			901, 902, 904, 905, 907, 911
+		]
 	},
 	{
 		name => "Nocne",
-		lines => [231..240, 242..249, 251..252, 400]
+		lines => [
+			231..240, 242..249, 251..252,
+			# Swarzędz
+			400
+		]
 	},
 	{
 		name => "Turystyczne",
@@ -43,7 +60,7 @@ my @linie = (
 	},
 	{
 		name => "Podmiejskie",
-		lines => [101..123]
+		lines => [101..123, "NB"]
 	},
 	{
 		name => "Nocne",
