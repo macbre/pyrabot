@@ -322,10 +322,10 @@
   "58":{
     "agency":"MPK",
     "petle":[
-      "Piotrowo",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka",
+      "Sypniewo"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/58",
     "typ":"bus"
   },
@@ -771,7 +771,7 @@
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":24,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/235",
     "typ":"bus"
   },
@@ -889,10 +889,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Piotrowo",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Sypniewo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/247",
     "typ":"bus"
   },
@@ -914,7 +914,7 @@
       "D\u0119biec",
       "Rondo Kaponiera"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
@@ -1026,7 +1026,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
@@ -1056,7 +1056,7 @@
       "G\u00f3rczyn",
       "Komorniki/Jeziorna"
     ],
-    "przystanki":32,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
     "typ":"bus"
   },
