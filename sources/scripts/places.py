@@ -70,8 +70,8 @@ class POI(object):
 categories = {
     "Biurowce": "http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/",
     "Centra handlowe": "http://www.poznan.pl/mim/main/centra-handlowe,poi,670/",
-    "Muzea": "http://www.poznan.pl/mim/main/muzea-w-poznaniu,poi,202,12/",
-    "Puby i kluby": "http://www.poznan.pl/mim/turystyka/-,poi,92,6117/",
+    "Muzea": "http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/",
+    "Puby i kluby": "http://www.poznan.pl/mim/cim/en/-,poi,92,6117/",
     "Licea ogólnokształcące": "http://www.poznan.pl/mim/oswiata/liceum-ogolnoksztalcace,poi,2286,8884/",
     "Pomniki": "http://www.poznan.pl/mim/turystyka/pomniki,poi,2473/",
 }
