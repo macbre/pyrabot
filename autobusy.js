@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Skrypt tworzący szkice stron o liniach autobusowych na podstawie danych z ZTM
  */
@@ -7,7 +8,14 @@ var fs = require('fs'),
 
 var SUMMARY = 'Automatyczne tworzenie stron o liniach autobusowych';
 
-var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
+var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
+	year = 2015,
+	text = '';
+
+// Czerwonak
+text = 'linia uruchomiona [[1 stycznia]] [[2015]] roku wraz z integracją komunikacji miejskiej na terenie gminy [[Czerwonak]] i części gminy [[Murowana Goślina]]' +
+'<ref>[http://www.ztm.poznan.pl/czerwonak-m-go-l/wykaz-linii-oraz-mapy/ ztm.poznan.pl - nowa organizacja linii oraz opłat za korzystanie z komunikacji miejskiej na terenie gminy Czerwonak i części gminy Murowana Goślina]</ref>.\n\n' +
+'== Źródła ==\n<references />';
 
 client.logIn(function(data) {
 
@@ -40,33 +48,42 @@ client.logIn(function(data) {
 
 					console.log('Tworzę stronę "' + title + '"...');
 
-					var content = 
-"{{Linia autobusowa infobox\n\
-|numer=" + line + "\n\
-|historyczna=\n\
-|wahadłowa=\n\
-|nocna=" + (nocna ? "tak" : "") + "\n\
-|podmiejska=" + (line > 500 ? "tak" : "") + "\n\
-|foto=\n\
-|pętla1=" + petle[0] + "\n\
-|pętla2=" + petle[1] + "\n\
-|przejazd=" + data.czas + "\n\
-|przystanki=" + data.przystanki + "\n\
-|strefy=" + data.strefy.join(", ") + "\n\
-|operator=" + data.agency + "\n\
-|dlugosc=\n\
-|uruchomiona=\n\
-|zlikwidowana=\n\
-|wydział=\n\
-|historia=\n\
-}}\n\
-{{Szkic}}\n\
-{{Nawigacja Linie autobusowe}}"
+					// infobox
+					content =  [
+						"{{Linia autobusowa infobox",
+						"|numer=" + line,
+						"|historyczna=",
+						"|wahadłowa=",
+						"|nocna=" + (nocna ? "tak" : ""),
+						"|podmiejska=" + (line > 300 ? "tak" : ""),
+						"|foto=",
+						"|pętla1=" + petle[0],
+						"|pętla2=" + petle[1],
+						"|przystanki=" + data.przystanki,
+						"|dlugosc=",
+						"|uruchomiona=" + year,
+						"|zlikwidowana=",
+						"|wydział=",
+						"|historia=[[" + year + "]]: " + petle[0] + '-' + petle[1],
+						"}}",
+						"{{Szkic}}",
+					].join("\n");
+
+					// dodatkowy tekst
+					if (text !== '') {
+						content += "\n\n";
+						content += "'''" + title + "''' - " + text;
+
+						content = content.trim();
+					}
+
+					// nawigacja
+					content += "\n\n{{Nawigacja Linie autobusowe}}";
 
 					//console.log(content); return;
 
 					// edytuj
-					client.edit(title, content, SUMMARY, function() {
+					client.edit(title, content, SUMMARY + ': ' + petle[0] + ' - ' + petle[1], function() {
 						console.log(title + ' założona');
 					});
 				});
