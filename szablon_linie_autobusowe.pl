@@ -10,7 +10,7 @@ use Data::Dumper;
 my @linie = (
 	{
 		name => "Dzienne",
-		lines => [45..55, 57..85, 87, 89..98]
+		lines => [45..55, 57..71, 73..85, 87, 89..98]
 	},
 	{
 		name => "Pospieszne",
@@ -19,6 +19,8 @@ my @linie = (
 	{
 		name => "Podmiejskie",
 		lines => [
+			# Czerwonak / Murowana Goślina
+			310, 312, 320..323, 341, 342, 348, 396..398,
 			# Swarzędz (połączenie z Poznaniem)
 			401, 405, 406, 407, 412,
 			# KOMBUS Kórnik (połączenie z Poznaniem)
@@ -48,7 +50,7 @@ my @linie = (
 	# historyczne
 	{
 		name => "Dzienne",
-		lines => [1..5, 53, "79 bis", 86, 88, "95 bis", 99]
+		lines => [1..5, 53, 72, "79 bis", 86, 88, "95 bis", 99]
 	},
 	{
 		name => "Pospieszne",
