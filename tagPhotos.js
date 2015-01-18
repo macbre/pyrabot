@@ -8,7 +8,7 @@ var bot = require('nodemw'),
 var PREFIX = 'Plik:IMG '; // 11 ujęć
 
 function getBatch(start) {
-	client.getImages(start, function(data, next) {
+	client.getImages(start, function(err, data, next) {
 		images = images.concat(data);
 		if (next) {
 			getBatch(next);
@@ -21,7 +21,7 @@ function getBatch(start) {
 }
 
 function processImages(images) {
-	client.logIn(function() {
+	client.logIn(function(err) {
 		var total = images.length,
 			item = 1;
 
@@ -30,7 +30,7 @@ function processImages(images) {
 				return;
 			}
 
-			client.getImageInfo(image.title, function(meta) {
+			client.getImageInfo(image.title, function(err, meta) {
 				console.log((item++) + '/' + total + ': ' + image.title + '...');
 
 				if (!meta || !meta.exif) {
@@ -57,7 +57,7 @@ function processImages(images) {
 				if (marker !== false) {
 					console.log(image.title + ' sprawdzam (' + meta.user + ')...');
 
-					client.getArticle(image.title, function(content) {
+					client.getArticle(image.title, function(err, content) {
 						// zdjęcie już oznaczone
 						if (content.indexOf(marker) > -1) {
 							return;
@@ -70,7 +70,7 @@ function processImages(images) {
 
 						console.log(image.title + ' oznaczam...');
 
-						client.edit(image.title, content, 'Oznaczanie zdjęć', function(data) {
+						client.edit(image.title, content, 'Oznaczanie zdjęć', function(err, data) {
 							console.log(image.title + ' oznaczony!');
 						});
 					});

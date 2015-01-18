@@ -26,9 +26,9 @@ DEST = process.argv[3] || IMAGE;
 client.log(IMAGE);
 client.log(DEST);
 
-client.logIn(function() {
+client.logIn(function(err) {
 	// pobierz URL do "pełnej" wersji obrazka
-	commons.getImageInfo(IMAGE, function(res) {
+	commons.getImageInfo(IMAGE, function(err, res) {
 		var url = res.url,
 			params;
 
@@ -40,7 +40,10 @@ client.logIn(function() {
 		console.log('Import pliku <' + IMAGE + '> z Wikimedia Commons jako <' + DEST + '>...');
 
 		// dodaj zdjęcia
-		client.uploadByUrl(DEST, url, params, function(res) {
+		client.uploadByUrl(DEST, url, params, function(err, res) {
+			client.log('File page: %s', res.descriptionurl);
+			client.log('URL:       %s', res.url);
+
 			console.log('Upload ' + DEST + ' zakończony');
 		});
 	});
