@@ -32,7 +32,7 @@ function updateLine(pageTitle) {
 	console.log(stops);
 	console.log('Przystanków: ' + przystanki);
 
-	client.getArticle(page.title, function(content) {
+	client.getArticle(page.title, function(err, content) {
 		if (content.indexOf('|historyczna=tak') > -1) {
 			client.log(page.title + ': linia historyczna - pomijam');
 			return;
@@ -73,22 +73,27 @@ function updateLine(pageTitle) {
 		// zapisz zmiany
 		var comment = stops[0] + ' - ' + stops[1];
 
-		client.edit(page.title, content, comment, function(data) {
+		client.edit(page.title, content, comment, function(err, data) {
 			console.log('\n\n> ' + page.title + ' zaktualizowana!');
 		});
 	});
 }
 
-client.logIn(function() {
+client.logIn(function(err) {
 	// aktualizuj Moduł:Przystanki-linie
 	var lua = fs.readFileSync('db/ztm-stops.lua').toString();
 
-	client.edit('Module:Przystanki-linie', lua, 'Aktualizacja listy przystanków', function(data) {
+	client.edit('Module:Przystanki-linie', lua, 'Aktualizacja listy przystanków', function(err, data) {
+		if (err) {
+			console.error(err);
+			return;
+		}
+
 		console.log('\n\n> Moduł:Przystanki-linie zaktualizowany!');
 	});
 
 	/**/
-	client.getPagesByPrefix('Linia tramwajowa nr', function(pages) {
+	client.getPagesByPrefix('Linia tramwajowa nr', function(err, pages) {
 		pages && pages.forEach(function(page) {
 			if (page.ns != 0) {
 				return;
@@ -98,7 +103,7 @@ client.logIn(function() {
 		});
 	});
 	/**/
-	client.getPagesByPrefix('Linia autobusowa nr', function(pages) {
+	client.getPagesByPrefix('Linia autobusowa nr', function(err, pages) {
 		pages && pages.forEach(function(page) {
 			if (page.ns != 0) {
 				return;
