@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Skrypt kategoryzujący zdjęcia opublikowane przez poszczególnych użytkowników
  */
@@ -27,7 +28,7 @@ function processImages(images) {
 
 		images.forEach(function(image) {
 			if ((typeof PREFIX !== 'undefined') && image.title.indexOf(PREFIX) !== 0) {
-				return;
+				//return;
 			}
 
 			client.getImageInfo(image.title, function(err, meta) {
@@ -37,7 +38,8 @@ function processImages(images) {
 					return;
 				}
 
-				var marker = false;
+				var marker = false,
+					remove = false;
 
 				// sprawdź autora zdjęcia
 				switch(meta.user) {
@@ -52,6 +54,20 @@ function processImages(images) {
 							marker = 'Fotografie 11 ujęć';
 						//}
 						break;
+/**/
+					case 'Inaçio Angelos':
+						remove = true;
+						break;
+				}
+
+				if (remove === true) {
+					client.log('Usuwam %s...', image.title);
+
+					client.delete(image.title, 'Usuwam zdjęcia autorstwa ' + meta.user, function(err, res) {
+						if (!err) {
+							client.log('%s usunięty', image.title);
+						}
+					});
 				}
 
 				if (marker !== false) {
