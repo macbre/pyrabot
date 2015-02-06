@@ -638,13 +638,6 @@
       "night": true
     },
     {
-      "name": "310",
-      "type": "3",
-      "operator": "TRANSKOM",
-      "agencyName": "TRANSKOM",
-      "night": false
-    },
-    {
       "name": "312",
       "type": "3",
       "operator": "TRANSKOM",
@@ -919,6 +912,13 @@
     },
     {
       "name": "911",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "T201",
       "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
