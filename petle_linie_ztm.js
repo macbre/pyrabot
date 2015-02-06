@@ -74,6 +74,12 @@ function updateLine(pageTitle) {
 		var comment = stops[0] + ' - ' + stops[1];
 
 		client.edit(page.title, content, comment, function(err, data) {
+			if (err) {
+				console.error('Error: ' + page.title);
+				console.error(err);
+				return;
+			}
+
 			console.log('\n\n> ' + page.title + ' zaktualizowana!');
 		});
 	});
@@ -85,6 +91,7 @@ client.logIn(function(err) {
 
 	client.edit('Module:Przystanki-linie', lua, 'Aktualizacja listy przystanków', function(err, data) {
 		if (err) {
+			console.error('Error: Module:Przystanki-linie');
 			console.error(err);
 			return;
 		}
