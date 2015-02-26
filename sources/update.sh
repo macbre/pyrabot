@@ -8,7 +8,7 @@ echo "\n> Pobieram spis obiektów w bazie Geopozu..."
 
 # numeracja ulic
 echo "\n> Pobieram dane o numeracji ulic..."
-curl -s "http://www.city.poznan.pl/mapa_geopoz/data/ulice_adresy/adresy_pobieranie_obowiazujace.php" |  iconv -f windows-1250 -t utf8 \
+curl -s "http://sip.geopoz.pl/data/ulice_adresy/adresy_pobieranie_obowiazujace.php" |  iconv -f windows-1250 -t utf8  | dos2unix \
 	> ulice-numeracja.csv
 
 # długości ulic
