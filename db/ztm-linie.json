@@ -185,7 +185,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":20,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -415,7 +415,7 @@
       "Podolany",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/68",
     "typ":"bus"
   },
@@ -485,7 +485,7 @@
       "Junikowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/77",
     "typ":"bus"
   },
@@ -697,7 +697,7 @@
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
-    "przystanki":8,
+    "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
@@ -728,9 +728,9 @@
     "night":true,
     "petle":[
       "Osiedle Batorego II",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera"
     ],
-    "przystanki":23,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/234",
     "typ":"bus"
   },
@@ -739,9 +739,9 @@
     "night":true,
     "petle":[
       "Osiedle Jana III Sobieskiego",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/235",
     "typ":"bus"
   },
@@ -749,10 +749,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera",
+      "Rondo Kaponiera"
     ],
-    "przystanki":43,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/236",
     "typ":"bus"
   },
@@ -774,7 +774,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":26,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -782,10 +782,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Rondo Kaponiera",
       "Wichrowa"
     ],
-    "przystanki":17,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
     "typ":"bus"
   },
@@ -794,9 +794,9 @@
     "night":true,
     "petle":[
       "Kacza",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera"
     ],
-    "przystanki":18,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
@@ -805,9 +805,9 @@
     "night":true,
     "petle":[
       "Port Lotniczy \u0141awica",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera"
     ],
-    "przystanki":23,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/242",
     "typ":"bus"
   },
@@ -816,9 +816,9 @@
     "night":true,
     "petle":[
       "Osiedle D\u0119bina",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/243",
     "typ":"bus"
   },
@@ -848,10 +848,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Rondo Kaponiera",
+      "Rondo Kaponiera"
     ],
-    "przystanki":45,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/246",
     "typ":"bus"
   },
@@ -873,7 +873,7 @@
       "Radojewo",
       "Rondo Kaponiera"
     ],
-    "przystanki":24,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/248",
     "typ":"bus"
   },
@@ -884,7 +884,7 @@
       "D\u0119biec",
       "Rondo Kaponiera"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
@@ -895,7 +895,7 @@
       "Junikowo Stacja",
       "Rondo Kaponiera"
     ],
-    "przystanki":19,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
     "typ":"bus"
   },
@@ -906,7 +906,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
