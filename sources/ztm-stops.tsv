@@ -1,5 +1,5 @@
-FRWO42	Franowo	52.381663	17.00147	Poznań	Folwarczna
-SZWA42	Szwajcarska	52.382555	16.998231	Poznań	M1
+FRWO42	Franowo	52.381663	17.00147	Poznań	Franowo
+SZWA42	Szwajcarska	52.382555	16.998231	Poznań	Szwajcarska
 SZWE42	Szwedzka	52.382121	16.990933	Poznań	Szwedzka
 PK42	Piaśnicka/Kurlandzka	52.385148	16.987332	Poznań	Piaśnicka
 PIAR42	Piaśnicka/Rynek	52.387718	16.982194	Poznań	Piaśnicka
@@ -7,13 +7,13 @@ OCZ41	Os. Czecha	52.386172	16.975479	Poznań	Chartowo
 ZIII41	Żegrze III	52.383283	16.969101	Poznań	Żegrze
 Z II41	Żegrze II	52.380702	16.965921	Poznań	Żegrze
 Z I41	Żegrze I	52.37898	16.96112	Poznań	Żegrze
-RZEG41	Rondo Żegrze	52.376614	16.954686	Poznań	Hetmańska
+RZEG41	Rondo Żegrze	52.376614	16.954686	Poznań	Rondo Żegrze
 RSTA47	Rondo Starołęka	52.37996	16.944033	Poznań	Rondo Starołęka
 RSTA43	Rondo Starołęka	52.380541	16.9421	Poznań	Hetmańska
 HEWI41	Hetm./Wiadukt	52.382774	16.929247	Poznań	Droga Dębińska
 ROLN41	Rolna	52.38407	16.918128	Poznań	Hetmańska
 TRAU43	Traugutta	52.384765	16.915115	Poznań	Romualda Traugutta
-KOLE41	Kolejowa	52.387189	16.902762	Poznań	Hetmańska
+KOLE41	Kolejowa	52.387189	16.902762	Poznań	Kolejowa
 GLHE43	Głogowska/Hetmańska	52.389986	16.894684	Poznań	Hetmańska
 GLHE72	Głogowska/Hetmańska	52.390605	16.894803	Poznań	Głogowska
 RYLA72	Rynek Łazarski	52.394454	16.899146	Poznań	Głogowska
@@ -38,7 +38,7 @@ JUNI41	Junikowo	52.38366	16.83383	Poznań	Grunwaldzka
 CMNA42	Cmentarna	52.385065	16.839184	Poznań	Grunwaldzka
 GROT72	Grotkowska	52.386543	16.844119	Poznań	Grunwaldzka
 BUDZ42	Budziszyńska	52.388456	16.849817	Poznań	Grunwaldzka
-SMGO42	Smoluchowskiego	52.389835	16.853876	Poznań	Planowana III rama komunikacyjna
+SMGO42	Smoluchowskiego	52.389835	16.853876	Poznań	Rondo Krzysztofa Skubiszewskiego
 WEGO41	Węgorka	52.392	16.85783	Poznań	Grunwaldzka
 INEA42	Inea Stadion	52.395354	16.862358	Poznań	Jugosłowiańska
 DRZE42	Drzewieckiego	52.39659	16.866866	Poznań	Grunwaldzka
@@ -53,13 +53,13 @@ PAWI71	Park Wilsona	52.398241	16.903157	Poznań	Głogowska
 RYLA71	Rynek Łazarski	52.3937	16.898144	Poznań	Głogowska
 GLHE71	Głogowska/Hetmańska	52.390527	16.894475	Poznań	Głogowska
 GLHE44	Głogowska/Hetmańska	52.389798	16.894947	Poznań	Hetmańska
-KOLE42	Kolejowa	52.387035	16.902899	Poznań	Hetmańska
+KOLE42	Kolejowa	52.387035	16.902899	Poznań	Kolejowa
 TRAU44	Traugutta	52.385323	16.913823	Poznań	Romualda Traugutta
 ROLN42	Rolna	52.38394	16.918377	Poznań	Hetmańska
 HEWI42	Hetm./Wiadukt	52.382662	16.929465	Poznań	Droga Dębińska
 RSTA44	Rondo Starołęka	52.380389	16.94222	Poznań	Hetmańska
-RSTA48	Rondo Starołęka	52.379758	16.944339	Poznań	Hetmańska
-RZEG42	Rondo Żegrze	52.376548	16.954442	Poznań	Hetmańska
+RSTA48	Rondo Starołęka	52.379758	16.944339	Poznań	Rondo Starołęka
+RZEG42	Rondo Żegrze	52.376548	16.954442	Poznań	Rondo Żegrze
 Z I42	Żegrze I	52.378926	16.96146	Poznań	Żegrze
 Z II42	Żegrze II	52.380715	16.966194	Poznań	Żegrze
 ZIII42	Żegrze III	52.383306	16.969313	Poznań	Żegrze
@@ -67,7 +67,7 @@ OCZ42	Os. Czecha	52.386112	16.975649	Poznań	Chartowo
 PIAR41	Piaśnicka/Rynek	52.387583	16.982607	Poznań	Piaśnicka
 PK41	Piaśnicka/Kurlandzka	52.384995	16.987554	Poznań	Piaśnicka
 SZWE41	Szwedzka	52.382105	16.990824	Poznań	Szwedzka
-SZWA41	Szwajcarska	52.382481	16.998237	Poznań	M1
+SZWA41	Szwajcarska	52.382481	16.998237	Poznań	Szwajcarska
 FRWO41	Franowo	52.381433	17.000322	Poznań	Szwajcarska
 OGDY42	Ogrody	52.416362	16.882902	Poznań	Nowy Świat
 ZERO42	Żeromskiego	52.415543	16.890825	Poznań	Jana Henryka Dąbrowskiego
@@ -80,19 +80,19 @@ MRCI71	Marcinkowskiego	52.406421	16.928459	Poznań	Aleja Karola Marcinkowskiego
 PLWL41	Pl. Wiosny Ludów	52.40504	16.93174	Poznań	Strzelecka
 LAKO41	Łąkowa	52.40195	16.93429	Poznań	Krakowska
 AWF41	Awf	52.39924	16.9343	Poznań	Królowej Jadwigi
-POLW41	Półwiejska	52.39997	16.92792	Poznań	Królowej Jadwigi
+POLW41	Półwiejska	52.39997	16.92792	Poznań	Półwiejska
 ROZA41	Różana	52.397477	16.92485	Poznań	Górna Wilda
 RYWI43	Rynek Wildecki	52.393879	16.921917	Poznań	Górna Wilda
 KOSI71	Kosińskiego	52.389301	16.918239	Poznań	28 Czerwca 1956 roku
 PAMI71	Pamiątkowa	52.3871	16.916188	Poznań	28 Czerwca 1956 roku
-TRAU71	Traugutta	52.38464	16.914002	Poznań	28 Czerwca 1956 roku
+TRAU71	Traugutta	52.38464	16.914002	Poznań	Traugutta
 HCP71	Hcp	52.382432	16.911949	Poznań	28 Czerwca 1956 roku
 WSPO71	Wspólna	52.377784	16.907614	Poznań	28 Czerwca 1956 roku
 DEEC41	Dębiec	52.372885	16.903185	Poznań	Opolska
-DEEC42	Dębiec	52.373059	16.903831	Poznań	28 Czerwca 1956 roku
+DEEC42	Dębiec	52.373059	16.903831	Poznań	Dębiec
 WSPO42	Wspólna	52.377285	16.907411	Poznań	28 Czerwca 1956 roku
 HCP72	Hcp	52.381524	16.911366	Poznań	28 Czerwca 1956 roku
-TRAU42	Traugutta	52.384699	16.914217	Poznań	28 Czerwca 1956 roku
+TRAU42	Traugutta	52.384699	16.914217	Poznań	Traugutta
 PAMI72	Pamiątkowa	52.387144	16.916608	Poznań	28 Czerwca 1956 roku
 KOSI72	Kosińskiego	52.389481	16.918717	Poznań	28 Czerwca 1956 roku
 RYWI44	Rynek Wildecki	52.394104	16.922445	Poznań	Górna Wilda
@@ -109,21 +109,21 @@ RJEZ73	Rynek Jeżycki	52.412535	16.90477	Poznań	Jana Henryka Dąbrowskiego
 PONA71	Polna	52.414214	16.897202	Poznań	Jana Henryka Dąbrowskiego
 ZERO41	Żeromskiego	52.415741	16.890361	Poznań	Jana Henryka Dąbrowskiego
 OGDY41	Ogrody	52.417053	16.882462	Poznań	Szpitalna
-STAR42	Starołęka	52.368559	16.932368	Poznań	Forteczna
+STAR42	Starołęka	52.368559	16.932368	Poznań	Starołęka
 BYST42	Bystra	52.371409	16.934962	Poznań	Starołęcka
 STOM42	Stomil	52.376052	16.939953	Poznań	Starołęcka
 RSTA46	Rondo Starołęka	52.379532	16.942937	Poznań	Starołęcka
-RSTA42	Rondo Starołęka	52.381005	16.9435	Poznań	Ludwika Zamenhofa
+RSTA42	Rondo Starołęka	52.381005	16.9435	Poznań	Rondo Starołęka
 ORZE42	Os. Rzeczypospolitej	52.385418	16.945005	Poznań	Ludwika Zamenhofa
-OPIA42	Os. Piastowskie	52.389991	16.947144	Poznań	Ludwika Zamenhofa
+OPIA42	Os. Piastowskie	52.389991	16.947144	Poznań	Osiedle Piastowskie
 WIOS42	Wioślarska	52.393034	16.948857	Poznań	Marszałka Józefa Piłsudskiego
 RRAT44	Rondo Rataje	52.394881	16.950006	Poznań	Ludwika Zamenhofa
 KORN42	Kórnicka	52.398772	16.952253	Poznań	Jana Pawła II
-KORN45	Kórnicka	52.399825	16.952859	Poznań	Kaliska
+KORN45	Kórnicka	52.399825	16.952859	Poznań	Jana Pawła II
 BAKA42	Baraniaka	52.403769	16.954387	Poznań	Jana Pawła II
 ROSR44	Rondo Śródka	52.4095	16.95642	Poznań	Jana Pawła II
 ROSR42	Rondo Śródka	52.410242	16.955618	Poznań	Prymasa Stefana Wyszyńskiego
-KATE42	Katedra	52.410098	16.947131	Poznań	Ostrów Tumski
+KATE42	Katedra	52.410098	16.947131	Poznań	Prymasa Stefana Wyszyńskiego
 MAGA42	Małe Garbary	52.410889	16.93723	Poznań	Stawna
 PLWI42	Pl Wielkopolski	52.410353	16.930826		
 PLCR42	pl. Cyryla Ratajskiego	52.409598	16.923923	Poznań	Plac Cyryla Ratajskiego
@@ -137,9 +137,9 @@ MURA41	Murawa	52.42695	16.935965	Poznań	Murawa
 OPL41	Os. Pod Lipami	52.431001	16.936402	Poznań	Murawa
 ROSO41	Rondo Solidarności	52.433982	16.937931	Poznań	Murawa
 POLA41	Połabska	52.435222	16.931981	Poznań	Aleje Solidarności
-POLA42	Połabska	52.434851	16.932376		
+POLA42	Połabska	52.434851	16.932376	Poznań	Aleje Solidarności
 ROSO42	Rondo Solidarności	52.433938	16.937732	Poznań	Murawa
-OPL42	Os. Pod Lipami	52.430944	16.93625	Poznań	Słowiańska
+OPL42	Os. Pod Lipami	52.430944	16.93625	Poznań	Murawa
 MURA42	Murawa	52.426898	16.935803	Poznań	Murawa
 PASI42	Pasieka	52.426385	16.931873	Poznań	Winogrady
 ZNIW42	Żniwna	52.424766	16.926833	Poznań	Winogrady
@@ -149,22 +149,22 @@ POZN42	Poznańska	52.414094	16.916298	Poznań	Generała Kazimierza Pułaskiego
 PLCR41	pl. Cyryla Ratajskiego	52.409581	16.924199	Poznań	Plac Cyryla Ratajskiego
 PLWI41	Pl Wielkopolski	52.410315	16.931018		
 MAGA41	Małe Garbary	52.410749	16.93747	Poznań	Stawna
-KATE41	Katedra	52.410029	16.947315	Poznań	Ostrów Tumski
+KATE41	Katedra	52.410029	16.947315	Poznań	Prymasa Stefana Wyszyńskiego
 ROSR41	Rondo Śródka	52.410088	16.95579	Poznań	Prymasa Stefana Wyszyńskiego
 ROSR43	Rondo Śródka	52.409533	16.956209	Poznań	Jana Pawła II
 BAKA41	Baraniaka	52.40395	16.954177	Poznań	Jana Pawła II
 KORN41	Kórnicka	52.398799	16.952098	Poznań	Jana Pawła II
 RRAT43	Rondo Rataje	52.396506	16.950795	Poznań	Jana Pawła II
 WIOS41	Wioślarska	52.393004	16.948668	Poznań	Ludwika Zamenhofa
-OPIA41	Os. Piastowskie	52.390341	16.947146	Poznań	Ludwika Zamenhofa
+OPIA41	Os. Piastowskie	52.390341	16.947146	Poznań	Osiedle Piastowskie
 ORZE41	Os. Rzeczypospolitej	52.385384	16.944838	Poznań	Ludwika Zamenhofa
-RSTA41	Rondo Starołęka	52.381063	16.943308	Poznań	Ludwika Zamenhofa
+RSTA41	Rondo Starołęka	52.381063	16.943308	Poznań	Rondo Starołęka
 RSTA45	Rondo Starołęka	52.379312	16.942667	Poznań	Starołęcka
 STOM41	Stomil	52.376503	16.94026	Poznań	Starołęcka
 BYST41	Bystra	52.370908	16.934635	Poznań	Starołęcka
 STAR41	Starołęka	52.368435	16.931676	Poznań	Starołęcka
 STOM43	Stomil	52.37661	16.940722	Poznań	Starołęcka
-OSLE42	Os. Lecha	52.390063	16.977829	Poznań	Piaśnicka
+OSLE42	Os. Lecha	52.390063	16.977829	Poznań	Os. Lecha
 OSTY42	Os. Tysiąclecia	52.392396	16.972087	Poznań	Os.Lecha
 POKA42	Polanka	52.396156	16.963725	Poznań	Katowicka
 KORN44	Kórnicka	52.399155	16.95338	Poznań	Kórnicka
@@ -231,30 +231,27 @@ KLIN41	Klin	52.418768	16.914067	Poznań	Aleja Wielkopolska
 NADW41	Nad Wierzbakiem	52.421423	16.908044	Poznań	Małopolska
 SOLA41	Sołacz	52.423516	16.903409	Poznań	Wołyńska
 UP41	Uniwersytet Przyrodniczy	52.426391	16.905992	Poznań	Wołyńska
-BONN41	Bonin	52.430301	16.910859	Poznań	Winiarska
+BONN41	Bonin	52.430301	16.910859		
 SWLE41	Św. Leonarda	52.432818	16.911388	Poznań	Winiarska
 WINI41	Os. Winiary	52.435927	16.911501	Poznań	Piątkowska
 SZLU42	Szpital Lutycka	52.439718	16.909995	Poznań	Juraszów
 PIAT41	Piątkowska	52.441523	16.911364	Poznań	Piątkowska
 SWCZ71	Św. Czesława	52.396513	16.921275	Poznań	Wierzbięcice
-SWCZ72	Św. Czesława	52.397581	16.921372	Poznań	Wierzbięcice
-DWZA41	Dworzec Zachodni	52.401115	16.910257	Poznań	Zachodnia
-MT45	Most Teatralny	52.411574	16.9147	Poznań	Franklina Roosevelta
+RYWI71	Rynek Wildecki	52.393751	16.92131	Poznań	Rynek Wildecki
+RYWI72	Rynek Wildecki	52.394393	16.921483	Poznań	Wierzbięcice
+SWCZ72	Św. Czesława	52.397581	16.921372	Poznań	Świętego Czesława
 SLKA41	Słowiańska	52.427158	16.919462	Poznań	Słowiańska
 ALSO41	Aleje Solidarności	52.435948	16.920208	Poznań	Aleje Solidarności
 LECH41	Lechicka/Poznań Plaza	52.442506	16.920085	Poznań	Lechicka
-KURP41	Kurpińskiego	52.450772	16.919631	Poznań	Karola Kurpińskiego
-SZYM41	Szymanowskiego	52.460395	16.917155		
+KURP41	Kurpińskiego	52.450772	16.919631	Poznań	Kurpińskiego
+SZYM41	Szymanowskiego	52.460395	16.917155	Poznań	Szymanowskiego
 SOB41	Os. Sobieskiego	52.46395	16.917821	Poznań	Osiedle Stefana Batorego
-SOB42	Os. Sobieskiego	52.4638	16.91666	Poznań	Franciszka Stróżyńskiego
-SZYM42	Szymanowskiego	52.460371	16.916938		
-KURP42	Kurpińskiego	52.450748	16.919412	Poznań	Karola Kurpińskiego
+SOB42	Os. Sobieskiego	52.4638	16.91666	Poznań	Smoleńska
+SZYM42	Szymanowskiego	52.460371	16.916938	Poznań	Szymanowskiego
+KURP42	Kurpińskiego	52.450748	16.919412	Poznań	Kurpińskiego
 LECH42	Lechicka/Poznań Plaza	52.442473	16.91982	Poznań	Lechicka
 ALSO42	Aleje Solidarności	52.435982	16.919974	Poznań	Aleje Solidarności
 SLKA42	Słowiańska	52.427117	16.919223	Poznań	Słowiańska
-MT46	Most Teatralny	52.411633	16.914443	Poznań	Franklina Roosevelta
-DWZA42	Dworzec Zachodni	52.401143	16.910052	Poznań	Zachodnia
-STAR43	Starołęka	52.368599	16.932523	Poznań	Forteczna
 JUNI42	Junikowo	52.38342	16.8345	Poznań	Grunwaldzka
 PK42	Piaśnicka/Kurlandzka	52.385148	16.987332	Poznań	Piaśnicka
 PK41	Piaśnicka/Kurlandzka	52.384995	16.987554	Poznań	Piaśnicka
@@ -265,8 +262,8 @@ RJEZ72	Rynek Jeżycki	52.412032	16.903579	Poznań	Józefa Ignacego Kraszewskiego
 KRAS42	Kraszewskiego	52.408953	16.903353	Poznań	Zwierzyniecka
 ZEYL42	Zeylanda	52.408188	16.908799	Poznań	Janusza Zeylanda
 DWZA02	Dworzec Zachodni	52.400989	16.909796	Poznań	Głogowska
-PAWI02	Park Wilsona	52.398418	16.901589	Poznań	Ryszarda Berwińskiego
-ULAN02	Ułańska	52.399086	16.895361	Poznań	Stanisława Wyspiańskiego
+PAWI02	Park Wilsona	52.398179	16.902376	Poznań	Ryszarda Berwińskiego
+ULAN02	Ułańska	52.399236	16.894429	Poznań	Stanisława Wyspiańskiego
 OPAL01	Opalenicka	52.404904	16.887349	Poznań	Marcelińska
 SZAM01	Szamotulska	52.404689	16.883236	Poznań	Marcelińska
 MARC01	Marcelińska	52.404379	16.874532	Poznań	Marcelińska
@@ -288,8 +285,8 @@ MARC02	Marcelińska	52.40426	16.876203	Poznań	Marcelińska
 SZAM02	Szamotulska	52.404451	16.880399	Poznań	Marcelińska
 OPAL02	Opalenicka	52.404781	16.887515	Poznań	Marcelińska
 RJNJ02	Rondo Jana Nowaka-Jeziorańskiego	52.402909	16.891095	Poznań	Grunwaldzka
-ULAN01	Ułańska	52.398964	16.895365	Poznań	Stanisława Wyspiańskiego
-PAWI01	Park Wilsona	52.397813	16.900562	Poznań	Stanisława Wyspiańskiego
+ULAN01	Ułańska	52.399189	16.894167	Poznań	Stanisława Wyspiańskiego
+PAWI01	Park Wilsona	52.397794	16.900667	Poznań	Stanisława Wyspiańskiego
 BORA02	Boranta/Park Naukowo-Technologiczny	52.456686	16.952114	Poznań	Boranta
 BORI02	Boranta I	52.456633	16.948003	Poznań	Boranta
 BRON02	Bronisza	52.453514	16.947713	Poznań	Naramowicka
@@ -302,7 +299,7 @@ STRU01	Strugarka	52.454126	16.927687	Poznań	Umultowska
 OSBI01	Os. Batorego I	52.457019	16.92767	Poznań	Umultowska
 OSBA03	Os. Batorego II	52.459863	16.927454	Poznań	Henryka Opieńskiego
 OPIE01	Opieńskiego	52.460033	16.923256	Poznań	Henryka Opieńskiego
-SZYM01	Szymanowskiego	52.460591	16.917034		
+SZYM01	Szymanowskiego	52.460591	16.917034	Poznań	Szymanowskiego
 OSZY02	Os.Zygmunta Starego	52.460285	16.908357	Poznań	Karola Szymanowskiego
 OM I01	Os.Marysieńki I	52.460458	16.90392		
 OMII01	Os.Marysieńki II	52.463645	16.903703	Poznań	Franciszka Stróżyńskiego
@@ -335,7 +332,7 @@ LEGO02	Łęgowskiego	52.460995	16.892783	Poznań	Obornicka
 MAGO01	Mateckiego	52.461261	16.897834	Poznań	Teofila Mateckiego
 OM I02	Os.Marysieńki I	52.461989	16.903507	Poznań	Franciszka Stróżyńskiego
 OSZY01	Os.Zygmunta Starego	52.460088	16.908265	Poznań	Karola Szymanowskiego
-SZYM02	Szymanowskiego	52.460152	16.917021		
+SZYM02	Szymanowskiego	52.460152	16.917021	Poznań	Karola Szymanowskiego
 OPIE02	Opieńskiego	52.459904	16.921735	Poznań	Henryka Opieńskiego
 OSBA04	Os. Batorego II	52.459544	16.92664	Poznań	Henryka Opieńskiego
 OSBI02	Os. Batorego I	52.456422	16.927377	Poznań	Umultowska
@@ -347,8 +344,8 @@ RUBI01	Rubież	52.450791	16.947912	Poznań	Naramowicka
 BRON01	Bronisza	52.455453	16.947716	Poznań	Naramowicka
 BORA01	Boranta/Park Naukowo-Technologiczny	52.456611	16.951482	Poznań	Boranta
 RKAP02	Rondo Kaponiera	52.407876	16.910494	Poznań	Zwierzyniecka
-SZYL01	Szylinga	52.408331	16.898751	Poznań	Bukowska
-POLN01	Polna/Szpital	52.409009	16.893578	Poznań	Bukowska
+SZYL01	Szylinga	52.408331	16.898751	Poznań	Piotra Wawrzyniaka
+POLN01	Polna/Szpital	52.409009	16.893578	Poznań	Polna/Szpital
 GROD01	Grodziska	52.410072	16.885851	Poznań	Bukowska
 SZPI03	Szpitalna	52.410828	16.880345	Poznań	Bukowska
 SWOB01	Swoboda	52.411718	16.874168	Poznań	Bukowska
@@ -376,11 +373,11 @@ SWOB02	Swoboda	52.41178	16.872455	Poznań	Bukowska
 SZPI04	Szpitalna	52.411053	16.877707	Poznań	Bukowska
 GROD02	Grodziska	52.410122	16.884206	Poznań	Bukowska
 POLN02	Polna/Szpital	52.409226	16.890742	Poznań	Bukowska
-SZYL02	Szylinga	52.407881	16.900095	Poznań	Bukowska
-RKAP08	Rondo Kaponiera	52.407857	16.909017	Poznań	Janusza Zeylanda
+SZYL02	Szylinga	52.407881	16.900095	Poznań	Szylinga
 AZAL02	Azaliowa	52.363692	16.907439	Poznań	Łozowa
 LOZO02	Łozowa	52.368813	16.908073	Poznań	Łozowa
 DEEC06	Dębiec	52.3706	16.903509	Poznań	28 Czerwca 1956 roku
+DEEC01	Dębiec	52.370866	16.901179	Poznań	Opolska
 OPOL01	Opolska	52.367396	16.895685	Poznań	Jesionowa
 JESI02	Jesionowa	52.369911	16.892896	Poznań	Jesionowa
 BOWE02	Bohaterów Westerplatte	52.371021	16.885685	Poznań	Bohaterów Westerplatte
@@ -427,20 +424,20 @@ WLOD01	Włodarska	52.436364	16.947445	Poznań	Naramowicka
 NAWI01	Naramowicka	52.440487	16.946971	Poznań	Naramowicka
 NARA01	Naramowice	52.444871	16.946522	Poznań	Naramowice
 STOI03	Stoińskiego	52.450989	16.926342	Poznań	Stanisława Wiechowicza
-KURP01	Kurpińskiego	52.450961	16.919483	Poznań	Karola Kurpińskiego
+KURP01	Kurpińskiego	52.450961	16.919483	Poznań	Kurpińskiego
 WOKI01	Wojciechowskiego	52.450679	16.914288	Poznań	Karola Kurpińskiego
 OSCH01	Os. Chrobrego	52.452353	16.911927	Poznań	Zygmunta Wojciechowskiego
 OJLY01	Os. Jagiełły	52.454726	16.904583	Poznań	Franciszka Stróżyńskiego
 WRTV01	Wieża Rtv	52.458153	16.904424	Poznań	Franciszka Stróżyńskiego
-SZYM08	Szymanowskiego	52.460203	16.915801	Poznań	Szymanowskiego
-SZLI01	Szeligowskiego	52.462705	16.91797	Poznań	Szeligowskiego
-SOB30	Os. Sobieskiego	52.465054	16.916506	Poznań	Szeligowskiego
-SZLI02	Szeligowskiego	52.462587	16.917623	Poznań	Szeligowskiego
+SZYM08	Szymanowskiego	52.460203	16.915801	Poznań	Karola Szymanowskiego
+SZLI01	Szeligowskiego	52.462705	16.91797	Poznań	Tadeusza Szeligowskiego
+SOB30	Os. Sobieskiego	52.465054	16.916506	Poznań	Peron 2
+SZLI02	Szeligowskiego	52.462587	16.917623	Poznań	Tadeusza Szeligowskiego
 WRTV02	Wieża Rtv	52.457321	16.90416	Poznań	Franciszka Stróżyńskiego
 OJLY02	Os. Jagiełły	52.453599	16.907358	Poznań	Mariana Jaroczyńskiego
 OSCH02	Os. Chrobrego	52.451561	16.911959	Poznań	Zygmunta Wojciechowskiego
 WOKI02	Wojciechowskiego	52.45061	16.915157	Poznań	Karola Kurpińskiego
-KURP02	Kurpińskiego	52.450524	16.919551	Poznań	Karola Kurpińskiego
+KURP02	Kurpińskiego	52.450524	16.919551	Poznań	Kurpińskiego
 KURP06	Kurpińskiego	52.450611	16.921792	Poznań	Stanisława Wiechowicza
 NARA02	Naramowice	52.444463	16.946018	Poznań	Naramowicka
 NAWI02	Naramowicka	52.44001	16.946913	Poznań	Naramowicka
@@ -449,7 +446,7 @@ NASE02	Naramowicka/Serbska	52.431339	16.945904	Poznań	Naramowicka
 WILC02	Wilczak	52.427274	16.94751	Poznań	Szelągowska
 WIGR02	Winogrady	52.422143	16.947071	Poznań	Szelągowska
 GABA02	Garbary	52.416736	16.939439	Poznań	Garbary
-GRLA02	Grochowe Łąki	52.413016	16.938749	Poznań	Garbary
+GRLA02	Grochowe Łąki	52.413016	16.938749	Poznań	Grochowe Łąki
 MAGA04	Małe Garbary	52.411348	16.936907	Poznań	Małe Garbary
 SOLN02	Solna	52.411999	16.928928	Poznań	Wolnica
 LIBE02	Libelta	52.413121	16.920239	Poznań	Aleja Niepodległości
@@ -500,20 +497,24 @@ LUGA02	Ługańska	52.371468	16.995466	Poznań	Szczepankowo
 R SZ02	Os. Rusa Szpital	52.3888	16.992293	Poznań	Szwajcarska
 M1 I01	M1 Centrum Handlowe	52.384492	16.996916	Poznań	M1 Centrum Handlowe
 FRWO01	Franowo	52.381877	17.000678	Poznań	Szwajcarska
-FRWO02	Franowo	52.381445	17.001465	Poznań	Folwarczna
+FRWO02	Franowo	52.381445	17.001465	Poznań	Franowo
 M1 I02	M1 Centrum Handlowe	52.384791	16.997063	Poznań	M1 Centrum Handlowe
 SLEZ02	Ślężańska	52.381906	16.973445	Poznań	Bobrzańska
 TORO01	Torowa	52.369833	16.988149	Poznań	Torowa
 LUGA01	Ługańska	52.371329	16.994527	Poznań	Ługańska
 WIEP01	Wieprawska	52.369056	17.00021	Poznań	Szczepankowo
 SZWO01	Szczepankowo	52.36459	17.009381	Poznań	Szczepankowo
-ZAGIM02	Zalasewo/Planetarna Gimnazjum	52.392769	17.068911	gmina Swarzędz	Planetarna
+ZAGIM02	Zalasewo/Planetarna Gimnazjum	52.392884	17.068917	gmina Swarzędz	Planetarna
+SDRAC02	Swarzędz/Os. Raczyńskiego	52.400014	17.063363	gmina Swarzędz	Graniczna
+SDCEG02	Swarzędz/Os. Cegielskiego	52.401158	17.059147	gmina Swarzędz	Graniczna
+SDPRZ01	Swarzędz/Przybylskiego	52.401057	17.055917	gmina Swarzędz	Jakuba Przybylskiego
+SDSZU01	Swarzędz/Szumana	52.399	17.047221	gmina Swarzędz	Henryka Szumana
 NAST02	Nastawnia	52.395041	17.037765	Poznań	Żywiczna
 BORO02	Borówki	52.389607	17.031541	Poznań	Borówki
 BIGO02	Biała Góra	52.394019	16.990332	Poznań	Arcybiskupa Antoniego Baraniaka
 CHAR04	Chartowo	52.395737	16.9825	Poznań	Chartowo
 OT I02	Os. Tysiąclecia I	52.393196	16.980502	Poznań	Chartowo
-PIAS02	Piaśnicka	52.388384	16.979805	Poznań	Piaśnicka
+PIAS02	Piaśnicka	52.389522	16.979124	Poznań	Chartowo
 OCZ02	Os. Czecha	52.386654	16.976144	Poznań	Chartowo
 L II02	Os. Lecha II	52.387119	16.971189	Poznań	Wiatraczna
 L I04	Os. Lecha I	52.389802	16.967973	Poznań	os. Lecha I
@@ -527,20 +528,23 @@ CHAR01	Chartowo	52.39577	16.98341	Poznań	Arcybiskupa Antoniego Baraniaka
 BORO01	Borówki	52.389641	17.031791	Poznań	Borówki
 ZYNA01	Żywiczna	52.39064	17.03453	Poznań	Żywiczna
 NAST01	Nastawnia	52.395081	17.038062	Poznań	Żywiczna
-SDRAC01	Swarzędz/Os. Raczyńskiego	52.399145	17.064644	gmina Swarzędz	Graniczna
-ZAGIM01	Zalasewo/Planetarna Gimnazjum	52.391777	17.068852	gmina Swarzędz	Planetarna
+SDSZU02	Swarzędz/Szumana	52.398613	17.046438	gmina Swarzędz	Henryka Szumana
+SDPRZ02	Swarzędz/Przybylskiego	52.401246	17.055725	gmina Swarzędz	Jakuba Przybylskiego
+SDCEG01	Swarzędz/Os. Cegielskiego	52.401072	17.059058	gmina Swarzędz	Graniczna
+SDRAC01	Swarzędz/Os. Raczyńskiego	52.399104	17.064712	gmina Swarzędz	Graniczna
+ZAGIM01	Zalasewo/Planetarna Gimnazjum	52.391817	17.068719	gmina Swarzędz	Planetarna
 KRZY04	Krzyżowniki	52.441669	16.807336	Poznań	Krzyżowniki
 MIED02	Międzyzdrojska	52.435222	16.808874	Poznań	Słupska
 CZKA02	Człopska	52.435045	16.813862	Poznań	Sianowska
 BRAN02	Braniewska	52.435187	16.823179	Poznań	Sianowska
 LUPO02	Łupowska	52.435282	16.830199	Poznań	Sianowska
 SMOC02	Smochowice	52.430974	16.832333	Poznań	Gorajska
-KOLO02	Kołobrzeska	52.431073	16.838507	Poznań	Lutycka
+KOLO02	Kołobrzeska	52.431073	16.838507	Poznań	Jana Henryka Dąbrowskiego
 TATR02	Tatrzańska	52.429028	16.848599	Poznań	Jana Henryka Dąbrowskiego
 PILO02	Pilotów	52.427038	16.85614	Poznań	Jana Henryka Dąbrowskiego
 PLOT02	Przelot	52.426013	16.859815	Poznań	Jana Henryka Dąbrowskiego
 BUZA02	Bużańska	52.423469	16.86634	Poznań	Jana Henryka Dąbrowskiego
-OGDY04	Ogrody	52.417884	16.881094	Poznań	Jana Henryka Dąbrowskiego
+OGDY04	Ogrody	52.417884	16.881094	Poznań	Ogrody
 OGDY01	Ogrody	52.416906	16.881809	Poznań	Szpitalna
 PONZ01	Polska	52.418516	16.873181	Poznań	Nowina
 BUZA01	Bużańska	52.423631	16.866803	Poznań	Jana Henryka Dąbrowskiego
@@ -568,7 +572,7 @@ WOLK02	Wołkowyska	52.400354	16.968693	Poznań	Arcybiskupa Antoniego Baraniaka
 KATO02	Katowicka	52.402454	16.962254	Poznań	Arcybiskupa Antoniego Baraniaka
 BAKA02	Baraniaka	52.404132	16.954457	Poznań	Jana Pawła II
 ROSR04	Rondo Śródka	52.409396	16.955731	Poznań	Rondo Śródka
-ROSR30	Rondo Śródka	52.409439	16.954493	Poznań	Prymasa Stefana Wyszyńskiego
+ROSR30	Rondo Śródka	52.409439	16.954493	Poznań	3
 BAKA01	Baraniaka	52.403278	16.955519	Poznań	Arcybiskupa Antoniego Baraniaka
 KATO01	Katowicka	52.40192	16.963112	Poznań	Arcybiskupa Antoniego Baraniaka
 WOLK01	Wołkowyska	52.400281	16.968297	Poznań	Arcybiskupa Antoniego Baraniaka
@@ -580,6 +584,7 @@ SOBI01	Sobiesława	52.405586	17.023244	Poznań	Browarna
 SWIA01	Światopełka	52.408807	17.024729	Poznań	Światopełka
 MILO02	Miłostowo	52.410528	17.004245	Poznań	Warszawska
 PUST02	Pusta	52.410255	16.995811	Poznań	Warszawska
+SYPN02	Sypniewo	52.307938	16.982503	Poznań	Sypniewo
 PIOT02	Piotrowo	52.311517	16.974299	Poznań	Głuszyna
 DASZ02	Daszewicka	52.318193	16.954091	Poznań	Głuszyna
 GLUS02	Głuszyna	52.321592	16.948289	Poznań	Głuszyna
@@ -623,16 +628,16 @@ WOPO03	Wojska Polskiego	52.42848	16.89736	Poznań	Wojska Polskiego
 GOLE01	Golęcin	52.430628	16.891083	Poznań	Wojska Polskiego
 PDNZ01	Podolańska	52.436238	16.887223	Poznań	Podolańska
 SZKA01	Szczawnicka	52.438745	16.890209	Poznań	Szczawnicka
-TRUS01	Truskawiecka	52.442386	16.886796	Poznań	Druskiennicka
-DRUS01	Druskienicka	52.444794	16.888058	Poznań	Druskiennicka
+TRUS01	Truskawiecka	52.442386	16.886796	Poznań	Druskienicka
+DRUS01	Druskienicka	52.444794	16.888058	Poznań	Druskienicka
 LUBI01	Lubieńska	52.448393	16.886346	Poznań	Zakopiańska
 KART01	Kartuska	52.453933	16.879829	Poznań	Zakopiańska
 KOSO01	Kosowska	52.455995	16.877437	Poznań	Kosowska
 SZYN21	Strzeszyn	52.451835	16.848965	Poznań	Koszalińska
 KOSO02	Kosowska	52.456016	16.8773	Poznań	Kosowska
 KART02	Kartuska	52.452656	16.881225	Poznań	Zakopiańska
-DRUS02	Druskienicka	52.444614	16.887785	Poznań	Druskiennicka
-TRUS02	Truskawiecka	52.442848	16.886769	Poznań	Druskiennicka
+DRUS02	Druskienicka	52.444614	16.887785	Poznań	Druskienicka
+TRUS02	Truskawiecka	52.442848	16.886769	Poznań	Druskienicka
 SZKA02	Szczawnicka	52.438734	16.889921	Poznań	Szczawnicka
 PDNZ02	Podolańska	52.435697	16.887223	Poznań	Podolańska
 GOLE02	Golęcin	52.430357	16.891478	Poznań	Wojska Polskiego
@@ -726,13 +731,11 @@ ARCI01	Arciszewskiego	52.392316	16.885374	Poznań	Krzysztofa Arciszewskiego
 PALA01	Palacza	52.388317	16.881134	Poznań	Działkowa
 SCIE01	Ściegiennego	52.390092	16.873698	Poznań	Promienista
 TREB01	Trębacka	52.387276	16.867649	Poznań	Promienista
-OOB02	Os. Orła Białego	52.37585	16.96614	Poznań	Kurlandzka
+OOB02	Os. Orła Białego	52.37585	16.96614	Poznań	os. Orła Białego
 OBOD01	Obodrzycka/Orbit	52.371521	16.957448	Poznań	Obodrzycka
 WARO01	Warowna	52.367639	16.948214	Poznań	Obodrzycka
 OKOP01	Okopowa	52.36687	16.944247	Poznań	Forteczna
 FORT01	Forteczna	52.367867	16.938703	Poznań	Forteczna
-STAR24	Starołęka	52.368768	16.932724	Poznań	Forteczna
-STAR22	Starołęka	52.368727	16.933349	Poznań	Forteczna
 FORT02	Forteczna	52.367741	16.938669	Poznań	Forteczna
 OKOP02	Okopowa	52.366955	16.943228	Poznań	Forteczna
 WARO02	Warowna	52.367231	16.94756	Poznań	Forteczna
@@ -754,11 +757,11 @@ ZIEL01	Zieliniec	52.415221	17.045027	Poznań	Starachowicka
 RADO01	Radojewo	52.497658	16.946188	Poznań	Piołunowa
 RA I02	Radojewo I	52.496797	16.945975	Poznań	Radojewo
 LUGO02	Os. Lubczykowa Góra	52.489288	16.941749	Poznań	Radojewo
-LOPI02	Łopianowa	52.486772	16.942477	Poznań	Lebiodowa
+LOPI02	Łopianowa	52.486772	16.942477	Poznań	Radojewo
 UMTA02	Umultowo	52.48135	16.943853	Poznań	Naramowicka
 DUNZ02	Dziurawcowa	52.479418	16.945221	Poznań	Naramowicka
-RUMA02	Rumiankowa	52.475826	16.946231	Poznań	Rumiankowa
-WDNZ02	Widłakowa	52.472538	16.947283	Poznań	Widłakowa
+RUMA02	Rumiankowa	52.475826	16.946231	Poznań	Naramowicka
+WDNZ02	Widłakowa	52.472538	16.947283	Poznań	Naramowicka
 KRES02	Kresowa	52.468639	16.947424	Poznań	Naramowicka
 MAPO02	Maków Polnych	52.4636	16.94778	Poznań	Naramowicka
 BURY02	Burysława	52.458375	16.946687	Poznań	Naramowicka
@@ -773,7 +776,7 @@ WDNZ01	Widłakowa	52.472224	16.947448	Poznań	Naramowicka
 RUMA01	Rumiankowa	52.475061	16.946434	Poznań	Naramowicka
 DUNZ01	Dziurawcowa	52.478904	16.945517	Poznań	Naramowicka
 UMTA01	Umultowo	52.481969	16.943618	Poznań	Naramowicka
-LOPI01	Łopianowa	52.486802	16.942623	Poznań	Lubczykowa
+LOPI01	Łopianowa	52.486802	16.942623	Poznań	Radojewo
 LUGO01	Os. Lubczykowa Góra	52.489931	16.941711	Poznań	Radojewo
 PODO04	Podolany	52.461358	16.866427	Poznań	Zakopiańska
 MORS02	Morszyńska	52.458261	16.871906	Poznań	Zakopiańska
@@ -794,8 +797,7 @@ URBA02	Urbanowska	52.421754	16.919691	Poznań	Księcia Mieszka I
 PRNZ04	Przepadek	52.41901	16.923308	Poznań	Przepadek
 POLO02	Polonez	52.415502	16.926297	Poznań	Aleja Niepodległości
 WIKA01	Wielkopolska	52.415333	16.917964	Poznań	Generała Kazimierza Pułaskiego
-CICH91	Cicha	52.417759	16.920962	Poznań	Generała Kazimierza Pułaskiego
-ARPO01	Armii Poznań	52.421382	16.92292	Poznań	Księcia Mieszka I
+ARPO01	Armii Poznań	52.421382	16.92292	Poznań	Aleja Armii  Poznań
 SLKA01	Słowiańska	52.427841	16.920475	Poznań	Księcia Mieszka I
 WYLO01	Wyłom	52.433233	16.920632	Poznań	Księcia Mieszka I
 ALSO01	Aleje Solidarności	52.436205	16.920021	Poznań	Aleje Solidarności
@@ -810,7 +812,7 @@ BIAL01	Białczańska	52.457312	16.879104	Poznań	Strzeszyńska
 MORS01	Morszyńska	52.45792	16.872765	Poznań	Morszyńska
 PODO03	Podolany	52.461603	16.866435	Poznań	Zakopiańska
 OLOK02	Os. Łokietka	52.452038	16.934708	Poznań	Łużycka
-OWW02	Os.Wichrowe Wzgórze	52.441235	16.940779	Poznań	Osiedle Wichrowe Wzgórze
+OWW02	Os.Wichrowe Wzgórze	52.441235	16.940779	Poznań	Murawa
 OKOS02	Os. Kosmonautów	52.438375	16.940402	Poznań	Murawa
 ROSO02	Rondo Solidarności	52.433871	16.937371	Poznań	Murawa
 OPL03	Os. Pod Lipami	52.430911	16.934719	Poznań	Słowiańska
@@ -839,7 +841,7 @@ ZAWA01	Zawady	52.414856	16.958533	Poznań	Zawady
 KORO01	Koronkarska	52.416613	16.960266	Poznań	Zawady
 STUD01	Studzienna	52.419453	16.965776	Poznań	Główna
 RWSC01	Rynek Wschodni	52.420819	16.970053	Poznań	Główna
-GLOW01	Główna	52.422786	16.976465	Poznań	Gdyńska
+GLOW01	Główna	52.422786	16.976465	Poznań	Główna
 BALA01	Bałtycka	52.426784	16.978579	Poznań	Gdyńska
 GDYN01	Gdyńska	52.429296	16.979038	Poznań	Gdyńska
 GDI01	Gdyńska I	52.433239	16.980034	Poznań	Gdyńska
@@ -847,20 +849,20 @@ GDII01	Gdyńska II	52.436048	16.980762	Poznań	Gdyńska
 GDKA01	Gdyńska Karolin	52.438319	16.981697	Poznań	Gdyńska
 KZOSK02	Koziegłowy/Os. Karolin	52.444093	16.990713	gmina Czerwonak	Poznańska
 KZKRO02	Koziegłowy/Krótka	52.447331	16.996782	gmina Czerwonak	Poznańska
-KZDZI02	Koziegłowy/Działki	52.450325	17.004667	gmina Czerwonak	Poznańska
-KCJON02	Kicin/Jonschera	52.457693	17.01704	gmina Czerwonak	Poznańska
-KCSZK02	Kicin/Szkoła	52.463375	17.018915	gmina Czerwonak	Poznańska
-KCPET01	Kicin/Pętla	52.465584	17.020717	gmina Czerwonak	Nowe Osiedle
-KZTJE02	Koziegłowy/Taczaka I	52.448025	17.000975	gmina Czerwonak	Poznańska
-KZTDW02	Koziegłowy/Taczaka II	52.443227	17.003013	gmina Czerwonak	Generała Stanisława Taczaka
-KZZDR01	Koziegłowy/Zakłady Drobiarskie	52.441333	16.999425	gmina Czerwonak	Piaskowa
-KZZDR02	Koziegłowy/Zakłady Drobiarskie	52.441405	17.000119	gmina Czerwonak	Piaskowa
-ITM02	Itm	52.443144	17.015203	Poznań	Piaskowa
-KZTDW01	Koziegłowy/Taczaka II	52.443759	17.002792	gmina Czerwonak	Generała Stanisława Taczaka
-KZTJE01	Koziegłowy/Taczaka I	52.44752	17.001197	gmina Czerwonak	Generała Stanisława Taczaka
-KCSZK01	Kicin/Szkoła	52.462924	17.018635	gmina Czerwonak	Poznańska
-KCJON01	Kicin/Jonschera	52.457558	17.016863	gmina Czerwonak	Poznańska
-KZDZI01	Koziegłowy/Działki	52.449621	17.003175	gmina Czerwonak	Poznańska
+KZDZI02	Koziegłowy/Działki	52.450577	17.005167	gmina Czerwonak	Poznańska
+KCJON02	Kicin/Jonschera	52.457408	17.016688	gmina Czerwonak	Poznańska
+KCSZK02	Kicin/Szkoła	52.463431	17.018972	gmina Czerwonak	Poznańska
+KCPET01	Kicin/Pętla	52.465554	17.020551		
+KZTJE02	Koziegłowy/Taczaka I	52.447984	17.000884	gmina Czerwonak	Generała Stanisława Taczaka
+KZTDW02	Koziegłowy/Taczaka II	52.443357	17.002908	gmina Czerwonak	Generała Stanisława Taczaka
+KZZDR01	Koziegłowy/Zakłady Drobiarskie	52.441242	16.998186	gmina Czerwonak	Piaskowa
+KZZDR02	Koziegłowy/Zakłady Drobiarskie	52.441399	17.000114	gmina Czerwonak	Piaskowa
+ITM02	Itm	52.443126	17.015193	Poznań	ITM
+KZTDW01	Koziegłowy/Taczaka II	52.443729	17.002849	gmina Czerwonak	Generała Stanisława Taczaka
+KZTJE01	Koziegłowy/Taczaka I	52.447646	17.001136	gmina Czerwonak	Generała Stanisława Taczaka
+KCSZK01	Kicin/Szkoła	52.462934	17.018501	gmina Czerwonak	Poznańska
+KCJON01	Kicin/Jonschera	52.457627	17.016893	gmina Czerwonak	Poznańska
+KZDZI01	Koziegłowy/Działki	52.449647	17.003025	gmina Czerwonak	Poznańska
 KZKRO01	Koziegłowy/Krótka	52.447096	16.995793	gmina Czerwonak	Poznańska
 KZOSK01	Koziegłowy/Os. Karolin	52.443705	16.990093	gmina Czerwonak	Poznańska
 GDKA02	Gdyńska Karolin	52.437426	16.980802	Poznań	Gdyńska
@@ -871,7 +873,7 @@ BALA02	Bałtycka	52.425456	16.977823	Poznań	Gdyńska
 GLOW02	Główna	52.422082	16.974189	Poznań	Główna
 RWSC02	Rynek Wschodni	52.420939	16.96986	Poznań	Główna
 STUD02	Studzienna	52.419542	16.964669	Poznań	Główna
-KORO02	Koronkarska	52.416058	16.959366	Poznań	Zawady
+KORO02	Koronkarska	52.416058	16.959366	Poznań	Koronkarska
 ZAWA02	Zawady	52.413062	16.957096	Poznań	Podwale
 ROSO03	Rondo Solidarności	52.435295	16.937283	Poznań	Aleje Solidarności
 POLA01	Połabska	52.435741	16.929387	Poznań	Aleje Solidarności
@@ -884,9 +886,6 @@ NIED01	Niedziałkowskiego	52.39835	16.918523	Poznań	Przemysłowa
 BERG01	Bergera	52.394035	16.915806	Poznań	Robocza
 ZNTK01	Zntk	52.392074	16.913383	Poznań	Robocza
 ROBO01	Robocza	52.388145	16.910942	Poznań	Robocza
-ROLN01	Rolna	52.38301	16.916884	Poznań	Rolna
-IPNZ01	Ipn	52.379847	16.91458	Poznań	Rolna
-WSNZ01	Wspólna I	52.376599	16.913744	Poznań	Wspólna
 DOWI01	Dolna Wilda	52.371993	16.916828	Poznań	Dolna Wilda
 LOZO01	Łozowa	52.369524	16.908316	Poznań	Czechosłowacka
 AZAL01	Azaliowa	52.364098	16.907469	Poznań	Łozowa
@@ -894,21 +893,19 @@ OSDE01	Os. Dębina	52.360411	16.904481	Poznań	28 Czerwca 1956 roku
 OSDE02	Os. Dębina	52.361533	16.904553	Poznań	28 Czerwca 1956 roku
 DOWI02	Dolna Wilda	52.36966	16.915751	Poznań	Dolna Wilda
 PINZ01	Piastowska	52.372647	16.917687	Poznań	Dolna Wilda
-WSNZ04	Wspólna I	52.377217	16.91282	Poznań	Rolna
-IPNZ02	Ipn	52.379599	16.91457	Poznań	Rolna
-ROLN02	Rolna	52.383037	16.917086	Poznań	Rolna
+ROLN91	Rolna	52.384445	16.917522	Poznań	Rolna
 ROBO02	Robocza	52.388206	16.91135	Poznań	Jana Umińskiego
 ZNTK02	Zntk	52.392292	16.913811	Poznań	Robocza
 BERG02	Bergera	52.394609	16.916813	Poznań	Robocza
 NIED02	Niedziałkowskiego	52.398526	16.918674	Poznań	Przemysłowa
 POGL04	Poznań Główny	52.400886	16.914626	Poznań	Wolne Tory
-UE01	Uniwersytet Ekonomiczny	52.40531	16.91892	Poznań	Edwarda Taylora
-OSZW02	Os. Zwycięstwa	52.43547	16.926254	Poznań	Aleje Solidarności
+UE01	Uniwersytet Ekonomiczny	52.40531	16.91892	Poznań	Uniwersytet Ekonomiczny
+POLO01	Polonez	52.415281	16.926793	Poznań	Aleja Niepodległości
+OSZW02	Os. Zwycięstwa	52.43547	16.926254	Poznań	Os. Zwycięstwa
 POLA02	Połabska	52.435247	16.931269	Poznań	Aleje Solidarności
-CECME01	Koziegłowy/Cmentarz	52.458243	16.995571	gmina Czerwonak	św. Wojciecha
 KZOSL01	Koziegłowy/Os. Leśne	52.452444	16.991511	gmina Czerwonak	Marszałka Józefa Piłsudskiego
 KZPLY01	Koziegłowy/Pływalnia	52.448124	16.992426	gmina Czerwonak	Marszałka Józefa Piłsudskiego
-KZSZK02	Koziegłowy/Piaskowa Szkoła	52.445617	16.991142	gmina Czerwonak	Kanałowa
+KZSZK02	Koziegłowy/Piaskowa Szkoła	52.445617	16.991142	gmina Czerwonak	Piaskowa
 BALA03	Bałtycka	52.426605	16.977481	Poznań	Bałtycka
 CHEM01	Chemiczna	52.427779	16.965816	Poznań	Lechicka
 WIII01	Wilczak II	52.431471	16.951745	Poznań	Serbska
@@ -919,21 +916,21 @@ ROSO04	Rondo Solidarności	52.434151	16.940343	Poznań	Serbska
 NASE04	Naramowicka/Serbska	52.431343	16.947553	Poznań	Serbska
 WIII02	Wilczak II	52.430913	16.953999	Poznań	Serbska
 CHEM02	Chemiczna	52.427231	16.96673	Poznań	Bałtycka
-KZSZK04	Koziegłowy/Piaskowa Szkoła	52.446618	16.990684		
+KZSZK04	Koziegłowy/Piaskowa Szkoła	52.446618	16.990684	gmina Czerwonak	Marszałka Józefa Piłsudskiego
 KZPLY02	Koziegłowy/Pływalnia	52.449342	16.992205	gmina Czerwonak	Marszałka Józefa Piłsudskiego
-KZOSL02	Koziegłowy/Os. Leśne	52.453238	16.991895	gmina Czerwonak	Marszałka Józefa Piłsudskiego
+KZOSL02	Koziegłowy/Os. Leśne	52.453386	16.99206	gmina Czerwonak	Marszałka Józefa Piłsudskiego
 GLOW03	Główna	52.422313	16.976743	Poznań	Gnieźnieńska
 URWI01	Urwista	52.423053	16.983166	Poznań	Gnieźnieńska
 GNIE01	Gnieźnieńska	52.423688	16.988484	Poznań	Gnieźnieńska
 CMEN01	Gnieźnieńska/Cmentarz	52.425179	16.99377	Poznań	Gnieźnieńska
 GNNZ01	Gnieźnieńska I	52.427901	17.002187	Poznań	Gnieźnieńska
 BOBA01	Bogucin/Bałtycka	52.430205	17.01129	gmina Swarzędz	Gnieźnieńska
-BGPET02	Bogucin/Pętla	52.432198	17.019447	gmina Swarzędz	Władysława Słocińskiego
+BGPET02	Bogucin/Pętla	52.432223	17.019434	gmina Swarzędz	Władysława Słocińskiego
 JANZ01	Janikowska	52.432127	17.00272	Poznań	Janikowska
 PRZA01	Prząśniczki	52.433851	17.008627	Poznań	Janikowska
 JANI01	Janikowo	52.436434	17.018389	Poznań	Janikowska
 JAASF01	Janikowo/Asfaltowa	52.440639	17.027967	gmina Swarzędz	Asfaltowa
-JAOGR01	Janikowo/Ogrodnicza	52.443606	17.032632		
+JAOGR01	Janikowo/Ogrodnicza	52.443605	17.032469	gmina Swarzędz	Asfaltowa
 JAASF02	Janikowo/Asfaltowa	52.440431	17.027376	gmina Swarzędz	Asfaltowa
 JANI02	Janikowo	52.436552	17.017859	Poznań	Janikowska
 PRZA02	Prząśniczki	52.433858	17.008197	Poznań	Janikowska
@@ -970,12 +967,12 @@ MOST01	Mostowa	52.40487	16.939637	Poznań	Mostowa
 WIEL01	Wielka	52.408838	16.938315	Poznań	Garbary
 WOJT01	Wójtowska	52.430008	16.939907	Poznań	Słowiańska
 POLA03	Połabska	52.436163	16.930847	Poznań	Połabska
-PSAM01	Połabska Sam	52.438517	16.931071	Poznań	Osiedle Wichrowe Wzgórze
+PSAM01	Połabska Sam	52.438517	16.931071	Poznań	Połabska
 UMUL05	Umultowska	52.442455	16.929528	Poznań	Połabska
 UMUL01	Umultowska	52.444255	16.928823	Poznań	Umultowska
 SARM01	Sarmacka	52.447017	16.927773	Poznań	Umultowska
-SOB01	Os. Sobieskiego	52.463735	16.916532	Poznań	Franciszka Stróżyńskiego
-SOB26	Os. Sobieskiego	52.465286	16.916473	Poznań	Szeligowskiego
+SOB01	Os. Sobieskiego	52.463735	16.916532	Poznań	Smoleńska
+SOB26	Os. Sobieskiego	52.465286	16.916473	Poznań	Peron 2
 KOZM01	Koźmińska	52.369206	16.87659	Poznań	Leszczyńska
 BUCZ01	Buczka	52.363862	16.878771	Poznań	Leszczyńska
 OKUL01	Okulickiego	52.359996	16.880768	Poznań	Leszczyńska
@@ -983,7 +980,7 @@ SWIE02	Świerczewo	52.356983	16.884895	Poznań	Opolska
 KORF02	Korfantego	52.359615	16.887513	Poznań	Opolska
 BEDZ02	Będzińska	52.361397	16.889774	Poznań	Opolska
 SJNZ02	Sempołowskiej	52.363196	16.891935	Poznań	Opolska
-DEEC03	Dębiec	52.370866	16.901179	Poznań	Opolska
+DEEC03	Dębiec	52.371002	16.901616	Poznań	Opolska
 CIES01	Cieszyńska	52.36549	16.894399	Poznań	Opolska
 SJNZ01	Sempołowskiej	52.362865	16.891322	Poznań	Opolska
 BEDZ01	Będzińska	52.361097	16.889079	Poznań	Opolska
@@ -1011,7 +1008,7 @@ MALW02	Malwowa	52.397784	16.8041	Poznań	Złotowska
 PODL02	Pod Ławica	52.401609	16.810526	Poznań	Złotowska
 OWCZ02	Owcza	52.406361	16.818185	Poznań	Złotowska
 MALE01	Malechowska	52.412035	16.830621	Poznań	Złotowska
-LAWI01	Ławica	52.409537	16.82295	Poznań	Ławica
+LAWI01	Ławica	52.409537	16.82295	Poznań	Złotowska
 OWCZ01	Owcza	52.406971	16.818942	Poznań	Złotowska
 PODL01	Pod Ławica	52.40143	16.810022	Poznań	Złotowska
 MALW01	Malwowa	52.396842	16.803491	Poznań	Malwowa
@@ -1020,8 +1017,8 @@ NAWA01	Nagietkowa	52.388854	16.813363	Poznań	Malwowa
 ZONK01	Żonkilowa	52.386199	16.819427	Poznań	Malwowa
 GERB01	Gerberowa	52.385322	16.826	Poznań	Malwowa
 ZAWA03	Zawady	52.414815	16.95718	Poznań	Prymasa Augusta Hlonda
-HLDA01	Hlonda	52.420034	16.961765	Poznań	Zawady
-SMNA01	Smolna	52.42355	16.965192	Poznań	Smolna
+HLDA01	Hlonda	52.420034	16.961765	Poznań	Prymasa Augusta Hlonda
+SMNA01	Smolna	52.42355	16.965192	Poznań	Prymasa Augusta Hlonda
 WIML01	Wilczy Młyn	52.438062	16.953074	Poznań	Lechicka
 PIAT03	Piątkowska	52.440807	16.91244	Poznań	Piątkowska
 OBOR01	Obornicka	52.445527	16.908592	Poznań	Obornicka
@@ -1032,7 +1029,7 @@ STRO02	Stróżyńskiego	52.451717	16.903887	Poznań	Obornicka
 OBOR02	Obornicka	52.446114	16.908067	Poznań	Obornicka
 PIAT02	Piątkowska	52.44143	16.912253	Poznań	Piątkowska
 WIML02	Wilczy Młyn	52.437244	16.95327	Poznań	Lechicka
-CHEM04	Chemiczna	52.426984	16.965689	Poznań	Lechicka
+CHEM04	Chemiczna	52.426984	16.965689	Poznań	Prymasa Augusta Hlonda
 SMNA02	Smolna	52.423028	16.964169	Poznań	Prymasa Augusta Hlonda
 HLDA02	Hlonda	52.4195	16.960409	Poznań	Prymasa Augusta Hlonda
 PALA02	Palacza	52.38974	16.883512	Poznań	Krzysztofa Arciszewskiego
@@ -1080,7 +1077,7 @@ ORGN01	Orle Gniazdo	52.391255	16.975636	Poznań	Piaśnicka
 L I01	Os. Lecha I	52.390694	16.968388	Poznań	Os.Lecha
 SLKA03	Słowiańska	52.427333	16.91926	Poznań	Słowiańska
 OSSL01	Os. Słowiańskie	52.425189	16.917317	Poznań	Generała Stanisława Maczka
-WOPO02	Wojska Polskiego	52.42752	16.897843	Poznań	Niestachowska
+WOPO02	Wojska Polskiego	52.42752	16.897843		
 NIES02	Niestachowska	52.421449	16.894314	Poznań	Niestachowska
 ZERO02	Żeromskiego	52.416555	16.891826	Poznań	Jana Henryka Dąbrowskiego
 SZPI02	Szpitalna	52.412199	16.876975	Poznań	Szpitalna
@@ -1095,10 +1092,10 @@ SMSW02	Szpital Msw	52.437947	16.904436	Poznań	Adama Wrzoska
 LU I01	Lutycka I	52.440864	16.900989	Poznań	Lutycka
 LUII01	Lutycka II	52.438565	16.894302	Poznań	Lutycka
 DUKI01	Dukielska	52.449088	16.88975		
-DUKI02	Dukielska	52.449138	16.889524	Poznań	Druskiennicka
+DUKI02	Dukielska	52.449138	16.889524	Poznań	Druskienicka
 LUII02	Lutycka II	52.438797	16.895741	Poznań	Lutycka
 LU I02	Lutycka I	52.440885	16.901568	Poznań	Lutycka
-DOZD02	Dojazd	52.436569	16.901197	Poznań	Aleje Solidarności
+DOZD02	Dojazd	52.436569	16.901197	Poznań	Dojazd
 WINI02	Os. Winiary	52.43479	16.908782	Poznań	Aleje Solidarności
 WILC04	Wilczak	52.428878	16.946768	Poznań	Naramowicka
 ROSR01	Rondo Śródka	52.409681	16.95771	Poznań	Warszawska
@@ -1111,7 +1108,7 @@ KRNZ02	Krańcowa I	52.402563	16.989193	Poznań	Krańcowa
 CZEK02	Czekalskie	52.404713	16.984687	Poznań	Krańcowa
 TERM04	Termy	52.408632	16.972892	Poznań	Warszawska
 UMUL04	Umultowska	52.443068	16.930389	Poznań	Lechicka
-ESTO02	Estońska	52.442576	16.937535	Poznań	Osiedle Wichrowe Wzgórze
+ESTO02	Estońska	52.442576	16.937535	Poznań	Lechicka
 ESTO01	Estońska	52.442818	16.936223	Poznań	Lechicka
 STAR30	Starołęka	52.366228	16.930092	Poznań	Starołęcka
 SWAK01	Św.Antoniego Kościół	52.363922	16.932768	Poznań	Świętego Antoniego
@@ -1143,7 +1140,7 @@ KORA02	Koronna	52.429615	16.915533	Poznań	Piątkowska
 WIWI02	Witosa Wiadukt	52.434122	16.905306	Poznań	Wincentego Witosa
 WIKL02	Witosa Kładka	52.430466	16.902339	Poznań	Wincentego Witosa
 BUKI02	Bukowska I	52.411781	16.869181	Poznań	Bułgarska
-WOPO01	Wojska Polskiego	52.428419	16.90061	Poznań	Wincentego Witosa
+WOPO01	Wojska Polskiego	52.428419	16.90061		
 FRAN02	Giełda Ogrodnicza Franowo	52.375778	16.985757	Poznań	Klenowska
 SLEZ01	Ślężańska	52.381803	16.973161	Poznań	Bobrzańska
 KINE01	Kinepolis	52.374202	16.981221	Poznań	Kinepolis
@@ -1197,7 +1194,7 @@ RRAT02	Rondo Rataje	52.393967	16.949635	Poznań	Ludwika Zamenhofa
 AWF04	Awf	52.399429	16.934094	Poznań	Królowej Jadwigi
 POLW01	Półwiejska	52.400246	16.926494	Poznań	Tadeusza Kościuszki
 NIEZ01	Niezłomnych	52.401615	16.923016	Poznań	Tadeusza Kościuszki
-RKAP33	Rondo Kaponiera	52.407625	16.916887		
+RKAP33	Rondo Kaponiera	52.407625	16.916887	Poznań	Święty Marcin
 NIEZ02	Niezłomnych	52.403023	16.920839	Poznań	Aleja Niepodległości
 POLW02	Półwiejska	52.399768	16.928369	Poznań	Królowej Jadwigi
 LOMZ02	Łomżyńska	52.409875	16.985165	Poznań	Warszawska
@@ -1209,17 +1206,17 @@ WILC03	Wilczak	52.428987	16.946953	Poznań	Naramowicka
 KURP03	Kurpińskiego	52.451393	16.920505	Poznań	Osiedle Bolesława Śmiałego
 SZNZ01	Szeligowskiego I	52.454673	16.91924	Poznań	Tadeusza Szeligowskiego
 SZYM04	Szymanowskiego	52.460217	16.919182	Poznań	Henryka Opieńskiego
-UMUL03	Umultowska	52.443324	16.928224	Poznań	Osiedle Zwycięstwa
+UMUL03	Umultowska	52.443324	16.928224	Poznań	Osiedle Zwyciestwa
 ROOB02	Rondo Obornicka	52.443111	16.907734	Poznań	Lutycka
 BAKA03	Baraniaka	52.403212	16.954264	Poznań	Jana Pawła II
 KORN93	Kórnicka	52.399605	16.952471	Poznań	Kórnicka
 RRAT03	Rondo Rataje	52.396894	16.950744	Poznań	Jana Pawła II
-RSTA01	Rondo Starołęka	52.38147	16.943029	Poznań	Ludwika Zamenhofa
+RSTA01	Rondo Starołęka	52.38147	16.943029	Poznań	Rondo Starołęka
 STOM01	Stomil	52.376378	16.93993	Poznań	Starołęcka
 BYST01	Bystra	52.371207	16.934337	Poznań	Starołęcka
 BYST02	Bystra	52.370723	16.934044	Poznań	Starołęcka
 STOM02	Stomil	52.376181	16.9399	Poznań	Starołęcka
-RSTA02	Rondo Starołęka	52.380909	16.943859	Poznań	Ludwika Zamenhofa
+RSTA02	Rondo Starołęka	52.380909	16.943859	Poznań	Rondo Starołęka
 KORN02	Kórnicka	52.399405	16.952886	Poznań	Kaliska
 MODW03	Most Dworcowy	52.403262	16.910673	Poznań	Głogowska
 KOLE02	Kolejowa	52.387116	16.902202	Poznań	Hetmańska
@@ -1243,23 +1240,19 @@ LUSZN02	Luboń/Szkolna	52.342644	16.867688	Luboń	Wojska Polskiego
 LUKLL02	Luboń/Kołłątaja	52.3424	16.862018	Luboń	Wojska Polskiego
 LUKLO02	Luboń/Klonowa	52.342202	16.856437	Luboń	Wojska Polskiego
 LUTRA01	Luboń/Traugutta	52.344511	16.849645	Luboń	11 Listopada
-LUZAB01	Luboń Żabikowo	52.345127	16.854396	Luboń	11 Listopada
+LUZAB01	Luboń Żabikowo	52.345127	16.854396		
 LUPBO01	Luboń/Pl.Bojanowskiego	52.349281	16.860955	Luboń	Józefa Poniatowskiego
 LUUNI01	Luboń/Unijna	52.351987	16.865355	Luboń	Józefa Poniatowskiego
 LUSIK01	Luboń/Sikorskiego	52.348343	16.873388	Luboń	Tadeusza Kościuszki
 LUOLU03	Luboń/Os.Lubonianka	52.348533	16.88145	Luboń	Powstańców Wielkopolskich
-LUPRZ02	Luboń/Przemysłowa	52.352618	16.892804	Luboń	Niepodległości
 LUDEB01	Luboń/Dębiecka	52.353105	16.901723	Poznań	Dolna Wilda
-WSNZ02	Wspólna I	52.377111	16.910367	Poznań	Wspólna
-WSPO02	Wspólna	52.37785	16.907914	Poznań	28 Czerwca 1956 roku
-TRAU04	Traugutta	52.384445	16.914421	Poznań	28 Czerwca 1956 roku
 LUPRZ01	Luboń/Przemysłowa	52.352032	16.892598	Luboń	Niepodległości
 LUNIE02	Luboń/Niepodległości	52.348866	16.891003	Luboń	Powstańców Wielkopolskich
-LUOLU01	Luboń/Os.Lubonianka	52.348064	16.880756	Luboń	Powstańców Wielkopolskich
+LUOLU01	Luboń/Os.Lubonianka	52.348064	16.880756	Luboń	Żabikowska
 LUSIK02	Luboń/Sikorskiego	52.348839	16.872458	Luboń	Tadeusza Kościuszki
 LUUNI02	Luboń/Unijna	52.352113	16.865577	Luboń	Józefa Poniatowskiego
 LUPBO02	Luboń/Pl.Bojanowskiego	52.349651	16.861561	Luboń	Józefa Poniatowskiego
-LUZAB02	Luboń Żabikowo	52.345046	16.854262	Luboń	11 Listopada
+LUZAB02	Luboń Żabikowo	52.345046	16.854262		
 LUTRA03	Luboń/Traugutta	52.34406	16.84901	Luboń	Romualda Traugutta
 LUKLO01	Luboń/Klonowa	52.342211	16.856806	Luboń	Wojska Polskiego
 LUKLL01	Luboń/Kołłątaja	52.342382	16.86159	Luboń	Wojska Polskiego
@@ -1273,7 +1266,6 @@ ZIII01	Żegrze III	52.383494	16.969119	Poznań	Żegrze
 Z II01	Żegrze II	52.380662	16.965548	Poznań	Żegrze
 Z I01	Żegrze I	52.379223	16.961759	Poznań	Żegrze
 ROOB01	Rondo Obornicka	52.442676	16.906713	Poznań	Juraszów
-STAR23	Starołęka	52.368841	16.931955	Poznań	Starołęcka
 SWMN(x)01	Święty Marcin	52.407	16.920265	Poznań	Święty Marcin
 KRES03	Kresowa	52.46818	16.945952	Poznań	Dzięgielowa
 WIII04	Wilczak II	52.430746	16.951594	Poznań	Wilczak
@@ -1287,7 +1279,7 @@ GROC01	Grochowska	52.398988	16.875571	Poznań	Grunwaldzka
 DRZE01	Drzewieckiego	52.396973	16.867591	Poznań	Grunwaldzka
 INEA05	Inea Stadion	52.394891	16.861355	Poznań	Grunwaldzka
 WEGO01	Węgorka	52.392844	16.858548	Poznań	Grunwaldzka
-SMGO01	Smoluchowskiego	52.389874	16.853484	Poznań	Grunwaldzka
+SMGO01	Smoluchowskiego	52.389874	16.853484	Poznań	Rondo Krzysztofa Skubiszewskiego
 BUDZ01	Budziszyńska	52.388086	16.849061	Poznań	Grunwaldzka
 CMNA01	Cmentarna	52.384969	16.839011	Poznań	Grunwaldzka
 KWIA01	Os. Kwiatowe	52.382325	16.832178	Poznań	Grunwaldzka
@@ -1301,6 +1293,7 @@ WEGO02	Węgorka	52.391936	16.857837	Poznań	Grunwaldzka
 DRZE02	Drzewieckiego	52.39653	16.867119	Poznań	Grunwaldzka
 GROC02	Grochowska	52.398641	16.875428	Poznań	Grunwaldzka
 OSTR02	Ostroroga	52.400329	16.881844	Poznań	Grunwaldzka
+RKAP34	Rondo Kaponiera	52.406582	16.910927	Poznań	Bukowska
 KAKLO01	Kamionki/Klonowa	52.291716	16.981397	gmina Kórnik	Platanowa
 KALAK02	Kamionki Łąkowa	52.288307	16.981802	gmina Kórnik	Poznańska
 KAPOL02	Kamionki Polna	52.286055	16.98869	gmina Kórnik	Poznańska
@@ -1351,10 +1344,29 @@ PJNZ02	Podjaryszki	52.337755	17.015232	Poznań	Ostrowska
 KINZ02	Krzesinki	52.340286	17.012748	Poznań	Ostrowska
 KINZ01	Krzesinki	52.340216	17.012572	Poznań	Ostrowska
 PJNZ01	Podjaryszki	52.337704	17.015086	Poznań	Ostrowska
-JADZ02	Jaryszki/Działki	52.333634	17.019196	gmina Kórnik	Poznańska
+JADZ02	Jaryszki/Działki	52.333634	17.019196		
 ZSNZ02	Żerniki/Skrzyżowanie	52.326753	17.042791	gmina Kórnik	433
 SCNWO02	Szczytniki/Nad Wodą	52.301833	17.016402	gmina Kórnik	Nad Wodą
 SCSAR02	Szczytniki/Sarnia	52.299505	17.01128	gmina Kórnik	Jeziorna
+KAPLA01	Kamionki Platanowa	52.289172	16.978797	gmina Mosina	Poznańska
+DALIP01	Daszewice/Lipowa	52.29262	16.96836	gmina Mosina	Poznańska
+DAPET01	Daszewice Pętla	52.295754	16.962781	gmina Mosina	Poznańska
+DAPIO01	Daszewice Piotrowska	52.299391	16.958054	gmina Mosina	Poznańska
+DALES01	Daszewice Leśna	52.302427	16.953325	gmina Mosina	Poznańska
+BBJDW01	Babki Jednostka Wojskowa	52.311407	16.938409	Poznań	Babicka
+BBBBK02	Babki, Babicka	52.313559	16.938355	Poznań	Babicka
+GLKO02	Głuszyna Kościół	52.319969	16.951031	Poznań	Głuszyna
+BBOSZ01	Babki Ośrodek Zdrowia	52.313682	16.936019	gmina Mosina	Gromadzka
+BBBAB01	Babki	52.317712	16.930474	gmina Mosina	Gromadzka
+CZGRO01	Czapury Gromadzka	52.319803	16.92232	gmina Mosina	Gromadzka
+CZSZK02	Czapury/Szkoła (B)	52.314488	16.911717	gmina Mosina	Poznańska
+CZWAR02	Czapury Warta	52.310273	16.910414	gmina Mosina	Poznańska
+WRPOD02	Wiórek/Podleśna	52.306489	16.908872	gmina Mosina	Poznańska
+WRPET02	Wiórek Pętla	52.303546	16.907583	gmina Mosina	Poznańska
+WRPOD01	Wiórek/Podleśna	52.307248	16.909512	gmina Mosina	Poznańska
+CZWAR01	Czapury Warta	52.30884	16.910188	gmina Mosina	Poznańska
+CZSZK01	Czapury/Szkoła (B)	52.313935	16.911742	gmina Mosina	Poznańska
+CZGLU01	Czapury Głuszynka	52.318009	16.91294	gmina Mosina	Poznańska
 CZLES01	Czapury/Leśna	52.323038	16.912533	gmina Mosina	Poznańska
 CZDEB01	Czapury Dębowa	52.331244	16.911139	gmina Mosina	Poznańska
 CZSTA01	Czapury/Stacja Energetyczna	52.330986	16.910987	gmina Mosina	Poznańska
@@ -1364,6 +1376,17 @@ STWI03	Starołęka Wielka	52.341586	16.917536	Poznań	Starołęcka
 RYDZ01	Rydzowa	52.334357	16.911954	Poznań	Starołęcka
 CZSTA02	Czapury/Stacja Energetyczna	52.331244	16.911139	gmina Mosina	Poznańska
 CZLES02	Czapury/Leśna	52.324138	16.911622	gmina Mosina	Poznańska
+CZGLU02	Czapury Głuszynka	52.318308	16.91294	gmina Mosina	Poznańska
+CZGRO02	Czapury Gromadzka	52.319637	16.921818	gmina Mosina	Gromadzka
+BBBAB02	Babki	52.316907	16.931397	gmina Mosina	Gromadzka
+BBOSZ02	Babki Ośrodek Zdrowia	52.313467	16.936246	gmina Mosina	Gromadzka
+BBBBK01	Babki, Babicka	52.313334	16.937927	Poznań	Babicka
+BBJDW02	Babki Jednostka Wojskowa	52.311634	16.937746	gmina Mosina	Gromadzka
+DALES02	Daszewice Leśna	52.301986	16.953896	gmina Mosina	Poznańska
+DAPIO02	Daszewice Piotrowska	52.2991	16.958333	gmina Mosina	Poznańska
+DAPET02	Daszewice Pętla	52.295873	16.962361	gmina Mosina	Poznańska
+DALIP02	Daszewice/Lipowa	52.292715	16.967968	gmina Mosina	Poznańska
+KAPLA02	Kamionki Platanowa	52.289255	16.978259	gmina Mosina	Poznańska
 LULAS02	Luboń/Lasek	52.32127	16.885525	Luboń	Luboń / Lasek
 LULES01	Luboń/Leśna	52.322379	16.886854	Luboń	Armii Poznań
 LURUT01	Luboń/Rutkowskiego	52.326167	16.887769	Luboń	Armii Poznań
@@ -1404,11 +1427,8 @@ LUKRE01	Luboń/Kręta	52.320368	16.880638	Luboń	Kręta
 LUWPL02	Luboń/Wojska Polskiego	52.34332	16.875898	Luboń	Żabikowska
 LUJPA01	Luboń/Jana Pawła II	52.345376	16.880652	Luboń	Kazimierza Pułaskiego
 LUOKR01	Luboń/Okrzei	52.346323	16.887061	Luboń	Kazimierza Pułaskiego
-DEEC04	Dębiec	52.369916	16.90029	Poznań	Opolska
-GONZ04	Górecka I	52.373072	16.894857	Poznań	Czechosłowacka
 PRCZ02	Przełęcz	52.377257	16.888637	Poznań	Czechosłowacka
 PRCZ01	Przełęcz	52.377278	16.888097	Poznań	Czechosłowacka
-GONZ03	Górecka I	52.372811	16.895034	Poznań	Czechosłowacka
 LUSTR04	Luboń/Streicha	52.348172	16.889704	Luboń	Kościelna
 LUOKR02	Luboń/Okrzei	52.346197	16.88644	Luboń	Kazimierza Pułaskiego
 LUJPA02	Luboń/Jana Pawła II	52.34543	16.882498	Luboń	Jana Pawła II
@@ -1416,7 +1436,7 @@ DNKLU02	Dymaczewo Nowe/Klub	52.228821	16.757745	gmina Mosina	431
 DNDYM02	Dymaczewo Nowe/	52.228794	16.762056	gmina Mosina	431
 DSDYM02	Dymaczewo Stare/	52.228217	16.778816	gmina Mosina	431
 KKKRO02	Krosinko	52.234259	16.817087	gmina Mosina	Wiejska
-LDSZP02	Ludwikowo/Szpital.	52.243233	16.813455		
+LDSZP02	Ludwikowo/Szpital.	52.243233	16.813455	gmina Mosina	Stęszewska
 KKLUD02	Krosinko/Ludwikowska.	52.235098	16.817501	gmina Mosina	Wiejska
 MORON01	Mosina/Rondo	52.243133	16.847666	gmina Mosina	Mostowa
 MODWK02	Mosina/D.K.	52.241483	16.851727	gmina Mosina	Dworcowa
@@ -1486,12 +1506,12 @@ LUSTU02	Luboń/Studzienna	52.342896	16.84464	Luboń	11 Listopada
 KOWIR01	Komorniki/Wirowska	52.340786	16.83925	gmina Komorniki	Żabikowska
 KOLUB01	Komorniki/Lubońska	52.338937	16.834378	gmina Komorniki	Żabikowska
 KOPAK01	Komorniki/Os. Parkowe	52.336917	16.829062	gmina Komorniki	Kalinowa
-KNPET02	Konarzewo/Pętla	52.334608	16.717376	gmina Dopiewo	Stęszewska
-KNOSL02	Konarzewo/Os. 25-Lecia	52.334572	16.724228	gmina Dopiewo	Poznańska
-COSZK02	Chomęcice/Szkoła	52.333526	16.741474	gmina Komorniki	Poznańska
-COSRD02	Chomęcice/Środkowa	52.331668	16.747039	gmina Komorniki	Poznańska
-COPOD02	Chomęcice/Podgórna	52.330162	16.760387	gmina Komorniki	Poznańska
-RSROS02	Rosnowo/	52.32559	16.780528	gmina Komorniki	Sadowa
+KNPET02	Konarzewo/Pętla	52.334763	16.717202	gmina Dopiewo	Stęszewska
+KNOSL02	Konarzewo/Os. 25-Lecia	52.334555	16.724506	gmina Dopiewo	Poznańska
+COSZK02	Chomęcice/Szkoła	52.333607	16.740811	gmina Komorniki	Poznańska
+COSRD02	Chomęcice/Środkowa	52.331567	16.746537	gmina Komorniki	Poznańska
+COPOD02	Chomęcice/Podgórna	52.330094	16.760622	gmina Komorniki	Poznańska
+RSROS02	Rosnowo/	52.32563	16.78033	gmina Komorniki	Sadowa
 WABRZ02	Walerianowo/Brzozowa	52.31989	16.774429	gmina Komorniki	Bukowa
 WABUK02	Walerianowo/Bukowa	52.314479	16.770133	gmina Komorniki	Bukowa
 RODKU02	Rosnówko/Dom Kultury	52.303918	16.762721	gmina Komorniki	1 Maja
@@ -1511,11 +1531,11 @@ ROSTW01	Rosnówko/Stawnego	52.299553	16.771979	gmina Komorniki	1 Maja
 RODKU01	Rosnówko/Dom Kultury	52.304378	16.762293	gmina Komorniki	1 Maja
 WABUK01	Walerianowo/Bukowa	52.314894	16.770458	gmina Komorniki	Bukowa
 WABRZ01	Walerianowo/Brzozowa	52.318754	16.773558	gmina Komorniki	Bukowa
-RSROS03	Rosnowo/	52.324832	16.781193	gmina Komorniki	Bukowa
-COPOD01	Chomęcice/Podgórna	52.33	16.761185	gmina Komorniki	Poznańska
-COSRD01	Chomęcice/Środkowa	52.331551	16.746745	gmina Komorniki	Poznańska
-COSZK01	Chomęcice/Szkoła	52.333544	16.740942	gmina Komorniki	Poznańska
-KNOSL01	Konarzewo/Os. 25-Lecia	52.334734	16.723239	gmina Dopiewo	Poznańska
+RSROS03	Rosnowo/	52.324972	16.781134	gmina Komorniki	Bukowa
+COPOD01	Chomęcice/Podgórna	52.330054	16.761045	gmina Komorniki	Poznańska
+COSRD01	Chomęcice/Środkowa	52.331583	16.746403	gmina Komorniki	Poznańska
+COSZK01	Chomęcice/Szkoła	52.333665	16.740782	gmina Komorniki	Poznańska
+KNOSL01	Konarzewo/Os. 25-Lecia	52.334941	16.722904	gmina Dopiewo	Poznańska
 PLKOS01	Plewiska/Kościół	52.361754	16.808125	gmina Komorniki	Polna
 PLSZK01	Plewiska/Szkoła	52.362999	16.80715	gmina Komorniki	Szkolna
 PLBOI01	Plewiska/Boisko	52.367345	16.801982	gmina Komorniki	Szkolna
@@ -1545,9 +1565,9 @@ GLTEC01	Głuchowo/Tęczowa	52.344754	16.777044	gmina Komorniki	Komornicka
 GLSTW01	Głuchowo/Stawna	52.345954	16.770562	gmina Komorniki	Komornicka
 GLSTW04	Głuchowo/Stawna	52.34645	16.768833	gmina Komorniki	Stawna
 GLSPO01	Głuchowo/Spokojna	52.348623	16.771905	gmina Komorniki	Spokojna
-GSSZK01	Gołuski/Szkolna	52.358246	16.753316	gmina Dopiewo	Szkolna
-GSPET01	Gołuski/Pętla	52.361249	16.757169	gmina Dopiewo	Szkolna
-GSSZK02	Gołuski/Szkolna	52.358029	16.753139	gmina Dopiewo	Szkolna
+GSSZK01	Gołuski/Szkolna	52.358098	16.753051	gmina Dopiewo	Szkolna
+GSPET01	Gołuski/Pętla	52.36134	16.757068	gmina Dopiewo	Polna
+GSSZK02	Gołuski/Szkolna	52.357964	16.752856	gmina Dopiewo	Szkolna
 GLSPO02	Głuchowo/Spokojna	52.348758	16.77257	gmina Komorniki	Poznańska
 GLTEC02	Głuchowo/Tęczowa	52.344808	16.776202	gmina Komorniki	Komornicka
 KOTOP02	Komorniki/Topolowa	52.339839	16.796386	gmina Komorniki	Polna
@@ -1557,38 +1577,36 @@ PLSKO01	Plewiska/Szkolna	52.35775	16.807446	gmina Komorniki	Szkolna
 PLWOL01	Plewiska/Wołczyńska	52.376247	16.823599	gmina Komorniki	Grunwaldzka
 JUNI30	Junikowo	52.383546	16.833509	Poznań	Grunwaldzka
 OGDY06	Ogrody	52.416681	16.885155	Poznań	Jana Henryka Dąbrowskiego
-MALW03	Malwowa	52.397231	16.802294	gmina Dopiewo	Poznańska
-SKKOS01	Skórzewo, Kościół	52.391461	16.790864	gmina Dopiewo	Poznańska
-SKOSM01	Skórzewo/Os. Makowe	52.389269	16.78137	gmina Dopiewo	Biedronki
-SKGIM01	Skórzewo, Gimnazjum	52.390424	16.778225	gmina Dopiewo	Biedronki
-DKLAS01	Dąbrówka, Las	52.386672	16.745933	gmina Dopiewo	Długa
-DKPAR01	Dąbrówka/Parkowa	52.384021	16.743894	gmina Dopiewo	Poznańska
-DKKAS01	Dąbrówka/Kasztanowa	52.378068	16.743689	gmina Dopiewo	Cedrowa
-PANOW01	Palędzie/Nowa	52.373207	16.739023	gmina Dopiewo	Pocztowa
-DPDOP01	Dopiewiec	52.359806	16.709463	gmina Dopiewo	Szkolna
-DOOSR01	Dopiewo, Ośrodek Zdrowia	52.359066	16.682959	gmina Dopiewo	Konarzewska
-DOKOS01	Dopiewo, Kościół	52.357732	16.676314	gmina Dopiewo	Poznańska
-DODWK01	Dopiewo, D.K.	52.354178	16.67875	gmina Dopiewo	Leśna
-DOKOS02	Dopiewo, Kościół	52.357542	16.676034	gmina Dopiewo	Poznańska
-DOOSR02	Dopiewo, Ośrodek Zdrowia	52.359048	16.682559	gmina Dopiewo	Poznańska
-DPDOP02	Dopiewiec	52.359734	16.709905	gmina Dopiewo	Szkolna
-PANOW02	Palędzie/Nowa	52.372748	16.738565	gmina Dopiewo	Nowa
-DKKAS02	Dąbrówka/Kasztanowa	52.37759	16.743186	gmina Dopiewo	Platanowa
-DKPAR02	Dąbrówka/Parkowa	52.384336	16.744057	gmina Dopiewo	Poznańska
-DKLAS02	Dąbrówka, Las	52.387096	16.745844	gmina Dopiewo	Długa
-SKGIM02	Skórzewo, Gimnazjum	52.390595	16.777605	gmina Dopiewo	Księdza Stanisława Kozierowskiego
-SKOSM02	Skórzewo/Os. Makowe	52.38862	16.782965	gmina Dopiewo	Poznańska
-SKKOS91	Skórzewo, Kościół	52.392399	16.790539	gmina Dopiewo	Batorowska
-SKCYT91	Skórzewo/Cytrynowa	52.398694	16.78295	gmina Dopiewo	Batorowska
-ZKBUK01	Zakrzewo/Bukowska	52.405683	16.71875	gmina Dopiewo	Poznańska
-ZKSWI01	Zakrzewo/Świerkowa	52.399361	16.714955	gmina Dopiewo	Długa
-ZKSPO01	Zakrzewo/Sportowa	52.393138	16.726147	gmina Dopiewo	Długa
-ZKZAC01	Zakrzewo/Zacisze	52.38991	16.739111	gmina Dopiewo	Długa
-ZKZAC02	Zakrzewo/Zacisze	52.389901	16.739982	gmina Dopiewo	Długa
-ZKSPO02	Zakrzewo/Sportowa	52.392787	16.726648	gmina Dopiewo	Długa
-ZKSWI02	Zakrzewo/Świerkowa	52.399018	16.715487	gmina Dopiewo	Długa
-ZKBUK02	Zakrzewo/Bukowska	52.406278	16.71965	gmina Dopiewo	Poznańska
-KICZY01	Kiekrz/Czysta	52.483414	16.793241	gmina Rokietnica	Czysta
+MALW03	Malwowa	52.397193	16.802315	gmina Dopiewo	Poznańska
+SKKOS01	Skórzewo, Kościół	52.39163	16.790693	gmina Dopiewo	Poznańska
+SKOSM01	Skórzewo/Os. Makowe	52.389504	16.781087	gmina Dopiewo	Biedronki
+SKGIM01	Skórzewo, Gimnazjum	52.3906	16.778009	gmina Dopiewo	Biedronki
+DKLAS01	Dąbrówka, Las	52.386591	16.745805	gmina Dopiewo	Długa
+DKPAR01	Dąbrówka/Parkowa	52.38434	16.743865	gmina Dopiewo	Poznańska
+DKKAS01	Dąbrówka/Kasztanowa	52.377439	16.742826	gmina Dopiewo	Platanowa
+PANOW01	Palędzie/Nowa	52.372333	16.737957	gmina Dopiewo	Pocztowa
+DPDOP01	Dopiewiec	52.359954	16.709185	gmina Dopiewo	Szkolna
+DOOSR01	Dopiewo, Ośrodek Zdrowia	52.359177	16.682527	gmina Dopiewo	Poznańska
+DOKOS01	Dopiewo, Kościół	52.357951	16.676336	gmina Dopiewo	Poznańska
+DODWK01	Dopiewo, D.K.	52.354255	16.678754	gmina Dopiewo	Wyzwolenia
+DOKOS02	Dopiewo, Kościół	52.358124	16.676721	gmina Dopiewo	Poznańska
+DOOSR02	Dopiewo, Ośrodek Zdrowia	52.359172	16.683744	gmina Dopiewo	Poznańska
+DPDOP02	Dopiewiec	52.359965	16.708765	gmina Dopiewo	Szkolna
+PANOW02	Palędzie/Nowa	52.373002	16.738696	gmina Dopiewo	Pocztowa
+DKKAS02	Dąbrówka/Kasztanowa	52.377738	16.743231	gmina Dopiewo	Cedrowa
+DKPAR02	Dąbrówka/Parkowa	52.384488	16.744095	gmina Dopiewo	Poznańska
+DKLAS02	Dąbrówka, Las	52.386863	16.745826	gmina Dopiewo	Długa
+SKGIM02	Skórzewo, Gimnazjum	52.390718	16.777233	gmina Dopiewo	Księdza Stanisława Kozierowskiego
+SKOSM02	Skórzewo/Os. Makowe	52.388697	16.78279	gmina Dopiewo	Poznańska
+ZKBUK01	Zakrzewo/Bukowska	52.404949	16.71805	gmina Dopiewo	Gajowa
+ZKSWI01	Zakrzewo/Świerkowa	52.398471	16.716331	gmina Dopiewo	Długa
+ZKSPO01	Zakrzewo/Sportowa	52.393321	16.725867	gmina Dopiewo	Długa
+ZKZAC01	Zakrzewo/Zacisze	52.389985	16.738885	gmina Dopiewo	Długa
+ZKZAC02	Zakrzewo/Zacisze	52.39004	16.738443	gmina Dopiewo	Długa
+ZKSPO02	Zakrzewo/Sportowa	52.392825	16.726702	gmina Dopiewo	Długa
+ZKSWI02	Zakrzewo/Świerkowa	52.398712	16.716092	gmina Dopiewo	Długa
+ZKBUK02	Zakrzewo/Bukowska	52.406222	16.719469	gmina Dopiewo	Poznańska
+KICZY01	Kiekrz/Czysta	52.482398	16.791668	gmina Rokietnica	Czysta
 PWPAW01	Pawłowice/Pawłowicka	52.487988	16.798772	gmina Rokietnica	Pawłowicka
 PWPAW02	Pawłowice/Pawłowicka	52.487877	16.798742	gmina Rokietnica	Pawłowicka
 KICZY02	Kiekrz/Czysta	52.483494	16.793417	gmina Rokietnica	Czysta
@@ -1603,40 +1621,38 @@ RKLES02	Rokietnica/Leśna	52.503555	16.735679	gmina Rokietnica	Szkolna
 RKSZK02	Rokietnica/Szkoła	52.509858	16.740186	gmina Rokietnica	Szkolna
 RKKOL03	Rokietnica/Ros	52.512333	16.7436	gmina Rokietnica	Szamotulska
 RKSTA02	Rokietnica/Stacja	52.511888	16.752462	gmina Rokietnica	Pocztowa
-RKSPO02	Rokietnica/Spokojna	52.514122	16.760639	gmina Rokietnica	Obornicka
-RKTOP02	Rokietnica/Topolowa	52.514906	16.765201	gmina Rokietnica	Obornicka
-BYPOR02	Bytkowo/Porzeczkowa	52.516358	16.772096	gmina Rokietnica	Obornicka
-BYPAW02	Bytkowo/Pawłowicka	52.518036	16.776703	gmina Rokietnica	Obornicka
-SOSAN02	Sobota/Sanktuarium	52.522617	16.798764	gmina Rokietnica	Ogrodowa
-SOKAS02	Sobota/Kasztanowa	52.521418	16.803001	gmina Rokietnica	Poznańska
-SOPOZ02	Sobota/Poz Bruk	52.51735	16.812554	gmina Rokietnica	2400P
-ZOLIP02	Złotkowo/Lipowa	52.507096	16.835249	gmina Suchy Las	Obornicka
-ZOZYT02	Złotkowo/Żytnia	52.504688	16.836149	gmina Suchy Las	Obornicka
-ZLPAW02	Złotniki/Pawłowicka	52.498628	16.83897	gmina Suchy Las	Obornicka
-ZLLAG02	Złotniki/Łagiewnicka	52.492432	16.845924	gmina Suchy Las	Złotniki/Łagiewnicka
-ZLZLO02	Złotniki/Złotnicka	52.485749	16.854931	gmina Suchy Las	11
-JENEK02	Jelonek/Nektarowa	52.48271	16.860409	gmina Suchy Las	Obornicka
-SLFOR02	Suchy Las/Forteczna	52.479247	16.867437	gmina Suchy Las	Obornicka
-SLSZK02	Suchy Las/Szkoła	52.475784	16.873152	gmina Suchy Las	Obornicka
-SLKOS02	Suchy Las/Kościół	52.472573	16.878098	gmina Suchy Las	Obornicka
-SLWIA02	Suchy Las/Wiadukt	52.468713	16.883753	gmina Suchy Las	Obornicka
-SLWIA01	Suchy Las/Wiadukt	52.46902	16.883384	gmina Suchy Las	Obornicka
-SLKOS01	Suchy Las/Kościół	52.473268	16.87705	gmina Suchy Las	Obornicka
-SLSZK01	Suchy Las/Szkoła	52.476244	16.872458	gmina Suchy Las	Obornicka
-SLFOR01	Suchy Las/Forteczna	52.47959	16.866758	gmina Suchy Las	Obornicka
-JENEK01	Jelonek/Nektarowa	52.483044	16.859715	gmina Suchy Las	Obornicka
-ZLZLO01	Złotniki/Złotnicka	52.486615	16.853691	gmina Suchy Las	Obornicka
-ZLLAG01	Złotniki/Łagiewnicka	52.492874	16.845407	gmina Suchy Las	Łagiewnicka
-ZLPAW01	Złotniki/Pawłowicka	52.498177	16.839442	gmina Suchy Las	Obornicka
-ZOZYT01	Złotkowo/Żytnia	52.504959	16.836031	gmina Suchy Las	Obornicka
-ZOLIP01	Złotkowo/Lipowa	52.50807	16.834894	gmina Suchy Las	Obornicka
-SOPOZ01	Sobota/Poz Bruk	52.517035	16.813278	gmina Rokietnica	2400P
-SOKAS01	Sobota/Kasztanowa	52.521111	16.803725	gmina Rokietnica	Boczna
-SOSAN01	Sobota/Sanktuarium	52.522716	16.79804	gmina Rokietnica	Ogrodowa
-BYPAW01	Bytkowo/Pawłowicka	52.517522	16.775744	gmina Rokietnica	Obornicka
-BYPOR01	Bytkowo/Porzeczkowa	52.51653	16.772939	gmina Rokietnica	Obornicka
-RKTOP01	Rokietnica/Topolowa	52.51478	16.764448	gmina Rokietnica	Obornicka
-RKSPO01	Rokietnica/Spokojna	52.514004	16.759872	gmina Rokietnica	Obornicka
+RKSPO02	Rokietnica/Spokojna	52.513853	16.760259	gmina Rokietnica	Obornicka
+RKTOP02	Rokietnica/Topolowa	52.51469	16.765139	gmina Rokietnica	Obornicka
+BYPOR02	Bytkowo/Porzeczkowa	52.516156	16.772098	gmina Rokietnica	Obornicka
+BYPAW02	Bytkowo/Pawłowicka	52.517918	16.777048	gmina Rokietnica	Obornicka
+SOSAN02	Sobota/Sanktuarium	52.522334	16.798832	gmina Rokietnica	Poznańska
+SOKAS02	Sobota/Kasztanowa	52.521222	16.802821	gmina Rokietnica	Poznańska
+SOPOZ02	Sobota/Poz Bruk	52.51696	16.81282	gmina Rokietnica	2400P
+ZOLIP02	Złotkowo/Lipowa	52.507187	16.834964	gmina Suchy Las	Obornicka
+ZOZYT02	Złotkowo/Żytnia	52.501218	16.837241	gmina Suchy Las	Obornicka
+ZLPAW02	Złotniki/Pawłowicka	52.498167	16.839115	gmina Suchy Las	Obornicka
+ZLLAG02	Złotniki/Łagiewnicka	52.491478	16.846606	gmina Suchy Las	Złotniki/Łagiewnicka
+ZLZLO02	Złotniki/Złotnicka	52.485663	16.854685	gmina Suchy Las	11
+JENEK02	Jelonek/Nektarowa	52.482613	16.860236	gmina Suchy Las	Jelonek/Nektarowa
+SLSZK02	Suchy Las/Szkoła	52.475329	16.873546	gmina Suchy Las	Obornicka
+SLKOS02	Suchy Las/Kościół	52.472331	16.878068	gmina Suchy Las	Suchy Las/Kościół
+SLWIA02	Suchy Las/Wiadukt	52.468377	16.884129	gmina Suchy Las	Obornicka
+SLWIA01	Suchy Las/Wiadukt	52.468847	16.88361	gmina Suchy Las	Obornicka
+SLKOS01	Suchy Las/Kościół	52.473142	16.877219	gmina Suchy Las	Suchy Las/Kościół
+SLSZK01	Suchy Las/Szkoła	52.476362	16.872281	gmina Suchy Las	Obornicka
+JENEK01	Jelonek/Nektarowa	52.483271	16.859236	gmina Suchy Las	Obornicka
+ZLZLO01	Złotniki/Złotnicka	52.486839	16.853434	gmina Suchy Las	Obornicka
+ZLLAG01	Złotniki/Łagiewnicka	52.492158	16.846069	gmina Suchy Las	Złotniki/Łagiewnicka
+ZLPAW01	Złotniki/Pawłowicka	52.497697	16.839898	gmina Suchy Las	Obornicka
+ZOZYT01	Złotkowo/Żytnia	52.502105	16.837046	gmina Suchy Las	Obornicka
+ZOLIP01	Złotkowo/Lipowa	52.508062	16.834849	gmina Suchy Las	Obornicka
+SOPOZ01	Sobota/Poz Bruk	52.516639	16.813719	gmina Rokietnica	2400P
+SOKAS01	Sobota/Kasztanowa	52.520976	16.803564	gmina Rokietnica	Poznańska
+SOSAN01	Sobota/Sanktuarium	52.522553	16.797894	gmina Rokietnica	Poznańska
+BYPAW01	Bytkowo/Pawłowicka	52.517138	16.775257	gmina Rokietnica	Obornicka
+BYPOR01	Bytkowo/Porzeczkowa	52.516197	16.771988	gmina Rokietnica	Obornicka
+RKTOP01	Rokietnica/Topolowa	52.514763	16.76522	gmina Rokietnica	Obornicka
+RKSPO01	Rokietnica/Spokojna	52.513906	16.760234	gmina Rokietnica	Obornicka
 RKSTA01	Rokietnica/Stacja	52.51141	16.753782	gmina Rokietnica	Pocztowa
 RKKOL04	Rokietnica/Ros	52.512393	16.742014	gmina Rokietnica	Szamotulska
 RKSZK01	Rokietnica/Szkoła	52.510023	16.740169	gmina Rokietnica	Szkolna
@@ -1670,113 +1686,115 @@ MRGNI01	Mrowino/Gniewka	52.515012	16.719694	gmina Rokietnica	Lubomira
 MRPAR01	Mrowino/Park	52.518028	16.705359	gmina Rokietnica	Dworcowa
 MRKOP02	Mrowino/Kopernika	52.512545	16.70249	gmina Rokietnica	Mikołaja Kopernika
 MRSZA04	Mrowino/Szkoła	52.514331	16.698597	gmina Rokietnica	Szkolna
-MRPAR02	Mrowino/Park	52.517951	16.705162	gmina Rokietnica	Pałacowa
+MRPAR02	Mrowino/Park	52.517951	16.705162	gmina Rokietnica	Dworcowa
 MRGNI02	Mrowino/Gniewka	52.515379	16.71855	gmina Rokietnica	Dworcowa
 MRLES02	Mrowino/Leszka	52.51381	16.724644	gmina Rokietnica	Dworcowa
 RKTRA02	Rokietnica/Trakt Napoleoński	52.512975	16.73143	gmina Rokietnica	Trakt Napoleoński
 RKNOB01	Rokietnica/Noblistów	52.508909	16.737075	gmina Rokietnica	Szkolna
-PCPET02	Przecław/Pętla	52.551521	16.71339	gmina Szamotuły	Przecławska
-ZYPET03	Żydowo/Pętla	52.547364	16.7511	gmina Szamotuły	Przecławska
-ZYSWI02	Żydowo/Świetlica	52.544812	16.755841	gmina Rokietnica	Rostworowska
-RTSOB02	Rostworowo/Sobocka	52.537561	16.759132	gmina Rokietnica	Rokietnicka
-RTJOD02	Rostworowo/Jodłowa	52.526107	16.751042	gmina Rokietnica	Rokietnicka
-RKBOC02	Rokietnica/Boczna	52.518144	16.74552	gmina Rokietnica	Kolejowa
-RKMIC01	Rokietnica/Mickiewicza	52.516178	16.73954	gmina Rokietnica	Koszycy
-KSKOS01	Krzyszkowo/Koszycy	52.520236	16.73545	gmina Rokietnica	Koszycy
-KSPET02	Krzyszkowo/Pętla	52.524773	16.730621	gmina Rokietnica	Główna
-KSKOS02	Krzyszkowo/Koszycy	52.519776	16.735907	gmina Rokietnica	Koszycy
-RKMIC02	Rokietnica/Mickiewicza	52.515718	16.739996	gmina Rokietnica	Koszycy
+PCPET02	Przecław/Pętla	52.551219	16.713612	gmina Szamotuły	Leśna
+ZYPET03	Żydowo/Pętla	52.547004	16.751045	gmina Rokietnica	Żydowo/pętla
+ZYSWI02	Żydowo/Świetlica	52.546198	16.754601	gmina Rokietnica	Rostworowska
+RTSOB02	Rostworowo/Sobocka	52.537019	16.758717	gmina Rokietnica	Rokietnicka
+RTJOD02	Rostworowo/Jodłowa	52.524693	16.75007	gmina Rokietnica	Rokietnicka
+RKBOC02	Rokietnica/Boczna	52.518068	16.745456	gmina Rokietnica	Kolejowa
+RKMIC01	Rokietnica/Mickiewicza	52.515856	16.739618	gmina Rokietnica	Koszycy
+KSKOS01	Krzyszkowo/Koszycy	52.519001	16.73649	gmina Rokietnica	Koszycy
+KSPET02	Krzyszkowo/Pętla	52.524327	16.730896		
+KSKOS02	Krzyszkowo/Koszycy	52.518689	16.736709	gmina Rokietnica	Koszycy
+RKMIC02	Rokietnica/Mickiewicza	52.51592	16.739462	gmina Rokietnica	Koszycy
 RKKOL02	Rokietnica/Ros	52.51268	16.742373	gmina Rokietnica	Kolejowa
-RKBOC01	Rokietnica/Boczna	52.51864	16.745874	gmina Rokietnica	Kolejowa
-RTJOD01	Rostworowo/Jodłowa	52.526603	16.75138	gmina Rokietnica	Rokietnicka
-RTSOB01	Rostworowo/Sobocka	52.538057	16.759473	gmina Rokietnica	Jesionowa
-ZYSWI01	Żydowo/Świetlica	52.545308	16.755516	gmina Rokietnica	Rostworowska
-ZYPET01	Żydowo/Pętla	52.54758	16.751366	gmina Rokietnica	Przecławska
+RKBOC01	Rokietnica/Boczna	52.518431	16.745788	gmina Rokietnica	Kolejowa
+RTJOD01	Rostworowo/Jodłowa	52.524866	16.750271	gmina Rokietnica	Rokietnicka
+RTSOB01	Rostworowo/Sobocka	52.537389	16.75912	gmina Rokietnica	Rokietnicka
+ZYSWI01	Żydowo/Świetlica	52.546737	16.754366	gmina Rokietnica	Rostworowska
+ZYPET01	Żydowo/Pętla	52.547282	16.75194	gmina Rokietnica	Przecławska
 WIET01	Wietrzna	52.468744	16.900909	Poznań	Morasko
-SLPRZ01	Suchy Las/Os. Przylesie	52.473205	16.898518	gmina Suchy Las	Bukowa
-SLSPR01	Suchy Las/Sprzeczna	52.47472	16.894045	gmina Suchy Las	Leśna
-SLSTR01	Suchy Las/Strażacka	52.47518	16.883281	gmina Suchy Las	Strażacka
-SLNWR01	Suchy Las/Nowy Rynek	52.47536	16.879722	gmina Suchy Las	Leśna
-SLLAK01	Suchy Las/Łąkowa	52.480897	16.879161	gmina Suchy Las	Wojciecha Bogusławskiego
-SLDZI01	Suchy Las/Działki	52.486958	16.879914	gmina Suchy Las	Wojciecha Bogusławskiego
-SLLAK02	Suchy Las/Łąkowa	52.481114	16.879146	gmina Suchy Las	Wojciecha Bogusławskiego
-SLKOS03	Suchy Las/Kościół	52.473286	16.877936	gmina Suchy Las	Wojciecha Bogusławskiego
-SLJAG01	Suchy Las/Os. Jagodowe	52.47132	16.86822	gmina Suchy Las	Powstańców Wielkopolskich
-SLBOR01	Suchy Las/Borówkowa	52.473647	16.863731	gmina Suchy Las	Borówkowa
-SLPRO01	Suchy Las/Promienista	52.478372	16.860468	gmina Suchy Las	Powstańców Wielkopolskich
+SLPRZ01	Suchy Las/Os. Przylesie	52.473491	16.897764	gmina Suchy Las	Bukowa
+SLSPR01	Suchy Las/Sprzeczna	52.474691	16.893557	gmina Suchy Las	Leśna
+SLSTR01	Suchy Las/Strażacka	52.475129	16.883667	gmina Suchy Las	Leśna
+SLNWR01	Suchy Las/Nowy Rynek	52.475266	16.880794	gmina Suchy Las	Leśna
+SLLAK01	Suchy Las/Łąkowa	52.48113	16.879095	gmina Suchy Las	Wojciecha Bogusławskiego
+SLDZI01	Suchy Las/Działki	52.486686	16.879629	gmina Suchy Las	Wojciecha Bogusławskiego
+SLLAK02	Suchy Las/Łąkowa	52.480553	16.879055	gmina Suchy Las	Wojciecha Bogusławskiego
+SLKOS03	Suchy Las/Kościół	52.473603	16.878217	gmina Suchy Las	Wojciecha Bogusławskiego
+SLPOZ01	Suchy Las/Os. Poziomkowe	52.469384	16.872878	gmina Suchy Las	Powstańców Wielkopolskich
+SLJAG01	Suchy Las/Os. Jagodowe	52.471228	16.868493	gmina Suchy Las	Powstańców Wielkopolskich
+SLBOR01	Suchy Las/Borówkowa	52.473602	16.86371	gmina Suchy Las	Borówkowa
+SLPRO01	Suchy Las/Promienista	52.478397	16.860515	gmina Suchy Las	Powstańców Wielkopolskich
 ZLGRZ01	Złotniki/Os. Grzybowe	52.47996	16.858918	gmina Suchy Las	Osiedle Nektarowe
-ZLGRZ02	Złotniki/Os. Grzybowe	52.479942	16.858578	gmina Suchy Las	Osiedle Nektarowe
-SLPRO02	Suchy Las/Promienista	52.478138	16.860557	gmina Suchy Las	Powstańców Wielkopolskich
-SLBOR02	Suchy Las/Borówkowa	52.474242	16.862978	gmina Suchy Las	Powstańców Wielkopolskich
-SLJAG02	Suchy Las/Os. Jagodowe	52.471608	16.867615	gmina Suchy Las	Osiedle Jagodowe
-SLNWR02	Suchy Las/Nowy Rynek	52.474999	16.879205	gmina Suchy Las	Nowy Rynek
-SLSTR02	Suchy Las/Strażacka	52.475117	16.884934	gmina Suchy Las	Leśna
-SLSPR02	Suchy Las/Sprzeczna	52.474747	16.89341	gmina Suchy Las	Leśna
-SLPRZ02	Suchy Las/Os. Przylesie	52.473457	16.898046	gmina Suchy Las	Bukowa
+ZLGRZ02	Złotniki/Os. Grzybowe	52.479784	16.858492	gmina Suchy Las	Osiedle Nektarowe
+SLPRO02	Suchy Las/Promienista	52.478162	16.86043	gmina Suchy Las	Powstańców Wielkopolskich
+SLBOR02	Suchy Las/Borówkowa	52.474372	16.862684	gmina Suchy Las	Powstańców Wielkopolskich
+SLJAG02	Suchy Las/Os. Jagodowe	52.471605	16.867343	gmina Suchy Las	Powstańców Wielkopolskich
+SLPOZ02	Suchy Las/Os. Poziomkowe	52.469236	16.873006	gmina Suchy Las	Powstańców Wielkopolskich
+SLKOS04	Suchy Las/Kościół	52.471531	16.875962	gmina Suchy Las	Sucholeska
+SLNWR02	Suchy Las/Nowy Rynek	52.475061	16.879153	gmina Suchy Las	Nowy Rynek
+SLSTR02	Suchy Las/Strażacka	52.475008	16.885155	gmina Suchy Las	Leśna
+SLSPR02	Suchy Las/Sprzeczna	52.474626	16.893691	gmina Suchy Las	Leśna
+SLPRZ02	Suchy Las/Os. Przylesie	52.473318	16.897909	gmina Suchy Las	Bukowa
 WIET02	Wietrzna	52.468387	16.900595	Poznań	Morasko
 DESZ01	Deszczowa	52.471996	16.902431	Poznań	Morasko
 SZKL01	Szklarniowa	52.477537	16.906645	Poznań	Morasko
 MOCM01	Morasko Cmentarz	52.484627	16.910153	Poznań	Morasko
 MOKO01	Morasko Kościół	52.488491	16.908918	Poznań	Morasko
 MORA02	Morasko	52.489268	16.905437	Poznań	Meteorytowa
-REMO02	Rezerwat Morasko	52.487977	16.897614	Poznań	Meteorytowa
-SLKRA01	Suchy Las/Krańcowa	52.481484	16.886485	gmina Suchy Las	Krańcowa
-SLKRA02	Suchy Las/Krańcowa	52.481439	16.886337	gmina Suchy Las	Krańcowa
-REMO01	Rezerwat Morasko	52.487845	16.897497	Poznań	Meteorytowa
+REMO02	Rezerwat Morasko	52.487935	16.89745	Poznań	Meteorytowa
+SLKRA01	Suchy Las/Krańcowa	52.481305	16.886056	gmina Suchy Las	Krańcowa
+SLKRA02	Suchy Las/Krańcowa	52.481387	16.886444	gmina Suchy Las	Krańcowa
+REMO01	Rezerwat Morasko	52.487897	16.897697	Poznań	Meteorytowa
 MOKO02	Morasko Kościół	52.488759	16.908489	Poznań	Morasko
 MOCM02	Morasko Cmentarz	52.484463	16.910008	Poznań	Morasko
 SZKL02	Szklarniowa	52.477106	16.906223	Poznań	Morasko
 DESZ02	Deszczowa	52.471667	16.901981	Poznań	Morasko
-ZLZLO03	Złotniki/Złotnicka	52.486525	16.855153	gmina Suchy Las	Obornicka
-ZLTAR01	Złotniki/Tarninowa	52.490674	16.852761	gmina Suchy Las	Tarninowa
-ZLOKR01	Złotniki/Okrężna	52.493036	16.848183	gmina Suchy Las	Jelonkowa
-ZLZIE01	Złotniki/Zielona	52.492144	16.841997	gmina Suchy Las	Łagiewnicka
-ZLWIE01	Złotniki/Wieś	52.486931	16.831144	gmina Suchy Las	Łagiewnicka
-ZLWIE02	Złotniki/Wieś	52.486886	16.830568	gmina Suchy Las	Słoneczna
-ZLZIE02	Złotniki/Zielona	52.492279	16.842351	gmina Suchy Las	Łagiewnicka
-ZLOKR02	Złotniki/Okrężna	52.492982	16.848464	gmina Suchy Las	Jelonkowa
-ZLTAR02	Złotniki/Tarninowa	52.490232	16.853277	gmina Suchy Las	Tarninowa
-CHSZK02	Chludowo/Szkoła	52.556202	16.844093	gmina Suchy Las	Poznańska
-CHRYN02	Chludowo/Rynek	52.555652	16.848464	gmina Suchy Las	Rynek
-CHKOS02	Chludowo/Kościół	52.557771	16.844536	gmina Suchy Las	Łąkowa
-CHTYS02	Chludowo/Tysiąclecia	52.560017	16.836504	gmina Suchy Las	Tysiąclecia
-CHWAR02	Chludowo/Wargowska	52.560387	16.833625	gmina Suchy Las	Dworcowa
-CHSTA02	Chludowo/Stacja	52.560324	16.825888	gmina Suchy Las	Dworcowa
-CHNAT02	Chludowo/Nad Torem	52.560702	16.817899	gmina Suchy Las	Dworcowa
-ZIWSP02	Zielątkowo/Wspólna	52.560811	16.81155	gmina Suchy Las	Dworcowa
-ZIPOG02	Zielątkowo/Pogodna	52.560116	16.804566	gmina Suchy Las	Dworcowa
-ZIOSP02	Zielątkowo/Osp	52.56017	16.797346	gmina Suchy Las	Leśna
-ZISWI02	Zielątkowo/Świerkowa	52.553415	16.797538	gmina Suchy Las	Leśna
-ZILAS02	Zielątkowo/Las	52.544036	16.803134	gmina Suchy Las	Leśna
-GOPRO02	Golęczewo/Promienista	52.536966	16.812983	gmina Suchy Las	Dworcowa
-GOSZK02	Golęczewo/Szkoła	52.535324	16.819406	gmina Suchy Las	Dworcowa
-GOSTA02	Golęczewo/Stacja	52.535342	16.826522	gmina Suchy Las	Dworcowa
-GOOBO02	Golęczewo/Obornicka	52.535405	16.835736	gmina Suchy Las	Szosa Poznańska
-ZOSOB02	Złotkowo/Sobocka	52.513265	16.835249	gmina Suchy Las	Sobocka
-ZOWIE02	Złotkowo/Wieś	52.511425	16.839944	gmina Suchy Las	Złota
-ZOCED02	Złotkowo/Cedrowa	52.509234	16.837419	gmina Suchy Las	Lipowa
-POGL05	Poznań Główny	52.402922	16.913863	Poznań	Most Dworcowy
+ZLZLO03	Złotniki/Złotnicka	52.486689	16.855733	gmina Suchy Las	Obornicka
+ZLTAR01	Złotniki/Tarninowa	52.4905	16.852724	gmina Suchy Las	Jelonkowa
+ZLOKR01	Złotniki/Okrężna	52.492692	16.849475	gmina Suchy Las	Jelonkowa
+ZLZIE01	Złotniki/Zielona	52.49207	16.842029	gmina Suchy Las	Łagiewnicka
+ZLWIE01	Złotniki/Wieś	52.486706	16.831119	gmina Suchy Las	Słoneczna
+ZLZIE02	Złotniki/Zielona	52.491989	16.842111	gmina Suchy Las	Łagiewnicka
+ZLOKR02	Złotniki/Okrężna	52.492737	16.84892	gmina Suchy Las	Okrężna
+ZLTAR02	Złotniki/Tarninowa	52.490595	16.852519	gmina Suchy Las	Jelonkowa
+CHSZK02	Chludowo/Szkoła	52.556107	16.844374	gmina Suchy Las	Poznańska
+CHRYN02	Chludowo/Rynek	52.555251	16.849312	gmina Suchy Las	Rynek
+CHKOS02	Chludowo/Kościół	52.557426	16.845475	gmina Suchy Las	Kościelna
+CHTYS02	Chludowo/Tysiąclecia	52.559471	16.838223	gmina Suchy Las	Dworcowa
+CHWAR02	Chludowo/Wargowska	52.560043	16.832108	gmina Suchy Las	Dworcowa
+CHSTA02	Chludowo/Stacja	52.560037	16.826399	gmina Suchy Las	Dworcowa
+CHNAT02	Chludowo/Nad Torem	52.560417	16.819628	gmina Suchy Las	Dworcowa
+ZIWSP02	Zielątkowo/Wspólna	52.560624	16.812782	gmina Suchy Las	Dworcowa
+ZIPOG02	Zielątkowo/Pogodna	52.559876	16.804833	gmina Suchy Las	Dworcowa
+ZIOSP02	Zielątkowo/Osp	52.559987	16.797722	gmina Suchy Las	Leśna
+ZISWI02	Zielątkowo/Świerkowa	52.553832	16.797827	gmina Suchy Las	Leśna
+ZILAS02	Zielątkowo/Las	52.546228	16.800145	gmina Suchy Las	Leśna
+GOPRO02	Golęczewo/Promienista	52.537299	16.810952	gmina Suchy Las	Dworcowa
+GOSZK02	Golęczewo/Szkoła	52.535004	16.819595	gmina Suchy Las	Dworcowa
+GOSTA02	Golęczewo/Stacja	52.534967	16.826864	gmina Suchy Las	Dworcowa
+GOOBO02	Golęczewo/Obornicka	52.535093	16.83543	gmina Suchy Las	Szosa Poznańska
+ZOSOB02	Złotkowo/Sobocka	52.513139	16.835475	gmina Suchy Las	Złota
+ZOWIE02	Złotkowo/Wieś	52.511574	16.839192	gmina Suchy Las	Złota
+ZOCED02	Złotkowo/Cedrowa	52.508879	16.836969	gmina Suchy Las	Lipowa
+POGL05	Poznań Główny	52.402922	16.913863	Poznań	Stanisława Matyi
 OJLY03	Os. Jagiełły	52.453967	16.903824	Poznań	Franciszka Stróżyńskiego
-ZOCED01	Złotkowo/Cedrowa	52.509423	16.837744	gmina Suchy Las	Lipowa
-ZOWIE01	Złotkowo/Wieś	52.511615	16.839649	gmina Suchy Las	Złota
-ZOSOB01	Złotkowo/Sobocka	52.51349	16.836046	gmina Suchy Las	Złota
-GOOBO01	Golęczewo/Obornicka	52.535712	16.834968	gmina Suchy Las	Dworcowa
-GOSTA01	Golęczewo/Stacja	52.535423	16.825666	gmina Suchy Las	Dworcowa
-GOSZK01	Golęczewo/Szkoła	52.535324	16.818564	gmina Suchy Las	Tysiąclecia
-GOPRO01	Golęczewo/Promienista	52.536722	16.813765	gmina Suchy Las	Dworcowa
-ZILAS01	Zielątkowo/Las	52.544505	16.802691	gmina Suchy Las	Leśna
-ZISWI01	Zielątkowo/Świerkowa	52.553947	16.797523	gmina Suchy Las	Leśna
-ZIOSP01	Zielątkowo/Osp	52.560702	16.797361	gmina Suchy Las	Kręta
-ZIPOG01	Zielątkowo/Pogodna	52.560053	16.803695	gmina Suchy Las	Dworcowa
-ZIWSP01	Zielątkowo/Wspólna	52.560711	16.810679	gmina Suchy Las	Dworcowa
-CHNAT01	Chludowo/Nad Torem	52.560747	16.817028	gmina Suchy Las	Dworcowa
-CHSTA01	Chludowo/Stacja	52.560287	16.826759	gmina Suchy Las	Dworcowa
-CHWAR01	Chludowo/Wargowska	52.560387	16.834511	gmina Suchy Las	Dworcowa
-CHTYS01	Chludowo/Tysiąclecia	52.5598	16.837316	gmina Suchy Las	Tysiąclecia
-BIJDW01	Biedrusko/Jednostka Wojskowa	52.54069	16.944719	gmina Suchy Las	2406P
-RAII02	Radojewo II	52.500381	16.938743	Poznań	Radojewo
+ZOCED01	Złotkowo/Cedrowa	52.508047	16.835704	gmina Suchy Las	Obornicka
+ZOWIE01	Złotkowo/Wieś	52.51147	16.839536	gmina Suchy Las	Złota
+ZOSOB01	Złotkowo/Sobocka	52.513207	16.835498	gmina Suchy Las	Złota
+GOOBO01	Golęczewo/Obornicka	52.535445	16.834625	gmina Suchy Las	Dworcowa
+GOSTA01	Golęczewo/Stacja	52.535221	16.825469	gmina Suchy Las	Dworcowa
+GOSZK01	Golęczewo/Szkoła	52.535099	16.819006	gmina Suchy Las	Dworcowa
+GOPRO01	Golęczewo/Promienista	52.537139	16.811612	gmina Suchy Las	Dworcowa
+ZILAS01	Zielątkowo/Las	52.546351	16.800075	gmina Suchy Las	Leśna
+ZISWI01	Zielątkowo/Świerkowa	52.554483	16.7979	gmina Suchy Las	Leśna
+ZIOSP01	Zielątkowo/Osp	52.560517	16.79787	gmina Suchy Las	Kręta
+ZIPOG01	Zielątkowo/Pogodna	52.560023	16.80697	gmina Suchy Las	Dworcowa
+ZIWSP01	Zielątkowo/Wspólna	52.560564	16.812677	gmina Suchy Las	Dworcowa
+CHNAT01	Chludowo/Nad Torem	52.560284	16.821085	gmina Suchy Las	Dworcowa
+CHSTA01	Chludowo/Stacja	52.55994	16.827122	gmina Suchy Las	Dworcowa
+CHWAR01	Chludowo/Wargowska	52.560063	16.834282	gmina Suchy Las	Dworcowa
+CHTYS01	Chludowo/Tysiąclecia	52.559352	16.838425	gmina Suchy Las	Dworcowa
+BIJDW01	Biedrusko/Jednostka Wojskowa	52.540751	16.94462	gmina Suchy Las	Poznańska
+RAII02	Radojewo II	52.500381	16.938743	Poznań	Poznańska
 RAII01	Radojewo II	52.499965	16.940083	Poznań	Radojewo
-BIJDW02	Biedrusko/Jednostka Wojskowa	52.540961	16.944778	gmina Suchy Las	2406P
+BIJDW02	Biedrusko/Jednostka Wojskowa	52.540391	16.944717	gmina Suchy Las	2406P
 ARCI41	Arciszewskiego	52.392884	16.886707	Poznań	Hetmańska
 AREN41	Arena	52.397278	16.888369	Poznań	Władysława Stanisława Reymonta
 KMIE41	Kmieca	52.426332	16.938482	Poznań	Winogrady
@@ -1790,6 +1808,8 @@ SAFO01	Safony	52.444665	16.880874	Poznań	Wergiliusza
 INEA04	Inea Stadion	52.394977	16.862031	Poznań	Grunwaldzka
 CHWA01	Chwaliszewo	52.410003	16.942011	Poznań	Ewarysta Estkowskiego
 STWI05	Starołęka Wielka	52.341948	16.918148	Poznań	Głuszyna
+GDII02	Gdyńska II	52.435418	16.980356	Poznań	Gdyńska
+GDII01	Gdyńska II	52.436218	16.98077	Poznań	Gdyńska
 PK02	Piaśnicka/Kurlandzka	52.38458	16.986804	Poznań	Kurlandzka
 PK01	Piaśnicka/Kurlandzka	52.384356	16.986747	Poznań	Kurlandzka
 PWSZK02	Pawłowice/Pętla	52.495227	16.796839	gmina Rokietnica	Szkolna
@@ -1809,51 +1829,36 @@ CIII01	Os. Czecha III	52.38162	16.978521	Poznań	Kurlandzka
 CZII02	Os.Czecha II	52.382963	16.976134	Poznań	Wiatraczna
 CZII01	Os.Czecha II	52.382731	16.976152	Poznań	Wiatraczna
 DUNZ01	Dziurawcowa	52.478919	16.945502	Poznań	Naramowicka
-R SZ02	Os. Rusa Szpital	52.388878	16.992174	Poznań	Szwajcarska
+DUNZ02	Dziurawcowa	52.479181	16.94516	Poznań	Naramowicka
 SKIB92	Skibowa	52.36151	17.006542	Poznań	Skibowa
 OLIW91	Oliwkowa	52.356866	17.017897	Poznań	Glebowa
-POGL91	Poznań Główny	52.403014	16.915351	Poznań	Stanisława Matyi
 SKIB91	Skibowa	52.36069	17.006247	Poznań	Glebowa
 OLIW92	Oliwkowa	52.357091	17.016745	Poznań	Glebowa
 GOSP91	Gospodarska	52.352952	17.026756	Poznań	Gospodarska
 GOSP92	Gospodarska	52.353322	17.026623	Poznań	Glebowa
-MORA01	Morasko	52.489242	16.905441	Poznań	Meteorytowa
-CZZUR92	Czapury/Żurawinowa	52.321008	16.91386	gmina Mosina	Poznańska
-CZZUR91	Czapury/Żurawinowa	52.321108	16.91383	gmina Mosina	Poznańska
-SLSZN91	Suchy Las/Szkolna	52.47224	16.875986	gmina Suchy Las	Sucholeska
-SLSZN92	Suchy Las/Szkolna	52.47233	16.875809	gmina Suchy Las	Szkolna
-SDKUP02	Swarzędz/Kupiecka	52.397918	17.070698	gmina Swarzędz	Osiedle Macieja Mielżyńskiego
+SDKUP02	Swarzędz/Kupiecka	52.397747	17.072182	gmina Swarzędz	Graniczna
 SDKUP04	Swarzędz/Kupiecka	52.397575	17.071022	gmina Swarzędz	Kupiecka
 LUSTP02	Luboń/Straż Pożarna	52.34617	16.879087	Luboń	Żabikowska
 LUSTP04	Luboń/Straż Pożarna	52.346206	16.877345	Luboń	Tadeusza Kościuszki
 LUSTP01	Luboń/Straż Pożarna	52.345205	16.878024	Luboń	Żabikowska
-DBWIL01	Dąbrowa, Leśna	52.397332	16.756121	gmina Dopiewo	Krańcowa
-DBLES01	Dąbrowa/Poprzeczna	52.392011	16.750067	gmina Dopiewo	Leśna
-PAPAL01	Palędzie/Leśna	52.369925	16.735952	gmina Dopiewo	Pocztowa
-DOPOL01	Dopiewo/Polna	52.359463	16.691641	gmina Dopiewo	Szkolna
-DOPOL02	Dopiewo/Polna	52.359418	16.69077	gmina Dopiewo	Poznańska
-PAPAL02	Palędzie/Leśna	52.369672	16.735921	gmina Dopiewo	Pocztowa
-DBLES02	Dąbrowa/Poprzeczna	52.392417	16.750451	gmina Dopiewo	Leśna
-DBWIL04	Dąbrowa, Leśna	52.397061	16.754999	gmina Dopiewo	Wiejska
-DBWIK01	Dąbrowa/Krótka	52.40057	16.745534	gmina Dopiewo	Wiejska
-DBBUK01	Dąbrowa/Szkolna	52.403068	16.740617	gmina Dopiewo	Szkolna
-DBBUK02	Dąbrowa/Szkolna	52.403735	16.739864	gmina Dopiewo	Szkolna
-DBWIK02	Dąbrowa/Krótka	52.400452	16.745888	gmina Dopiewo	Wiejska
-DBWIL02	Dąbrowa, Leśna	52.397918	16.754097	gmina Dopiewo	Wiejska
-BIPRK02	Biedrusko/Park	52.545488	16.94689		
-BIJES01	Biedrusko/Jesionowa	52.536587	16.943701	gmina Suchy Las	2406P
-BIMLY01	Biedrusko/Młyn	52.513797	16.939862	gmina Suchy Las	2406P
-BIMLY02	Biedrusko/Młyn	52.514275	16.939743	gmina Suchy Las	2406P
-BIJES02	Biedrusko/Jesionowa	52.536839	16.94373	gmina Suchy Las	2406P
-ZAMOK02	Zalasewo/Mokra	52.388404	17.068749	gmina Swarzędz	Planetarna
-ZAMOK01	Zalasewo/Mokra	52.388737	17.068749	gmina Swarzędz	Planetarna
-ZATRA02	Zalasewo/Transportowa	52.382091	17.067302	gmina Swarzędz	Planetarna
-ZATRA01	Zalasewo/Transportowa	52.382253	17.067434	gmina Swarzędz	Planetarna
-ZAOSL01	Zalasewo/Os. Leśne	52.383371	17.060111	gmina Swarzędz	Transportowa
-ZAOSL92	Zalasewo/Os. Leśne	52.383462	17.060391	gmina Swarzędz	Osiedle Leśne
-ZAUK02	Zalasewo/Planetarna	52.384345	17.068704	gmina Swarzędz	Planetarna
-ZAUK01	Zalasewo/Planetarna	52.384508	17.068719	gmina Swarzędz	Planetarna
-NWP91	Nowa Wieś Poznańska	52.397981	17.045213	Poznań	Żywiczna
+DBWIL01	Dąbrowa, Leśna	52.397417	16.756014	gmina Dopiewo	Krańcowa
+DBLES01	Dąbrowa/Poprzeczna	52.392537	16.750368	gmina Dopiewo	Poprzeczna
+PAPAL01	Palędzie/Leśna	52.36908	16.735775	gmina Dopiewo	Pocztowa
+DOPOL01	Dopiewo/Polna	52.359571	16.691524	gmina Dopiewo	Szkolna
+DOPOL02	Dopiewo/Polna	52.359444	16.689869	gmina Dopiewo	Poznańska
+PAPAL02	Palędzie/Leśna	52.369552	16.735896	gmina Dopiewo	Pocztowa
+DBLES02	Dąbrowa/Poprzeczna	52.392618	16.750536	gmina Dopiewo	Poprzeczna
+DBWIL04	Dąbrowa, Leśna	52.397136	16.754933	gmina Dopiewo	Wiejska
+DBWIK01	Dąbrowa/Krótka	52.400882	16.744776	gmina Dopiewo	Wiejska
+DBBUK01	Dąbrowa/Szkolna	52.403584	16.740115	gmina Dopiewo	Szkolna
+DBBUK02	Dąbrowa/Szkolna	52.40375	16.739801	gmina Dopiewo	Szkolna
+DBWIK02	Dąbrowa/Krótka	52.400875	16.744603	gmina Dopiewo	Wiejska
+DBWIL02	Dąbrowa, Leśna	52.398095	16.753598	gmina Dopiewo	Wiejska
+BIPRK02	Biedrusko/Park	52.545193	16.946718	gmina Suchy Las	Biedrusko/Park
+BIJES01	Biedrusko/Jesionowa	52.535921	16.943469	gmina Suchy Las	2406P
+BIMLY01	Biedrusko/Młyn	52.514823	16.939412	gmina Suchy Las	2406P
+BIMLY02	Biedrusko/Młyn	52.515085	16.939432	gmina Suchy Las	2406P
+BIJES02	Biedrusko/Jesionowa	52.536389	16.943725	gmina Suchy Las	2406P
 LUKRE02	Luboń/Kręta	52.320034	16.878275	Luboń	Kręta
 LUPOD01	Luboń/Podgórna	52.324995	16.879412	Luboń	Jana III Sobieskiego
 LUPOD02	Luboń/Podgórna	52.324688	16.879456	Luboń	Jana III Sobieskiego
@@ -1882,10 +1887,10 @@ LUKLL04	Luboń/Kołłątaja	52.34213	16.862801	Luboń	Poprzeczna
 LUKLL03	Luboń/Kołłątaja	52.342824	16.862712	Luboń	Wojska Polskiego
 LUSWI02	Luboń/Świerkowa	52.344971	16.861	Luboń	11 Listopada
 LUSWI01	Luboń/Świerkowa	52.344952	16.860217	Luboń	11 Listopada
-SWRZ02	Świerzawska	52.405196	16.862476	Poznań	Marcelińska
-SWRZ01	Świerzawska	52.405016	16.863303	Poznań	Marcelińska
-GALC02	Gałczyńskiego	52.406296	16.851697	Poznań	Wojciecha Bąka
-GALC01	Gałczyńskiego	52.406468	16.850856	Poznań	Wojciecha Bąka
+SWRZ02	Świerzawska	52.405178	16.86252	Poznań	Marcelińska
+SWRZ01	Świerzawska	52.405268	16.862122	Poznań	Marcelińska
+GALC02	Gałczyńskiego	52.406468	16.850856	Poznań	Wojciecha Bąka
+GALC01	Gałczyńskiego	52.406323	16.851594	Poznań	Wojciecha Bąka
 BRZE03	Brzechwy	52.407352	16.845954	Poznań	Strzegomska
 LUKOS04	Luboń/Kościół	52.331497	16.878187	Luboń	Walki Młodych
 LUKOS03	Luboń/Kościół	52.331488	16.878762	Luboń	Walki Młodych
@@ -1893,12 +1898,153 @@ LUWML02	Luboń/Walki Młodych	52.332056	16.888596	Luboń	Armii Poznań
 LUWML01	Luboń/Walki Młodych	52.331803	16.888301	Luboń	Walki Młodych
 LUBUC02	Luboń/Buczka	52.339424	16.870258	Luboń	Mariana Buczka
 LUBUC01	Luboń/Buczka	52.339424	16.869755	Luboń	Mariana Buczka
-LUMAG01	Luboń/Park Przemysłowy	52.33018	16.893395	Luboń	Romana Maya
 LUKOC01	Luboń/Kocie Doły	52.331226	16.890708	Luboń	Armii Poznań
-RYWI91	Rynek Wildecki	52.392976	16.920814	Poznań	28 Czerwca 1956 roku
-WS291	Ws2	52.386979	16.913712	Poznań	Pamiątkowa
-RYWI94	Rynek Wildecki	52.392985	16.919766		
-RYWI95	Rynek Wildecki	52.392814	16.91981		
-PAMI94	Pamiątkowa	52.388124	16.917019	Poznań	28 Czerwca 1956 roku
-DEEC93	Dębiec	52.36978	16.900113	Poznań	Opolska
-WIER93	Wierzbięcice	52.401003	16.921449	Poznań	Wierzbięcice
+SKSZA01	Skórzewo/Szarotkowa	52.393399	16.795082	gmina Dopiewo	Poznańska
+SKSZA02	Skórzewo/Szarotkowa	52.393859	16.796274	gmina Dopiewo	Poznańska
+KIKO03	Kiekrz Kościół	52.477588	16.785504	Poznań	Pawłowicka
+LURYD01	Luboń/Rydla	52.331614	16.882217	Luboń	Walki Młodych
+LURYD02	Luboń/Rydla	52.331596	16.881804	Luboń	Walki Młodych
+STAR02	Starołęka	52.368768	16.932724	Poznań	Forteczna
+STAR04	Starołęka	52.368727	16.933349	Poznań	Forteczna
+STAR01	Starołęka	52.368841	16.931955	Poznań	Starołęcka
+SLKON02	Suchy Las/Konwaliowa	52.478084	16.869711	gmina Suchy Las	Rolna
+SLKON01	Suchy Las/Konwaliowa	52.478553	16.86887	gmina Suchy Las	Obornicka
+LUPPR01	Luboń/Park Przemysłowy	52.33018	16.893395	Luboń	Romana Maya
+CECME01	Czerwonak/Cmentarz	52.458166	16.9955	gmina Czerwonak	Czerwonak/Cmentarz
+BOPRZ02	Bolechowo/Przejazd	52.53304	16.979607	gmina Czerwonak	Poznańska
+BOPRZ01	Bolechowo/Przejazd	52.53397	16.98009	gmina Czerwonak	Poznańska
+OWKSP04	Owińska/Ks. Piotrowskiego	52.516717	16.975569	gmina Czerwonak	Antoniego Piotrowskiego
+OWKSP03	Owińska/Ks. Piotrowskiego	52.516557	16.975144	gmina Czerwonak	Antoniego Piotrowskiego
+OWSTA02	Owińska/Stacja	52.512002	16.986884	gmina Czerwonak	Owińska/Stacja
+OWSTA01	Owińska/Stacja	52.511912	16.987103	gmina Czerwonak	Owińska/Stacja
+CEELE01	Czerwonak/Elewator	52.485939	16.977927	gmina Czerwonak	Gdyńska
+CEELE02	Czerwonak/Elewator	52.486409	16.978064	gmina Czerwonak	Gdyńska
+CEPRL01	Czerwonak/Os. 40-Lecia Prl	52.480543	16.97859	gmina Czerwonak	Gdyńska
+CEPRL02	Czerwonak/Os. 40-Lecia Prl	52.480819	16.978755	gmina Czerwonak	Gdyńska
+CEKRE01	Czerwonak/Kręta	52.474279	16.979381	gmina Czerwonak	Gdyńska
+CEKRE02	Czerwonak/Kręta	52.475307	16.979476	gmina Czerwonak	Gdyńska
+CESTA02	Czerwonak/Stacja	52.468146	16.980393	gmina Czerwonak	Gdyńska
+CESTA01	Czerwonak/Stacja	52.468947	16.980059	gmina Czerwonak	Gdyńska
+CESZK01	Czerwonak/Szkolna	52.463214	16.982208	gmina Czerwonak	Gdyńska
+CESZK02	Czerwonak/Szkolna	52.464336	16.981776	gmina Czerwonak	Szkolna
+KZCOS01	Koziegłowy/Piaskowa Coś	52.446444	16.983732	gmina Czerwonak	Gdyńska
+KZCOS02	Koziegłowy/Piaskowa Coś	52.448484	16.984229	gmina Czerwonak	Gdyńska
+SHCIN02	Szlachęcin/	52.55993	16.980319		
+SHCIN01	Szlachęcin/	52.560154	16.980826		
+KCPET02	Kicin/Pętla	52.465499	17.021317	gmina Czerwonak	Poznańska
+KYORL01	Kliny/Orla	52.478182	17.041485	gmina Czerwonak	Poznańska
+KYORL02	Kliny/Orla	52.478368	17.042101	gmina Czerwonak	Poznańska
+KYBRZ01	Kliny/Brzozowa	52.489543	17.059624	gmina Czerwonak	Poznańska
+KYBRZ02	Kliny/Brzozowa	52.489843	17.060033	gmina Czerwonak	Poznańska
+WEJWO01	Wierzonka/Jednostka Wojskowa	52.48491	17.08152	gmina Swarzędz	Gminna
+WEJWO02	Wierzonka/Jednostka Wojskowa	52.485255	17.080631	gmina Swarzędz	Gminna
+WEPET01	Wierzonka/Pętla	52.477749	17.094917	gmina Swarzędz	Działkowa
+WESZK02	Wierzonka/Szkoła	52.48742	17.09209	gmina Swarzędz	Karłowicka
+WESZK01	Wierzonka/Szkoła	52.487656	17.091887	gmina Swarzędz	Karłowicka
+DEKAS01	Dębogóra/Kasztanowa	52.490953	17.095673	gmina Czerwonak	Karłowicka
+DEKAS02	Dębogóra/Kasztanowa	52.491369	17.096507	gmina Swarzędz	Kasztanowa
+KFDWR01	Karłowice/Dwór	52.494086	17.100321	gmina Swarzędz	Kasztanowa
+KFDWR02	Karłowice/Dwór	52.494807	17.10134	gmina Swarzędz	Kasztanowa
+KFPET01	Karłowice/Pętla	52.497448	17.106646	gmina Swarzędz	Kasztanowa
+KFPET02	Karłowice/Pętla	52.497389	17.106666	gmina Swarzędz	Kasztanowa
+TCPET01	Tuczno/Pętla	52.515578	17.136703	gmina Pobiedziska	Tuczno/Pętla
+PRPLN02	Promnice/Północna	52.541306	16.965541	gmina Czerwonak	Wojska Polskiego
+PRPLN01	Promnice/Północna	52.541373	16.965795	gmina Czerwonak	Wojska Polskiego
+PRPLN04	Promnice/Północna	52.541943	16.966131	gmina Czerwonak	Promnice/Północna
+BOPOL01	Bolechowo/Poligonowa	52.542826	16.986662	gmina Czerwonak	Poznańska
+BOPOL04	Bolechowo/Poligonowa	52.543188	16.985328	gmina Czerwonak	Poligonowa
+OWLIP01	Owińska/Lipowa	52.516847	16.985489	gmina Czerwonak	Zielona
+OWLIP02	Owińska/Lipowa	52.517417	16.985205	gmina Czerwonak	Zielona
+OWPAR02	Owińska/Parkowa	52.510976	16.977794	gmina Czerwonak	Kolejowa
+OWPAR01	Owińska/Parkowa	52.511268	16.977153	gmina Czerwonak	Kolejowa
+OWOGR02	Owińska/Gospodarstwo Ogrodnicze	52.503019	16.976067	gmina Czerwonak	Poznańska
+OWOGR01	Owińska/Gospodarstwo Ogrodnicze	52.503425	16.975811	gmina Czerwonak	Poznańska
+MWKOL02	Miękowo/Kolejowa	52.497836	16.976695	gmina Czerwonak	Poznańska
+MWKOL01	Miękowo/Kolejowa	52.498828	16.97637	gmina Czerwonak	Poznańska
+KZLIP01	Koziegłowy/Lipowa	52.454065	16.984431	gmina Czerwonak	Gdyńska
+KZLIP02	Koziegłowy/Lipowa	52.455549	16.984496	gmina Czerwonak	Gdyńska
+KCROL02	Kicin/Rolna	52.469619	17.025703	gmina Czerwonak	Poznańska
+KCROL01	Kicin/Rolna	52.469801	17.025746	gmina Czerwonak	Poznańska
+KYTRA01	Kliny/Trakt	52.475589	17.033015	gmina Czerwonak	Poznańska
+KYTRA02	Kliny/Trakt	52.476296	17.035396	gmina Czerwonak	Poznańska
+KYCME01	Kliny/Cmentarz Ewangelicki	52.485507	17.056629	gmina Czerwonak	Poznańska
+KYCME02	Kliny/Cmentarz Ewangelicki	52.486321	17.057469	gmina Czerwonak	Poznańska
+MELAK02	Mielno/Łąkowa	52.491691	17.067359	gmina Czerwonak	Poznańska
+MELAK01	Mielno/Łąkowa	52.492124	17.066966	gmina Czerwonak	Poznańska
+MELIS01	Mielno/Lisia	52.489481	17.071991	gmina Czerwonak	Poznańska
+MELIS02	Mielno/Lisia	52.489468	17.071897	gmina Czerwonak	Poznańska
+PDPAR02	Przebędowo/Park	52.586181	17.014017		
+PDPAR01	Przebędowo/Park	52.585993	17.014879		
+PDPET01	Przebędowo/Pętla	52.587225	17.009756	gmina Murowana Goślina	Poznańska
+BOSZK01	Bolechowo-Os./Szkoła	52.54093	16.97324	gmina Czerwonak	Wojska Polskiego
+BOSZK02	Bolechowo-Os./Szkoła	52.541264	16.974637	gmina Czerwonak	Wojska Polskiego
+BOWOJ02	Bolechowo-Os./Wojska Polskiego	52.54171	16.972461	gmina Czerwonak	Obornicka
+BOWOJ01	Bolechowo-Os./Wojska Polskiego	52.541448	16.972543	gmina Czerwonak	Obornicka
+BOFAU02	Bolechowo-Os./Fabryka Autobusów	52.546273	16.972843	gmina Czerwonak	Obornicka
+BOFAU01	Bolechowo-Os./Fabryka Autobusów	52.546098	16.972935	gmina Czerwonak	Obornicka
+MGLES01	M. Goślina/Leśna	52.56469	16.989513		
+MGLES02	M. Goślina/Leśna	52.565468	16.990909	gmina Murowana Goślina	Generała Tadeusza Kutrzeby
+MGKRT02	M. Goślina/Kręta	52.566714	16.999286	gmina Murowana Goślina	Długa
+MGNRY01	M. Goślina/Nowy Rynek	52.567398	16.995478	gmina Murowana Goślina	Długa
+MGMOD01	M. Goślina/Modrzewiowa	52.566456	17.002537	gmina Murowana Goślina	Długa
+MGCME01	M. Goślina/Cmentarz	52.57109	17.007935	gmina Murowana Goślina	Poznańska
+MGCME02	M. Goślina/Cmentarz	52.571214	17.007887	gmina Murowana Goślina	Poznańska
+MGRYN01	M. Goślina/Rynek	52.573731	17.009194	gmina Murowana Goślina	Poznańska
+MGRYN02	M. Goślina/Rynek	52.575083	17.009753	gmina Murowana Goślina	Plac Powstańców Wielkopolskich
+MGJOD02	M. Goślina/Jodłowa	52.579517	17.012802	gmina Murowana Goślina	Rogozińska
+MGJOD01	M. Goślina/Jodłowa	52.57967	17.012898	gmina Murowana Goślina	Rogozińska
+MGOKR01	M. Goślina/Okrężna	52.58331	17.016552	gmina Murowana Goślina	Rogozińska
+MGOKR02	M. Goślina/Okrężna	52.584318	17.017623	gmina Murowana Goślina	Rogozińska
+BOKAS01	Bolechowo-Os./ Kasztanowa	52.550496	16.973491	gmina Czerwonak	Obornicka
+BOKAS02	Bolechowo-Os./ Kasztanowa	52.550395	16.973358	gmina Czerwonak	Obornicka
+OWKSP01	Owińska/Ks. Piotrowskiego	52.517089	16.974411	gmina Czerwonak	Bydgoska
+OWKSP02	Owińska/Ks. Piotrowskiego	52.517227	16.974564	gmina Czerwonak	Bydgoska
+OWPAL02	Owińska/Pałac	52.513067	16.975396	gmina Czerwonak	Poznańska
+OWPAL01	Owińska/Pałac	52.513602	16.97452	gmina Czerwonak	Owińska/Pałac
+PRISK01	Promnice/Klub Iskra	52.548545	16.962558	gmina Czerwonak	Północna
+PRISK02	Promnice/Klub Iskra	52.548229	16.962745	gmina Czerwonak	Północna
+PRKLO01	Promnice/Klonowa	52.552332	16.962256	gmina Czerwonak	Północna
+PRKLO02	Promnice/Klonowa	52.552185	16.961985	gmina Czerwonak	Północna
+TZWIE02	Trzaskowo/Wieś	52.533852	17.02015		
+BWKRE01	Bolechówko/Kręta	52.518079	16.987208	gmina Czerwonak	Lipowa
+BWKRE02	Bolechówko/Kręta	52.518053	16.987382	gmina Czerwonak	Lipowa
+BWJOD01	Bolechówko/Jodłowa	52.518971	16.994816	gmina Czerwonak	Lipowa
+BWJOD02	Bolechówko/Jodłowa	52.518922	16.994827	gmina Czerwonak	Lipowa
+PTKOG01	Potasze/Klub Kogucik	52.520184	17.004747	gmina Czerwonak	Lipowa
+PTKOG02	Potasze/Klub Kogucik	52.520139	17.004676	gmina Czerwonak	Lipowa
+PTCED01	Potasze/Cedrowa	52.522102	17.016373	gmina Czerwonak	Lipowa
+PTCED02	Potasze/Cedrowa	52.52215	17.01684	gmina Czerwonak	Lipowa
+PTWIE01	Potasze/Wierzbowa	52.523676	17.02515	gmina Czerwonak	Lipowa
+CEUGM03	Czerwonak/Urząd Gminy	52.471682	16.988879	gmina Czerwonak	Źródlana
+CEUGM04	Czerwonak/Urząd Gminy	52.471613	16.989011	gmina Czerwonak	Źródlana
+DELES02	Dębogóra/Leśna	52.497446	17.091976	gmina Czerwonak	Leśna
+BOPAL01	Bolechowo/Pałac	52.544236	16.990519	gmina Czerwonak	Poligonowa
+BOPAL02	Bolechowo/Pałac	52.544223	16.99061	gmina Czerwonak	Poligonowa
+PTJOD01	Potasze/Jodłowa	52.524451	17.02994	gmina Czerwonak	Lipowa
+PTWIE02	Potasze/Wierzbowa	52.523687	17.025404	gmina Czerwonak	Lipowa
+DEDAB01	Dębogóra/Dąbrówki	52.498642	17.082497	gmina Czerwonak	Dąbrówki
+DEKAS04	Dębogóra/Kasztanowa	52.491431	17.095965	gmina Swarzędz	Kasztanowa
+CEZUR02	Czerwonak/Żurawia	52.467443	16.987468	gmina Czerwonak	Leśna
+CEGAJ01	Czerwonak/Gajowa	52.470933	16.99589	gmina Czerwonak	Zdroje
+CEGAJ02	Czerwonak/Gajowa	52.470925	16.9953	gmina Czerwonak	Zdroje
+CEZDR02	Czerwonak/Zdroje	52.47051	17.000249	gmina Czerwonak	Brzozowa
+CEZDR01	Czerwonak/Zdroje	52.470542	17.000815	gmina Czerwonak	Zdroje
+PRPLN06	Promnice/Północna	52.542711	16.965575	gmina Czerwonak	Północna
+PRPLN05	Promnice/Północna	52.541757	16.965934	gmina Czerwonak	Północna
+BOOGR01	Bolechowo-Os./Ogrodowa	52.533214	16.97719	gmina Czerwonak	Obornicka
+BOOGR02	Bolechowo-Os./Ogrodowa	52.53365	16.977025	gmina Czerwonak	Obornicka
+BOZSZ01	Bolechowo-Os./Zespół Szkół	52.550388	16.976253	gmina Czerwonak	Bolechowo-Osiedle/Kasztanowa n/ż
+LUPRZ91	Luboń/Przemysłowa	52.351924	16.894192	Luboń	Rivoliego
+BRKUR01	Borówiec/Kurkowa	52.281228	17.020613	gmina Kórnik	Kurkowa
+BRKUR02	Borówiec/Kurkowa	52.281165	17.021012	gmina Kórnik	Kurkowa
+LEDE92	Łęgi Dębińskie	52.378772	16.920046	Poznań	Dolna Wilda
+LEDE91	Łęgi Dębińskie	52.379069	16.920179	Poznań	Dolna Wilda
+WSNZ92	Wspólna I	52.375697	16.91888	Poznań	Wspólna
+WSNZ91	Wspólna I	52.376409	16.919131	Poznań	Wspólna
+OPOL92	Opolska	52.367039	16.896023	Poznań	Jesionowa
+TO I71	Towarowa	52.406762	16.917095	Poznań	Święty Marcin
+POGL73	Poznań Główny	52.403649	16.916362	Poznań	Towarowa
+POGL74	Poznań Główny	52.40377	16.916505	Poznań	Towarowa
+RKAP01	Rondo Kaponiera	52.40801	16.911763	Poznań	Franklina Roosevelta
+RKAP91	Rondo Kaponiera	52.408542	16.91256		
+BALT95	Bałtyk	52.407117	16.908027	Poznań	Janusza Zeylanda
