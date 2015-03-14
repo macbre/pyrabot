@@ -185,7 +185,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":17,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -222,10 +222,10 @@
   "48":{
     "agency":"MPK",
     "petle":[
-      "Rondo Kaponiera",
+      "Ba\u0142tyk",
       "\u0141awica"
     ],
-    "przystanki":18,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/48",
     "typ":"bus"
   },
@@ -322,10 +322,10 @@
   "59":{
     "agency":"MPK",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Rondo Kaponiera"
+      "Ba\u0142tyk",
+      "Port Lotniczy \u0141awica"
     ],
-    "przystanki":15,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/59",
     "typ":"bus"
   },
@@ -1270,6 +1270,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/902",
     "typ":"bus"
   },
+  "903":{
+    "petle":[
+      "Osiedle Jana III Sobieskiego",
+      "Z\u0142otniki/Park Nickel"
+    ],
+    "przystanki":17,
+    "typ":"bus"
+  },
   "904":{
     "agency":"ZKP",
     "petle":[
@@ -1296,7 +1304,7 @@
       "Chludowo/Szko\u0142a",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":36,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/907",
     "typ":"bus"
   },
