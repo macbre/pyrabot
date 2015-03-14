@@ -13,11 +13,13 @@ var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
 	text = '';
 
 // Czerwonak
+/**
 text = 'linia uruchomiona [[1 stycznia]] [[2015]] roku wraz z integracją komunikacji miejskiej na terenie gminy [[Czerwonak]] i części gminy [[Murowana Goślina]]' +
 '<ref>[http://www.ztm.poznan.pl/czerwonak-m-go-l/wykaz-linii-oraz-mapy/ ztm.poznan.pl - nowa organizacja linii oraz opłat za korzystanie z komunikacji miejskiej na terenie gminy Czerwonak i części gminy Murowana Goślina]</ref>.\n\n' +
 '== Źródła ==\n<references />';
+/**/
 
-client.logIn(function(data) {
+client.logIn(function(err, data) {
 
 	for (var line in db) {
 		if (line == 201) continue;
@@ -40,7 +42,7 @@ client.logIn(function(data) {
 
 				console.log(title + ': ' + JSON.stringify(petle));
 
-				client.getArticle(title, function(content) {
+				client.getArticle(title, function(err, content) {
 					// strona istnieje
 					if (typeof content !== 'undefined') {
 						return;
@@ -83,8 +85,10 @@ client.logIn(function(data) {
 					//console.log(content); return;
 
 					// edytuj
-					client.edit(title, content, SUMMARY + ': ' + petle[0] + ' - ' + petle[1], function() {
-						console.log(title + ' założona');
+					client.edit(title, content, SUMMARY + ': ' + petle[0] + ' - ' + petle[1], function(err) {
+						if (!err) {
+							console.log(title + ' założona');
+						}
 					});
 				});
 			})(line);
