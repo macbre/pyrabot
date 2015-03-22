@@ -3,7 +3,8 @@ var fs = require('fs'),
 	bot = require('nodemw'),
 	client = new bot('config.js');
 
-var SUMMARY = 'Zaktualizowano dane o liniach ZTM';
+var SUMMARY = 'Zaktualizowano dane o liniach ZTM',
+	SKIP = '<!-- pyrabot skip -->';
 
 // odczytaj bazę pętli
 var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
@@ -35,6 +36,11 @@ function updateLine(pageTitle) {
 	client.getArticle(page.title, function(err, content) {
 		if (content.indexOf('|historyczna=tak') > -1) {
 			client.log(page.title + ': linia historyczna - pomijam');
+			return;
+		}
+
+		if (content.indexOf(SKIP) > -1) {
+			client.log(page.title + ' - skip!');
 			return;
 		}
 
