@@ -25,7 +25,7 @@
       "Wilczak",
       "Zawady"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
@@ -55,7 +55,7 @@
       "Budziszy\u0144ska",
       "Mi\u0142ostowo"
     ],
-    "przystanki":29,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -115,7 +115,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":23,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -175,7 +175,7 @@
       "Franowo",
       "Ogrody"
     ],
-    "przystanki":24,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -1271,11 +1271,13 @@
     "typ":"bus"
   },
   "903":{
+    "agency":"ZKP",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Z\u0142otniki/Park Nickel"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/903",
     "typ":"bus"
   },
   "904":{
