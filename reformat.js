@@ -5,6 +5,7 @@
 
 var bot = require('nodemw'),
 	jsdiff = require('diff'),
+	querystring = require('querystring'),
 	client = new bot('config.js');
 
 var REASON = 'Porządkuję wikitekst',
@@ -49,6 +50,15 @@ client.logIn(function() {
 			replace('…', '').
 			// autolinkowanie lat
 			replace(/(\d{3,4}) (r\.|rok)/g, '[[$1]] $2').
+			replace(/(roku) (\d{3,4})/g, '$1 [[$2]]').
+			// linki wewnątrz wiki
+			// [http://poznan.wikia.com/wiki/Ulica_Andrzeja_i_W%C5%82adys%C5%82awa_Niegolewskich ulicą Niegolewskich] 
+			replace(/\[http:\/\/poznan.wikia.com\/wiki\/([^\s]+) ([^\]]+)\]/g, function(match, page, content) {
+				page = querystring.unescape(page.replace(/_/g, ' '));
+				client.log('Adding an internal link to "' + page + '"');
+
+				return '[[' + page + '|' + content.trim() + ']]';
+			}).
 			// wielokrotne spacje
 			replace(/[\x20]{2,}/g, ' ').
 			// spacje na końcu wierszy
