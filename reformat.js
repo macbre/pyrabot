@@ -68,8 +68,13 @@ client.logIn(function() {
 		console.log(diff(orig, content)); //return;
 
 		// zapisz zmiany
-		client.edit(PAGE, content, REASON, function() {
-			console.log('# Poprawiłem '+ PAGE);
+		client.edit(PAGE, content, REASON, function(err) {
+			if (err) {
+				console.error(err);
+			}
+			else {
+				console.log('# Poprawiłem '+ PAGE);
+			}
 		});
 	});
 });
