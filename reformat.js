@@ -51,13 +51,24 @@ client.logIn(function() {
 			// autolinkowanie lat
 			replace(/(\d{3,4}) (r\.|rok)/g, '[[$1]] $2').
 			replace(/(roku) (\d{3,4})/g, '$1 [[$2]]').
+			replace(/(latach) (\d{3,4})-(\d{3,4})/g, '$1 [[$2]]-[[$3]]').
 			// linki wewnątrz wiki
 			// [http://poznan.wikia.com/wiki/Ulica_Andrzeja_i_W%C5%82adys%C5%82awa_Niegolewskich ulicą Niegolewskich] 
 			replace(/\[http:\/\/poznan.wikia.com\/wiki\/([^\s]+) ([^\]]+)\]/g, function(match, page, content) {
 				page = querystring.unescape(page.replace(/_/g, ' '));
+				page = page.split('?')[0]; // remove the query string
+				content = content.trim();
+
 				client.log('Adding an internal link to "' + page + '"');
 
-				return '[[' + page + '|' + content.trim() + ']]';
+				if (content != page) {
+					// [[foo|bar]]
+					return '[[' + page + '|' + content.trim() + ']]';
+				}
+				else {
+					// [[foo]]
+					return '[[' + page + ']]';
+				}
 			}).
 			// wielokrotne spacje
 			replace(/[\x20]{2,}/g, ' ').
