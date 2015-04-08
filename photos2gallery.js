@@ -16,14 +16,17 @@ if (!PAGE) {
 
 client.log('Artykuł: ' + PAGE);
 
-client.logIn(function() {
+client.logIn(function(err) {
+	if (err) return;
+
 	client.getArticle(PAGE, function(err, content) {
 		if (err) return;
 
 		// zdjęcia
 		// [[File:Schemat cytadela.jpg|thumb|220x220px|Plan Fortu Winiary]]
 		var re = /\[\[(File|Plik)[^\]]+\]\]/g,
-			matches = content.match(re) || false;
+			matches = content.match(re) || false,
+			orig = content;
 
 		if (matches === false) {
 			return;
@@ -54,7 +57,7 @@ client.logIn(function() {
 		gallery += '</gallery>';
 
 		content = content.trim() + "\n\n" + gallery;
-		//console.log(content); return;
+		console.log(client.diff(orig, content));
 
 		// zapisz zmiany
 		client.edit(PAGE, content, REASON, function() {
