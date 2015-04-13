@@ -38,7 +38,9 @@ client.logIn(function(err) {
 		var gallery = '== Galeria ==\n';
 		gallery += '<gallery captionalign="left" orientation="none" widths="200" columns="3" bordercolor="#ffffff" bordersize="large" spacing="small">\n';
 
-		matches.forEach(function(item) {
+		matches.forEach(function(item, idx) {
+			if (idx === 0) return; // nie zmieniaj pierwszego zdjęcia w artykule
+
 			var parts = item.substr(7).split('|'); // usuń [[File:
 
 			content = content.replace(item, '');
