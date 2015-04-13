@@ -37,12 +37,15 @@ client.logIn(function() {
 	client.getArticle(PAGE, function(err, content) {
 		if (err) return;
 
-		var orig = content;
+		var orig = content,
+			linksAdded = false;
 
 		content = content.
+			// UTF - twarda spacja
+			replace(/\xc2\xa0/g, ' ').
 			// pogrubienia -> nagłówki
 			replace(/\n<strong>([^<]+)<\/strong>\n/g, "\n== $1 ==\n").
-			replace(/\n'''([^<]+)'''\n/g, "\n== $1 ==\n").
+			replace(/\n'''([^<\n]+)'''\n/g, "\n== $1 ==\n").
 			// usuń niepotrzebne tagi
 			replace(/<\/?(em)>/g, '').
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
@@ -61,15 +64,20 @@ client.logIn(function() {
 
 				client.log('Adding an internal link to "' + page + '"');
 
+				linksAdded = true;
+
 				if (content != page) {
 					// [[foo|bar]]
-					return '[[' + page + '|' + content.trim() + ']]';
+					return '[[' + page + '|' + content + ']]';
 				}
 				else {
 					// [[foo]]
 					return '[[' + page + ']]';
 				}
 			}).
+			// miniaturki -> 300px
+			// |thumb|220x220px|
+			replace(/\|thumb\|[\dx]+px\|/g, '|thumb|300px|').
 			// wielokrotne spacje
 			replace(/[\x20]{2,}/g, ' ').
 			// spacje na końcu wierszy
@@ -79,6 +87,10 @@ client.logIn(function() {
 		console.log(diff(orig, content)); //return;
 
 		// zapisz zmiany
+		if (linksAdded) {
+			REASON += ' + linkowanie';
+		}
+
 		client.edit(PAGE, content, REASON, function(err) {
 			if (err) {
 				console.error(err);
