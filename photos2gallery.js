@@ -41,7 +41,7 @@ client.logIn(function(err) {
 		matches.forEach(function(item, idx) {
 			if (idx === 0) return; // nie zmieniaj pierwszego zdjęcia w artykule
 
-			var parts = item.substr(7).split('|'); // usuń [[File:
+			var parts = item.replace(/\n/g, '').substr(7).split('|'); // usuń [[File:
 
 			content = content.replace(item, '');
 
