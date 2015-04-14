@@ -41,14 +41,12 @@ client.logIn(function() {
 			linksAdded = false;
 
 		content = content.
-			// UTF - twarda spacja
-			replace(/\xc2\xa0/g, ' ').
 			// pogrubienia -> nagłówki
 			replace(/\n<strong>([^<]+)<\/strong>\n/g, "\n== $1 ==\n").
 			replace(/\n'''([^<\n]+)'''\n/g, "\n== $1 ==\n").
 			// usuń niepotrzebne tagi
-			replace(/<\/?(em)>/g, '').
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
+			replace(/<\/?(em|strong)>/g, '').
 			// znaki
 			replace('…', '').
 			// autolinkowanie lat
@@ -79,7 +77,7 @@ client.logIn(function() {
 			// |thumb|220x220px|
 			replace(/\|thumb\|[\dx]+px\|/g, '|thumb|300px|').
 			// wielokrotne spacje
-			replace(/[\x20]{2,}/g, ' ').
+			replace(/([ ]+)/g, ' ').
 			// spacje na końcu wierszy
 			replace(/ +\n/g, "\n").
 			trim();
