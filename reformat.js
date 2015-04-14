@@ -40,12 +40,18 @@ client.logIn(function() {
 		var orig = content,
 			linksAdded = false;
 
+		// usuń twarde space UTF
+		content = decodeURIComponent(
+			encodeURIComponent(content).replace(/%C2%A0/g, ' ')
+		);
+
 		content = content.
 			// pogrubienia -> nagłówki
 			replace(/\n<strong>([^<]+)<\/strong>\n/g, "\n== $1 ==\n").
 			replace(/\n'''([^<\n]+)'''\n/g, "\n== $1 ==\n").
 			// usuń niepotrzebne tagi
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
+			replace(/\'+([\.\s]+)\'+/g, '$1').
 			replace(/<\/?(em|strong)>/g, '').
 			// znaki
 			replace('…', '').
