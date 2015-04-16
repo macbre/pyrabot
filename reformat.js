@@ -40,6 +40,8 @@ client.logIn(function() {
 		var orig = content,
 			linksAdded = false;
 
+		client.log('Cleaning up the wikitext...');
+
 		// usuń twarde space UTF
 		content = decodeURIComponent(
 			encodeURIComponent(content).replace(/%C2%A0/g, ' ')
@@ -51,8 +53,8 @@ client.logIn(function() {
 			replace(/\n'''([^<\n]+)'''\n/g, "\n== $1 ==\n").
 			// usuń niepotrzebne tagi
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
-			replace(/\'+([\.\s]+)\'+/g, '$1').
-			replace(/<\/?(em|strong)>/g, '').
+			replace(/(\'+)([\.\s]+)$1/g, '$2').
+			replace(/<\/?(em|strong|p|span)( style="[^>]*)?>/g, '').
 			// znaki
 			replace('…', '').
 			// autolinkowanie lat
@@ -86,7 +88,11 @@ client.logIn(function() {
 			replace(/([ ]+)/g, ' ').
 			// spacje na końcu wierszy
 			replace(/ +\n/g, "\n").
+			// wielokrotne nowe linie
+			replace(/\n\n\n+/g, "\n").
 			trim();
+
+		client.log('Generating the diff...'); //console.log(content); return;
 
 		console.log(diff(orig, content)); //return;
 
