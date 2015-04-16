@@ -43,7 +43,9 @@ client.logIn(function(err) {
 
 			var parts = item.replace(/\n/g, '').substr(7).split('|'); // usuń [[File:
 
-			content = content.replace(item, '');
+			content = content.
+				replace("\n" + item + "\n", '').
+				replace(item, '');
 
 			// nazwa pliku
 			gallery += parts[0];
