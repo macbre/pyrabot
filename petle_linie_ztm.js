@@ -44,6 +44,8 @@ function updateLine(pageTitle) {
 			return;
 		}
 
+		var orig = content;
+
 		// aktualizuj infobox
 		content = content.replace(/\|pętla1\s?=[^|]+/, "|pętla1=" + stops[0] + "\n");
 		content = content.replace(/\|pętla2\s?=[^|]+/, "|pętla2=" + stops[1] + "\n");
@@ -75,6 +77,12 @@ function updateLine(pageTitle) {
 
 		//console.log('\n\n================================\n' + page.title + '\n================================');
 		//console.log(content); return;
+
+		if (content === orig) {
+			return;
+		}
+
+		console.log(client.diff(orig, content));
 	
 		// zapisz zmiany
 		var comment = stops[0] + ' - ' + stops[1];
