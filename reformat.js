@@ -54,7 +54,7 @@ client.logIn(function() {
 			// usuń niepotrzebne tagi
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
 			replace(/(\'+)([\.\s]+)$1/g, '$2').
-			replace(/<\/?(em|strong|p|span)( style="[^>]*)?>/g, '').
+			replace(/<\/?(em|strong|p|span)( (class|style)="[^>]*)?>/g, '').
 			// znaki
 			replace('…', '').
 			// autolinkowanie lat
