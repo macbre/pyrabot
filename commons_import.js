@@ -41,8 +41,15 @@ client.logIn(function(err) {
 
 		// dodaj zdjęcia
 		client.uploadByUrl(DEST, url, params, function(err, res) {
-			client.log('File page: %s', res.descriptionurl);
-			client.log('URL:       %s', res.url);
+			if (err) {
+				console.error(err);
+				return;
+			}
+
+			var info = res.imageinfo;
+
+			client.log('File page: <%s>', info.descriptionurl);
+			client.log('URL:       <%s>', info.url);
 
 			console.log('Upload ' + DEST + ' zakończony');
 		});
