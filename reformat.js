@@ -58,6 +58,7 @@ client.logIn(function() {
 			replace(/<\/?(em|strong|p|span)( (class|style)="[^>]*)?>/g, '').
 			// znaki
 			replace('…', '').
+			replace("''' '''", '').
 			// autolinkowanie lat
 			replace(/(\d{3,4}) (r\.|rok)/g, '[[$1]] $2').
 			replace(/(roku) (\d{3,4})/g, '$1 [[$2]]').
