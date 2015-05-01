@@ -1779,7 +1779,7 @@
   "dlugosc": 108, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-306", 
-  "numeracja": "3-8, 10, 18, 20, 22-25, 27-30, 32-34, 41"
+  "numeracja": "3-10, 18, 20, 22-25, 27-30, 32-34, 39, 41"
  }, 
  "Deszczowa": {
   "dlugosc": 949, 
@@ -2787,7 +2787,7 @@
   "dlugosc": 160, 
   "dzielnica": false, 
   "kody_pocztowe": null, 
-  "numeracja": "1-2, 4, 8-10, 12, 14"
+  "numeracja": "1-4, 8-10, 12, 14"
  }, 
  "Grajewska": {
   "dlugosc": 350, 
@@ -3129,7 +3129,7 @@
   "dlugosc": 258, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": null, 
-  "numeracja": "8, 16, 18, 20, 22, 24"
+  "numeracja": "8, 11, 16, 18, 20, 22, 24"
  }, 
  "Halna": {
   "dlugosc": 116, 
@@ -4017,7 +4017,7 @@
   "dlugosc": 121, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": null, 
-  "numeracja": "10"
+  "numeracja": "1, 10"
  }, 
  "Jerzego R\u00f3\u017cyckiego": {
   "dlugosc": 64, 
@@ -4318,12 +4318,6 @@
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-689", 
   "numeracja": "2-3, 5"
- }, 
- "J\u00f3zefa \u017bymierskiego": {
-  "dlugosc": 164, 
-  "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
-  "numeracja": "1-4, 6"
  }, 
  "J\u00f3zwy Butryma": {
   "dlugosc": 166, 
@@ -5121,7 +5115,7 @@
   "dlugosc": 773, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-070", 
-  "numeracja": "10-12, 14, 16, 18-20, 22, 24, 26, 28, 30, 32, 34"
+  "numeracja": "10-12, 14, 16, 18-20, 22, 24, 30, 32, 34"
  }, 
  "Ko\u015bcia\u0144ska": {
   "dlugosc": 688, 
@@ -5133,7 +5127,7 @@
   "dlugosc": 711, 
   "dzielnica": false, 
   "kody_pocztowe": "60-536,60-537,60-538,60-539", 
-  "numeracja": "1, 3-5, 7, 9, 11-13, 15-34, 36-39, 41-50, 52, 54, 56, 58"
+  "numeracja": "1, 3-5, 7, 9, 11-13, 15-39, 41-50, 52, 54, 56, 58"
  }, 
  "Ko\u015bcierzy\u0144ska": {
   "dlugosc": 865, 
@@ -9141,7 +9135,7 @@
   "dlugosc": 1784, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": null, 
-  "numeracja": "5-25, 27-30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 82"
+  "numeracja": "5-25, 27-30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 82, 134"
  }, 
  "Rumu\u0144ska": {
   "dlugosc": 456, 
@@ -9645,7 +9639,7 @@
   "dlugosc": 626, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-312", 
-  "numeracja": "2-3, 5, 7, 9-11, 14-15, 17-19, 21, 26, 31, 33, 37, 39"
+  "numeracja": "2-3, 5, 7, 9-11, 14-15, 17-19, 21, 26, 31, 33, 35, 37, 39"
  }, 
  "Sobies\u0142awa": {
   "dlugosc": 187, 
@@ -10065,7 +10059,7 @@
   "dlugosc": 236, 
   "dzielnica": "Wilda", 
   "kody_pocztowe": "61-538", 
-  "numeracja": "2-5, 7-9, 12, 14-15"
+  "numeracja": "2-9, 12, 14-15"
  }, 
  "Stefana Drzewieckiego": {
   "dlugosc": 463, 
@@ -12393,7 +12387,7 @@
   "dlugosc": 601, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": null, 
-  "numeracja": "11-16, 18, 20, 22, 24-28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 54"
+  "numeracja": "10-16, 18, 20, 22, 24-28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 54"
  }, 
  "Zgorzelecka": {
   "dlugosc": 591, 
@@ -12849,7 +12843,7 @@
   "dlugosc": 183, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-308,61-311", 
-  "numeracja": "1-2, 5, 8, 11-16, 18-20, 22-25"
+  "numeracja": "1-2, 5-6, 8, 11-16, 18-20, 22-25"
  }, 
  "\u0141upowska": {
   "dlugosc": 86, 
