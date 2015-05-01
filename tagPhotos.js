@@ -54,6 +54,12 @@ function processImages(images) {
 							marker = 'Fotografie 11 ujęć';
 						//}
 						break;
+
+					case 'Jan Kaczmarek 22':
+						if (meta.exif.Model === 'NIKON 1 J2') {
+							marker = 'Fotografie użytkownika Jan Kaczmarek 22';
+						}
+						break;
 /**/
 					case 'Inaçio Angelos':
 						remove = true;
