@@ -60,11 +60,16 @@ var CATEGORY = 'Kalendarium',
 	REPLACEMENT = '{{Kalendarium}}',
 	REMOVE = '[[Kategoria:Kalendarium]]',
 	SUMMARY = 'Dodaję nagłówek stron kalendarium';
+/**
+var CATEGORY = 'Lucjan Ballenstaedt',
+	REGEXP = '[[Kategoria:Lucjan Ballenstaedt]]',
+	REPLACEMENT = '[[Kategoria:Lucjan Ballenstedt]]',
+	SUMMARY = 'Prawidłowe brzmienie nazwiska Lucjan Ballenstaedt';
 /**/
-var CATEGORY = 'Zegary świetlne',
-	REGEXP = '[[Kategoria:Zegary świetlne]]',
-	REPLACEMENT = '[[Kategoria:Zegary neonowe]]',
-	SUMMARY = 'Porządki w kategoriach';
+var CATEGORY = 'Wiadukty',
+	REGEXP = /Ballenstaedt/g,
+	REPLACEMENT = 'Ballenstedt',
+	SUMMARY = 'Prawidłowe brzmienie nazwiska Lucjan Ballenstedt';
 /**
 // [http://pl.wikipedia.org/wiki/Genesis_(grupa_muzyczna) Genesis] -> [[wikipedia:pl:Genesis_(grupa_muzyczna)|Genesis]]
 var CATEGORY = 'Kalendarium',
@@ -131,12 +136,14 @@ var CATEGORY = 'Dzień po dniu',
 client.logIn(function() {
 	var cnt = 0;
 
-	client.getPagesInCategory(CATEGORY, function(pages) {
+	client.getPagesInCategory(CATEGORY, function(err, pages) {
 		pages.forEach(function(page) {
 			cnt++;
 			console.log(cnt + ') sprawdzam ' + page.title + '...');
 
-			client.getArticle(page.title, function(content) {
+			client.getArticle(page.title, function(err, content) {
+				var orig = content;
+
 				if (typeof REGEXP === 'string') {
 					// docelowy tekst znajduje się już w artykule
 					if (typeof REPLACEMENT === 'string' &&  REPLACEMENT !== '' && content.indexOf(REPLACEMENT) > -1) {
@@ -152,11 +159,6 @@ client.logIn(function() {
 					}
 				}
 
-				console.log("\n\n");
-				console.log(page.title + ':');
-				console.log(content.substr(0,750) + '...');
-				console.log('---');
-
 				// dokonaj zmiany
 				if (typeof REPLACEMENT === 'function') {
 					content = REPLACEMENT(page, content);
@@ -170,12 +172,22 @@ client.logIn(function() {
 					content = content.replace(REMOVE, '').trim();
 				}
 
-				console.log(content.substr(0,750) + '...');
+				if (orig === content) {
+					return;
+				}
+
+				console.log(page.title + ':');
+				console.log(client.diff(orig, content));
 
 				//return; // !!!!!!!!
 
 				// zapisz zmianę
-				client.edit(page.title, content, SUMMARY, function() {
+				client.edit(page.title, content, SUMMARY, function(err) {
+					if (err) {
+						console.error(err);
+						return;
+					}
+
 					console.log(page.title + ' zmieniony!');
 				});
 			});

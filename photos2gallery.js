@@ -7,7 +7,8 @@ var bot = require('nodemw'),
 	client = new bot('config.js');
 
 var REASON = 'Porządkuję zdjęcia',
-	PAGE = process.argv[2];
+	PAGE = process.argv[2],
+	START_FROM = parseInt(process.argv[3]) || 2;
 
 if (!PAGE) {
 	console.log('Podaj tytuł artykułu');
@@ -15,6 +16,7 @@ if (!PAGE) {
 }
 
 client.log('Artykuł: ' + PAGE);
+client.log('Przenieś zdjęcia od pozycji #' + START_FROM);
 
 client.logIn(function(err) {
 	if (err) return;
@@ -39,7 +41,7 @@ client.logIn(function(err) {
 		gallery += '<gallery captionalign="left" orientation="none" widths="200" columns="3" bordercolor="#ffffff" bordersize="large" spacing="small">\n';
 
 		matches.forEach(function(item, idx) {
-			if (idx === 0) return; // nie zmieniaj pierwszego zdjęcia w artykule
+			if (idx + 1 < START_FROM) return; // nie zmieniaj X pierwszych zdjęć w artykule
 
 			var parts = item.replace(/\n/g, '').substr(7).split('|'); // usuń [[File:
 
