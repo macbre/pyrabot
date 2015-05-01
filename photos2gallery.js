@@ -26,7 +26,7 @@ client.logIn(function(err) {
 
 		// zdjęcia
 		// [[File:Schemat cytadela.jpg|thumb|220x220px|Plan Fortu Winiary]]
-		var re = /\[\[(File|Plik)[^\]]+\]\]/g,
+		var re = /\[\[(File|Plik).*\]\]\n/g,
 			matches = content.match(re) || false,
 			orig = content;
 
