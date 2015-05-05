@@ -48,6 +48,11 @@ client.logIn(function() {
 		);
 
 		content = content.
+			// [[Plik:foo.jpg]]
+			replace(/\[\[File:/g, '[[Plik:').
+			// znaki
+			replace(/…/g, '').
+			replace(/''' '''/g, '').
 			// pogrubienia -> nagłówki
 			replace(/\n<strong>([^<]+)<\/strong>\n/g, "\n== $1 ==\n").
 			replace(/\n'''([^<\n]+)'''\n/g, "\n== $1 ==\n").
@@ -56,9 +61,6 @@ client.logIn(function() {
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
 			replace(/(\'+)([\.\s]+)$1/g, '$2').
 			replace(/<\/?(em|strong|p|span)( (class|style)="[^>]*)?>/g, '').
-			// znaki
-			replace('…', '').
-			replace("''' '''", '').
 			// autolinkowanie lat
 			replace(/(\d{3,4}) (r\.|rok)/g, '[[$1]] $2').
 			replace(/(roku) (\d{3,4})/g, '$1 [[$2]]').
