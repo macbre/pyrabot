@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -162,10 +162,10 @@
   "17":{
     "agency":"MPK",
     "petle":[
-      "Ogrody",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka",
+      "\u017beromskiego"
     ],
-    "przystanki":28,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -173,20 +173,28 @@
     "agency":"MPK",
     "petle":[
       "Franowo",
-      "Ogrody"
+      "\u017beromskiego"
     ],
-    "przystanki":24,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
   "20":{
     "agency":"MPK",
     "petle":[
-      "Marcinkowskiego",
+      "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":11,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
+    "typ":"tram"
+  },
+  "27":{
+    "petle":[
+      "D\u0119biec",
+      "Zawady"
+    ],
+    "przystanki":38,
     "typ":"tram"
   },
   "45":{
@@ -535,7 +543,7 @@
       "G\u00f3rczyn",
       "Osiedle Wichrowe Wzg\u00f3rze"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/82",
     "typ":"bus"
   },
@@ -552,10 +560,10 @@
   "84":{
     "agency":"MPK",
     "petle":[
-      "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Nowe Zoo",
+      "Rondo Rataje"
     ],
-    "przystanki":29,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
   },
@@ -605,7 +613,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Kopernika"
     ],
-    "przystanki":29,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91",
     "typ":"bus"
   },
@@ -826,10 +834,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Krzesiny",
+      "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":22,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/244",
     "typ":"bus"
   },
@@ -862,7 +870,7 @@
       "Rondo Rataje",
       "Sypniewo"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/247",
     "typ":"bus"
   },
@@ -884,7 +892,7 @@
       "D\u0119biec",
       "Rondo Kaponiera"
     ],
-    "przystanki":24,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
@@ -1158,6 +1166,16 @@
     ],
     "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/703",
+    "typ":"bus"
+  },
+  "704":{
+    "agency":"PUK",
+    "petle":[
+      "G\u00f3rczyn",
+      "Komorniki/Kolumba"
+    ],
+    "przystanki":11,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704",
     "typ":"bus"
   },
   "710":{

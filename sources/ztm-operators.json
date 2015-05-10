@@ -631,6 +631,13 @@
       "night": true
     },
     {
+      "name": "254",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": true
+    },
+    {
       "name": "312",
       "type": "3",
       "operator": "TRANSKOM",
@@ -800,6 +807,13 @@
     },
     {
       "name": "703",
+      "type": "3",
+      "operator": "PUK",
+      "agencyName": "PUK",
+      "night": false
+    },
+    {
+      "name": "704",
       "type": "3",
       "operator": "PUK",
       "agencyName": "PUK",
