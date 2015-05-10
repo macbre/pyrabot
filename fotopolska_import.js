@@ -37,9 +37,10 @@ client.logIn(function() {
 			};
 
 			client.log('Wrzucam plik <' + imageUrl + '> jako <' + DEST + '>...');
+			client.log(params);
 
 			// dodaj zdjęcie
-			client.uploadByUrl(DEST, imageUrl, params, function(res) {
+			client.uploadByUrl(DEST, imageUrl, params, function(err, res) {
 				console.log('Import zakończony');
 			});
 		}
