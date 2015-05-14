@@ -87,7 +87,7 @@ client.logIn(function() {
 			}).
 			// miniaturki -> 300px
 			// |thumb|220x220px|
-			replace(/\|thumb\|[\dx]+px\|/g, '|thumb|300px|').
+			replace(/\|thumb\|[\dx]+px/g, '|thumb|300px').
 			// wielokrotne spacje
 			replace(/([ ]+)/g, ' ').
 			// spacje na końcu wierszy
