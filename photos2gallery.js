@@ -38,7 +38,7 @@ client.logIn(function(err) {
 		
 		// formatuj galerię
 		var gallery = '== Galeria ==\n';
-		gallery += '<gallery captionalign="left" orientation="none" widths="200" columns="3" bordercolor="#ffffff" bordersize="large" spacing="small">\n';
+		gallery += '<gallery captionalign="left" orientation="none" widths="200" bordercolor="#ffffff" bordersize="large" spacing="small">\n';
 
 		matches.forEach(function(item, idx) {
 			if (idx + 1 < START_FROM) return; // nie zmieniaj X pierwszych zdjęć w artykule
