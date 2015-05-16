@@ -54,7 +54,7 @@ client.logIn(function(err) {
 
 			// opis
 			if (parts.length > 1) {
-				gallery += '|' + parts.pop().replace(/\]\]$/, '');
+				gallery += '|' + parts.slice(3).join('').replace(/\]\]$/, '');
 			}
 
 			gallery += "\n";
