@@ -262,7 +262,7 @@ if __name__ == "__main__":
     dzielnice.read()
 
     # lista ulic
-    items = ulice.get_items()
+    items = ulice.get_items() + numeracja.get_items()
     items.sort()
 
     # generuj dane do kolejnych ulic
