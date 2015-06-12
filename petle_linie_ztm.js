@@ -24,6 +24,10 @@ function updateLine(pageTitle) {
 		return;
 	}
 
+	if (line == '31' || line == '32') {
+		return;
+	}
+
 	// linie autobusowa z jedną pętlą (62, 89, 94, 96, ...)
 	if (stops.length === 1) {
 		stops[1] = stops[0];
