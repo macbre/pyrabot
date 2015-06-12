@@ -5,18 +5,8 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
-    "typ":"tram"
-  },
-  "2":{
-    "agency":"MPK",
-    "petle":[
-      "D\u0119biec",
-      "Ogrody"
-    ],
-    "przystanki":20,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
   "3":{
@@ -59,16 +49,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
-  "7":{
-    "agency":"MPK",
-    "petle":[
-      "Ogrody",
-      "Zawady"
-    ],
-    "przystanki":23,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
-    "typ":"tram"
-  },
   "8":{
     "agency":"MPK",
     "petle":[
@@ -82,20 +62,20 @@
   "9":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
+      "Pami\u0105tkowa",
       "Pi\u0105tkowska"
     ],
-    "przystanki":27,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
   "10":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
-      "Po\u0142abska"
+      "Po\u0142abska",
+      "Traugutta"
     ],
-    "przystanki":21,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
@@ -163,9 +143,9 @@
     "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
-      "\u017beromskiego"
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":26,
+    "przystanki":55,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -190,12 +170,30 @@
     "typ":"tram"
   },
   "27":{
+    "agency":"MPK",
     "petle":[
-      "D\u0119biec",
+      "Traugutta",
       "Zawady"
     ],
-    "przystanki":38,
+    "przystanki":35,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
+  },
+  "31":{
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tatrza\u0144ska"
+    ],
+    "przystanki":14,
+    "typ":"bus"
+  },
+  "32":{
+    "petle":[
+      "Tatrza\u0144ska",
+      "Tor Pozna\u0144"
+    ],
+    "przystanki":5,
+    "typ":"bus"
   },
   "45":{
     "agency":"MPK",
@@ -213,7 +211,7 @@
       "Boranta/Park Naukowo-Technologiczny",
       "Strzeszyn"
     ],
-    "przystanki":27,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/46",
     "typ":"bus"
   },
@@ -892,7 +890,7 @@
       "D\u0119biec",
       "Rondo Kaponiera"
     ],
-    "przystanki":23,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
@@ -934,7 +932,7 @@
       "Kozieg\u0142owy/Zak\u0142ady Drobiarskie",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":18,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/320",
     "typ":"bus"
   },
@@ -1062,9 +1060,9 @@
     "agency":"TRANSLUB",
     "petle":[
       "D\u0119biec",
-      "Lubo\u0144 \u017babikowo"
+      "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":24,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/601",
     "typ":"bus"
   },
@@ -1194,7 +1192,7 @@
       "G\u0142uchowo/Stawna",
       "Junikowo"
     ],
-    "przystanki":15,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716",
     "typ":"bus"
   },
