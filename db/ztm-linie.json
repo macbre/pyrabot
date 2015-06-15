@@ -62,10 +62,10 @@
   "9":{
     "agency":"MPK",
     "petle":[
-      "Pami\u0105tkowa",
-      "Pi\u0105tkowska"
+      "Pi\u0105tkowska",
+      "Traugutta"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -175,25 +175,9 @@
       "Traugutta",
       "Zawady"
     ],
-    "przystanki":35,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
-  },
-  "31":{
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tatrza\u0144ska"
-    ],
-    "przystanki":14,
-    "typ":"bus"
-  },
-  "32":{
-    "petle":[
-      "Tatrza\u0144ska",
-      "Tor Pozna\u0144"
-    ],
-    "przystanki":5,
-    "typ":"bus"
   },
   "45":{
     "agency":"MPK",
