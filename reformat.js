@@ -4,6 +4,7 @@
  */
 
 var bot = require('nodemw'),
+	colors = require('ansicolors'),
 	jsdiff = require('diff'),
 	querystring = require('querystring'),
 	client = new bot('config.js');
@@ -24,8 +25,8 @@ function diff(one, other) {
 		// green for additions, red for deletions 
 		// grey for common parts 
 		var color = part.added ? 'green' :
-		part.removed ? 'red' : 'grey';
-		res += part.value[color];
+		part.removed ? 'red' : 'brightBlack';
+		res += colors[color](part.value);
 	});
 
 	return res;
