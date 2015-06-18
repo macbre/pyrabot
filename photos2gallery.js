@@ -37,8 +37,7 @@ client.logIn(function(err) {
 		//console.log(matches); return;
 		
 		// formatuj galerię
-		var gallery = '== Galeria ==\n';
-		gallery += '<gallery captionalign="left" orientation="none" widths="200" bordercolor="#ffffff" bordersize="large" spacing="small">\n';
+		var gallery = '<gallery captionalign="left" orientation="none" widths="200" bordercolor="#ffffff" bordersize="large" spacing="small">\n';
 
 		matches.forEach(function(item, idx) {
 			if (idx + 1 < START_FROM) return; // nie zmieniaj X pierwszych zdjęć w artykule
@@ -62,7 +61,13 @@ client.logIn(function(err) {
 
 		gallery += '</gallery>';
 
-		content = content.trim() + "\n\n" + gallery;
+		if (content.indexOf('== Galeria ==\n') > -1) {
+			content = content.replace('== Galeria ==\n', '== Galeria ==\n' + gallery + '\n', content);
+		}
+		else {
+			content = content.trim() + "\n\n== Galeria ==\n" + gallery;
+		}
+
 		console.log(client.diff(orig, content));
 
 		// zapisz zmiany
