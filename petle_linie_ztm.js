@@ -115,26 +115,26 @@ client.logIn(function(err) {
 		}
 
 		console.log('\n\n> Moduł:Przystanki-linie zaktualizowany!');
-	});
 
-	/**/
-	client.getPagesByPrefix('Linia tramwajowa nr', function(err, pages) {
-		pages && pages.forEach(function(page) {
-			if (page.ns != 0) {
-				return;
-			}
+		/**/
+		client.getPagesByPrefix('Linia tramwajowa nr', function(err, pages) {
+			pages && pages.forEach(function(page) {
+				if (page.ns != 0) {
+					return;
+				}
 
-			updateLine(page.title);
+				updateLine(page.title);
+			});
 		});
-	});
-	/**/
-	client.getPagesByPrefix('Linia autobusowa nr', function(err, pages) {
-		pages && pages.forEach(function(page) {
-			if (page.ns != 0) {
-				return;
-			}
+		/**/
+		client.getPagesByPrefix('Linia autobusowa nr', function(err, pages) {
+			pages && pages.forEach(function(page) {
+				if (page.ns != 0) {
+					return;
+				}
 
-			updateLine(page.title);
+				updateLine(page.title);
+			});
 		});
 	});
 });
