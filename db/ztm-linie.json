@@ -45,7 +45,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -65,7 +65,7 @@
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":15,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
@@ -445,7 +445,7 @@
       "Rondo \u015ar\u00f3dka",
       "Szarych Szereg\u00f3w"
     ],
-    "przystanki":22,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/78",
     "typ":"bus"
   },
@@ -943,10 +943,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec/D\u0119bowa",
+      "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
-    "przystanki":44,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
