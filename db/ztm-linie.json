@@ -45,7 +45,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":24,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -95,7 +95,7 @@
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":51,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -105,7 +105,7 @@
       "Franowo",
       "Franowo"
     ],
-    "przystanki":40,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -272,10 +272,10 @@
   "59":{
     "agency":"MPK",
     "petle":[
-      "Ba\u0142tyk",
-      "Port Lotniczy \u0141awica"
+      "Port Lotniczy \u0141awica",
+      "Rondo Kaponiera"
     ],
-    "przystanki":14,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/59",
     "typ":"bus"
   },
@@ -335,7 +335,7 @@
       "Rondo Rataje",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":12,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/65",
     "typ":"bus"
   },
@@ -405,7 +405,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
     ],
-    "przystanki":33,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/74",
     "typ":"bus"
   },
@@ -846,7 +846,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
@@ -1056,7 +1056,7 @@
       "G\u00f3rczyn",
       "Konarzewo/P\u0119tla"
     ],
-    "przystanki":23,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/703",
     "typ":"bus"
   },
@@ -1153,10 +1153,10 @@
   "893":{
     "agency":"ROKBUS",
     "petle":[
-      "Rokietnica/Ros",
+      "Rokietnica/Stacja",
       "\u017bydowo/P\u0119tla"
     ],
-    "przystanki":11,
+    "przystanki":12,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
     "typ":"bus"
   },
