@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 /**
  * Skrypt importujący wybrane zdjęcie z portalu fotopolska.eu
+ *
+ * ./fotopolska_import.js "http://poznan.fotopolska.eu/388558,foto.html" "Most Bolesława Chrobrego - 1941.jpg"
  */
 var bot = require('nodemw'),
 	client = new bot('config.js'),
