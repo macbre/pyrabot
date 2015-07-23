@@ -27,6 +27,7 @@ client.logIn(function(err) {
 		// zdjęcia
 		// [[File:Schemat cytadela.jpg|thumb|220x220px|Plan Fortu Winiary]]
 		var re = /\[\[(File|Plik).*\]\]\n/g,
+		//var re = /\[\[(File|Plik)[^\]]+\]\]/g,
 			matches = content.match(re) || false,
 			orig = content;
 
@@ -61,8 +62,8 @@ client.logIn(function(err) {
 
 		gallery += '</gallery>';
 
-		if (content.indexOf('== Galeria ==\n') > -1) {
-			content = content.replace('== Galeria ==\n', '== Galeria ==\n' + gallery + '\n', content);
+		if (content.indexOf('== Galeria ==') > -1) {
+			content = content.replace('== Galeria ==', '== Galeria ==\n' + gallery + '\n', content);
 		}
 		else {
 			content = content.trim() + "\n\n== Galeria ==\n" + gallery;
