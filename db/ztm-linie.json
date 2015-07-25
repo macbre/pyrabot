@@ -5,8 +5,18 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
+    "typ":"tram"
+  },
+  "4":{
+    "agency":"MPK",
+    "petle":[
+      "Po\u0142abska",
+      "Stomil"
+    ],
+    "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
   "5":{
@@ -39,13 +49,43 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
+  "9":{
+    "agency":"MPK",
+    "petle":[
+      "D\u0119biec",
+      "Pi\u0105tkowska"
+    ],
+    "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
+    "typ":"tram"
+  },
+  "10":{
+    "agency":"MPK",
+    "petle":[
+      "D\u0119biec",
+      "Po\u0142abska"
+    ],
+    "przystanki":21,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
+    "typ":"tram"
+  },
+  "11":{
+    "agency":"MPK",
+    "petle":[
+      "Pi\u0105tkowska",
+      "Stomil"
+    ],
+    "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
+    "typ":"tram"
+  },
   "12":{
     "agency":"MPK",
     "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Staro\u0142\u0119ka"
+      "Franowo",
+      "Stomil"
     ],
-    "przystanki":23,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -53,49 +93,29 @@
     "agency":"MPK",
     "petle":[
       "Junikowo",
-      "Staro\u0142\u0119ka"
+      "Stomil"
     ],
-    "przystanki":33,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
-    "typ":"tram"
-  },
-  "14":{
-    "agency":"MPK",
-    "petle":[
-      "G\u00f3rczyn",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":14,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
   "15":{
     "agency":"MPK",
     "petle":[
       "Budziszy\u0144ska",
-      "Osiedle Jana III Sobieskiego"
+      "Po\u0142abska"
     ],
-    "przystanki":18,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
-    "typ":"tram"
-  },
-  "16":{
-    "agency":"MPK",
-    "petle":[
-      "Franowo",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":23,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
   "17":{
     "agency":"MPK",
     "petle":[
-      "Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka"
+      "Franowo",
+      "Franowo"
     ],
-    "przystanki":46,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -109,14 +129,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "20":{
+  "23":{
     "agency":"MPK",
     "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Osiedle Jana III Sobieskiego"
+      "Staro\u0142\u0119ka",
+      "Stomil"
     ],
-    "przystanki":20,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
+    "przystanki":3,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/23",
     "typ":"tram"
   },
   "27":{
@@ -125,28 +145,8 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":32,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
-    "typ":"tram"
-  },
-  "28":{
-    "agency":"MPK",
-    "petle":[
-      "D\u0119biec",
-      "Staro\u0142\u0119ka"
-    ],
-    "przystanki":31,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/28",
-    "typ":"tram"
-  },
-  "29":{
-    "agency":"MPK",
-    "petle":[
-      "D\u0119biec",
-      "Staro\u0142\u0119ka"
-    ],
-    "przystanki":38,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/29",
     "typ":"tram"
   },
   "45":{
@@ -272,10 +272,10 @@
   "59":{
     "agency":"MPK",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Rondo Kaponiera"
+      "Ba\u0142tyk",
+      "Port Lotniczy \u0141awica"
     ],
-    "przystanki":15,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/59",
     "typ":"bus"
   },
@@ -335,7 +335,7 @@
       "Rondo Rataje",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":13,
+    "przystanki":12,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/65",
     "typ":"bus"
   },
@@ -405,7 +405,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
     ],
-    "przystanki":30,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/74",
     "typ":"bus"
   },
@@ -623,10 +623,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Osiedle Jana III Sobieskiego"
+      "Most Teatralny",
+      "Most Teatralny"
     ],
-    "przystanki":44,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -846,7 +846,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
@@ -1056,7 +1056,7 @@
       "G\u00f3rczyn",
       "Konarzewo/P\u0119tla"
     ],
-    "przystanki":18,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/703",
     "typ":"bus"
   },
@@ -1153,10 +1153,10 @@
   "893":{
     "agency":"ROKBUS",
     "petle":[
-      "Rokietnica/Stacja",
+      "Rokietnica/Ros",
       "\u017bydowo/P\u0119tla"
     ],
-    "przystanki":12,
+    "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
     "typ":"bus"
   },
