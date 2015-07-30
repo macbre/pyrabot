@@ -65,7 +65,7 @@ var CATEGORY = 'Lucjan Ballenstaedt',
 	REGEXP = '[[Kategoria:Lucjan Ballenstaedt]]',
 	REPLACEMENT = '[[Kategoria:Lucjan Ballenstedt]]',
 	SUMMARY = 'Prawidłowe brzmienie nazwiska Lucjan Ballenstaedt';
-/**/
+/**
 var CATEGORY = 'Wiadukty',
 	REGEXP = /Ballenstaedt/g,
 	REPLACEMENT = 'Ballenstedt',
@@ -76,12 +76,12 @@ var CATEGORY = 'Kalendarium',
 	REGEXP = /\[http:\/\/pl.wikipedia.org\/wiki\/([^\s]+) ([^\]]+)\]/g,
 	REPLACEMENT = '[[wikipedia:pl:$1|$2]]',
 	SUMMARY = 'Interwiki do Wikipedii';
-**
-var CATEGORY = 'Ul. Wroniecka',
+/**/
+var CATEGORY = 'Ulica Świety Marcin',
     	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
-	REPLACEMENT = '[[Ulica Wroniecka]]',
+	REPLACEMENT = '[[Kategoria:Ulica Święty Marcin]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
-**
+/**
 var CATEGORY = 'Pętle tramwajowe historyczne',
     	REGEXP = /$/, // dodaj na końcu wikitekstu
 	REPLACEMENT = '\n\n{{Nawigacja Pętle tramwajowe}}',
