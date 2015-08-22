@@ -37,6 +37,10 @@ curl -s "http://ztm.poznan.pl/gtfs-ztm/routes_by_name.json.php?dbname=production
 echo "\n> Pobieram listę przystanków z rozkladzik.pl..."
 curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
 
+# rejestr zabytków
+# @see http://poznan.wuoz.gov.pl/rejestr-zabytkow
+curl -s "http://poznan.wuoz.gov.pl/system/files/zalaczniki/wykaz.xls" > tmp.xls && xls2csv tmp.xls > zabytki.csv
+
 #
 unlink tmp*
 echo "\nGotowe"
