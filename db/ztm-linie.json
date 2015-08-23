@@ -72,10 +72,10 @@
   "12":{
     "agency":"MPK",
     "petle":[
-      "Franowo",
+      "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":33,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -90,23 +90,29 @@
     "typ":"tram"
   },
   "14":{
-    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
-      "Most Teatralny"
+      "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":8,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
+    "przystanki":14,
     "typ":"tram"
   },
   "15":{
     "agency":"MPK",
     "petle":[
       "Budziszy\u0144ska",
-      "Po\u0142abska"
+      "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":21,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
+    "typ":"tram"
+  },
+  "16":{
+    "petle":[
+      "Franowo",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":23,
     "typ":"tram"
   },
   "17":{
@@ -127,6 +133,14 @@
     ],
     "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
+    "typ":"tram"
+  },
+  "20":{
+    "petle":[
+      "Osiedle Jana III Sobieskiego",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":20,
     "typ":"tram"
   },
   "27":{
@@ -170,13 +184,11 @@
     "typ":"bus"
   },
   "49":{
-    "agency":"MPK",
     "petle":[
       "Azaliowa",
       "G\u00f3rczyn"
     ],
     "przystanki":13,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/49",
     "typ":"bus"
   },
   "50":{
@@ -315,7 +327,7 @@
       "Kacza",
       "Literacka"
     ],
-    "przystanki":28,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/64",
     "typ":"bus"
   },
@@ -621,14 +633,11 @@
     "typ":"tram"
   },
   "231":{
-    "agency":"MPK",
-    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
@@ -891,13 +900,11 @@
     "typ":"bus"
   },
   "341":{
-    "agency":"MPK",
     "petle":[
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":36,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
   "342":{
@@ -1001,13 +1008,11 @@
     "typ":"bus"
   },
   "616":{
-    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Lubo\u0144 \u017babikowo"
     ],
     "przystanki":12,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
     "typ":"bus"
   },
   "651":{
