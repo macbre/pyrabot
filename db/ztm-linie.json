@@ -90,11 +90,13 @@
     "typ":"tram"
   },
   "14":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
   "15":{
@@ -108,11 +110,13 @@
     "typ":"tram"
   },
   "16":{
+    "agency":"MPK",
     "petle":[
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
   "17":{
@@ -136,11 +140,13 @@
     "typ":"tram"
   },
   "20":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":20,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
   "27":{
@@ -184,11 +190,13 @@
     "typ":"bus"
   },
   "49":{
+    "agency":"MPK",
     "petle":[
       "Azaliowa",
       "G\u00f3rczyn"
     ],
     "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/49",
     "typ":"bus"
   },
   "50":{
@@ -633,11 +641,14 @@
     "typ":"tram"
   },
   "231":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
@@ -900,11 +911,13 @@
     "typ":"bus"
   },
   "341":{
+    "agency":"MPK",
     "petle":[
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":36,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
   "342":{
@@ -1008,11 +1021,13 @@
     "typ":"bus"
   },
   "616":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Lubo\u0144 \u017babikowo"
     ],
     "przystanki":12,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
     "typ":"bus"
   },
   "651":{
