@@ -21,6 +21,10 @@ curl -s "http://www.zdm.poznan.pl/content/pliki/Ukl%20uzupelniajacy%20wg%20stanu
 echo "\n> Pobieram dane o ulicach wewnętrznych..."
 curl -s "http://www.zdm.poznan.pl/content/pliki/Uk%C5%82ad_uzupe%C5%82niaj%C4%85cy_wykaz_stan_na_I_2014.xls" > tmp.xls && xls2csv tmp.xls > ulice-ztm-wewnetrzne.csv
 
+# kody pocztowe
+echo "\n> Pobieram dane o kodach pocztowych..."
+./scripts/kody-pocztowe.py
+
 # komunikacja miejska
 echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
 ./scripts/rozkladzik.js
