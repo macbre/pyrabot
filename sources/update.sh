@@ -23,9 +23,7 @@ curl -s "http://www.zdm.poznan.pl/content/pliki/Uk%C5%82ad_uzupe%C5%82niaj%C4%85
 
 # kody pocztowe
 echo "\n> Pobieram dane o kodach pocztowych..."
-curl -s "https://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/Du%C5%BCe_miasta/Pozna%C5%84?action=raw" | grep "^*6" | \
-	grep "; ul. " | awk -F " od " '{ print $1}' | awk -F "; " '{ print $1 "\t" $3 }' | sed 's/*//g' | sort | uniq \
-	> kody-pocztowe.csv
+./scripts/kody-pocztowe.py
 
 # komunikacja miejska
 echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
