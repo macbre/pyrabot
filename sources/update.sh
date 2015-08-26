@@ -4,7 +4,7 @@ echo "Aktualizuje dane"
 
 # baza Geopozu
 echo "\n> Pobieram spis obiektów w bazie Geopozu..."
-./scripts/geopoz.sh
+curl -s "http://sip.geopoz.pl/data/ulice_adresy/ulice_pobieranie.php" | iconv -f windows-1250 -t utf8  | dos2unix > geopoz.csv
 
 # numeracja ulic
 echo "\n> Pobieram dane o numeracji ulic..."
