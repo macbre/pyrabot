@@ -8,13 +8,13 @@
  "27 Grudnia": {
   "dlugosc": 162, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-737", 
+  "kody_pocztowe": "61-737,61-812", 
   "numeracja": "3-9, 11-15, 17, 19, 21"
  }, 
  "28 Czerwca 1956 r.": {
   "dlugosc": 4362, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-437,61-441,61-469,61-481,61-485,61-505,61-507,61-515,61-525,61-526,61-544,61-545,61-567", 
+  "kody_pocztowe": "61-437,61-441,61-469,61-481,61-485,61-505,61-507,61-515,61-525,61-526,61-544,61-567", 
   "numeracja": "113, 115, 117-119, 121-126, 128-136, 138, 140, 142, 144, 146, 148-154, 156, 158-162, 164-177, 187-189, 191, 194, 202, 209, 211, 213-219, 222-240, 245, 247, 249, 251, 253, 255, 257, 259-261, 263-267, 269-273, 275, 279, 281, 283-285, 290-291, 293, 295-297, 299, 302-303, 307, 309-317, 319-321, 323, 328, 330, 332-334, 336, 338, 340-342, 344, 346, 349, 352, 374, 382, 384, 386, 390, 392, 394, 396, 398, 400, 404, 406, 418-420, 427, 441"
  }, 
  "3 Maja": {
@@ -32,13 +32,13 @@
  "9 Maja": {
   "dlugosc": 844, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-643", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Adama Asnyka": {
   "dlugosc": 126, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-832", 
+  "kody_pocztowe": "60-826,60-832", 
   "numeracja": "1, 3-5, 7, 9"
  }, 
  "Adama Biedrzyckiego": {
@@ -56,7 +56,7 @@
  "Adama Haber-W\u0142y\u0144skiego": {
   "dlugosc": 196, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "3-14, 16, 18, 23, 25, 27, 29, 31"
  }, 
  "Adama Logi": {
@@ -74,7 +74,7 @@
  "Adama Ska\u0142kowskiego": {
   "dlugosc": 288, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19-52, 54, 56, 58"
  }, 
  "Adama Tomaszewskiego": {
@@ -134,7 +134,7 @@
  "Aleje Karola Marcinkowskiego": {
   "dlugosc": 648, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-745,61-827", 
+  "kody_pocztowe": null, 
   "numeracja": "1-4, 9, 11-16, 20-32"
  }, 
  "Aleje Solidarno\u015bci": {
@@ -188,7 +188,7 @@
  "Alzacka": {
   "dlugosc": 198, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-9, 11, 13-18, 20-22"
  }, 
  "Ametystowa": {
@@ -200,13 +200,13 @@
  "Ananasowa": {
   "dlugosc": 85, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-601", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Andaluzyjska": {
   "dlugosc": 208, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19"
  }, 
  "Andrychowska": {
@@ -224,19 +224,19 @@
  "Andrzeja i W\u0142adys\u0142awa Niegolewskich": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-228,60-229,60-231,60-232,60-233,60-234", 
   "numeracja": "1-24, 26-34, 36"
  }, 
  "Andrzeja \u0141askarza": {
   "dlugosc": 188, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-114", 
+  "kody_pocztowe": "61-114,61-118", 
   "numeracja": "2-7"
  }, 
  "Anieli Tu\u0142odzieckiej": {
   "dlugosc": 681, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "2-9, 11-12, 14-16, 19, 24, 26-30, 32-38, 40, 43-45, 48-54, 57-58, 60"
  }, 
  "Anny Danysz": {
@@ -302,7 +302,7 @@
  "Arago\u0144ska": {
   "dlugosc": 215, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "8, 10, 12"
  }, 
  "Architekt\u00f3w": {
@@ -314,19 +314,19 @@
  "Arkadego Fiedlera": {
   "dlugosc": 244, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "4-8, 10, 14"
  }, 
  "Arko\u0144ska": {
   "dlugosc": 731, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-059", 
+  "kody_pocztowe": "61-058,61-059", 
   "numeracja": "34-53"
  }, 
  "Arme\u0144ska": {
   "dlugosc": 405, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-672", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Armii Ludowej": {
@@ -338,19 +338,19 @@
  "Armii Pozna\u0144": {
   "dlugosc": 1657, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-663", 
+  "kody_pocztowe": null, 
   "numeracja": "15, 17"
  }, 
  "Arnikowa": {
   "dlugosc": 553, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3, 5, 7, 9-30"
  }, 
  "Arnolda Szylinga": {
   "dlugosc": 160, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-787", 
   "numeracja": "1-2, 6, 8, 10"
  }, 
  "Aroniowa": {
@@ -368,7 +368,7 @@
  "Artura Marii Swinarskiego": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19"
  }, 
  "Artura Oppmana": {
@@ -398,7 +398,7 @@
  "Augusta Emila Fieldorfa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-2, 4, 6, 8"
  }, 
  "Augustowska": {
@@ -470,7 +470,7 @@
  "Barbary Lerczak\u00f3wny": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-002", 
   "numeracja": "4, 6, 8"
  }, 
  "Barci\u0144ska": {
@@ -488,7 +488,7 @@
  "Barlinecka": {
   "dlugosc": 175, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-186", 
+  "kody_pocztowe": "60-186,60-187", 
   "numeracja": "2-5, 7, 9-10, 13-14"
  }, 
  "Barska": {
@@ -512,7 +512,7 @@
  "Barwicka": {
   "dlugosc": 283, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-192", 
+  "kody_pocztowe": "60-192,60-194", 
   "numeracja": "1, 3, 5-11, 13-15, 17"
  }, 
  "Bastionowa": {
@@ -530,7 +530,7 @@
  "Bazyliowa": {
   "dlugosc": 71, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-680", 
+  "kody_pocztowe": "61-601,61-680", 
   "numeracja": "1-11"
  }, 
  "Ba\u0142tycka": {
@@ -608,7 +608,7 @@
  "Bia\u0142cza\u0144ska": {
   "dlugosc": 156, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-469", 
+  "kody_pocztowe": "60-469,60-479", 
   "numeracja": "1, 3-5, 7, 9, 11-12, 15"
  }, 
  "Bia\u0142oborska": {
@@ -632,7 +632,7 @@
  "Bia\u0142oruska": {
   "dlugosc": 297, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-672", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Bia\u0142ostocka": {
@@ -692,13 +692,13 @@
  "Bitwy pod Siekierkami": {
   "dlugosc": 288, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-643", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Bitwy pod Studziankami": {
   "dlugosc": 304, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-643", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Biwakowa": {
@@ -824,7 +824,7 @@
  "Boles\u0142awa Czerwi\u0144skiego": {
   "dlugosc": 74, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-414", 
+  "kody_pocztowe": "61-414,61-417", 
   "numeracja": "2, 4, 6, 8, 10-12, 14, 16, 18, 20"
  }, 
  "Boles\u0142awa Kontryma": {
@@ -842,7 +842,7 @@
  "Boles\u0142awa Krzywoustego": {
   "dlugosc": 7938, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-144", 
+  "kody_pocztowe": "61-144,61-315", 
   "numeracja": "3, 5, 7, 13, 15-16, 19, 48, 67-69, 71-72, 110, 114, 121"
  }, 
  "Boles\u0142awa Le\u015bmiana": {
@@ -854,7 +854,7 @@
  "Boles\u0142awa Limanowskiego": {
   "dlugosc": 395, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-743,60-744", 
+  "kody_pocztowe": "60-231,60-743,60-744,60-768", 
   "numeracja": "1-13, 15-25, 27, 29, 31"
  }, 
  "Boles\u0142awa Prusa": {
@@ -872,7 +872,7 @@
  "Bolka": {
   "dlugosc": 605, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-608", 
+  "kody_pocztowe": "61-608,61-611", 
   "numeracja": "1-3, 6, 8-16"
  }, 
  "Bolkowicka": {
@@ -902,7 +902,7 @@
  "Borowa": {
   "dlugosc": 2289, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-304", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Borowikowa": {
@@ -938,7 +938,7 @@
  "Bosa": {
   "dlugosc": 473, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-125", 
+  "kody_pocztowe": "60-125,60-126", 
   "numeracja": "4, 7-10, 12-28, 30"
  }, 
  "Bosma\u0144ska": {
@@ -992,7 +992,7 @@
  "Braterstwa Broni": {
   "dlugosc": 341, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-663", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Bratkowa": {
@@ -1118,7 +1118,7 @@
  "Burgundzka": {
   "dlugosc": 199, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-22"
  }, 
  "Bursztynowa": {
@@ -1136,7 +1136,7 @@
  "Burzowa": {
   "dlugosc": 116, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2-3, 5-6, 8, 10"
  }, 
  "Buska": {
@@ -1160,7 +1160,7 @@
  "Bychawska": {
   "dlugosc": 662, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-315", 
   "numeracja": "3, 7-8, 13, 15, 17, 19-20, 23, 25, 27, 29, 31, 33, 35, 37"
  }, 
  "Byczy\u0144ska": {
@@ -1208,7 +1208,7 @@
  "B\u00f3\u017cnicza": {
   "dlugosc": 129, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-751", 
   "numeracja": "1, 8-14"
  }, 
  "B\u0119dlewska": {
@@ -1232,7 +1232,7 @@
  "B\u0142a\u017ceja": {
   "dlugosc": 504, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-608", 
+  "kody_pocztowe": "61-608,61-609", 
   "numeracja": "3-4, 6, 9-18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 60, 62, 64, 66, 68, 70, 72, 74, 76, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110"
  }, 
  "B\u0142a\u017ceja Winklera": {
@@ -1286,7 +1286,7 @@
  "Ceramiczna": {
   "dlugosc": 101, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-001", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Cetniewska": {
@@ -1310,7 +1310,7 @@
  "Charzykowska": {
   "dlugosc": 297, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-458", 
+  "kody_pocztowe": "60-451,60-458", 
   "numeracja": "4, 6-13, 15-18, 22, 28, 30, 32, 34, 36"
  }, 
  "Chemiczna": {
@@ -1436,7 +1436,7 @@
  "Ciasna": {
   "dlugosc": 35, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-101", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Cicha": {
@@ -1520,31 +1520,31 @@
  "Cyprysowa": {
   "dlugosc": 119, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-449", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Cyraneczki": {
   "dlugosc": 61, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-3, 5"
  }, 
  "Cyrkoniowa": {
   "dlugosc": 123, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "4"
  }, 
  "Cytadelowc\u00f3w": {
   "dlugosc": 602, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-663", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Cytrynowa": {
   "dlugosc": 915, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-602", 
+  "kody_pocztowe": "61-602,61-612", 
   "numeracja": "5-12, 14-20, 22-32, 34, 36, 38, 41-42, 57, 59"
  }, 
  "Czajcza": {
@@ -1586,7 +1586,7 @@
  "Czarnucha": {
   "dlugosc": 1816, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-612", 
+  "kody_pocztowe": "61-612,61-619", 
   "numeracja": "1, 3, 7"
  }, 
  "Czartoria": {
@@ -1598,7 +1598,7 @@
  "Czechos\u0142owacka": {
   "dlugosc": 2666, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "60-116,61-425,61-456,61-459,61-461,61-476", 
+  "kody_pocztowe": "60-116,61-425,61-437,61-456,61-459,61-461,61-464,61-476", 
   "numeracja": "1-11, 13-19, 21, 23-24, 27, 29-33, 35, 37, 39-44, 46, 51-53, 55, 57, 59-60, 62-67, 69, 71-73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95-99, 101-109, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 175-177, 179, 181, 183, 185, 187, 189"
  }, 
  "Czechowska": {
@@ -1616,13 +1616,13 @@
  "Czekoladowa": {
   "dlugosc": 269, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1, 11"
  }, 
  "Czeladzka": {
   "dlugosc": 393, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-401", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Czempi\u0144ska": {
@@ -1634,7 +1634,7 @@
  "Czeremchowa": {
   "dlugosc": 365, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-474", 
+  "kody_pocztowe": "61-473,61-474", 
   "numeracja": "2-20, 22, 24-28, 31-32"
  }, 
  "Czere\u015bniowa": {
@@ -1646,7 +1646,7 @@
  "Czernichowska": {
   "dlugosc": 1361, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-334", 
+  "kody_pocztowe": "61-333,61-334", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 48, 50, 58, 62"
  }, 
  "Czerniejewska": {
@@ -1670,13 +1670,13 @@
  "Czes\u0142awa Mi\u0142osza": {
   "dlugosc": 349, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 3, 17, 19-25, 27-29, 31-35, 37-43, 46, 48, 50"
  }, 
  "Czes\u0142awa Ta\u0144skiego": {
   "dlugosc": 129, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "1-19"
  }, 
  "Cze\u015bnikowska": {
@@ -1724,13 +1724,13 @@
  "Daktylowa": {
   "dlugosc": 606, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-612", 
   "numeracja": "4, 6, 8, 10, 26, 34, 36"
  }, 
  "Daleka": {
   "dlugosc": 388, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-124", 
+  "kody_pocztowe": "60-124,60-126", 
   "numeracja": "2-10, 12-16, 18, 20-31, 33, 37"
  }, 
  "Dalemi\u0144ska": {
@@ -1808,7 +1808,7 @@
  "Diamentowa": {
   "dlugosc": 445, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-680", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Dniestrza\u0144ska": {
@@ -1820,7 +1820,7 @@
  "Do Alei": {
   "dlugosc": 167, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-628", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Dobiegniewska": {
@@ -1838,7 +1838,7 @@
  "Dobrepole": {
   "dlugosc": 752, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-324", 
+  "kody_pocztowe": "61-313", 
   "numeracja": "1-2, 4-6, 9-25, 28-31, 33-39, 46, 50"
  }, 
  "Dobrochny": {
@@ -1868,13 +1868,13 @@
  "Dobrowita": {
   "dlugosc": 233, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-063", 
+  "kody_pocztowe": "61-062,61-063", 
   "numeracja": "6, 10-17, 22"
  }, 
  "Dojazd": {
   "dlugosc": 1443, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-631,60-632", 
+  "kody_pocztowe": "60-628,60-631,60-632", 
   "numeracja": "3-7, 10-11, 30, 32, 34"
  }, 
  "Dolina": {
@@ -1892,7 +1892,7 @@
  "Dolna Wilda": {
   "dlugosc": 4905, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-461,61-492,61-501,61-552", 
+  "kody_pocztowe": "61-492,61-501,61-552", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26-28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 86-89, 91-92, 104, 126"
  }, 
  "Dolne Chyby": {
@@ -1904,13 +1904,13 @@
  "Dolska": {
   "dlugosc": 684, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-205", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Dominika\u0144ska": {
   "dlugosc": 146, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-762", 
+  "kody_pocztowe": "61-760,61-762", 
   "numeracja": "1-9"
  }, 
  "Do\u017cynkowa": {
@@ -1934,7 +1934,7 @@
  "Drobna": {
   "dlugosc": 80, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-204", 
+  "kody_pocztowe": "60-203,60-204", 
   "numeracja": "1, 3-6"
  }, 
  "Droga D\u0119bi\u0144ska": {
@@ -1958,7 +1958,7 @@
  "Druskienicka": {
   "dlugosc": 1032, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-476", 
   "numeracja": "1-2, 6, 8-9, 12-13, 17, 25, 27, 29, 32"
  }, 
  "Dru\u017cynowa": {
@@ -2090,7 +2090,7 @@
  "Dziwnowska": {
   "dlugosc": 108, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-456", 
+  "kody_pocztowe": "60-453,60-456", 
   "numeracja": "1, 3, 5-12"
  }, 
  "Dzi\u0119gielowa": {
@@ -2102,13 +2102,13 @@
  "D\u0105br\u00f3wki": {
   "dlugosc": 107, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-501", 
+  "kody_pocztowe": "61-501,61-503", 
   "numeracja": "1-4, 13-16"
  }, 
  "D\u0119bicka": {
   "dlugosc": 543, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-316", 
+  "kody_pocztowe": "61-315,61-316", 
   "numeracja": "3, 5, 7, 9-11, 13, 15, 17, 19"
  }, 
  "D\u0119bli\u0144ska": {
@@ -2138,13 +2138,13 @@
  "Edmunda Knolla-Kownackiego": {
   "dlugosc": 263, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "3-10, 13, 16-19, 21"
  }, 
  "Edmunda Taczanowskiego": {
   "dlugosc": 455, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-147", 
   "numeracja": "12, 14, 17-20, 22, 24, 26, 28, 30"
  }, 
  "Edwarda Dembowskiego": {
@@ -2192,7 +2192,7 @@
  "Emila Zoli": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "8"
  }, 
  "Emilii Plater": {
@@ -2210,31 +2210,31 @@
  "Epicka": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "3"
  }, 
  "Esto\u0144ska": {
   "dlugosc": 478, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-672", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Eugeniusza Kwiatkowskiego": {
   "dlugosc": 1385, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-417", 
+  "kody_pocztowe": "61-417,61-418", 
   "numeracja": "2, 4, 6, 8, 10, 12-14, 16, 18, 20, 31, 33, 35, 37, 41, 43, 45-53, 55"
  }, 
  "Eugeniusza Paukszty": {
   "dlugosc": 144, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 3-10, 12"
  }, 
  "Eugeniusza Piaseckiego": {
   "dlugosc": 423, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-285", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Eurypidesa": {
@@ -2246,7 +2246,7 @@
  "Ewangelicka": {
   "dlugosc": 797, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-856", 
+  "kody_pocztowe": "61-104", 
   "numeracja": "1"
  }, 
  "Ewarysta Estkowskiego": {
@@ -2258,7 +2258,7 @@
  "Ewy Szelburg-Zarembiny": {
   "dlugosc": 140, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-6"
  }, 
  "Ezopa": {
@@ -2270,7 +2270,7 @@
  "Fabianowo": {
   "dlugosc": 1090, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-005", 
+  "kody_pocztowe": "60-004,60-005", 
   "numeracja": "1-3, 5, 7, 9, 11-15, 17, 19-20, 22, 24, 26, 29, 32-33, 35-41, 43-53, 55-57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95"
  }, 
  "Fabryczna": {
@@ -2354,7 +2354,7 @@
  "Folwarczna": {
   "dlugosc": 2779, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-064,61-302", 
+  "kody_pocztowe": "61-064", 
   "numeracja": "18-39"
  }, 
  "Forsycjowa": {
@@ -2366,7 +2366,7 @@
  "Forteczna": {
   "dlugosc": 1143, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-362", 
+  "kody_pocztowe": "61-362,61-366", 
   "numeracja": "1-3, 12, 14, 17, 19, 21, 23, 27, 29, 31, 33, 35, 37-49, 51, 53"
  }, 
  "Franciszka Adamanisa": {
@@ -2408,7 +2408,7 @@
  "Franciszka Lubeckiego": {
   "dlugosc": 467, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-348", 
+  "kody_pocztowe": "60-334,60-348", 
   "numeracja": "1-34"
  }, 
  "Franciszka Morawskiego": {
@@ -2426,7 +2426,7 @@
  "Franciszka Rylla": {
   "dlugosc": 74, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184", 
   "numeracja": "3, 5, 7, 9, 11, 13, 15"
  }, 
  "Franciszka Str\u00f3\u017cy\u0144skiego": {
@@ -2444,13 +2444,13 @@
  "Franciszka W\u0142ada": {
   "dlugosc": 196, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "2-13, 15-20"
  }, 
  "Franciszka \u017bwirki": {
   "dlugosc": 391, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-409", 
   "numeracja": "2-5, 7-15"
  }, 
  "Franciszka\u0144ska": {
@@ -2468,7 +2468,7 @@
  "Franowo": {
   "dlugosc": 460, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-064,61-302", 
+  "kody_pocztowe": "61-302", 
   "numeracja": "8, 12, 16"
  }, 
  "Fregatowa": {
@@ -2510,7 +2510,7 @@
  "Gabrieli Zapolskiej": {
   "dlugosc": 84, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "4, 6, 8"
  }, 
  "Gajowa": {
@@ -2522,7 +2522,7 @@
  "Galeonowa": {
   "dlugosc": 42, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-480", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Galileusza": {
@@ -2546,7 +2546,7 @@
  "Garbary": {
   "dlugosc": 2061, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-757,61-758,61-866,61-867,61-868,61-869", 
+  "kody_pocztowe": "61-719,61-757,61-758,61-866,61-867,61-868,61-869", 
   "numeracja": "1-8, 10, 12, 14-16, 22, 24, 26-54, 56-59, 61-62, 64-65, 67-68, 70-73, 76, 78, 80, 82, 92, 95-97, 99-102, 106, 112, 114, 120, 125, 128"
  }, 
  "Gardowska": {
@@ -2594,13 +2594,13 @@
  "Gertrudy Konatkowskiej": {
   "dlugosc": 350, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "1-10, 13, 15, 17-27, 29-32, 37, 39-43, 45-47"
  }, 
  "Gieorgija Dobrowolskiego": {
   "dlugosc": 298, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-621", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Gi\u017cycka": {
@@ -2618,13 +2618,13 @@
  "Glebowa": {
   "dlugosc": 1782, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-312", 
+  "kody_pocztowe": "61-306,61-312", 
   "numeracja": "1-62, 64, 66, 68, 70, 72, 74, 76, 78"
  }, 
  "Gliniana": {
   "dlugosc": 66, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-001", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Glinianki": {
@@ -2762,13 +2762,13 @@
  "Go\u0142\u0119bia": {
   "dlugosc": 170, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-834", 
+  "kody_pocztowe": "61-779,61-834", 
   "numeracja": "1-6, 8"
  }, 
  "Go\u0142\u0119\u017cycka": {
   "dlugosc": 1481, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-351,61-357", 
+  "kody_pocztowe": "61-357", 
   "numeracja": "23, 25-27, 95, 132"
  }, 
  "Go\u015bcinna": {
@@ -2798,7 +2798,7 @@
  "Gradowa": {
   "dlugosc": 160, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-4, 8-10, 12, 14"
  }, 
  "Grajewska": {
@@ -2918,19 +2918,19 @@
  "Gruszkowa": {
   "dlugosc": 268, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-426,61-474", 
+  "kody_pocztowe": "61-474", 
   "numeracja": "1-13"
  }, 
  "Gruzi\u0144ska": {
   "dlugosc": 397, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-672", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Gryczana": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1, 3, 5-6, 8, 10"
  }, 
  "Gryfi\u0144ska": {
@@ -2948,7 +2948,7 @@
  "Gr\u00f3jecka": {
   "dlugosc": 93, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-335", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Gr\u0105bczowska": {
@@ -2972,19 +2972,19 @@
  "Gustawa Herlinga-Grudzi\u0144skiego": {
   "dlugosc": 144, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-10, 12"
  }, 
  "Gustawa Macewicza": {
   "dlugosc": 148, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "5, 8-9, 11-12"
  }, 
  "Gustawa Potworowskiego": {
   "dlugosc": 227, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-209,60-211,60-212,60-223", 
+  "kody_pocztowe": "60-209,60-212,60-223", 
   "numeracja": "1-6, 8-18, 20, 22"
  }, 
  "Gwarna": {
@@ -3026,13 +3026,13 @@
  "G\u00f3rki": {
   "dlugosc": 326, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-204", 
+  "kody_pocztowe": "60-203,60-204", 
   "numeracja": "2-10, 12-18, 20, 22, 24, 26"
  }, 
  "G\u00f3rna Wilda": {
   "dlugosc": 668, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-563,61-564,61-576", 
+  "kody_pocztowe": "61-563,61-564,61-565,61-567,61-576", 
   "numeracja": "61, 63, 65-75, 77-83, 85-107, 109"
  }, 
  "G\u00f3rnicza": {
@@ -3056,7 +3056,7 @@
  "G\u0105siorowskich": {
   "dlugosc": 210, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-703,60-704", 
+  "kody_pocztowe": "60-703,60-704,60-705", 
   "numeracja": "2-12"
  }, 
  "G\u0119sia": {
@@ -3074,7 +3074,7 @@
  "G\u0142azowa": {
   "dlugosc": 600, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "60-116", 
+  "kody_pocztowe": "60-113,60-116", 
   "numeracja": "3, 5, 7, 9, 11, 13, 15-35, 37, 39, 41, 43, 45, 48, 50"
  }, 
  "G\u0142ogowa": {
@@ -3086,7 +3086,7 @@
  "G\u0142ogowska": {
   "dlugosc": 7561, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-004,60-104,60-111,60-121,60-126,60-205,60-206,60-243,60-244,60-262,60-263,60-264,60-265,60-266,60-702,60-734,60-736,60-737,60-738,60-739,60-740,60-741", 
+  "kody_pocztowe": "60-004,60-104,60-111,60-121,60-126,60-205,60-206,60-243,60-244,60-262,60-263,60-264,60-265,60-266,60-701,60-702,60-734,60-736,60-737,60-738,60-739,60-740,60-741", 
   "numeracja": "10, 12, 14-19, 21, 23, 25-32, 34-41, 43, 45, 47-51, 53-56, 58-109, 111-118, 120, 122-126, 128-129, 131, 133, 135-139, 141-142, 144-150, 152-163, 165-185, 187, 189, 191, 193, 195, 197, 211, 213-219, 221, 223, 225, 227, 229, 231-233, 235, 237, 239, 241, 243, 245, 247-249, 251-257, 259-265, 267, 269, 271, 273, 275, 277, 279, 281, 332-343, 346, 348, 350, 352, 354, 356, 358, 360, 362, 377, 411, 413, 415, 417, 419-421, 423, 425, 427, 429, 431-432, 434, 436, 440, 442"
  }, 
  "G\u0142owicka": {
@@ -3104,7 +3104,7 @@
  "G\u0142uszyna": {
   "dlugosc": 5232, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-329,61-332", 
+  "kody_pocztowe": "61-329,61-332,61-341", 
   "numeracja": "1-2, 4-7, 9, 12-15, 17-20, 22, 24, 26, 28, 30, 32-34, 36-38, 40, 43, 45-47, 49, 51, 53, 55, 57-59, 61, 63, 123, 125, 127, 129-138, 140-151, 153-162, 164, 166-182, 184, 186-204, 206, 208-233, 235, 237, 239, 241, 243, 245, 247, 249, 251, 253, 255, 257, 259, 261, 263, 265, 267, 269, 271, 273, 279"
  }, 
  "G\u0142\u00f3wieniec": {
@@ -3140,13 +3140,13 @@
  "Haliny Konopackiej": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-004", 
   "numeracja": "18"
  }, 
  "Haliny Po\u015bwiatowskiej": {
   "dlugosc": 258, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "8, 11, 16, 18, 20, 22, 24"
  }, 
  "Halna": {
@@ -3176,7 +3176,7 @@
  "Hanny Malewskiej": {
   "dlugosc": 120, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "6-7"
  }, 
  "Harcerska": {
@@ -3206,7 +3206,7 @@
  "Heleny Rzepeckiej": {
   "dlugosc": 246, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "3-5, 7-9, 11-12, 15-17, 19, 21-24, 26"
  }, 
  "Heleny Szafran": {
@@ -3236,7 +3236,7 @@
  "Henryka Jordana": {
   "dlugosc": 250, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-555", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Henryka Kowal\u00f3wki": {
@@ -3308,13 +3308,13 @@
  "Hetma\u0144ska": {
   "dlugosc": 5106, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-218,60-219,60-251,60-252,60-253,60-254,61-493,61-496,61-513", 
+  "kody_pocztowe": "60-218,60-219,60-251,60-252,60-253,60-254,61-485,61-493,61-513", 
   "numeracja": "1-16, 18, 20-47, 52, 54-63, 65, 67, 69, 74, 82, 84, 88, 90-91, 98, 100-112"
  }, 
  "Heweliusza": {
   "dlugosc": 420, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-281", 
+  "kody_pocztowe": "60-278,60-281", 
   "numeracja": "1, 3-5, 7-9, 11-12, 15-16, 18, 21"
  }, 
  "Hezjoda": {
@@ -3386,7 +3386,7 @@
  "Hugona Ko\u0142\u0142\u0105taja": {
   "dlugosc": 1546, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-413,61-421", 
+  "kody_pocztowe": "61-406,61-413,61-421", 
   "numeracja": "1-16, 18, 20, 22, 24, 26-43, 45, 47, 49-76, 78, 80, 82, 84, 86, 88, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 148, 150, 152, 154, 156, 158"
  }, 
  "Hulewicz\u00f3w": {
@@ -3452,7 +3452,7 @@
  "Ignacego Zielewicza": {
   "dlugosc": 66, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "1, 3, 5, 7"
  }, 
  "Ikara": {
@@ -3464,7 +3464,7 @@
  "Inflancka": {
   "dlugosc": 2110, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-132,61-243", 
+  "kody_pocztowe": "61-131,61-132,61-243", 
   "numeracja": "4, 6, 8, 10, 12, 14, 20, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 63"
  }, 
  "Inowroc\u0142awska": {
@@ -3482,7 +3482,7 @@
  "Ireneusza Wierzejewskiego": {
   "dlugosc": 75, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "1-8"
  }, 
  "Irysowa": {
@@ -3506,7 +3506,7 @@
  "Iwana Turgieniewa": {
   "dlugosc": 122, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "3-14"
  }, 
  "Iwonicka": {
@@ -3560,19 +3560,19 @@
  "Jacka Malczewskiego": {
   "dlugosc": 54, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-407", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Jadwigi Wajs\u00f3wny": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-002,60-004", 
   "numeracja": "3, 5, 7, 9"
  }, 
  "Jadwigi \u0141uszczewskiej": {
   "dlugosc": 103, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "4"
  }, 
  "Jagodowa": {
@@ -3584,7 +3584,7 @@
  "Jakuba Krauthofera": {
   "dlugosc": 713, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-202,60-203", 
+  "kody_pocztowe": "60-202,60-203,60-204,60-206", 
   "numeracja": "3, 5, 7, 9, 11, 13, 15-23, 25-26, 31, 33, 35-37, 39-40, 42, 44, 46, 48, 50, 52, 54-56, 58"
  }, 
  "Jana Baptysty Quadro": {
@@ -3620,13 +3620,13 @@
  "Jana Grochmalickiego": {
   "dlugosc": 138, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "1-40"
  }, 
  "Jana Henryka D\u0105browskiego": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-406,60-413,60-419,60-425,60-451,60-522,60-523,60-529,60-543,60-574,60-575,60-576,60-577,60-588,60-594,60-838,60-839,60-840,60-841,60-842,60-843,60-844", 
   "numeracja": "3, 5, 7-10, 12, 14-15, 17-18, 20, 23-30, 32-36, 38-47, 49-54, 56-58, 60, 62-73, 75-82, 84, 86-98, 100, 102, 104-118, 120, 122-124, 127, 129-130, 132-134, 136-141, 143-144, 146-147, 149, 151-156, 158-160, 162-166, 168-172, 174-175, 177, 179, 181-203, 205, 211, 213, 215, 217, 219, 221, 223, 225, 227, 229, 231, 233, 235, 237, 239, 241, 243, 245, 249, 251-253, 255, 257, 259, 261, 263, 265, 267, 269, 271, 273, 275, 277, 279, 281-283, 285-310, 312, 314-316, 318, 320, 322, 324, 326, 328, 330, 332-339, 341, 343, 345, 347, 349, 351, 353, 355, 357, 383, 385, 387, 399, 419, 425, 427, 431, 435, 437, 439, 441, 443, 445, 447, 449, 451, 453, 455, 457-459, 461, 465, 467, 469-470, 472-473, 475, 479, 481, 483, 485, 487, 489, 493, 495, 497, 499, 501, 503, 505-507, 509, 511, 513, 515, 517, 525, 527, 529, 531, 533, 536, 543-544, 550-554, 556, 558, 560, 562, 566, 568, 570, 572, 574"
  }, 
  "Jana Karskiego": {
@@ -3668,7 +3668,7 @@
  "Jana Ko\u017amiana": {
   "dlugosc": 202, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "4, 7-9, 13, 15-18"
  }, 
  "Jana Lubra\u0144skiego": {
@@ -3680,7 +3680,7 @@
  "Jana Ludygi-Laskowskiego": {
   "dlugosc": 78, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-407", 
   "numeracja": "1-24, 26"
  }, 
  "Jana Maklakiewicza": {
@@ -3692,7 +3692,7 @@
  "Jana Matejki": {
   "dlugosc": 1159, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-766,60-767,60-768,60-769,60-770,60-771,60-772", 
+  "kody_pocztowe": "60-744,60-766,60-767,60-768,60-769,60-770,60-771,60-772", 
   "numeracja": "1-8, 11, 18, 22, 29-30, 32-48, 50-68"
  }, 
  "Jana Nag\u00f3rskiego": {
@@ -3710,7 +3710,7 @@
  "Jana Parandowskiego": {
   "dlugosc": 222, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-641", 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2-13, 15"
  }, 
  "Jana Paw\u0142a II": {
@@ -3758,7 +3758,7 @@
  "Jana Skrzetuskiego": {
   "dlugosc": 160, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47"
  }, 
  "Jana Soko\u0142owskiego": {
@@ -3770,7 +3770,7 @@
  "Jana Sztaudyngera": {
   "dlugosc": 67, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "2, 4, 6, 8, 10, 12"
  }, 
  "Jana Umi\u0144skiego": {
@@ -3788,7 +3788,7 @@
  "Jana \u017bupa\u0144skiego": {
   "dlugosc": 392, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-542,61-562,61-572", 
+  "kody_pocztowe": "61-542,61-562,61-568,61-572", 
   "numeracja": "2-22"
  }, 
  "Janikowska": {
@@ -3800,7 +3800,7 @@
  "Janiny Oma\u0144kowskiej": {
   "dlugosc": 967, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-465", 
+  "kody_pocztowe": "60-465,60-475", 
   "numeracja": "1, 3, 5, 7, 10, 12, 16, 18, 20, 22, 24, 26, 28-29, 31-33, 36, 40, 42-52, 54, 57-63, 65, 67-73, 75-77, 80, 82, 84, 86-91, 93, 95, 97, 99-101, 105-113, 115, 117"
  }, 
  "Janiny Porazi\u0144skiej": {
@@ -3812,13 +3812,13 @@
  "Janiny i Jana \u017bniniewicz\u00f3w": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-475", 
   "numeracja": "1-25, 27, 29, 31, 33, 35, 37, 39"
  }, 
  "Janis\u0142awy": {
   "dlugosc": 92, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-057", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Janosika": {
@@ -3854,7 +3854,7 @@
  "Janusza Szpota\u0144skiego": {
   "dlugosc": 92, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2, 6, 8, 10"
  }, 
  "Janusza Zeylanda": {
@@ -3896,7 +3896,7 @@
  "Jaros\u0142awa Iwaszkiewicza": {
   "dlugosc": 187, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-14"
  }, 
  "Jaros\u0142awa Maciejewskiego": {
@@ -3908,13 +3908,13 @@
  "Jaros\u0142awska": {
   "dlugosc": 1506, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-321", 
+  "kody_pocztowe": "61-321,61-323", 
   "numeracja": "4-7, 9-11, 13-25"
  }, 
  "Jarowa": {
   "dlugosc": 438, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-602", 
+  "kody_pocztowe": "61-601,61-602", 
   "numeracja": "1-7, 9, 11, 15-40, 42-44, 46, 48, 50"
  }, 
  "Jarz\u0119bowa": {
@@ -3938,7 +3938,7 @@
  "Jask\u00f3\u0142cza": {
   "dlugosc": 65, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-836", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Jasna": {
@@ -3956,7 +3956,7 @@
  "Jasne B\u0142onie": {
   "dlugosc": 877, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-602", 
+  "kody_pocztowe": "61-601,61-602", 
   "numeracja": "2-5, 8-10, 12"
  }, 
  "Jaspisowa": {
@@ -3974,13 +3974,13 @@
  "Jastrowska": {
   "dlugosc": 1533, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-461", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Jastrz\u0119bia": {
   "dlugosc": 253, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-397", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Jawornicka": {
@@ -3998,7 +3998,7 @@
  "Ja\u0142owcowa": {
   "dlugosc": 283, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-472", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Ja\u015bminowa": {
@@ -4010,7 +4010,7 @@
  "Jedlicka": {
   "dlugosc": 437, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-315", 
   "numeracja": "2, 7-9, 38"
  }, 
  "Jeleniog\u00f3rska": {
@@ -4022,7 +4022,7 @@
  "Jelitkowska": {
   "dlugosc": 162, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-446", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Jemio\u0142owa": {
@@ -4040,7 +4040,7 @@
  "Jerzego Jurandota": {
   "dlugosc": 121, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 10"
  }, 
  "Jerzego R\u00f3\u017cyckiego": {
@@ -4100,7 +4100,7 @@
  "Johanna Wolfganga Goethego": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "9, 13, 15"
  }, 
  "Jugos\u0142owia\u0144ska": {
@@ -4112,7 +4112,7 @@
  "Juliana Le\u0144skiego": {
   "dlugosc": 409, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-679", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Juliana Niemcewicza": {
@@ -4124,13 +4124,13 @@
  "Juliana Tuwima": {
   "dlugosc": 774, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-195", 
   "numeracja": "4, 6, 8, 10, 12, 14, 24, 26, 28, 30-33, 35-38, 40-45, 48, 50, 52, 54, 56, 60, 62, 64, 66, 68"
  }, 
  "Julii i Antoniego Wojkowskich": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-475", 
   "numeracja": "1, 3-31, 33, 35, 37"
  }, 
  "Juliusza Kossaka": {
@@ -4148,7 +4148,7 @@
  "Juliusza S\u0142owackiego": {
   "dlugosc": 999, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-521,60-821,60-822,60-823,60-824,60-825", 
+  "kody_pocztowe": "60-521,60-822,60-823,60-824,60-825", 
   "numeracja": "8, 12-13, 15-32, 34-45, 47-48, 50, 52, 54-55, 57-59, 62"
  }, 
  "Junacka": {
@@ -4166,7 +4166,7 @@
  "Juracka": {
   "dlugosc": 331, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-145", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Juranda": {
@@ -4226,7 +4226,7 @@
  "J\u00f3zefa Edwarda Grobelnego": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "3, 5, 7-15, 17, 19, 21"
  }, 
  "J\u00f3zefa Garczy\u0144skiego": {
@@ -4250,7 +4250,7 @@
  "J\u00f3zefa Kostrzewskiego": {
   "dlugosc": 374, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "60-685", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "J\u00f3zefa Ko\u015bcielskiego": {
@@ -4292,7 +4292,7 @@
  "J\u00f3zefa Rivolego": {
   "dlugosc": 119, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "1, 3, 5-7, 9, 11"
  }, 
  "J\u00f3zefa Rogali\u0144skiego": {
@@ -4310,7 +4310,7 @@
  "J\u00f3zefa Sowi\u0144skiego": {
   "dlugosc": 640, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-282,60-283,60-284", 
+  "kody_pocztowe": "60-282,60-283,60-284,60-286", 
   "numeracja": "2-9, 11-23, 25, 27-35, 37-45, 47, 49, 51"
  }, 
  "J\u00f3zefa Strusia": {
@@ -4346,7 +4346,7 @@
  "J\u00f3zefa \u017bymierskiego": {
   "dlugosc": 164, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-4, 6"
  }, 
  "J\u00f3zwy Butryma": {
@@ -4358,7 +4358,7 @@
  "J\u0119czmienna": {
   "dlugosc": 165, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-668", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "J\u0119drzejowska": {
@@ -4394,7 +4394,7 @@
  "Kalinowa": {
   "dlugosc": 309, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-436", 
+  "kody_pocztowe": "61-436,61-437", 
   "numeracja": "3-21"
  }, 
  "Kaliowa": {
@@ -4490,7 +4490,7 @@
  "Karmelowa": {
   "dlugosc": 196, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2-3, 7"
  }, 
  "Karola Buczka": {
@@ -4520,7 +4520,7 @@
  "Karola Kurpi\u0144skiego": {
   "dlugosc": 791, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-681", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Karola Libelta": {
@@ -4580,13 +4580,13 @@
  "Kastylijska": {
   "dlugosc": 138, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1, 3-4, 6, 8, 10"
  }, 
  "Kasztanowa": {
   "dlugosc": 398, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-446,61-448", 
+  "kody_pocztowe": "61-448", 
   "numeracja": "23, 25, 27, 29, 31, 33, 35, 37, 39"
  }, 
  "Kasztela\u0144ska": {
@@ -4604,7 +4604,7 @@
  "Katalo\u0144ska": {
   "dlugosc": 139, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-2, 4, 6-8, 10-14, 17"
  }, 
  "Katowicka": {
@@ -4658,7 +4658,7 @@
  "Kazimierza Nie\u017cychowskiego": {
   "dlugosc": 108, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "9"
  }, 
  "Kazimierza Pu\u0142askiego": {
@@ -4676,7 +4676,7 @@
  "Kazimierza Sza\u0142asa": {
   "dlugosc": 238, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "3-19"
  }, 
  "Kazimierza Tymienieckiego": {
@@ -4730,7 +4730,7 @@
  "Kirchholmska": {
   "dlugosc": 100, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-288", 
   "numeracja": "2-3, 5, 7-10"
  }, 
  "Klasztorna": {
@@ -4778,7 +4778,7 @@
  "Klinkierowa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-104", 
   "numeracja": "7"
  }, 
  "Klonowa": {
@@ -4850,7 +4850,7 @@
  "Kolbuszowska": {
   "dlugosc": 1556, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-335", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Kolejowa": {
@@ -4862,7 +4862,7 @@
  "Kolorowa": {
   "dlugosc": 724, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-378", 
   "numeracja": "2, 4, 6, 8, 10"
  }, 
  "Kolska": {
@@ -4904,7 +4904,7 @@
  "Kondratija Rylejewa": {
   "dlugosc": 421, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-679", 
   "numeracja": "1, 3"
  }, 
  "Konfederacka": {
@@ -4922,7 +4922,7 @@
  "Konopna": {
   "dlugosc": 576, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-603", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Konstancji \u0141ubie\u0144skiej": {
@@ -4934,13 +4934,13 @@
  "Konstantego Hrynakowskiego": {
   "dlugosc": 110, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-177", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Konstantego Ildefonsa Ga\u0142czy\u0144skiego": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "3-10, 12-20, 22-30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 58, 60, 62, 64"
  }, 
  "Konstantego Troczy\u0144skiego": {
@@ -4952,7 +4952,7 @@
  "Konwaliowa": {
   "dlugosc": 357, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-464", 
+  "kody_pocztowe": "61-464,61-465", 
   "numeracja": "3-4, 6-7, 9, 11, 13, 15, 17-24, 26-27, 29, 31, 33"
  }, 
  "Kopanina": {
@@ -4970,7 +4970,7 @@
  "Kopcowa": {
   "dlugosc": 793, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-605", 
+  "kody_pocztowe": "61-601,61-605", 
   "numeracja": "1-4, 6, 8, 10, 12, 14"
  }, 
  "Koprowa": {
@@ -5012,7 +5012,7 @@
  "Kormorana": {
   "dlugosc": 440, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-45, 47, 49, 51"
  }, 
  "Kornela Makuszy\u0144skiego": {
@@ -5216,7 +5216,7 @@
  "Kra\u015bnicka": {
   "dlugosc": 271, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-335", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Kresowa": {
@@ -5240,7 +5240,7 @@
  "Krotoszy\u0144ska": {
   "dlugosc": 958, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-315", 
   "numeracja": "5, 7, 9, 11, 13, 15"
  }, 
  "Kro\u015bniewicka": {
@@ -5258,7 +5258,7 @@
  "Krucza": {
   "dlugosc": 491, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-387", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Kruszwicka": {
@@ -5288,7 +5288,7 @@
  "Krywicza\u0144ska": {
   "dlugosc": 151, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-614", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Krzemieniowa": {
@@ -5306,7 +5306,7 @@
  "Krzesiny": {
   "dlugosc": 208, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-321", 
+  "kody_pocztowe": "61-321,61-323", 
   "numeracja": "1, 3, 5-11, 13-15, 17-18, 21, 24, 26-27, 29-30, 32-33, 35-47, 49-51, 53, 60-63, 67"
  }, 
  "Krzeszowicka": {
@@ -5324,13 +5324,13 @@
  "Krzysztofa Kamila Baczy\u0144skiego": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "3, 5-17, 19, 21, 23, 25"
  }, 
  "Krzysztofa \u017begockiego": {
   "dlugosc": 439, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-693", 
   "numeracja": "1-30"
  }, 
  "Krzywa": {
@@ -5354,7 +5354,7 @@
  "Krzy\u017c\u00f3wki": {
   "dlugosc": 91, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-9, 11"
  }, 
  "Kr\u00f3la Przemys\u0142a II": {
@@ -5390,7 +5390,7 @@
  "Ksawerego Zakrzewskiego": {
   "dlugosc": 266, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-693", 
   "numeracja": "6-7, 9, 11, 14-15"
  }, 
  "Ksi\u0105\u017c\u0119ca": {
@@ -5444,7 +5444,7 @@
  "Kuku\u0142cza": {
   "dlugosc": 420, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-373", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Kupa\u0142y": {
@@ -5462,7 +5462,7 @@
  "Kurpiowska": {
   "dlugosc": 52, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-602", 
+  "kody_pocztowe": "60-602,60-603", 
   "numeracja": "1, 4, 6, 8"
  }, 
  "Kurzanoga": {
@@ -5534,7 +5534,7 @@
  "K\u0142ecka": {
   "dlugosc": 63, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-045", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "K\u0142osowa": {
@@ -5630,7 +5630,7 @@
  "Leona Prauzi\u0144skiego": {
   "dlugosc": 138, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-462", 
   "numeracja": "5"
  }, 
  "Leona Przy\u0142uskiego": {
@@ -5648,13 +5648,13 @@
  "Leopolda Staffa": {
   "dlugosc": 350, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "3-70, 72"
  }, 
  "Leopolda Tyrmanda": {
   "dlugosc": 219, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "5, 7"
  }, 
  "Leska": {
@@ -5666,7 +5666,7 @@
  "Leszczy\u0144ska": {
   "dlugosc": 2626, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-103,60-115,61-411,61-417", 
+  "kody_pocztowe": "60-102,60-103,60-115,61-409,61-411,61-417", 
   "numeracja": "3, 5, 7-11, 13, 16-19, 21, 23-31, 33-41, 43-45, 47, 49-61, 63, 65, 67, 69, 71, 73, 77, 79, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137, 143, 145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 165, 167, 169-172, 174, 184, 187, 189-190"
  }, 
  "Leszka": {
@@ -5774,7 +5774,7 @@
  "Liryczna": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "8, 10"
  }, 
  "Lisa Witalisa": {
@@ -5804,7 +5804,7 @@
  "Litewska": {
   "dlugosc": 864, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-605", 
+  "kody_pocztowe": "60-601,60-605", 
   "numeracja": "1-22"
  }, 
  "Lodowa": {
@@ -5822,7 +5822,7 @@
  "Lotary\u0144ska": {
   "dlugosc": 199, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-2, 4-10, 12-14, 16-23"
  }, 
  "Lotnicza": {
@@ -5888,7 +5888,7 @@
  "Lubosi\u0144ska": {
   "dlugosc": 44, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-427", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Lubowska": {
@@ -5912,7 +5912,7 @@
  "Lucjana Ballenstedta": {
   "dlugosc": 109, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "1, 3, 5, 7, 9"
  }, 
  "Lucjana Szenwalda": {
@@ -5924,7 +5924,7 @@
  "Ludgardy": {
   "dlugosc": 68, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-770", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Ludmi\u0142y": {
@@ -5960,13 +5960,13 @@
  "Ludwika Solskiego": {
   "dlugosc": 489, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184", 
   "numeracja": "1-25, 27-36, 38, 40-48, 50, 54, 56, 60, 62, 64, 66"
  }, 
  "Ludwika Zamenhofa": {
   "dlugosc": 1660, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-131,61-139", 
+  "kody_pocztowe": "61-131,61-139,61-168", 
   "numeracja": "42, 63, 128, 130, 132-133, 138, 140, 142"
  }, 
  "Lukrecjusza": {
@@ -5978,7 +5978,7 @@
  "Lutycka": {
   "dlugosc": 4681, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-415,60-478", 
+  "kody_pocztowe": "60-415,60-478,60-631", 
   "numeracja": "1, 3, 11, 31, 34, 39, 41, 43, 60, 83, 92-95, 97, 101, 103, 105, 107, 109, 111, 113, 115, 122-123"
  }, 
  "Lwa": {
@@ -5990,7 +5990,7 @@
  "Lwa To\u0142stoja": {
   "dlugosc": 305, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "5-9, 11-12, 15, 17, 19, 21, 23, 25, 27"
  }, 
  "Lwowska": {
@@ -6002,7 +6002,7 @@
  "Lw\u00f3wecka": {
   "dlugosc": 78, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-012", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "L\u0105decka": {
@@ -6026,7 +6026,7 @@
  "Macieja Rataja": {
   "dlugosc": 822, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-695", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 148, 150, 152, 154, 156, 158, 160, 162, 164, 166, 168"
  }, 
  "Maciejkowa": {
@@ -6062,13 +6062,13 @@
  "Majerankowa": {
   "dlugosc": 56, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-680", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Majowa": {
   "dlugosc": 64, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-592", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Makoszowska": {
@@ -6086,7 +6086,7 @@
  "Makowej Panienki": {
   "dlugosc": 197, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-193", 
+  "kody_pocztowe": "60-189,60-193", 
   "numeracja": "1-15, 17, 19, 21, 23"
  }, 
  "Maksymiliana Garsteckiego": {
@@ -6098,7 +6098,7 @@
  "Maksymiliana Jackowskiego": {
   "dlugosc": 662, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-507,60-508,60-509,60-511,60-512,60-513,60-553", 
+  "kody_pocztowe": "60-508,60-509,60-511,60-512,60-513,60-553", 
   "numeracja": "3, 5, 9, 11, 13, 15, 17-19, 21-25, 27, 29-58, 60, 62"
  }, 
  "Mak\u00f3w Polnych": {
@@ -6128,13 +6128,13 @@
  "Malta\u0144ska": {
   "dlugosc": 418, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-131", 
   "numeracja": "1"
  }, 
  "Malwowa": {
   "dlugosc": 2618, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-175,60-185", 
+  "kody_pocztowe": "60-175", 
   "numeracja": "1-17, 19-27, 29-42, 44-70, 72, 74-83, 85-93, 95-103, 105-108, 110-129, 131, 133, 135, 137, 139, 141, 143, 145, 147"
  }, 
  "Mandarynkowa": {
@@ -6158,13 +6158,13 @@
  "Marceli\u0144ska": {
   "dlugosc": 1391, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-323,60-324,60-341,60-354,60-801", 
+  "kody_pocztowe": "60-323,60-324,60-338,60-341,60-354,60-801", 
   "numeracja": "4, 6, 8, 10, 14-16, 18, 20, 22-25, 27, 30, 34-37, 42-46, 48-55, 57-59, 61-63, 65-67, 69-72, 74-77, 79-83, 85-87, 89-92, 96-98, 100, 102"
  }, 
  "Marcina Chwia\u0142kowskiego": {
   "dlugosc": 704, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-543,61-553,61-571", 
   "numeracja": "1, 3, 5-8, 10-32, 34, 36, 38-39, 41"
  }, 
  "Marcina Kasprzaka": {
@@ -6176,7 +6176,7 @@
  "Marcina Ro\u017cka": {
   "dlugosc": 300, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "9-30, 32"
  }, 
  "Margaretkowa": {
@@ -6200,13 +6200,13 @@
  "Mariampolska": {
   "dlugosc": 127, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3, 5"
  }, 
  "Mariana Jaroczy\u0144skiego": {
   "dlugosc": 638, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-692", 
+  "kody_pocztowe": "60-692,60-694", 
   "numeracja": "15, 17, 19, 21-23, 25-29, 31, 33, 35, 37, 39, 41, 43"
  }, 
  "Mariana Langiewicza": {
@@ -6224,7 +6224,7 @@
  "Mariana Smoluchowskiego": {
   "dlugosc": 786, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-179", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 20, 22"
  }, 
  "Marii Bohuszewicz\u00f3wny": {
@@ -6242,13 +6242,13 @@
  "Marii Kuncewiczowej": {
   "dlugosc": 157, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 4, 6-7"
  }, 
  "Marii Pawlikowskiej - Jasnorzewskiej": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-2, 5-6, 10, 12, 14-22, 24"
  }, 
  "Marii Rodziewicz\u00f3wny": {
@@ -6260,19 +6260,19 @@
  "Marii Wicherkiewicz": {
   "dlugosc": 444, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "1, 3-7, 9, 11, 13, 15, 17, 19, 21, 23-24, 26, 28-30, 32-33, 35-36, 38, 40, 42-46, 48"
  }, 
  "Marii i Celestyna Rydlewskich": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-462", 
   "numeracja": "4, 6, 8"
  }, 
  "Marka H\u0142aski": {
   "dlugosc": 281, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 3, 9, 12, 14"
  }, 
  "Marklowicka": {
@@ -6326,7 +6326,7 @@
  "Mazowiecka": {
   "dlugosc": 976, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-617,60-623", 
+  "kody_pocztowe": "60-617,60-619,60-623", 
   "numeracja": "1-12, 15-28, 33, 36, 38, 41-43, 45, 48, 53-66"
  }, 
  "Mazurska": {
@@ -6362,7 +6362,7 @@
  "Melchiora Wa\u0144kowicza": {
   "dlugosc": 1160, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2, 7, 9, 11, 13, 15, 27, 36, 38, 40, 42-44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66"
  }, 
  "Meliorant\u00f3w": {
@@ -6374,7 +6374,7 @@
  "Melisowa": {
   "dlugosc": 180, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-7, 9-14, 16"
  }, 
  "Metalowa": {
@@ -6392,7 +6392,7 @@
  "Mewy": {
   "dlugosc": 76, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-5"
  }, 
  "Mgielna": {
@@ -6428,7 +6428,7 @@
  "Micha\u0142a Ba\u0142uckiego": {
   "dlugosc": 135, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 3, 5, 7, 13"
  }, 
  "Micha\u0142a Drzyma\u0142y": {
@@ -6452,13 +6452,13 @@
  "Micha\u0142a Tokarzewskiego": {
   "dlugosc": 90, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-695", 
   "numeracja": "1-26"
  }, 
  "Micha\u0142a Wo\u0142odyjowskiego": {
   "dlugosc": 544, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "11, 13, 15, 17, 19, 21, 29, 31, 35, 37, 39, 41"
  }, 
  "Micha\u0142owo": {
@@ -6482,19 +6482,19 @@
  "Miecznikowska": {
   "dlugosc": 191, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-325", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Mieczykowa": {
   "dlugosc": 88, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-175", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Mieczys\u0142awa Jastruna": {
   "dlugosc": 136, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2-3, 5, 7, 9"
  }, 
  "Mieczys\u0142awa Niedzia\u0142kowskiego": {
@@ -6512,7 +6512,7 @@
  "Mieczys\u0142awa Rawicz-Mys\u0142owskiego": {
   "dlugosc": 148, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2, 4"
  }, 
  "Miedziana": {
@@ -6530,13 +6530,13 @@
  "Mieleszy\u0144ska": {
   "dlugosc": 372, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-008,61-408", 
+  "kody_pocztowe": "60-008", 
   "numeracja": "2, 4, 19, 21, 27, 32, 56, 58"
  }, 
  "Mieszkowska": {
   "dlugosc": 501, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-213", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Migda\u0142owa": {
@@ -6572,13 +6572,13 @@
  "Miko\u0142ajecka": {
   "dlugosc": 118, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-13"
  }, 
  "Miko\u0142owska": {
   "dlugosc": 505, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-102", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Mikstacka": {
@@ -6614,7 +6614,7 @@
  "Mirabelkowa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-306", 
   "numeracja": "4, 8-9, 19, 23, 25"
  }, 
  "Miros\u0142awiecka": {
@@ -6692,7 +6692,7 @@
  "Mi\u0144ska": {
   "dlugosc": 579, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-049", 
+  "kody_pocztowe": "61-049,61-051", 
   "numeracja": "1-8, 10, 12, 14, 30, 32, 34-54, 56, 58, 60"
  }, 
  "Mi\u015bnie\u0144ska": {
@@ -6734,19 +6734,19 @@
  "Mogile\u0144ska": {
   "dlugosc": 442, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-044,61-052", 
+  "kody_pocztowe": "61-044,61-045,61-052", 
   "numeracja": "1-11, 13, 15, 19, 21-23, 27, 31, 37, 40-42, 49-50, 55"
  }, 
  "Mokra": {
   "dlugosc": 57, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-766", 
+  "kody_pocztowe": "61-763,61-766", 
   "numeracja": "1-4"
  }, 
  "Moliera": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "9, 19"
  }, 
  "Morasko": {
@@ -6770,7 +6770,7 @@
  "Morenowa": {
   "dlugosc": 1140, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-680", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Morska": {
@@ -6806,7 +6806,7 @@
  "Mostowa": {
   "dlugosc": 1141, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-854", 
+  "kody_pocztowe": "61-854,61-858", 
   "numeracja": "1-7, 9-11, 13-16, 19, 23-35, 37-39"
  }, 
  "Mo\u0142dawska": {
@@ -6878,7 +6878,7 @@
  "My\u015bliwska": {
   "dlugosc": 71, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-124", 
+  "kody_pocztowe": "60-125", 
   "numeracja": "7"
  }, 
  "M\u0105czna": {
@@ -6896,7 +6896,7 @@
  "M\u0142y\u0144ska": {
   "dlugosc": 243, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-729,61-730", 
+  "kody_pocztowe": "61-729,61-730,61-736", 
   "numeracja": "1-16"
  }, 
  "M\u015bcibora": {
@@ -6926,7 +6926,7 @@
  "Na Skarpie": {
   "dlugosc": 563, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-164", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Na Stoku": {
@@ -6956,7 +6956,7 @@
  "Nad Jeziorem": {
   "dlugosc": 1976, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-480", 
+  "kody_pocztowe": "60-458,60-480", 
   "numeracja": "80, 101, 103, 105, 107, 109, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140"
  }, 
  "Nad Krzesink\u0105": {
@@ -6980,7 +6980,7 @@
  "Nad Potokiem": {
   "dlugosc": 328, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-639,60-641", 
+  "kody_pocztowe": "60-639", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35"
  }, 
  "Nad R\u00f3\u017canym Potokiem": {
@@ -7004,7 +7004,7 @@
  "Nad Starynk\u0105": {
   "dlugosc": 458, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-361", 
   "numeracja": "3, 5, 7-9, 11-14, 16, 18, 22, 24, 26, 34"
  }, 
  "Nad Wierzbakiem": {
@@ -7046,7 +7046,7 @@
  "Nag\u0142owicka": {
   "dlugosc": 134, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-355", 
   "numeracja": "1, 3, 5-13, 15"
  }, 
  "Nakielska": {
@@ -7070,7 +7070,7 @@
  "Naramowicka": {
   "dlugosc": 6690, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-601,61-611,61-619,61-622", 
+  "kody_pocztowe": "61-601,61-608,61-611,61-619,61-622", 
   "numeracja": "22, 24, 26, 28, 30-39, 41, 43, 45, 47, 58, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 90, 92, 100, 102, 104, 106, 112, 131, 135, 142, 144, 146, 148-159, 161, 164, 166-173, 175-188, 190, 192, 194, 196-197, 199, 201, 203-209, 211, 213-217, 219-225, 227, 229, 231-241, 243-247, 249, 251, 253, 255-256, 258, 260-269, 271-273, 275-276, 278, 280-281, 283, 285, 287, 289, 291, 293, 295-304, 306-339, 342, 344, 346, 348, 350, 352, 354, 356-357, 359, 361, 365, 367-376, 378"
  }, 
  "Narcyzowa": {
@@ -7082,7 +7082,7 @@
  "Narcyzy \u017bmichowskiej": {
   "dlugosc": 125, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-2, 7, 9-10, 12"
  }, 
  "Narewska": {
@@ -7112,7 +7112,7 @@
  "Na\u0142\u0119czowska": {
   "dlugosc": 1482, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-472", 
+  "kody_pocztowe": "60-471,60-472", 
   "numeracja": "1-3, 5, 7-8, 10-19, 21-27, 29-34, 37-48, 50, 52, 56-59, 61-62, 64-77, 79-87, 89-90, 92, 94, 96, 99-100, 103, 105, 107-109, 111-113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137"
  }, 
  "Nefrytowa": {
@@ -7142,7 +7142,7 @@
  "Niepodleg\u0142o\u015bci": {
   "dlugosc": 2519, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-712,61-713,61-714,61-874,61-875", 
+  "kody_pocztowe": null, 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 22, 24, 26-36, 39, 41, 43, 51, 53, 55, 59, 109"
  }, 
  "Niepo\u0142omicka": {
@@ -7154,13 +7154,13 @@
  "Niestachowska": {
   "dlugosc": 1199, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-619,60-666,60-667,60-668,60-669", 
+  "kody_pocztowe": "60-619", 
   "numeracja": "1"
  }, 
  "Nieszawska": {
   "dlugosc": 343, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-021", 
+  "kody_pocztowe": "61-021,61-038", 
   "numeracja": "1-3, 5, 7, 9-11, 13, 15, 17, 19, 21"
  }, 
  "Niez\u0142omnych": {
@@ -7202,7 +7202,7 @@
  "Normandzka": {
   "dlugosc": 198, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-4, 6-17, 19-22"
  }, 
  "Nostrzykowa": {
@@ -7226,7 +7226,7 @@
  "Nowina": {
   "dlugosc": 572, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-589", 
+  "kody_pocztowe": "60-401,60-589", 
   "numeracja": "1, 4, 6, 8-12, 14-21, 24-36, 38"
  }, 
  "Nowogrodzka": {
@@ -7274,7 +7274,7 @@
  "Nuny i Boles\u0142awa Szczurkiewicz\u00f3w": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184", 
   "numeracja": "3-11, 13, 17, 19, 21"
  }, 
  "O. Mariana \u017belazka": {
@@ -7316,7 +7316,7 @@
  "Obrza\u0144ska": {
   "dlugosc": 461, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-114", 
+  "kody_pocztowe": "60-112,60-114", 
   "numeracja": "4-7, 9, 11-12, 14-16"
  }, 
  "Obrze\u017ce": {
@@ -7370,7 +7370,7 @@
  "Ojcowska": {
   "dlugosc": 80, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-333", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Okolewo": {
@@ -7466,19 +7466,19 @@
  "Olza\u0144ska": {
   "dlugosc": 155, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-412", 
   "numeracja": "1-4, 6, 8"
  }, 
  "Onufrego Kopczy\u0144skiego": {
   "dlugosc": 285, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "60-682", 
+  "kody_pocztowe": "60-682,60-693", 
   "numeracja": "1-4, 6, 8, 10, 12, 14, 16, 18"
  }, 
  "Onufrego Zag\u0142oby": {
   "dlugosc": 165, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31"
  }, 
  "Opalenicka": {
@@ -7508,13 +7508,13 @@
  "Opoczy\u0144ska": {
   "dlugosc": 214, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-344", 
+  "kody_pocztowe": "61-344,61-361", 
   "numeracja": "1-7, 9, 11, 15"
  }, 
  "Opolska": {
   "dlugosc": 2524, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-404,61-405,61-408,61-433,61-471", 
+  "kody_pocztowe": "61-404,61-405,61-408,61-425,61-433,61-436,61-471", 
   "numeracja": "1, 5, 7, 11, 13-15, 17-27, 29-33, 35-51, 53, 55-59, 69-71, 73-76, 78, 80-82, 84, 88-89, 91-95, 97-98, 100, 103-104, 106-108, 111, 114, 120, 122, 148-152"
  }, 
  "Op\u0142otki": {
@@ -7526,7 +7526,7 @@
  "Orla": {
   "dlugosc": 231, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-164", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Orl\u0105t": {
@@ -7598,19 +7598,19 @@
  "Ostrobramska": {
   "dlugosc": 609, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-122,60-128", 
+  "kody_pocztowe": "60-122", 
   "numeracja": "13, 15, 17, 19-35, 37, 39, 41, 43, 45, 47"
  }, 
  "Ostrowska": {
   "dlugosc": 4130, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-312,61-324", 
+  "kody_pocztowe": "61-312,61-315,61-324", 
   "numeracja": "300, 322, 328, 331, 333-343, 345-351, 353-367, 369, 371, 374-383, 385-401, 403, 405, 407, 410-412, 415, 419, 423, 425, 434, 436, 438, 440, 442, 452-454, 458-460, 463, 465, 467-470, 472, 474, 476, 478, 480, 482, 484, 497-500, 502-504, 506, 532, 536, 539-544, 546, 548, 550, 552, 554, 556-559, 561-562, 564-568, 570, 572, 574, 576, 578, 580, 582"
  }, 
  "Ostro\u0142\u0119cka": {
   "dlugosc": 100, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-641", 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-12"
  }, 
  "Ostrzeszowska": {
@@ -7622,7 +7622,7 @@
  "Ostr\u00f3dzka": {
   "dlugosc": 246, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-641", 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-19, 21-49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69"
  }, 
  "Ostr\u00f3w Tumski": {
@@ -7664,7 +7664,7 @@
  "Owidiusza": {
   "dlugosc": 385, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-641", 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 26, 28, 30, 32, 34, 36"
  }, 
  "Ownicka": {
@@ -7688,7 +7688,7 @@
  "Ozimina": {
   "dlugosc": 314, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-664", 
   "numeracja": "2, 4-8, 10, 12, 14, 16, 18, 20, 22, 24, 26"
  }, 
  "O\u0142awska": {
@@ -7790,7 +7790,7 @@
  "Pastewna": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-312", 
   "numeracja": "3, 6"
  }, 
  "Pas\u0142\u0119cka": {
@@ -7802,7 +7802,7 @@
  "Patricea Lumumby": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-422", 
   "numeracja": "1-16"
  }, 
  "Pawia": {
@@ -7832,7 +7832,7 @@
  "Paw\u0142a Zo\u0142otowa": {
   "dlugosc": 130, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "3-24, 26, 28"
  }, 
  "Paw\u0142owicka": {
@@ -7856,7 +7856,7 @@
  "Perkoza": {
   "dlugosc": 583, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52"
  }, 
  "Perkuna": {
@@ -7868,7 +7868,7 @@
  "Perzycka": {
   "dlugosc": 2436, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-182", 
+  "kody_pocztowe": "60-182,60-184", 
   "numeracja": "1-8, 10-20, 22-27, 29-44, 46-51, 53, 55, 57-61, 63, 65, 67-74, 76-88, 90-94, 96, 98, 100, 102, 104, 106, 108, 114, 116, 118, 120, 122, 124"
  }, 
  "Per\u0142owska": {
@@ -7886,7 +7886,7 @@
  "Petuniowa": {
   "dlugosc": 170, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "4, 6-9"
  }, 
  "Piargowa": {
@@ -7910,7 +7910,7 @@
  "Pia\u015bnicka": {
   "dlugosc": 1327, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-243", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Piekary": {
@@ -7922,7 +7922,7 @@
  "Pierwiosnkowa": {
   "dlugosc": 102, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "3"
  }, 
  "Pilicka": {
@@ -7934,7 +7934,7 @@
  "Pilot\u00f3w": {
   "dlugosc": 672, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-409", 
+  "kody_pocztowe": "60-408,60-409", 
   "numeracja": "1-2, 5, 7, 9, 11-26, 28, 30, 32, 34, 36, 38, 40"
  }, 
  "Pilska": {
@@ -7952,7 +7952,7 @@
  "Piotra Skargi": {
   "dlugosc": 168, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-128,60-129", 
   "numeracja": "1-12, 14, 16"
  }, 
  "Piotra Tomickiego": {
@@ -7970,19 +7970,19 @@
  "Piotra Wysockiego": {
   "dlugosc": 133, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-148", 
   "numeracja": "2, 4, 6"
  }, 
  "Piotra \u015aciegiennego": {
   "dlugosc": 1261, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-304", 
+  "kody_pocztowe": "60-128,60-136,60-139,60-147,60-304", 
   "numeracja": "4, 10, 13-15, 17-25, 27-36, 45, 47, 50-51, 55-59, 61, 63-65, 67-72, 74-80, 82-85, 87-92, 94, 97, 99-105, 107, 109-115, 117-135, 137, 139"
  }, 
  "Piotrowo": {
   "dlugosc": 337, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-138", 
+  "kody_pocztowe": "61-138,61-139", 
   "numeracja": "2-3, 5"
  }, 
  "Piotrowska": {
@@ -8012,7 +8012,7 @@
  "Pi\u0105tkowska": {
   "dlugosc": 2046, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-648,60-649,60-650,61-693", 
+  "kody_pocztowe": "60-644,60-648,60-649,60-650,61-693", 
   "numeracja": "39, 41, 43, 45, 49, 55, 61, 65, 68, 70, 72, 74, 76, 78, 80, 84, 87, 89, 92, 94, 96, 98, 100, 102-103, 105-106, 110, 112, 116-125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147-149, 161, 163-166, 169-171, 173, 175, 177-191, 193, 195, 197, 199-201, 203, 205, 207-212, 214, 216"
  }, 
  "Pi\u0119kna": {
@@ -8024,7 +8024,7 @@
  "Pi\u0142awska": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-415", 
   "numeracja": "3, 8"
  }, 
  "Pi\u0144czowska": {
@@ -8084,13 +8084,13 @@
  "Pochy\u0142a": {
   "dlugosc": 699, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-367", 
+  "kody_pocztowe": "61-367,61-368", 
   "numeracja": "1, 4-29, 31, 33, 35, 37, 39, 41, 43, 45, 47"
  }, 
  "Pod Lipami": {
   "dlugosc": 695, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-628", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Podbia\u0142owa": {
@@ -8198,7 +8198,7 @@
  "Podwale": {
   "dlugosc": 475, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-128", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Poetycka": {
@@ -8228,7 +8228,7 @@
  "Polanicka": {
   "dlugosc": 75, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-471", 
   "numeracja": "2-3"
  }, 
  "Polanka": {
@@ -8246,7 +8246,7 @@
  "Polarna": {
   "dlugosc": 609, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "10, 12"
  }, 
  "Pola\u0144ska": {
@@ -8264,7 +8264,7 @@
  "Poli Gojawiczy\u0144skiej": {
   "dlugosc": 119, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 4, 7-8, 10-16, 18-20, 22-24, 31, 33, 35"
  }, 
  "Poligonowa": {
@@ -8276,7 +8276,7 @@
  "Polna": {
   "dlugosc": 524, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-533,60-534,60-535,60-803", 
+  "kody_pocztowe": "60-533,60-534,60-535,60-801,60-803", 
   "numeracja": "1-7, 9-29, 31, 33, 39-42, 44, 46, 48, 50, 52, 54, 56, 60, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86"
  }, 
  "Polska": {
@@ -8330,7 +8330,7 @@
  "Popularna": {
   "dlugosc": 321, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-313", 
   "numeracja": "1, 3-5, 7-11, 13, 15, 17, 19"
  }, 
  "Poranek": {
@@ -8366,7 +8366,7 @@
  "Powozowa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-306,61-313", 
   "numeracja": "4, 8, 14, 16"
  }, 
  "Powsta\u0144cza": {
@@ -8378,7 +8378,7 @@
  "Powsta\u0144c\u00f3w Wielkopolskich": {
   "dlugosc": 168, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-895", 
+  "kody_pocztowe": "61-875,61-895", 
   "numeracja": "1-6, 8, 10, 12, 14, 16, 20"
  }, 
  "Pozdawnicka": {
@@ -8408,7 +8408,7 @@
  "Po\u0142abska": {
   "dlugosc": 779, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-643", 
+  "kody_pocztowe": "61-697", 
   "numeracja": "1"
  }, 
  "Po\u0142aniecka": {
@@ -8438,7 +8438,7 @@
  "Prabucka": {
   "dlugosc": 120, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-446", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Promienista": {
@@ -8462,7 +8462,7 @@
  "Prowansalska": {
   "dlugosc": 173, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19"
  }, 
  "Pro\u015bnicka": {
@@ -8492,13 +8492,13 @@
  "Prymasa Augusta Hlonda": {
   "dlugosc": 1742, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-008", 
   "numeracja": "5"
  }, 
  "Prymasa Stefana Wyszy\u0144skiego": {
   "dlugosc": 778, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-124", 
   "numeracja": "8"
  }, 
  "Przasnyska": {
@@ -8534,7 +8534,7 @@
  "Przemyska": {
   "dlugosc": 972, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-324", 
+  "kody_pocztowe": "61-323,61-324", 
   "numeracja": "4-6, 8, 12, 14-16, 18-20, 23-24, 26-31, 33-38, 40, 42, 44, 47, 49, 51-54, 56"
  }, 
  "Przemys\u0142owa": {
@@ -8570,7 +8570,7 @@
  "Przeworska": {
   "dlugosc": 164, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-323", 
   "numeracja": "4, 6, 8"
  }, 
  "Prze\u0142ajowa": {
@@ -8588,7 +8588,7 @@
  "Prze\u0142\u0119cz": {
   "dlugosc": 784, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "60-115", 
+  "kody_pocztowe": "60-115,60-116", 
   "numeracja": "4-29, 31-33, 35-51, 53, 58, 60, 62, 64, 66"
  }, 
  "Prze\u015bwit": {
@@ -8600,7 +8600,7 @@
  "Przy Autostradzie": {
   "dlugosc": 543, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-012", 
   "numeracja": "5"
  }, 
  "Przy Dolinie": {
@@ -8642,7 +8642,7 @@
  "Przytoczna": {
   "dlugosc": 205, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-427", 
+  "kody_pocztowe": "60-189,60-427", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19"
  }, 
  "Prz\u0105\u015bniczki": {
@@ -8708,7 +8708,7 @@
  "Pustkowska": {
   "dlugosc": 198, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-315", 
   "numeracja": "10, 12"
  }, 
  "Pu\u0142awska": {
@@ -8762,7 +8762,7 @@
  "Rabcza\u0144ska": {
   "dlugosc": 491, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-476", 
+  "kody_pocztowe": "60-474,60-476", 
   "numeracja": "1-2, 7, 9, 11, 13, 17, 19, 21"
  }, 
  "Raciborska": {
@@ -8792,7 +8792,7 @@
  "Radojewo": {
   "dlugosc": 2014, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3, 5-21, 23, 25, 27-28, 30, 32, 34, 36, 38, 40, 45"
  }, 
  "Radomska": {
@@ -8864,13 +8864,13 @@
  "Raszkowska": {
   "dlugosc": 69, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-162", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21"
  }, 
  "Raszy\u0144ska": {
   "dlugosc": 590, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-135", 
   "numeracja": "1, 3-7, 9-15, 17, 19, 21-24, 29, 31, 33, 35, 37-42, 48"
  }, 
  "Rataje": {
@@ -8882,13 +8882,13 @@
  "Rawicka": {
   "dlugosc": 1737, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-113", 
   "numeracja": "1, 3, 5, 7-13, 15-18, 20-38, 40-86, 88-93, 95, 97-110, 112, 114, 116, 118, 120, 122, 124, 126, 128"
  }, 
  "Rdestowa": {
   "dlugosc": 149, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2, 4-7, 9, 11-14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46"
  }, 
  "Recze\u0144ska": {
@@ -8912,13 +8912,13 @@
  "Reglowa": {
   "dlugosc": 173, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-113", 
   "numeracja": "3-11, 13-15"
  }, 
  "Reknicka": {
   "dlugosc": 634, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-245", 
+  "kody_pocztowe": "61-065", 
   "numeracja": "1-2, 4"
  }, 
  "Rekreacyjna": {
@@ -8930,7 +8930,7 @@
  "Rembertowska": {
   "dlugosc": 368, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-135,60-143", 
   "numeracja": "17, 42"
  }, 
  "Republik": {
@@ -8942,19 +8942,19 @@
  "Retma\u0144ska": {
   "dlugosc": 353, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "3-6, 10-24, 26-32, 34"
  }, 
  "Rewalska": {
   "dlugosc": 232, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-466", 
   "numeracja": "1-3, 5, 7, 9-11, 13, 15"
  }, 
  "Rezedowa": {
   "dlugosc": 216, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184", 
   "numeracja": "3, 5, 7, 9, 11, 13-24, 26-35"
  }, 
  "Roberta Kocha": {
@@ -8984,7 +8984,7 @@
  "Rodzynkowa": {
   "dlugosc": 61, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-602", 
   "numeracja": "9, 11-14, 16, 18"
  }, 
  "Rogera S\u0142awskiego": {
@@ -9002,7 +9002,7 @@
  "Rogozi\u0144ska": {
   "dlugosc": 285, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-419", 
   "numeracja": "1-5, 7-14, 16, 18"
  }, 
  "Rojna": {
@@ -9014,19 +9014,19 @@
  "Rokietnicka": {
   "dlugosc": 353, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-806", 
+  "kody_pocztowe": "60-806,60-812", 
   "numeracja": "2, 4-6, 8"
  }, 
  "Rokity": {
   "dlugosc": 58, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-195", 
   "numeracja": "2, 4, 6, 8, 10, 12"
  }, 
  "Rolna": {
   "dlugosc": 1242, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-487,61-488,61-491,61-513", 
+  "kody_pocztowe": "61-485,61-487,61-488,61-491,61-513", 
   "numeracja": "1, 3-9, 15-53, 55-56, 58, 60, 62, 64, 66, 68, 70"
  }, 
  "Romana Abrahama": {
@@ -9080,7 +9080,7 @@
  "Romana Wilkanowicza": {
   "dlugosc": 71, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "1, 3-9, 11, 13, 15, 17"
  }, 
  "Romka Strza\u0142kowskiego": {
@@ -9104,7 +9104,7 @@
  "Rosnowska": {
   "dlugosc": 143, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-101", 
   "numeracja": "3-6, 11-14, 19-22"
  }, 
  "Rozewska": {
@@ -9122,7 +9122,7 @@
  "Roztocka": {
   "dlugosc": 83, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-189", 
   "numeracja": "4, 6, 8"
  }, 
  "Rozwadowska": {
@@ -9140,13 +9140,13 @@
  "Rubie\u017c": {
   "dlugosc": 2307, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-612", 
   "numeracja": "1-4, 6-15, 17-18, 20-21, 23, 25, 27, 29, 31, 35, 37, 39-41, 43-47, 49, 51, 53, 55, 57, 67, 69, 81, 87, 89, 91, 93, 95, 99"
  }, 
  "Rubinowa": {
   "dlugosc": 218, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-20, 22, 24, 26, 28"
  }, 
  "Ruczajowa": {
@@ -9158,7 +9158,7 @@
  "Rudnicze": {
   "dlugosc": 93, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-001", 
   "numeracja": "1, 3, 5, 7, 9"
  }, 
  "Rudzka": {
@@ -9176,13 +9176,13 @@
  "Rumcajsa": {
   "dlugosc": 84, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-195", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14"
  }, 
  "Rumiankowa": {
   "dlugosc": 1784, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "5-25, 27-30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 82, 134"
  }, 
  "Rumu\u0144ska": {
@@ -9194,7 +9194,7 @@
  "Ruska": {
   "dlugosc": 146, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "1-12"
  }, 
  "Ryb": {
@@ -9212,19 +9212,19 @@
  "Rybitwy": {
   "dlugosc": 430, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50"
  }, 
  "Rybnicka": {
   "dlugosc": 561, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-168", 
   "numeracja": "1-23, 25-48, 50"
  }, 
  "Rybojadzka": {
   "dlugosc": 122, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-443", 
   "numeracja": "1-20"
  }, 
  "Rycerska": {
@@ -9248,31 +9248,31 @@
  "Rymanowska": {
   "dlugosc": 483, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-318,61-323", 
+  "kody_pocztowe": "61-318,61-321,61-323", 
   "numeracja": "1-2, 12, 14, 29"
  }, 
  "Rynarzewska": {
   "dlugosc": 204, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-133", 
   "numeracja": "3, 5-7, 9, 11, 13, 15, 17, 19"
  }, 
  "Rynkowa": {
   "dlugosc": 31, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-768", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Rypi\u0144ska": {
   "dlugosc": 61, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-19, 21"
  }, 
  "Rysia": {
   "dlugosc": 360, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-066", 
+  "kody_pocztowe": "61-065,61-066", 
   "numeracja": "1-4, 6, 8-11, 14, 17, 22"
  }, 
  "Ryszarda Berwi\u0144skiego": {
@@ -9284,7 +9284,7 @@
  "Rzecza\u0144ska": {
   "dlugosc": 403, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-249", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Rzeczna": {
@@ -9296,19 +9296,19 @@
  "Rzepi\u0144ska": {
   "dlugosc": 611, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-176", 
   "numeracja": "1, 3-6, 8, 11-14, 19, 23, 25, 27"
  }, 
  "Rzeszowska": {
   "dlugosc": 264, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-468", 
   "numeracja": "1-12, 14-15, 17"
  }, 
  "Rzewieniowa": {
   "dlugosc": 123, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3, 5, 7, 9, 11, 13"
  }, 
  "R\u00f3wna": {
@@ -9326,13 +9326,13 @@
  "R\u00f3\u017cany Targ": {
   "dlugosc": 72, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-772", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "R\u00f3\u017cyczkowa": {
   "dlugosc": 354, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "1-6, 8-10, 12-14, 16, 18, 20, 26"
  }, 
  "Sabiny": {
@@ -9344,19 +9344,19 @@
  "Sadnicka": {
   "dlugosc": 243, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-187", 
   "numeracja": "3-22, 24"
  }, 
  "Sadowa": {
   "dlugosc": 404, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-657", 
   "numeracja": "1, 3-40, 42"
  }, 
  "Safony": {
   "dlugosc": 117, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29"
  }, 
  "Salicka": {
@@ -9380,7 +9380,7 @@
  "Sanatoryjna": {
   "dlugosc": 351, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1-2, 4, 6, 8-10, 13, 15, 17"
  }, 
  "Sandomierska": {
@@ -9398,13 +9398,13 @@
  "Santocka": {
   "dlugosc": 288, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-431,60-432", 
   "numeracja": "1, 3, 5-18, 20, 22, 24-25, 27-30, 32-33, 35, 37-39, 41-43, 45-50, 52, 54, 56, 58, 60"
  }, 
  "Saperska": {
   "dlugosc": 993, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-493,61-494", 
+  "kody_pocztowe": "61-487,61-493,61-494", 
   "numeracja": "10, 12-27, 29, 31-49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119"
  }, 
  "Sarbinowska": {
@@ -9416,7 +9416,7 @@
  "Sarmacka": {
   "dlugosc": 1218, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-5, 7-16, 18-19, 21, 23, 25, 27, 29, 35-37, 39, 41, 43-46, 50-53, 55, 57, 59-61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 105"
  }, 
  "Sarnia": {
@@ -9428,7 +9428,7 @@
  "Sasankowa": {
   "dlugosc": 359, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "1-9, 11-21, 23-25, 27, 29, 31, 33, 35, 37"
  }, 
  "Sebastiana Klonowica": {
@@ -9446,19 +9446,19 @@
  "Seneki": {
   "dlugosc": 132, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "3-26"
  }, 
  "Serafitek": {
   "dlugosc": 426, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-144", 
+  "kody_pocztowe": "61-142,61-144", 
   "numeracja": "6, 8, 11"
  }, 
  "Serbska": {
   "dlugosc": 1674, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-696", 
   "numeracja": "3-12, 14, 16, 24"
  }, 
  "Serdeczna": {
@@ -9482,31 +9482,31 @@
  "Sianowska": {
   "dlugosc": 1588, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-431,60-453", 
   "numeracja": "1-2, 4, 7-10, 12, 14-40, 42-44, 46-55, 58, 60, 62-64, 66-80, 84, 86, 88, 90-106, 108, 112-114, 116, 118, 120, 122, 124, 126-129, 131-134, 138, 140-144, 146, 148, 150-152, 154, 156, 158, 160, 162"
  }, 
  "Siedmiogrodzka": {
   "dlugosc": 133, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-614", 
   "numeracja": "3-10"
  }, 
  "Sielawy": {
   "dlugosc": 152, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-619", 
   "numeracja": "3-10, 12-14"
  }, 
  "Sielska": {
   "dlugosc": 374, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-129", 
   "numeracja": "4-28, 32, 34, 36, 38, 40, 43-47"
  }, 
  "Sieradzka": {
   "dlugosc": 522, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-163", 
   "numeracja": "4-30, 32, 34, 36, 40, 42, 44, 46, 48"
  }, 
  "Sierakowska": {
@@ -9524,13 +9524,13 @@
  "Sierotki Marysi": {
   "dlugosc": 166, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-193", 
   "numeracja": "2, 4, 6, 8-21, 23-26, 28, 30, 32, 34, 36, 38, 40"
  }, 
  "Sierpowa": {
   "dlugosc": 1842, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-307", 
+  "kody_pocztowe": "61-306,61-307", 
   "numeracja": "2, 4, 7-10, 12, 14-17, 19, 21-24, 28-31, 36, 38-40, 42"
  }, 
  "Siewierska": {
@@ -9542,7 +9542,7 @@
  "Siewna": {
   "dlugosc": 453, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-692", 
   "numeracja": "1, 3, 5, 7, 9-11, 13, 15, 17, 19, 21, 23"
  }, 
  "Silniki": {
@@ -9554,19 +9554,19 @@
  "Si\u00f3str Misjonarek": {
   "dlugosc": 101, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-2, 4-6, 8, 10"
  }, 
  "Skalna": {
   "dlugosc": 335, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-113", 
   "numeracja": "1-23, 25-27, 29, 31, 33, 35"
  }, 
  "Skarszewska": {
   "dlugosc": 146, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-446", 
   "numeracja": "1, 3-12"
  }, 
  "Skawi\u0144ska": {
@@ -9596,7 +9596,7 @@
  "Skotarska": {
   "dlugosc": 502, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-625,61-631", 
   "numeracja": "2, 4, 6, 8, 12, 14, 16, 18, 20, 22, 24"
  }, 
  "Sko\u015bna": {
@@ -9608,7 +9608,7 @@
  "Skrajna": {
   "dlugosc": 279, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-106", 
   "numeracja": "1, 3"
  }, 
  "Skromna": {
@@ -9632,13 +9632,13 @@
  "Skrzypowa": {
   "dlugosc": 481, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-18, 20, 22"
  }, 
  "Skwierzy\u0144ska": {
   "dlugosc": 360, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "1-21, 23, 28, 30-35, 37-39, 41"
  }, 
  "Sk\u00f3rzewska": {
@@ -9656,19 +9656,19 @@
  "Smardzewska": {
   "dlugosc": 523, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-161", 
   "numeracja": "1-3, 5-23, 25, 27"
  }, 
  "Smoka Wawelskiego": {
   "dlugosc": 162, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-195", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42"
  }, 
  "Smole\u0144ska": {
   "dlugosc": 509, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "60-685", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Smolna": {
@@ -9704,7 +9704,7 @@
  "Sobotecka": {
   "dlugosc": 557, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-106,60-161", 
   "numeracja": "2-35, 37, 39, 41, 43, 45"
  }, 
  "Sochaczewska": {
@@ -9716,7 +9716,7 @@
  "Sofoklesa": {
   "dlugosc": 234, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-26, 29-61, 63, 65, 67, 69, 71, 73"
  }, 
  "Soko\u0142a": {
@@ -9740,13 +9740,13 @@
  "Sopocka": {
   "dlugosc": 143, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-473", 
   "numeracja": "3, 5-7, 10-12, 17, 19-24, 26"
  }, 
  "Soroki": {
   "dlugosc": 167, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "1-33, 35"
  }, 
  "Sosnowa": {
@@ -9770,7 +9770,7 @@
  "So\u0142tysia": {
   "dlugosc": 768, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-654", 
   "numeracja": "1, 3, 5-9, 11-12, 14-17, 19-22, 24-39, 41, 43"
  }, 
  "So\u015bnicka": {
@@ -9782,25 +9782,25 @@
  "Spacerowa": {
   "dlugosc": 203, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1-14, 16"
  }, 
  "Spadochronowa": {
   "dlugosc": 186, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-411", 
   "numeracja": "3, 5, 7, 9-16, 18"
  }, 
  "Spadzista": {
   "dlugosc": 43, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-565", 
+  "kody_pocztowe": "61-564,61-565", 
   "numeracja": "1"
  }, 
  "Spokojna": {
   "dlugosc": 232, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2-4, 6-21"
  }, 
  "Sporna": {
@@ -9818,13 +9818,13 @@
  "Sp\u0142awie": {
   "dlugosc": 2082, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-312", 
+  "kody_pocztowe": "61-312,61-313", 
   "numeracja": "5, 7, 9-35, 37, 39-51, 53, 55, 57, 59-61, 63-77, 79-93"
  }, 
  "Srebrna": {
   "dlugosc": 211, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-178", 
   "numeracja": "1-13, 15-19, 21, 23, 25, 27"
  }, 
  "Stalowa": {
@@ -9848,25 +9848,25 @@
  "Stanis\u0142awa Dygata": {
   "dlugosc": 69, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1"
  }, 
  "Stanis\u0142awa Grochowiaka": {
   "dlugosc": 191, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-13"
  }, 
  "Stanis\u0142awa Grzmota-Skotnickiego": {
   "dlugosc": 105, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "2-9, 11-13"
  }, 
  "Stanis\u0142awa Hejmowskiego": {
   "dlugosc": 125, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-717,61-736", 
   "numeracja": "1-2"
  }, 
  "Stanis\u0142awa Jachowicza": {
@@ -9920,13 +9920,13 @@
  "Stanis\u0142awa Lema": {
   "dlugosc": 144, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-9, 11"
  }, 
  "Stanis\u0142awa Matyi": {
   "dlugosc": 715, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-581,61-586", 
   "numeracja": "1-2"
  }, 
  "Stanis\u0142awa Ma\u0142achowskiego": {
@@ -9962,13 +9962,13 @@
  "Stanis\u0142awa Rostworowskiego": {
   "dlugosc": 641, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "16"
  }, 
  "Stanis\u0142awa Rungego": {
   "dlugosc": 87, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18"
  }, 
  "Stanis\u0142awa Skalskiego": {
@@ -9980,7 +9980,7 @@
  "Stanis\u0142awa Skar\u017cy\u0144skiego": {
   "dlugosc": 236, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "17"
  }, 
  "Stanis\u0142awa Staszica": {
@@ -10016,13 +10016,13 @@
  "Stanis\u0142awa Wiechowicza": {
   "dlugosc": 392, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-681", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Stanis\u0142awa Wigury": {
   "dlugosc": 304, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-409", 
   "numeracja": "1, 5, 7-17, 19, 21, 23, 25, 27"
  }, 
  "Stanis\u0142awa Worcella": {
@@ -10058,25 +10058,25 @@
  "Starogardzka": {
   "dlugosc": 488, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-446", 
   "numeracja": "1-14, 16, 18, 20, 22-29, 31-41, 43-44, 48, 53, 62, 65, 69"
  }, 
  "Starowiejska": {
   "dlugosc": 368, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-664", 
   "numeracja": "1, 4-6, 8, 10, 12, 16, 18"
  }, 
  "Staro\u0142\u0119cka": {
   "dlugosc": 5874, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-341,61-361", 
+  "kody_pocztowe": "61-333,61-341,61-344,61-361,61-366", 
   "numeracja": "1-3, 5, 7, 9, 11-13, 15, 18-20, 31-50, 52, 56-58, 60-66, 68, 70, 72-74, 76, 78-97, 100-103, 106-126, 128-130, 132, 134-139, 142, 145, 147, 149, 160, 162, 164-168, 170, 174, 176-178, 180-181, 183-184, 186-202, 204-210, 212-214, 216-218, 220-229, 231-233, 236-238, 240-241, 244-248, 250-257, 259, 261, 263, 265, 267, 269, 271, 273-276, 278-279, 294, 298, 310-313, 315, 317, 319, 321"
  }, 
  "Startowa": {
   "dlugosc": 279, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "1-12, 14-22"
  }, 
  "Stary Rynek": {
@@ -10094,7 +10094,7 @@
  "Stawna": {
   "dlugosc": 179, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-759", 
+  "kody_pocztowe": "61-759,61-763", 
   "numeracja": "8, 10-12"
  }, 
  "Stefana Balickiego": {
@@ -10106,7 +10106,7 @@
  "Stefana Czarnieckiego": {
   "dlugosc": 236, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-538", 
+  "kody_pocztowe": "61-517,61-538", 
   "numeracja": "2-9, 12, 14-15"
  }, 
  "Stefana Drzewieckiego": {
@@ -10118,19 +10118,19 @@
  "Stefana Grota-Roweckiego": {
   "dlugosc": 104, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-695", 
   "numeracja": "1-28"
  }, 
  "Stefana Jaracza": {
   "dlugosc": 144, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33"
  }, 
  "Stefana Kisielewskiego": {
   "dlugosc": 144, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2-10"
  }, 
  "Stefana Okrzei": {
@@ -10142,25 +10142,25 @@
  "Stefana R\u00f3\u017cyckiego": {
   "dlugosc": 113, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13"
  }, 
  "Stefana Stoi\u0144skiego": {
   "dlugosc": 533, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-614", 
   "numeracja": "11"
  }, 
  "Stefana Szolca-Rogozi\u0144skiego": {
   "dlugosc": 239, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-332", 
   "numeracja": "4"
  }, 
  "Stefana Vrtela-Wierczy\u0144skiego": {
   "dlugosc": 452, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "8, 10, 12, 14, 16, 18"
  }, 
  "Stefana \u017beromskiego": {
@@ -10178,7 +10178,7 @@
  "Sterowa": {
   "dlugosc": 105, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "2-4, 6"
  }, 
  "Stewnicka": {
@@ -10190,7 +10190,7 @@
  "Stobnicka": {
   "dlugosc": 1242, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1-2, 5, 53, 77, 79, 85, 93, 97"
  }, 
  "Stobrawska": {
@@ -10202,7 +10202,7 @@
  "Stokrotkowa": {
   "dlugosc": 1028, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "3-9, 11, 13, 15, 17-23, 26-27, 29, 32-33, 35, 37, 39, 41, 47"
  }, 
  "Stolarska": {
@@ -10214,19 +10214,19 @@
  "Storczykowa": {
   "dlugosc": 165, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "1, 3-5, 7-9, 11, 13"
  }, 
  "Stra\u017cy Ludowej": {
   "dlugosc": 594, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "4-15, 17-30, 32-38, 42, 46, 48, 50, 52, 54, 56, 58"
  }, 
  "Strykowska": {
   "dlugosc": 149, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-102", 
   "numeracja": "1, 4, 6, 11-12, 14"
  }, 
  "Strza\u0142kowska": {
@@ -10250,7 +10250,7 @@
  "Strzegomska": {
   "dlugosc": 954, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-194", 
   "numeracja": "3"
  }, 
  "Strzelca": {
@@ -10262,19 +10262,19 @@
  "Strzelecka": {
   "dlugosc": 192, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-845,61-846", 
+  "kody_pocztowe": "61-845,61-846,61-848,61-878", 
   "numeracja": "1-2, 5-6, 8, 10-14, 16-23, 25, 27-35, 37, 39-46, 48-50, 52"
  }, 
  "Strzeli\u0144ska": {
   "dlugosc": 301, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-169", 
   "numeracja": "2-24"
  }, 
  "Strzeszy\u0144ska": {
   "dlugosc": 3401, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-479", 
   "numeracja": "23, 27, 29-36, 38, 48, 50, 52, 54, 56, 58, 60-70, 72-76, 78-80, 82, 84, 86, 88-90, 92-102, 104-112, 114-122, 124-131, 133-140, 142, 145-146, 148, 150-151, 153-156, 158, 160-177, 179-193, 195-274, 276, 278-280, 282-284, 286, 288, 290, 292-294, 296, 298"
  }, 
  "Strzy\u017cowska": {
@@ -10292,7 +10292,7 @@
  "St\u0119szewska": {
   "dlugosc": 823, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-111", 
   "numeracja": "1, 3-15, 17-27, 29-34, 36-48, 50, 54, 56, 58"
  }, 
  "Sucha": {
@@ -10304,7 +10304,7 @@
  "Sucholeska": {
   "dlugosc": 261, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-479", 
   "numeracja": "32, 34"
  }, 
  "Sulechowska": {
@@ -10316,19 +10316,19 @@
  "Suliszewska": {
   "dlugosc": 135, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-438", 
   "numeracja": "3, 5, 7, 9, 11, 15"
  }, 
  "Sulmierzycka": {
   "dlugosc": 97, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-111", 
   "numeracja": "1-2"
  }, 
  "Suwalska": {
   "dlugosc": 466, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-17, 19, 21, 23, 25, 27, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 193, 195, 197, 199, 201"
  }, 
  "Su\u0142kowicka": {
@@ -10340,7 +10340,7 @@
  "Su\u0142owska": {
   "dlugosc": 123, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-439", 
   "numeracja": "1-14, 16, 18, 20, 22, 24"
  }, 
  "Swantibora": {
@@ -10352,7 +10352,7 @@
  "Swaro\u017cyca": {
   "dlugosc": 209, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "1-20"
  }, 
  "Swarz\u0119dzka": {
@@ -10364,31 +10364,31 @@
  "Swoboda": {
   "dlugosc": 934, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-389,60-391", 
+  "kody_pocztowe": "60-389,60-391,60-398", 
   "numeracja": "1-3, 5-23, 25-54, 56-60, 62, 64, 66, 68"
  }, 
  "Swojska": {
   "dlugosc": 424, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-592", 
+  "kody_pocztowe": "60-592,60-593", 
   "numeracja": "1, 3, 5-7, 9-11, 13, 15-19, 21"
  }, 
  "Sycowska": {
   "dlugosc": 1956, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-003", 
+  "kody_pocztowe": "60-003,60-004", 
   "numeracja": "4-5, 8-19, 21, 23-24, 26, 28, 32, 34, 36, 38, 40, 42, 44, 46, 48-51"
  }, 
  "Sycylijska": {
   "dlugosc": 57, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1, 3-6"
  }, 
  "Syn\u00f3w Pu\u0142ku": {
   "dlugosc": 211, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-462", 
   "numeracja": "1, 4, 6-7, 9-29, 31, 33, 35, 37"
  }, 
  "Sypniewo": {
@@ -10406,13 +10406,13 @@
  "Sytkowska": {
   "dlugosc": 849, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-413", 
   "numeracja": "2, 4, 6-7, 13, 19, 21, 23, 25, 29, 34, 37, 39, 41, 43, 45"
  }, 
  "Szadecka": {
   "dlugosc": 436, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-162", 
   "numeracja": "1-11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31"
  }, 
  "Szafirowa": {
@@ -10424,7 +10424,7 @@
  "Szaflarska": {
   "dlugosc": 159, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-473", 
   "numeracja": "3-4, 6-10"
  }, 
  "Szamoci\u0144ska": {
@@ -10442,43 +10442,43 @@
  "Szantowa": {
   "dlugosc": 141, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "2, 6, 11"
  }, 
  "Szarotkowa": {
   "dlugosc": 1910, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "8, 10, 12, 14, 16, 21-22, 24-26, 28-30, 32, 35-44, 47, 49-57, 59-77, 79-91, 93, 95-119, 121-127, 129, 131-144, 146, 148, 150, 152, 154, 156, 158, 160, 162, 164, 166, 168, 170, 172, 174, 176, 182, 184, 186, 188"
  }, 
  "Szarych Szereg\u00f3w": {
   "dlugosc": 950, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-462", 
   "numeracja": "2-10, 12-13, 15-18, 20, 22-40, 42, 44, 48, 53"
  }, 
  "Sza\u0142wiowa": {
   "dlugosc": 377, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2, 4, 6"
  }, 
  "Szczawiowa": {
   "dlugosc": 216, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3-12, 14, 16-22, 24, 26"
  }, 
  "Szczawnicka": {
   "dlugosc": 450, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-471", 
   "numeracja": "1-2, 4, 28, 32, 36, 40, 44, 60, 66, 68, 70, 72, 74, 76, 78, 90, 92, 94, 96, 98, 102, 110, 112, 118, 120"
  }, 
  "Szczeci\u0144ska": {
   "dlugosc": 58, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-192", 
   "numeracja": "2, 4-8"
  }, 
  "Szczepankowo": {
@@ -10490,7 +10490,7 @@
  "Szczytnicka": {
   "dlugosc": 345, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-167", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Szcz\u0119sna": {
@@ -10508,25 +10508,25 @@
  "Szeherezady": {
   "dlugosc": 503, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-195", 
   "numeracja": "1-48, 50, 52-88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136"
  }, 
  "Szel\u0105gowska": {
   "dlugosc": 1344, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-626", 
   "numeracja": "11-31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65"
  }, 
  "Szewska": {
   "dlugosc": 301, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-760", 
+  "kody_pocztowe": "61-760,61-762", 
   "numeracja": "1-5, 7-10, 13-16, 18-21"
  }, 
  "Szklarniowa": {
   "dlugosc": 1045, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1, 3-11, 13-16, 18-19, 21, 23"
  }, 
  "Szkolna": {
@@ -10544,13 +10544,13 @@
  "Szkunerowa": {
   "dlugosc": 177, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "4, 6-19, 21, 23"
  }, 
  "Szkutnicza": {
   "dlugosc": 181, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1-15, 17, 19, 21, 23, 25"
  }, 
  "Szlachecka": {
@@ -10562,13 +10562,13 @@
  "Szmaragdowa": {
   "dlugosc": 163, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28"
  }, 
  "Szopienicka": {
   "dlugosc": 132, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "60-361", 
+  "kody_pocztowe": "61-361", 
   "numeracja": "1, 5, 7-8, 11-12"
  }, 
  "Szpak\u00f3w": {
@@ -10586,7 +10586,7 @@
  "Szreniawska": {
   "dlugosc": 85, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-102", 
   "numeracja": "3-6, 8"
  }, 
  "Szronowa": {
@@ -10598,31 +10598,31 @@
  "Sztormowa": {
   "dlugosc": 97, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1-10"
  }, 
  "Szubi\u0144ska": {
   "dlugosc": 519, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-114", 
   "numeracja": "3-14, 16, 18, 20, 22, 24, 26, 28, 30, 32"
  }, 
  "Szwajcarska": {
   "dlugosc": 1285, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-285", 
+  "kody_pocztowe": "61-064,61-285", 
   "numeracja": "1, 3, 5, 7, 11, 13-15"
  }, 
  "Szwedzka": {
   "dlugosc": 1195, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-285", 
   "numeracja": "2, 4, 6, 8, 10, 12"
  }, 
  "Szybowcowa": {
   "dlugosc": 298, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-408", 
   "numeracja": "2, 4-6, 8-18, 20, 22, 24, 26"
  }, 
  "Szyd\u0142owiecka": {
@@ -10634,7 +10634,7 @@
  "Szyd\u0142owska": {
   "dlugosc": 1314, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-651,60-656", 
+  "kody_pocztowe": "60-627,60-651,60-656", 
   "numeracja": "1-22, 24, 26, 29, 31-37, 39-44, 46, 50, 53, 58, 60, 64"
  }, 
  "Szymborska": {
@@ -10670,13 +10670,13 @@
  "S\u0119pole\u0144ska": {
   "dlugosc": 143, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-446", 
   "numeracja": "5-6, 8-9, 11, 13, 15"
  }, 
  "S\u0142awi\u0144ska": {
   "dlugosc": 233, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-183", 
   "numeracja": "1, 3, 5, 7-15, 17-18, 20, 22, 26, 28, 30-34, 36-38, 40, 42, 46, 48, 50, 52"
  }, 
  "S\u0142awomira": {
@@ -10688,25 +10688,25 @@
  "S\u0142ody\u0144ska": {
   "dlugosc": 824, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "2, 4, 6-8, 14-17, 19, 21, 23, 25, 27, 29-30, 32-37, 39-43"
  }, 
  "S\u0142omiana": {
   "dlugosc": 227, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-625", 
   "numeracja": "2, 4-19, 21, 23"
  }, 
  "S\u0142oneczna": {
   "dlugosc": 1176, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-286", 
+  "kody_pocztowe": "60-148,60-286", 
   "numeracja": "1-25, 27, 29, 31, 33, 35-37, 39-46, 48, 50-57, 59, 61, 63, 65, 67"
  }, 
  "S\u0142onecznikowa": {
   "dlugosc": 295, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "8, 10, 12, 14, 16, 18, 20, 22, 24, 28"
  }, 
  "S\u0142onimska": {
@@ -10718,19 +10718,19 @@
  "S\u0142owia\u0144ska": {
   "dlugosc": 2083, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-664", 
   "numeracja": "32, 36, 38, 40, 42, 50, 52-53, 55, 70, 78"
  }, 
  "S\u0142owicza": {
   "dlugosc": 166, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-121,60-123", 
   "numeracja": "15, 18, 20, 22, 24, 26, 28, 30, 32"
  }, 
  "S\u0142ubicka": {
   "dlugosc": 206, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "1-20"
  }, 
  "S\u0142upecka": {
@@ -10742,7 +10742,7 @@
  "S\u0142upska": {
   "dlugosc": 4269, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-458", 
   "numeracja": "1, 5-8, 10, 12, 14-17, 20-22, 24-29, 31, 33, 36-40, 42-43, 45, 47, 49, 51, 53, 57-63, 65, 67, 69, 71, 73, 75, 86, 89-91, 93, 95, 122-124, 139, 145, 154, 161, 163, 234"
  }, 
  "Taborowa": {
@@ -10754,13 +10754,13 @@
  "Tadeusza Boya-\u017bele\u0144skiego": {
   "dlugosc": 543, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1, 3, 5-7, 9-11, 13-15, 17-25, 27, 29"
  }, 
  "Tadeusza Gajcego": {
   "dlugosc": 255, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-6, 8-13, 15-18, 20, 24"
  }, 
  "Tadeusza Kotarbi\u0144skiego": {
@@ -10784,7 +10784,7 @@
  "Tadeusza Rejtana": {
   "dlugosc": 354, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-653", 
+  "kody_pocztowe": "60-653,60-654", 
   "numeracja": "1-6, 8-9, 11, 13"
  }, 
  "Tadeusza Rugego": {
@@ -10796,13 +10796,13 @@
  "Tadeusza Szeligowskiego": {
   "dlugosc": 1676, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-685", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Tadeusza Vetulaniego": {
   "dlugosc": 167, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-409", 
+  "kody_pocztowe": "61-409,61-412", 
   "numeracja": "2-4, 6, 8, 10-12, 14, 16"
  }, 
  "Tarczowa": {
@@ -10832,31 +10832,31 @@
  "Tatarakowa": {
   "dlugosc": 72, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3-8"
  }, 
  "Tatrza\u0144ska": {
   "dlugosc": 380, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-413", 
   "numeracja": "1, 4, 6-14, 16, 18, 20, 22, 24, 26, 34"
  }, 
  "Tczewska": {
   "dlugosc": 496, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-454", 
   "numeracja": "2-8, 10-14, 19-20, 25, 27, 29, 33, 35, 43"
  }, 
  "Templi\u0144ska": {
   "dlugosc": 958, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-187,60-189", 
   "numeracja": "3, 5, 7, 9, 15, 17, 21-26, 28-36, 38, 40, 43, 45, 47-63, 65-78, 80"
  }, 
  "Teodora Parnickiego": {
   "dlugosc": 235, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "3, 5-13"
  }, 
  "Teodora Tyca": {
@@ -10874,7 +10874,7 @@
  "Teokryta": {
   "dlugosc": 204, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-28, 30-31, 33-51, 53, 55"
  }, 
  "Terespolska": {
@@ -10886,7 +10886,7 @@
  "Termalna": {
   "dlugosc": 1374, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-028", 
   "numeracja": "1, 5"
  }, 
  "Ternicka": {
@@ -10922,7 +10922,7 @@
  "Topazowa": {
   "dlugosc": 103, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-16"
  }, 
  "Topolowa": {
@@ -10934,7 +10934,7 @@
  "Torfowa": {
   "dlugosc": 234, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-106", 
   "numeracja": "1-4, 6, 8, 10"
  }, 
  "Torowa": {
@@ -10952,13 +10952,13 @@
  "Toska\u0144ska": {
   "dlugosc": 140, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-616", 
   "numeracja": "1-4, 6-9, 12, 14, 16"
  }, 
  "Towarowa": {
   "dlugosc": 145, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-585,61-586,61-896", 
+  "kody_pocztowe": "61-896,61-897", 
   "numeracja": "35, 37, 41, 43, 45, 47, 53, 55"
  }, 
  "Trebli\u0144ska": {
@@ -10976,7 +10976,7 @@
  "Truskawiecka": {
   "dlugosc": 298, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-478", 
   "numeracja": "1-13"
  }, 
  "Truskawkowa": {
@@ -10994,19 +10994,19 @@
  "Trzcianecka": {
   "dlugosc": 370, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-434", 
   "numeracja": "2-6, 8-10, 12-14, 16, 18, 20, 22, 24-29"
  }, 
  "Trzebawska": {
   "dlugosc": 593, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-102", 
   "numeracja": "1, 3-26"
  }, 
  "Trzebiatowska": {
   "dlugosc": 1264, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-432,60-454", 
   "numeracja": "1, 3, 5-13, 15-23, 25-49, 51-73, 75-76, 78-85, 87"
  }, 
  "Trzebi\u0144ska": {
@@ -11024,49 +11024,49 @@
  "Tr\u00f3jpole": {
   "dlugosc": 455, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-692,61-693", 
   "numeracja": "2-3, 7, 9, 11, 21, 23"
  }, 
  "Tr\u0119backa": {
   "dlugosc": 97, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-139", 
   "numeracja": "1, 3, 5-6"
  }, 
  "Tucholska": {
   "dlugosc": 318, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-446", 
   "numeracja": "2-6, 8-14, 16, 18, 20, 22, 24"
  }, 
  "Tulipanowa": {
   "dlugosc": 84, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "1-9"
  }, 
  "Turkusowa": {
   "dlugosc": 407, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-658", 
+  "kody_pocztowe": "60-658,60-661", 
   "numeracja": "1, 3, 5-6, 8"
  }, 
  "Turniowa": {
   "dlugosc": 482, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-116", 
   "numeracja": "5-41"
  }, 
  "Turystyczna": {
   "dlugosc": 203, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1, 3-10, 12, 17, 19-22, 25, 27, 29"
  }, 
  "Twardog\u00f3rska": {
   "dlugosc": 153, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-169", 
   "numeracja": "2-11"
  }, 
  "Tyczy\u0144ska": {
@@ -11078,7 +11078,7 @@
  "Tylicka": {
   "dlugosc": 91, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-471", 
   "numeracja": "1, 3, 5"
  }, 
  "Tylne Chwaliszewo": {
@@ -11090,7 +11090,7 @@
  "Tymiankowa": {
   "dlugosc": 348, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-12, 14"
  }, 
  "Tyniecka": {
@@ -11102,13 +11102,13 @@
  "Tyrwacka": {
   "dlugosc": 275, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-615", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29"
  }, 
  "Tyska": {
   "dlugosc": 85, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-472", 
   "numeracja": "4"
  }, 
  "T\u0119czowa": {
@@ -11120,13 +11120,13 @@
  "Ugory": {
   "dlugosc": 406, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-622,61-623", 
   "numeracja": "18, 63, 67-68, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 95"
  }, 
  "Umultowska": {
   "dlugosc": 2292, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-614,61-680", 
   "numeracja": "1, 5, 7, 9, 11, 13, 15, 23, 29, 32, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 67, 85, 87, 89, 97, 99-103, 105, 107, 109, 111, 113, 115-120, 122-127, 129"
  }, 
  "Unii Lubelskiej": {
@@ -11150,7 +11150,7 @@
  "Uradzka": {
   "dlugosc": 667, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-012", 
+  "kody_pocztowe": "60-009,60-012", 
   "numeracja": "3-20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 60, 62, 64"
  }, 
  "Urbanowska": {
@@ -11162,13 +11162,13 @@
  "Urocza": {
   "dlugosc": 423, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-601", 
   "numeracja": "1-29, 31-41, 43-48"
  }, 
  "Urodzajna": {
   "dlugosc": 112, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-312", 
   "numeracja": "3, 5, 7-8, 10-11"
  }, 
  "Urszulanek": {
@@ -11210,7 +11210,7 @@
  "Uzdrowiskowa": {
   "dlugosc": 584, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "2"
  }, 
  "Uznamska": {
@@ -11240,7 +11240,7 @@
  "Wac\u0142awa Stra\u017cewicza": {
   "dlugosc": 155, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20-21"
  }, 
  "Wadowicka": {
@@ -11270,7 +11270,7 @@
  "Walerego Wr\u00f3blewskiego": {
   "dlugosc": 338, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-414", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Wandy": {
@@ -11318,19 +11318,19 @@
  "Warpnowska": {
   "dlugosc": 593, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-453,60-458", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16-20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 42-48, 50"
  }, 
  "Warszawska": {
   "dlugosc": 6287, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-028,61-031,61-041,61-047,61-055,61-057,61-113,61-128", 
+  "kody_pocztowe": "61-028,61-031,61-041,61-047,61-055,61-057,61-113", 
   "numeracja": "17, 19, 25, 27, 29, 31, 33, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 71-73, 75, 77, 79, 81-85, 87-89, 91-94, 96, 98-117, 119, 121-133, 135, 137, 139, 141-143, 145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 165, 167, 169, 171, 173, 175, 181, 183-185, 231, 246, 349, 361, 363, 365, 367, 369, 373"
  }, 
  "Warzywna": {
   "dlugosc": 287, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-658", 
   "numeracja": "1-19, 24"
  }, 
  "Wawerska": {
@@ -11342,19 +11342,19 @@
  "Wawrzy\u0144ca Engestr\u00f6ma": {
   "dlugosc": 334, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-571", 
   "numeracja": "4, 10-12, 15-16, 18, 20-22, 24"
  }, 
  "Wa\u0142brzyska": {
   "dlugosc": 338, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-198", 
   "numeracja": "1-2, 5-7, 9, 11, 13"
  }, 
  "Wa\u0142ecka": {
   "dlugosc": 1880, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-2"
  }, 
  "Wczasowa": {
@@ -11366,7 +11366,7 @@
  "Wejherowska": {
   "dlugosc": 779, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-446,60-447,60-451", 
   "numeracja": "2-4, 10, 24"
  }, 
  "Wenecja\u0144ska": {
@@ -11378,19 +11378,19 @@
  "Wened\u00f3w": {
   "dlugosc": 128, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-614", 
   "numeracja": "1-2, 4, 6-11, 13, 15, 17"
  }, 
  "Wergiliusza": {
   "dlugosc": 1109, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "2-18, 20, 22-25, 27-30, 32, 34, 36, 38, 40, 42-43, 45-48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72"
  }, 
  "Weso\u0142a": {
   "dlugosc": 40, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-598", 
+  "kody_pocztowe": "60-593,60-598", 
   "numeracja": "3-4, 6"
  }, 
  "Wiankowa": {
@@ -11408,7 +11408,7 @@
  "Wichrowa": {
   "dlugosc": 701, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-449", 
   "numeracja": "1, 4-5, 7-10, 12, 14, 16, 18, 20, 22, 24, 26, 28"
  }, 
  "Widawska": {
@@ -11426,7 +11426,7 @@
  "Wid\u0142akowa": {
   "dlugosc": 551, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "2-25, 27, 29"
  }, 
  "Wiece": {
@@ -11438,7 +11438,7 @@
  "Wieczorynki": {
   "dlugosc": 430, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-193", 
   "numeracja": "2-23, 25, 27-39, 41-57, 59, 61, 63, 65, 67, 69"
  }, 
  "Wiede\u0144ska": {
@@ -11468,7 +11468,7 @@
  "Wielkopolska": {
   "dlugosc": 802, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-603,60-608", 
+  "kody_pocztowe": null, 
   "numeracja": "2, 4, 6-8, 10-14, 16, 19, 21, 26-36, 39-45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67"
  }, 
  "Wielu\u0144ska": {
@@ -11492,13 +11492,13 @@
  "Wieruszowska": {
   "dlugosc": 959, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-166", 
   "numeracja": "2, 10, 12, 18, 20, 22"
  }, 
  "Wierzbi\u0119cice": {
   "dlugosc": 970, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-547,61-548,61-558,61-559,61-561,61-565,61-568,61-569", 
+  "kody_pocztowe": "61-547,61-548,61-558,61-559,61-561,61-565,61-568,61-569,61-576", 
   "numeracja": "1-46, 49-59, 63-66"
  }, 
  "Wierzbowa": {
@@ -11510,7 +11510,7 @@
  "Wiesio\u0142kowa": {
   "dlugosc": 541, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-17, 19, 21, 23-51, 53, 55, 59, 61"
  }, 
  "Wies\u0142awy": {
@@ -11522,13 +11522,13 @@
  "Wietrzna": {
   "dlugosc": 141, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "3-6"
  }, 
  "Wietrzykowskich": {
   "dlugosc": 375, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16-22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76"
  }, 
  "Wiewi\u00f3rcza": {
@@ -11558,7 +11558,7 @@
  "Wiktora Pacajewa": {
   "dlugosc": 361, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-621", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Wilanowska": {
@@ -11576,13 +11576,13 @@
  "Wilczak": {
   "dlugosc": 937, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-623", 
   "numeracja": "3-18, 20, 22, 24, 26, 45, 49, 51, 53"
  }, 
  "Wile\u0144ska": {
   "dlugosc": 409, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-024", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Wilhelma Grimma": {
@@ -11600,19 +11600,19 @@
  "Wilk\u00f3w Morskich": {
   "dlugosc": 1373, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "2-3, 5, 7-18, 20-33, 35-41, 43, 45, 48, 50, 52, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 82, 84, 90"
  }, 
  "Willowa": {
   "dlugosc": 191, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15"
  }, 
  "Wincentego Jezierskiego": {
   "dlugosc": 103, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "4, 6, 8, 10"
  }, 
  "Wincentego Kad\u0142ubka": {
@@ -11630,7 +11630,7 @@
  "Wincentego Rapackiego": {
   "dlugosc": 86, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16"
  }, 
  "Wincentego R\u00f3\u017ca\u0144skiego": {
@@ -11648,7 +11648,7 @@
  "Wincentego Witosa": {
   "dlugosc": 1858, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-693", 
   "numeracja": "45"
  }, 
  "Winiarska": {
@@ -11660,19 +11660,19 @@
  "Winna": {
   "dlugosc": 206, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-658", 
   "numeracja": "2-15, 17, 19"
  }, 
  "Winogrady": {
   "dlugosc": 2103, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-626,61-659,61-663", 
   "numeracja": "6, 8-12, 14, 16, 18, 20-38, 40, 42-47, 49-54, 56, 58-64, 66-72, 74, 76, 78, 80, 82-83, 86, 88-90, 92, 94, 96, 98, 100, 102-104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128-151"
  }, 
  "Winogronowa": {
   "dlugosc": 274, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-306", 
   "numeracja": "3, 5-10, 12, 14-16"
  }, 
  "Wiosenna": {
@@ -11690,13 +11690,13 @@
  "Wirska": {
   "dlugosc": 93, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-456", 
   "numeracja": "1-2, 4, 7"
  }, 
  "Wis\u0142ocka": {
   "dlugosc": 126, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-406", 
   "numeracja": "1, 3-8"
  }, 
  "Witkowska": {
@@ -11708,7 +11708,7 @@
  "Witnicka": {
   "dlugosc": 173, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-182,60-183", 
   "numeracja": "2-3"
  }, 
  "Witolda Gombrowicza": {
@@ -11720,7 +11720,7 @@
  "Witolda Pileckiego": {
   "dlugosc": 498, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-4, 6, 8, 10, 12, 14, 16"
  }, 
  "Witos\u0142awa": {
@@ -11732,7 +11732,7 @@
  "Wituchowska": {
   "dlugosc": 405, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-427", 
   "numeracja": "3-46"
  }, 
  "Wi\u0105zowa": {
@@ -11750,7 +11750,7 @@
  "Wi\u015blana": {
   "dlugosc": 814, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-401", 
   "numeracja": "14-15, 17-54, 56-64, 66-70, 72, 75, 77"
  }, 
  "Wi\u015blicka": {
@@ -11768,7 +11768,7 @@
  "Wodna": {
   "dlugosc": 441, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-781,61-782", 
+  "kody_pocztowe": "61-781,61-782,61-869", 
   "numeracja": "3, 7-8, 10-13, 15, 17, 20-24, 27-28"
  }, 
  "Wodnika": {
@@ -11780,7 +11780,7 @@
  "Wojciecha Bogus\u0142awskiego": {
   "dlugosc": 946, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-214", 
+  "kody_pocztowe": "60-209,60-214", 
   "numeracja": "2, 4, 10-12, 14, 16, 18-19, 21-22, 24, 26-27, 29-32, 34"
  }, 
  "Wojciecha B\u0105ka": {
@@ -11834,7 +11834,7 @@
  "Woli\u0144ska": {
   "dlugosc": 146, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-418", 
   "numeracja": "8-9"
  }, 
  "Wolne Tory": {
@@ -11870,7 +11870,7 @@
  "Wo\u0142czy\u0144ska": {
   "dlugosc": 1244, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-003", 
+  "kody_pocztowe": "60-003,60-167", 
   "numeracja": "13, 15, 17-19, 21, 23-24, 32, 41, 43, 45-47, 49-51"
  }, 
  "Wo\u0142kowyska": {
@@ -11882,7 +11882,7 @@
  "Wo\u0142owska": {
   "dlugosc": 980, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-161,60-167", 
   "numeracja": "39-41, 43-45, 47-49, 51, 53-55, 58, 64, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 98, 100, 102-103, 105-110, 112, 114, 116"
  }, 
  "Wo\u0142y\u0144ska": {
@@ -11900,7 +11900,7 @@
  "Wo\u017anicka": {
   "dlugosc": 127, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-168", 
   "numeracja": "1-5, 7"
  }, 
  "Wroc\u0142awska": {
@@ -11912,7 +11912,7 @@
  "Wronczy\u0144ska": {
   "dlugosc": 261, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-102", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32"
  }, 
  "Wroniecka": {
@@ -11924,7 +11924,7 @@
  "Wrotyczowa": {
   "dlugosc": 98, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-614", 
   "numeracja": "3-4, 6-10"
  }, 
  "Wrzesi\u0144ska": {
@@ -11948,13 +11948,13 @@
  "Wschowska": {
   "dlugosc": 103, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-164", 
   "numeracja": "7-10, 12, 14, 16"
  }, 
  "Wsp\u00f3lna": {
   "dlugosc": 700, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-479,61-481", 
+  "kody_pocztowe": "61-479,61-481,61-492", 
   "numeracja": "12, 14, 17, 19-30, 32, 36-41, 45, 47, 49, 51, 53, 55, 57-59, 61, 63, 65"
  }, 
  "Wszystkich \u015awi\u0119tych": {
@@ -11984,7 +11984,7 @@
  "Wyrzyska": {
   "dlugosc": 290, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-425", 
   "numeracja": "4, 7, 9, 11, 13, 18"
  }, 
  "Wysoka": {
@@ -11996,31 +11996,31 @@
  "Wyszeborska": {
   "dlugosc": 155, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-188", 
   "numeracja": "1, 3-14, 16, 18"
  }, 
  "Wyszomierska": {
   "dlugosc": 584, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184,60-194", 
   "numeracja": "2-6, 8-23"
  }, 
  "Wyzwolenia": {
   "dlugosc": 1407, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-204", 
+  "kody_pocztowe": "61-397", 
   "numeracja": "4"
  }, 
  "Wy\u0142om": {
   "dlugosc": 335, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-671", 
   "numeracja": "4, 6, 8, 10, 14, 16, 18, 20, 22, 24, 26, 28"
  }, 
  "Wy\u017cyny": {
   "dlugosc": 962, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-654,61-658", 
   "numeracja": "1, 4, 6, 8, 13, 15-16, 18-19, 21-22, 24-25, 28, 30, 32"
  }, 
  "Wzg\u00f3rze \u015bw. Wojciecha": {
@@ -12032,13 +12032,13 @@
  "Wzlotowa": {
   "dlugosc": 324, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-411", 
   "numeracja": "1, 3-22, 24, 26, 28, 30, 32"
  }, 
  "W\u00f3jtowska": {
   "dlugosc": 334, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-654", 
   "numeracja": "1-35"
  }, 
  "W\u0105ska": {
@@ -12050,13 +12050,13 @@
  "W\u0119glowa": {
   "dlugosc": 352, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-122", 
   "numeracja": "1, 9, 22"
  }, 
  "W\u0119gorzewska": {
   "dlugosc": 228, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-464,60-466", 
   "numeracja": "1, 3-14, 16-17, 21, 25"
  }, 
  "W\u0142adymira": {
@@ -12110,7 +12110,7 @@
  "W\u0142adys\u0142awa Pniewskiego": {
   "dlugosc": 266, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "60-692", 
+  "kody_pocztowe": "60-691,60-692", 
   "numeracja": "1-24"
  }, 
  "W\u0142adys\u0142awa Reymonta": {
@@ -12140,7 +12140,7 @@
  "W\u0142adys\u0142awa W\u0119gorka": {
   "dlugosc": 718, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-318", 
   "numeracja": "15, 20, 22"
  }, 
  "W\u0142adys\u0142awa Zamoyskiego": {
@@ -12152,31 +12152,31 @@
  "W\u0142oc\u0142awska": {
   "dlugosc": 547, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-046", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "W\u0142odarska": {
   "dlugosc": 383, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-625", 
   "numeracja": "11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31"
  }, 
  "W\u0142odzimierza Majakowskiego": {
   "dlugosc": 1993, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-066", 
+  "kody_pocztowe": "61-065,61-066", 
   "numeracja": "308-312, 316, 318, 322, 324, 326, 328, 330-350, 353, 356, 365, 387, 395"
  }, 
  "W\u0142oszakowicka": {
   "dlugosc": 184, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-103", 
   "numeracja": "1, 3-17"
  }, 
  "W\u0142o\u015bcia\u0144ska": {
   "dlugosc": 268, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-681,60-687", 
   "numeracja": "1, 6, 8, 18, 20"
  }, 
  "Xawerego Dunikowskiego": {
@@ -12200,19 +12200,19 @@
  "Za Cytadel\u0105": {
   "dlugosc": 1932, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-659,61-663", 
   "numeracja": "1-36, 38, 40, 42, 44, 46, 50, 52-54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 118, 120-122, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144"
  }, 
  "Za Grobl\u0105": {
   "dlugosc": 204, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-860", 
+  "kody_pocztowe": "61-859,61-860", 
   "numeracja": "1-3, 5-9"
  }, 
  "Zaborowska": {
   "dlugosc": 85, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-334", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Zabrza\u0144ska": {
@@ -12236,19 +12236,19 @@
  "Zagajnikowa": {
   "dlugosc": 1241, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-602", 
   "numeracja": "2, 4, 6, 8-10, 12, 14, 16, 26, 28, 30, 32-33, 35, 39, 43, 47, 49, 55"
  }, 
  "Zagonowa": {
   "dlugosc": 384, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-664", 
   "numeracja": "1-25, 27"
  }, 
  "Zagrodnicza": {
   "dlugosc": 308, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-654", 
   "numeracja": "2-14, 16, 18-31"
  }, 
  "Zag\u00f3rze": {
@@ -12260,7 +12260,7 @@
  "Zag\u00f3rzycka": {
   "dlugosc": 262, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-433", 
   "numeracja": "1, 3-16"
  }, 
  "Zaj\u0119cza": {
@@ -12272,13 +12272,13 @@
  "Zaklikowska": {
   "dlugosc": 638, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-335", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "Zakopia\u0144ska": {
   "dlugosc": 2327, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-467,60-474", 
   "numeracja": "1-4, 6-10, 12, 14-29, 31, 33-41, 43-44, 46-48, 50-52, 54-56, 58-66, 68, 70, 72, 74-75, 77, 79-83, 85, 87, 89-92, 94-107, 109-111, 113-127, 129-130, 132-134, 136, 138-141, 143-153, 155-156, 158-173, 175-182, 184-186, 188-195, 197-206, 208, 210-213, 215-222, 224-229, 231-232, 234-240, 242, 244, 246, 248"
  }, 
  "Zakr\u0119t": {
@@ -12308,7 +12308,7 @@
  "Zamkni\u0119ta": {
   "dlugosc": 136, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-132", 
   "numeracja": "2, 4, 6, 8"
  }, 
  "Zamkowa": {
@@ -12326,7 +12326,7 @@
  "Zamys\u0142owska": {
   "dlugosc": 163, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-101", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15"
  }, 
  "Zaniemyska": {
@@ -12350,7 +12350,7 @@
  "Zawilcowa": {
   "dlugosc": 212, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "3, 5, 7, 9, 11-13"
  }, 
  "Za\u0142\u0119\u017ce": {
@@ -12368,7 +12368,7 @@
  "Zbigniewa Herberta": {
   "dlugosc": 190, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-10, 12-14"
  }, 
  "Zbigniewa Kiedacza": {
@@ -12380,7 +12380,7 @@
  "Zbo\u017cowa": {
   "dlugosc": 166, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-668", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16"
  }, 
  "Zbyszka": {
@@ -12404,7 +12404,7 @@
  "Zdobywc\u00f3w Monte Cassino": {
   "dlugosc": 271, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-695", 
   "numeracja": "3-44, 46, 48, 50, 52, 54, 56, 58"
  }, 
  "Zdrojowa": {
@@ -12422,7 +12422,7 @@
  "Zdziechowska": {
   "dlugosc": 149, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-273", 
   "numeracja": "1"
  }, 
  "Zdzis\u0142awy": {
@@ -12446,19 +12446,19 @@
  "Zgoda": {
   "dlugosc": 601, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-122,60-128,60-129", 
   "numeracja": "10-16, 18, 20, 22, 24-28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 54"
  }, 
  "Zgorzelecka": {
   "dlugosc": 591, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-198", 
   "numeracja": "1-4"
  }, 
  "Ziarnista": {
   "dlugosc": 79, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-625", 
   "numeracja": "1-2, 5"
  }, 
  "Ziele\u0144ska": {
@@ -12488,13 +12488,13 @@
  "Ziemska": {
   "dlugosc": 114, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-312", 
   "numeracja": "5-8"
  }, 
  "Zimorodka": {
   "dlugosc": 39, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1-2, 4, 6, 8"
  }, 
  "Zimowa": {
@@ -12506,7 +12506,7 @@
  "Zi\u0119bicka": {
   "dlugosc": 603, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-164", 
   "numeracja": "1-8, 10, 12-19, 21, 23, 25, 27, 29, 33-36, 39, 41"
  }, 
  "Zjazd": {
@@ -12530,13 +12530,13 @@
  "Zofii Na\u0142kowskiej": {
   "dlugosc": 464, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-573", 
+  "kody_pocztowe": "60-573,60-586", 
   "numeracja": "3-5, 7-9, 11, 13, 15, 17-21, 23, 25, 27, 29, 31, 33, 35, 37, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61"
  }, 
  "Zofii Sokolnickiej": {
   "dlugosc": 132, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "1, 3-6"
  }, 
  "Zorza": {
@@ -12554,8 +12554,14 @@
  "Zwi\u0105zku Walki Zbrojnej": {
   "dlugosc": 170, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-695", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28"
+ }, 
+ "Zwole\u0144ska": {
+  "dlugosc": 125, 
+  "dzielnica": "Nowe Miasto", 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "Zwrotnicza": {
   "dlugosc": 418, 
@@ -12578,7 +12584,7 @@
  "Zygmunta Kubiaka": {
   "dlugosc": 198, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "5, 7, 10-12"
  }, 
  "Zygmunta Lisowskiego": {
@@ -12596,19 +12602,19 @@
  "Zygmunta Szweykowskiego": {
   "dlugosc": 287, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-606", 
   "numeracja": "2"
  }, 
  "Zygmunta Wojciechowskiego": {
   "dlugosc": 1167, 
   "dzielnica": false, 
-  "kody_pocztowe": "60-685", 
+  "kody_pocztowe": "60-681,60-685", 
   "numeracja": "3-4, 7-17, 25, 27, 29, 31, 33"
  }, 
  "Zygmunta Zaleskiego": {
   "dlugosc": 160, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-465", 
   "numeracja": "9-13, 15, 17-21, 23-27, 29, 31"
  }, 
  "Zygmunta \u017buraszka": {
@@ -12620,19 +12626,19 @@
  "Z\u0105bkowicka": {
   "dlugosc": 402, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-166", 
   "numeracja": "4, 6, 8, 10, 12, 14"
  }, 
  "Z\u0142ocieniecka": {
   "dlugosc": 252, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-182,60-184", 
   "numeracja": "1, 3-7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43"
  }, 
  "Z\u0142ocieniowa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1-5, 7, 9, 18, 20, 23"
  }, 
  "Z\u0142ota": {
@@ -12644,67 +12650,67 @@
  "Z\u0142otej Kaczki": {
   "dlugosc": 46, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-195", 
   "numeracja": "1-9"
  }, 
  "Z\u0142otnicka": {
   "dlugosc": 464, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "3-6, 8, 12"
  }, 
  "Z\u0142otowska": {
   "dlugosc": 2874, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-184,60-189", 
   "numeracja": "1-2, 6, 8-12, 14-28, 31-52, 54-60, 62-69, 71, 73, 75, 77, 79-85, 87, 89, 91, 93, 95, 97, 99-107, 109, 111"
  }, 
  "abpa Antoniego Baraniaka": {
   "dlugosc": 2183, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-131,61-245", 
   "numeracja": "4, 6, 73, 77, 88, 96, 100, 116, 158"
  }, 
  "abpa Walentego Dymka": {
   "dlugosc": 2504, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-066,61-245", 
   "numeracja": "186, 188, 190, 194, 196, 198-200, 212, 231, 300, 304"
  }, 
  "gen. Stanis\u0142awa Maczka": {
   "dlugosc": 419, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-651", 
   "numeracja": "1, 3, 5, 7, 9, 11-12, 14-20, 22, 24, 26, 28"
  }, 
  "gen. Tadeusza Kutrzeby": {
   "dlugosc": 353, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-719", 
   "numeracja": "8, 10, 12, 14, 16"
  }, 
  "ks. Edwarda Nawrota": {
   "dlugosc": 331, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1, 3-6, 8, 10, 12, 14"
  }, 
  "ks. Ignacego Posadzego": {
   "dlugosc": 155, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-108", 
   "numeracja": "2-3, 5-7"
  }, 
  "ks. Jakuba Wujka": {
   "dlugosc": 185, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-581", 
   "numeracja": "7, 9, 11, 13, 15, 35"
  }, 
  "ks. Jana Twardowskiego": {
   "dlugosc": 101, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-8, 10, 12, 14, 16, 18"
  }, 
  "ks. Mieczys\u0142awa Radziejewskiego": {
@@ -12716,13 +12722,13 @@
  "ks. Stanis\u0142awa Brz\u00f3ski": {
   "dlugosc": 71, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-414", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18"
  }, 
  "ks. Zdzis\u0142awa Bernata": {
   "dlugosc": 757, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-001", 
   "numeracja": "36"
  }, 
  "o. Honoriusza Kowalczyka": {
@@ -12752,7 +12758,7 @@
  "\u0141ab\u0119dzia": {
   "dlugosc": 334, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-391", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u0141acina": {
@@ -12782,7 +12788,7 @@
  "\u0141agowska": {
   "dlugosc": 1076, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-456", 
+  "kody_pocztowe": "60-452,60-456", 
   "numeracja": "3, 5-14, 16, 18, 20-23, 25, 30, 32, 34, 36-37, 40-61, 63"
  }, 
  "\u0141anowa": {
@@ -12854,7 +12860,7 @@
  "\u0141otewska": {
   "dlugosc": 260, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-672", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u0141owicka": {
@@ -12914,7 +12920,7 @@
  "\u0141yski": {
   "dlugosc": 101, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-058", 
   "numeracja": "1, 3, 5, 7"
  }, 
  "\u0141ysog\u00f3rska": {
@@ -12950,31 +12956,31 @@
  "\u0141\u0119gi D\u0119bi\u0144skie": {
   "dlugosc": 135, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-492", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u015acinawska": {
   "dlugosc": 1146, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-177,60-178", 
   "numeracja": "2-16, 18-37, 39, 41-52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84"
  }, 
  "\u015alazowa": {
   "dlugosc": 146, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-602", 
   "numeracja": "3"
  }, 
  "\u015alesi\u0144ska": {
   "dlugosc": 95, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-049", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u015aliska": {
   "dlugosc": 558, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-369", 
+  "kody_pocztowe": "61-368,61-369", 
   "numeracja": "4, 12, 14, 18, 20, 22, 28"
  }, 
  "\u015aliwkowa": {
@@ -13004,13 +13010,13 @@
  "\u015amia\u0142a": {
   "dlugosc": 103, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-317", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u015amie\u0142owska": {
   "dlugosc": 864, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-113,60-114", 
   "numeracja": "3-47, 49, 51-63, 65, 67, 69, 73"
  }, 
  "\u015amigi": {
@@ -13022,7 +13028,7 @@
  "\u015amigielska": {
   "dlugosc": 138, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-102", 
   "numeracja": "3-14"
  }, 
  "\u015aniadeckich": {
@@ -13034,7 +13040,7 @@
  "\u015anie\u017cna": {
   "dlugosc": 187, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "9"
  }, 
  "\u015apiewak\u00f3w": {
@@ -13058,7 +13064,7 @@
  "\u015aremska": {
   "dlugosc": 736, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-212", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u015ar\u00f3dka": {
@@ -13076,25 +13082,25 @@
  "\u015awidnicka": {
   "dlugosc": 158, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-171", 
   "numeracja": "1, 3-6, 9-15"
  }, 
  "\u015awiebodzi\u0144ska": {
   "dlugosc": 570, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-162", 
   "numeracja": "1-7, 9-15, 18-24, 26-34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82"
  }, 
  "\u015awiecka": {
   "dlugosc": 299, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-454", 
   "numeracja": "3-4, 6-8, 10-15, 17-18, 20, 22, 24, 35, 39"
  }, 
  "\u015awieradowska": {
   "dlugosc": 87, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-464", 
   "numeracja": "3-10, 12"
  }, 
  "\u015awierkowa": {
@@ -13112,13 +13118,13 @@
  "\u015awietlana": {
   "dlugosc": 472, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-151", 
   "numeracja": "1-19, 22, 24-26, 28, 30, 32, 34, 36, 38"
  }, 
  "\u015awietlikowa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "4-6, 8, 10, 12, 20"
  }, 
  "\u015awit": {
@@ -13148,13 +13154,13 @@
  "\u015awi\u0119tog\u00f3rska": {
   "dlugosc": 155, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-138", 
   "numeracja": "3, 5, 9, 11"
  }, 
  "\u015awi\u0119toja\u0144ska": {
   "dlugosc": 201, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-023,61-113", 
+  "kody_pocztowe": "61-113", 
   "numeracja": "1-2, 5"
  }, 
  "\u015awi\u0119tos\u0142awska": {
@@ -13172,13 +13178,13 @@
  "\u015awi\u0119ty Marcin": {
   "dlugosc": 1081, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-803,61-804,61-805,61-806,61-807,61-808,61-809", 
+  "kody_pocztowe": "61-803,61-804,61-805,61-806,61-807,61-808,61-809,61-810", 
   "numeracja": "2, 6, 8-19, 21, 23-41, 43, 45-47, 49, 51-53, 57-59, 61, 63, 65-67, 69, 71, 73-81, 87, 90"
  }, 
  "\u015awi\u0119ty Wojciech": {
   "dlugosc": 410, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-749", 
   "numeracja": "1-5, 7-8, 10, 19, 21-22, 25-31"
  }, 
  "\u015bw. Antoniego": {
@@ -13196,7 +13202,7 @@
  "\u015bw. Czes\u0142awa": {
   "dlugosc": 308, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-575,61-582,61-583", 
+  "kody_pocztowe": "61-575,61-577,61-582,61-583", 
   "numeracja": "1-19"
  }, 
  "\u015bw. Floriana": {
@@ -13220,7 +13226,7 @@
  "\u015bw. Kingi": {
   "dlugosc": 429, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-055", 
   "numeracja": "1-3"
  }, 
  "\u015bw. Leonarda": {
@@ -13232,7 +13238,7 @@
  "\u015bw. Marii Magdaleny": {
   "dlugosc": 272, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-861", 
   "numeracja": "2, 4-6, 8, 10, 12, 14"
  }, 
  "\u015bw. Micha\u0142a": {
@@ -13244,7 +13250,7 @@
  "\u015bw. Rocha": {
   "dlugosc": 354, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-142", 
+  "kody_pocztowe": "61-142,61-144", 
   "numeracja": "2-4, 6, 8-11, 13, 16, 19"
  }, 
  "\u015bw. Szczepana": {
@@ -13256,7 +13262,7 @@
  "\u015bw. Tr\u00f3jcy": {
   "dlugosc": 267, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-478", 
   "numeracja": "1-9, 11-18, 20, 22"
  }, 
  "\u015bw. Wawrzy\u0144ca": {
@@ -13286,25 +13292,25 @@
  "\u017babia": {
   "dlugosc": 166, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-106", 
   "numeracja": "3-17"
  }, 
  "\u017baga\u0144ska": {
   "dlugosc": 59, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-167", 
   "numeracja": "2-6"
  }, 
  "\u017baglowa": {
   "dlugosc": 81, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-480", 
   "numeracja": "1-9, 11"
  }, 
  "\u017barnowiecka": {
   "dlugosc": 1025, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-401", 
   "numeracja": "3, 5, 7, 9-11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 49"
  }, 
  "\u017bbikowa": {
@@ -13316,7 +13322,7 @@
  "\u017begiestowska": {
   "dlugosc": 253, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-466", 
   "numeracja": "1-12, 14-26, 28, 30, 32"
  }, 
  "\u017beglarska": {
@@ -13328,13 +13334,13 @@
  "\u017begrze": {
   "dlugosc": 1507, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-252", 
+  "kody_pocztowe": null, 
   "numeracja": false
  }, 
  "\u017belazna": {
   "dlugosc": 326, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-064", 
+  "kody_pocztowe": "61-064,61-245", 
   "numeracja": "2, 9-19, 23"
  }, 
  "\u017berkowska": {
@@ -13346,13 +13352,13 @@
  "\u017blebowa": {
   "dlugosc": 170, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-115", 
   "numeracja": "1-3, 5-6, 8-11, 13, 15, 17"
  }, 
  "\u017bmigrodzka": {
   "dlugosc": 544, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-171", 
   "numeracja": "2, 4-20, 22, 24, 26, 28, 30, 32, 34, 36-38, 40-52"
  }, 
  "\u017bmudzka": {
@@ -13364,37 +13370,37 @@
  "\u017bniwna": {
   "dlugosc": 319, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-663", 
   "numeracja": "1-12"
  }, 
  "\u017bni\u0144ska": {
   "dlugosc": 74, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-468", 
   "numeracja": "1-6"
  }, 
  "\u017bonkilowa": {
   "dlugosc": 423, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-175", 
   "numeracja": "1-16, 18, 22-43, 45, 47, 49"
  }, 
  "\u017borska": {
   "dlugosc": 976, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-344,61-345", 
   "numeracja": "1-16, 18, 22-24, 26, 28, 30, 32, 34, 36, 38-42, 44-51, 53, 55, 57, 59, 61, 63, 65, 67"
  }, 
  "\u017bo\u0142nierzy Lenino": {
   "dlugosc": 136, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-694", 
   "numeracja": "1-18, 20-21, 23-38, 40, 42"
  }, 
  "\u017bo\u0142nierzy Narwiku": {
   "dlugosc": 127, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-695", 
   "numeracja": "3-27"
  }, 
  "\u017bo\u0142nierzy Wykl\u0119tych": {
@@ -13406,7 +13412,7 @@
  "\u017bukowska": {
   "dlugosc": 224, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-456", 
   "numeracja": "1, 4-10, 12-13, 15-25, 27, 29, 31, 33"
  }, 
  "\u017burawia": {
@@ -13418,7 +13424,7 @@
  "\u017burawicka": {
   "dlugosc": 460, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-315", 
   "numeracja": "3-4, 6-7, 9"
  }, 
  "\u017burawinowa": {
@@ -13430,55 +13436,61 @@
  "\u017buromi\u0144ska": {
   "dlugosc": 98, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1-20"
  }, 
  "\u017bu\u0142awska": {
   "dlugosc": 160, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-412", 
   "numeracja": "3-16, 18, 20"
  }, 
  "\u017bwirowa": {
   "dlugosc": 222, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-104", 
   "numeracja": "3-8, 10, 12, 14, 16, 18, 22, 24"
  }, 
  "\u017bydowska": {
   "dlugosc": 435, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-761", 
+  "kody_pocztowe": "61-759,61-761", 
   "numeracja": "1-2, 4-13, 15, 19-20, 26-30, 32-35"
  }, 
  "\u017bytnia": {
   "dlugosc": 236, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-625", 
   "numeracja": "16-20, 22-35, 37"
+ }, 
+ "\u017bywiczna": {
+  "dlugosc": 1227, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "\u017bywiecka": {
   "dlugosc": 554, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-341,61-344", 
   "numeracja": "2-5, 7-13, 19, 21, 23, 25, 27, 29, 31, 33"
  }, 
  "\u017bywocicka": {
   "dlugosc": 135, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-164", 
   "numeracja": "1-10, 12"
  }, 
  "\u017bywokostowa": {
   "dlugosc": 338, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "1, 3-17, 19, 21, 23, 25-27, 29, 31, 35"
  }, 
  "\u017byzna": {
   "dlugosc": 424, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-306", 
   "numeracja": "3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29"
  }
 }
