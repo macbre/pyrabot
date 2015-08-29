@@ -5,8 +5,24 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":31,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
+    "typ":"tram"
+  },
+  "2":{
+    "petle":[
+      "D\u0119biec",
+      "D\u0119biec"
+    ],
+    "przystanki":36,
+    "typ":"tram"
+  },
+  "3":{
+    "petle":[
+      "G\u00f3rczyn",
+      "Wilczak"
+    ],
+    "przystanki":32,
     "typ":"tram"
   },
   "4":{
@@ -39,6 +55,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
+  "7":{
+    "petle":[
+      "D\u0119biec",
+      "D\u0119biec"
+    ],
+    "przystanki":29,
+    "typ":"tram"
+  },
   "8":{
     "agency":"MPK",
     "petle":[
@@ -67,6 +91,14 @@
     ],
     "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
+    "typ":"tram"
+  },
+  "11":{
+    "petle":[
+      "Most Dworcowy",
+      "Pi\u0105tkowska"
+    ],
+    "przystanki":13,
     "typ":"tram"
   },
   "12":{
@@ -122,10 +154,10 @@
   "17":{
     "agency":"MPK",
     "petle":[
-      "Pi\u0105tkowska",
+      "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":35,
+    "przystanki":51,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -133,10 +165,18 @@
     "agency":"MPK",
     "petle":[
       "Franowo",
-      "Staro\u0142\u0119ka"
+      "Franowo"
     ],
-    "przystanki":30,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
+    "typ":"tram"
+  },
+  "19":{
+    "petle":[
+      "Dworzec Zachodni",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":8,
     "typ":"tram"
   },
   "20":{
@@ -147,6 +187,22 @@
     ],
     "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
+    "typ":"tram"
+  },
+  "21":{
+    "petle":[
+      "G\u0142ogowska/Hetma\u0144ska",
+      "Rondo Staro\u0142\u0119ka"
+    ],
+    "przystanki":6,
+    "typ":"tram"
+  },
+  "22":{
+    "petle":[
+      "Staro\u0142\u0119ka",
+      "Zawady"
+    ],
+    "przystanki":15,
     "typ":"tram"
   },
   "27":{
@@ -173,10 +229,18 @@
     "agency":"MPK",
     "petle":[
       "Boranta/Park Naukowo-Technologiczny",
-      "Strzeszynek"
+      "Strzeszyn"
     ],
-    "przystanki":30,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/46",
+    "typ":"bus"
+  },
+  "47":{
+    "petle":[
+      "Boranta/Park Naukowo-Technologiczny",
+      "Chwaliszewo"
+    ],
+    "przystanki":14,
     "typ":"bus"
   },
   "48":{
@@ -295,7 +359,7 @@
       "Garbary",
       "Strzeszyn"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
@@ -335,7 +399,7 @@
       "Kacza",
       "Literacka"
     ],
-    "przystanki":29,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/64",
     "typ":"bus"
   },
@@ -529,6 +593,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/85",
     "typ":"bus"
   },
+  "87":{
+    "petle":[
+      "Osiedle R\u00f3\u017cany Potok",
+      "Pi\u0105tkowska"
+    ],
+    "przystanki":14,
+    "typ":"bus"
+  },
   "89":{
     "agency":"MPK",
     "petle":[
@@ -625,7 +697,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle R\u00f3\u017cany Potok"
     ],
-    "przystanki":10,
+    "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
@@ -633,10 +705,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Most Teatralny",
-      "Most Teatralny"
+      "Osiedle Jana III Sobieskiego",
+      "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":32,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -746,7 +818,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":15,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
@@ -856,7 +928,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
@@ -936,8 +1008,32 @@
       "Osiedle Jana III Sobieskiego",
       "Przeb\u0119dowo/P\u0119tla"
     ],
-    "przystanki":36,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
+    "typ":"bus"
+  },
+  "396":{
+    "petle":[
+      "Owi\u0144ska/Stacja",
+      "Potasze/Jod\u0142owa"
+    ],
+    "przystanki":8,
+    "typ":"bus"
+  },
+  "397":{
+    "petle":[
+      "Promnice/Klonowa",
+      "Trzaskowo/Wie\u015b"
+    ],
+    "przystanki":7,
+    "typ":"bus"
+  },
+  "398":{
+    "petle":[
+      "D\u0119bog\u00f3ra/D\u0105br\u00f3wki",
+      "Kozieg\u0142owy/Piaskowa Szko\u0142a"
+    ],
+    "przystanki":19,
     "typ":"bus"
   },
   "511":{
@@ -946,7 +1042,7 @@
       "Franowo",
       "Kamionki/Klonowa"
     ],
-    "przystanki":41,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/511",
     "typ":"bus"
   },
@@ -956,7 +1052,7 @@
       "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
-    "przystanki":37,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1016,7 +1112,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":24,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
@@ -1046,7 +1142,7 @@
       "G\u00f3rczyn",
       "Komorniki/Jeziorna"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
     "typ":"bus"
   },
@@ -1226,7 +1322,7 @@
       "Chludowo/Szko\u0142a",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":36,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/907",
     "typ":"bus"
   },
