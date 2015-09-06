@@ -54,6 +54,7 @@ client.logIn(function() {
 			// znaki
 			replace(/…/g, '').
 			replace(/''' '''/g, '').
+			replace(/'' ''/g, '').
 			// pogrubienia -> nagłówki
 			replace(/\n<strong>([^<]+)<\/strong>\n/g, "\n== $1 ==\n").
 			replace(/\n'''([^<\n]+)'''\n/g, "\n== $1 ==\n").
