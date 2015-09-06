@@ -132,7 +132,7 @@
    "id":"Z II41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"\u017begrze",
+    "place":"\u017begrze II",
     "id":"Z II41",
     "name":"\u017begrze II"
    }
@@ -370,7 +370,7 @@
    "id":"MODW42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Franklina Roosevelta",
+    "place":"Most Dworcowy",
     "id":"MODW42",
     "name":"Most Dworcowy"
    }
@@ -438,7 +438,7 @@
    "id":"RJNJ41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Przybyszewskiego",
+    "place":"Grunwaldzka",
     "id":"RJNJ41",
     "name":"Rondo Jana Nowaka-Jeziora\u0144skiego"
    }
@@ -455,7 +455,7 @@
    "id":"OSTR41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Ostroroga",
+    "place":"Grunwaldzka",
     "id":"OSTR41",
     "name":"Ostroroga"
    }
@@ -472,7 +472,7 @@
    "id":"GROC41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Grochowska",
     "id":"GROC41",
     "name":"Grochowska"
    }
@@ -625,7 +625,7 @@
    "id":"JUNI41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Junikowo",
     "id":"JUNI41",
     "name":"Junikowo"
    }
@@ -761,7 +761,7 @@
    "id":"GROC42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Grochowska",
     "id":"GROC42",
     "name":"Grochowska"
    }
@@ -812,7 +812,7 @@
    "id":"MATE42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Matejki",
     "id":"MATE42",
     "name":"Matejki"
    }
@@ -914,7 +914,7 @@
    "id":"GLHE71",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"G\u0142ogowska",
+    "place":"G\u0142ogowska/Hetma\u0144ska",
     "id":"GLHE71",
     "name":"G\u0142ogowska/Hetma\u0144ska"
    }
@@ -1008,23 +1008,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.94222,
-     52.380389
-    ]
-   },
-   "type":"Feature",
-   "id":"RSTA44",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Hetma\u0144ska",
-    "id":"RSTA44",
-    "name":"Rondo Staro\u0142\u0119ka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.944339,
      52.379758
     ]
@@ -1084,7 +1067,7 @@
    "id":"Z II42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"\u017begrze",
+    "place":"\u017begrze II",
     "id":"Z II42",
     "name":"\u017begrze II"
    }
@@ -1212,40 +1195,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.882902,
-     52.416362
-    ]
-   },
-   "type":"Feature",
-   "id":"OGDY42",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Nowy \u015awiat",
-    "id":"OGDY42",
-    "name":"Ogrody"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.890825,
-     52.415543
-    ]
-   },
-   "type":"Feature",
-   "id":"ZERO42",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
-    "id":"ZERO42",
-    "name":"\u017beromskiego"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.896697,
      52.414241
     ]
@@ -1254,7 +1203,7 @@
    "id":"PONA72",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
+    "place":"Polna",
     "id":"PONA72",
     "name":"Polna"
    }
@@ -1271,7 +1220,7 @@
    "id":"RJEZ74",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
+    "place":"Rynek Je\u017cycki",
     "id":"RJEZ74",
     "name":"Rynek Je\u017cycki"
    }
@@ -1288,7 +1237,7 @@
    "id":"MT43",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Most Teatralny",
+    "place":"Franklina Roosevelta",
     "id":"MT43",
     "name":"Most Teatralny"
    }
@@ -1679,7 +1628,7 @@
    "id":"ROZA42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"G\u00f3rna Wilda",
+    "place":"R\u00f3\u017cana",
     "id":"ROZA42",
     "name":"R\u00f3\u017cana"
    }
@@ -1730,7 +1679,7 @@
    "id":"LAKO42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Krakowska",
+    "place":"Strzelecka",
     "id":"LAKO42",
     "name":"\u0141\u0105kowa"
    }
@@ -1797,8 +1746,8 @@
    "type":"Feature",
    "id":"FRRY42",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Aleksandra Fredry",
+    "city":"",
+    "place":"",
     "id":"FRRY42",
     "name":"Fredry"
    }
@@ -1858,40 +1807,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.890361,
-     52.415741
-    ]
-   },
-   "type":"Feature",
-   "id":"ZERO41",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
-    "id":"ZERO41",
-    "name":"\u017beromskiego"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.882462,
-     52.417053
-    ]
-   },
-   "type":"Feature",
-   "id":"OGDY41",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Szpitalna",
-    "id":"OGDY41",
-    "name":"Ogrody"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.932368,
      52.368559
     ]
@@ -1917,7 +1832,7 @@
    "id":"BYST42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Staro\u0142\u0119cka",
+    "place":"Bystra",
     "id":"BYST42",
     "name":"Bystra"
    }
@@ -2070,7 +1985,7 @@
    "id":"KORN45",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Paw\u0142a II",
+    "place":"Kaliska",
     "id":"KORN45",
     "name":"K\u00f3rnicka"
    }
@@ -2104,7 +2019,7 @@
    "id":"ROSR44",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Paw\u0142a II",
+    "place":"Rondo \u015ar\u00f3dka",
     "id":"ROSR44",
     "name":"Rondo \u015ar\u00f3dka"
    }
@@ -2121,7 +2036,7 @@
    "id":"ROSR42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Prymasa Stefana Wyszy\u0144skiego",
+    "place":"Rondo \u015ar\u00f3dka",
     "id":"ROSR42",
     "name":"Rondo \u015ar\u00f3dka"
    }
@@ -2138,7 +2053,7 @@
    "id":"KATE42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Prymasa Stefana Wyszy\u0144skiego",
+    "place":"Ostr\u00f3w Tumski",
     "id":"KATE42",
     "name":"Katedra"
    }
@@ -2155,7 +2070,7 @@
    "id":"MAGA42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stawna",
+    "place":"Ma\u0142e Garbary",
     "id":"MAGA42",
     "name":"Ma\u0142e Garbary"
    }
@@ -2171,8 +2086,8 @@
    "type":"Feature",
    "id":"PLWI42",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Plac Wielkopolski",
     "id":"PLWI42",
     "name":"Pl Wielkopolski"
    }
@@ -2240,7 +2155,7 @@
    "id":"WIKA41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Genera\u0142a Kazimierza Pu\u0142askiego",
+    "place":"Wielkopolska",
     "id":"WIKA41",
     "name":"Wielkopolska"
    }
@@ -2257,7 +2172,7 @@
    "id":"ARPO41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Winogrady",
+    "place":"Aleja Armii  Pozna\u0144",
     "id":"ARPO41",
     "name":"Armii Pozna\u0144"
    }
@@ -2478,7 +2393,7 @@
    "id":"ARPO42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Winogrady",
+    "place":"Aleja Armii  Pozna\u0144",
     "id":"ARPO42",
     "name":"Armii Pozna\u0144"
    }
@@ -2512,7 +2427,7 @@
    "id":"POZN42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Genera\u0142a Kazimierza Pu\u0142askiego",
+    "place":"Pozna\u0144ska",
     "id":"POZN42",
     "name":"Pozna\u0144ska"
    }
@@ -2545,8 +2460,8 @@
    "type":"Feature",
    "id":"PLWI41",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Plac Wielkopolski",
     "id":"PLWI41",
     "name":"Pl Wielkopolski"
    }
@@ -2580,7 +2495,7 @@
    "id":"KATE41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Prymasa Stefana Wyszy\u0144skiego",
+    "place":"Wie\u017cowa",
     "id":"KATE41",
     "name":"Katedra"
    }
@@ -2597,7 +2512,7 @@
    "id":"ROSR41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Prymasa Stefana Wyszy\u0144skiego",
+    "place":"Rondo \u015ar\u00f3dka",
     "id":"ROSR41",
     "name":"Rondo \u015ar\u00f3dka"
    }
@@ -2614,7 +2529,7 @@
    "id":"ROSR43",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Paw\u0142a II",
+    "place":"Rondo \u015ar\u00f3dka",
     "id":"ROSR43",
     "name":"Rondo \u015ar\u00f3dka"
    }
@@ -2920,7 +2835,7 @@
    "id":"MORO72",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Mostowa",
+    "place":"Za Grobl\u0105",
     "id":"MORO72",
     "name":"Most \u015aw. Rocha"
    }
@@ -2936,8 +2851,8 @@
    "type":"Feature",
    "id":"PLBE72",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Plac Bernardy\u0144ski",
     "id":"PLBE72",
     "name":"Plac Bernardy\u0144ski"
    }
@@ -2954,7 +2869,7 @@
    "id":"WROC72",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Strzelecka",
+    "place":"Wroc\u0142awska",
     "id":"WROC72",
     "name":"Wroc\u0142awska"
    }
@@ -2971,7 +2886,7 @@
    "id":"MT41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
+    "place":"Franklina Roosevelta",
     "id":"MT41",
     "name":"Most Teatralny"
    }
@@ -3022,7 +2937,7 @@
    "id":"GORC42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Wiadukt Kosynier\u00f3w G\u00f3rczy\u0144skich",
+    "place":"G\u00f3rczyn",
     "id":"GORC42",
     "name":"G\u00f3rczyn"
    }
@@ -3073,7 +2988,7 @@
    "id":"WROC71",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Strzelecka",
+    "place":"Podg\u00f3rna",
     "id":"WROC71",
     "name":"Wroc\u0142awska"
    }
@@ -3089,8 +3004,8 @@
    "type":"Feature",
    "id":"PLBE71",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Plac Bernardy\u0144ski",
     "id":"PLBE71",
     "name":"Plac Bernardy\u0144ski"
    }
@@ -3107,7 +3022,7 @@
    "id":"MORO71",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Mostowa",
+    "place":"Za Grobl\u0105",
     "id":"MORO71",
     "name":"Most \u015aw. Rocha"
    }
@@ -3192,7 +3107,7 @@
    "id":"OSLE41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Os.Lecha",
+    "place":"Os. Lecha",
     "id":"OSLE41",
     "name":"Os. Lecha"
    }
@@ -3226,7 +3141,7 @@
    "id":"POGL42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Matyi",
+    "place":"Towarowa",
     "id":"POGL42",
     "name":"Pozna\u0144 G\u0142\u00f3wny"
    }
@@ -3243,7 +3158,7 @@
    "id":"WIER42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Matyi",
+    "place":"Wierzbi\u0119cice",
     "id":"WIER42",
     "name":"Wierzbi\u0119cice"
    }
@@ -3413,7 +3328,7 @@
    "id":"MILO41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Warszawska",
+    "place":"Mi\u0142ostowo",
     "id":"MILO41",
     "name":"Mi\u0142ostowo"
    }
@@ -3430,7 +3345,7 @@
    "id":"MILO42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Warszawska",
+    "place":"Mi\u0142ostowo",
     "id":"MILO42",
     "name":"Mi\u0142ostowo"
    }
@@ -3481,7 +3396,7 @@
    "id":"KRAN42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Warszawska",
+    "place":"Kra\u0144cowa",
     "id":"KRAN42",
     "name":"Kra\u0144cowa"
    }
@@ -3549,7 +3464,7 @@
    "id":"RRAT41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Boles\u0142awa Krzywoustego",
+    "place":"Rondo Rataje",
     "id":"RRAT41",
     "name":"Rondo Rataje"
    }
@@ -3583,7 +3498,7 @@
    "id":"WIER41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Matyi",
+    "place":"Wierzbi\u0119cice",
     "id":"WIER41",
     "name":"Wierzbi\u0119cice"
    }
@@ -3600,7 +3515,7 @@
    "id":"POGL41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Matyi",
+    "place":"Towarowa",
     "id":"POGL41",
     "name":"Pozna\u0144 G\u0142\u00f3wny"
    }
@@ -3634,7 +3549,7 @@
    "id":"ZAWA42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Ma\u0142achowskiego",
+    "place":"Zawady",
     "id":"ZAWA42",
     "name":"Zawady"
    }
@@ -3651,60 +3566,9 @@
    "id":"RJNJ73",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Przybyszewskiego",
+    "place":"Rondo Jana Nowaka-Jeziora\u0144skiego",
     "id":"RJNJ73",
     "name":"Rondo Jana Nowaka-Jeziora\u0144skiego"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.888825,
-     52.410052
-    ]
-   },
-   "type":"Feature",
-   "id":"BUKO41",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Przybyszewskiego",
-    "id":"BUKO41",
-    "name":"Bukowska"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.890569,
-     52.415538
-    ]
-   },
-   "type":"Feature",
-   "id":"ZERO73",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
-    "id":"ZERO73",
-    "name":"\u017beromskiego"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.888637,
-     52.410001
-    ]
-   },
-   "type":"Feature",
-   "id":"BUKO42",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Przybyszewskiego",
-    "id":"BUKO42",
-    "name":"Bukowska"
    }
   },
   {
@@ -3718,8 +3582,8 @@
    "type":"Feature",
    "id":"ROSR47",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Podwale",
+    "city":"",
+    "place":"",
     "id":"ROSR47",
     "name":"Rondo \u015ar\u00f3dka"
    }
@@ -3736,7 +3600,7 @@
    "id":"GORC41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Zgoda",
+    "place":"G\u00f3rczyn",
     "id":"GORC41",
     "name":"G\u00f3rczyn"
    }
@@ -3871,8 +3735,8 @@
    "type":"Feature",
    "id":"NADW42",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Ma\u0142opolska",
+    "city":"",
+    "place":"",
     "id":"NADW42",
     "name":"Nad Wierzbakiem"
    }
@@ -3922,8 +3786,8 @@
    "type":"Feature",
    "id":"NADW41",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Ma\u0142opolska",
+    "city":"",
+    "place":"",
     "id":"NADW41",
     "name":"Nad Wierzbakiem"
    }
@@ -4119,6 +3983,40 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.910257,
+     52.401115
+    ]
+   },
+   "type":"Feature",
+   "id":"DWZA41",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Zachodnia",
+    "id":"DWZA41",
+    "name":"Dworzec Zachodni"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.9147,
+     52.411574
+    ]
+   },
+   "type":"Feature",
+   "id":"MT45",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Most Teatralny",
+    "id":"MT45",
+    "name":"Most Teatralny"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.919462,
      52.427158
     ]
@@ -4212,7 +4110,7 @@
    "id":"SOB41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Osiedle Stefana Batorego",
+    "place":"Os. Sobieskiego",
     "id":"SOB41",
     "name":"Os. Sobieskiego"
    }
@@ -4317,6 +4215,40 @@
     "place":"S\u0142owia\u0144ska",
     "id":"SLKA42",
     "name":"S\u0142owia\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.914443,
+     52.411633
+    ]
+   },
+   "type":"Feature",
+   "id":"MT46",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Franklina Roosevelta",
+    "id":"MT46",
+    "name":"Most Teatralny"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.910052,
+     52.401143
+    ]
+   },
+   "type":"Feature",
+   "id":"DWZA42",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Zachodnia",
+    "id":"DWZA42",
+    "name":"Dworzec Zachodni"
    }
   },
   {
@@ -4739,7 +4671,7 @@
    "id":"OSKO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Promienista",
+    "place":"Os. Kopernika",
     "id":"OSKO02",
     "name":"Os. Kopernika"
    }
@@ -4773,7 +4705,7 @@
    "id":"INEA01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Stadion Miejski",
+    "place":"INEA Stadion",
     "id":"INEA01",
     "name":"Inea Stadion"
    }
@@ -5028,7 +4960,7 @@
    "id":"LUCK01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"\u0141u\u017cycka",
+    "place":"Stefana Stoi\u0144skiego",
     "id":"LUCK01",
     "name":"\u0141u\u017cycka"
    }
@@ -5334,7 +5266,7 @@
    "id":"PODO01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Mi\u0119dzyleska",
+    "place":"Biskupi\u0144ska",
     "id":"PODO01",
     "name":"Podolany"
    }
@@ -5351,7 +5283,7 @@
    "id":"INMR01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Biskupi\u0144ska",
+    "place":"Instytut MR",
     "id":"INMR01",
     "name":"Instytut Mr"
    }
@@ -5487,7 +5419,7 @@
    "id":"SZYN04",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Koszali\u0144ska",
+    "place":"Strzeszyn",
     "id":"SZYN04",
     "name":"Strzeszyn"
    }
@@ -5521,7 +5453,7 @@
    "id":"PODO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Mi\u0119dzyleska",
+    "place":"Biskupi\u0144ska",
     "id":"PODO02",
     "name":"Podolany"
    }
@@ -5691,7 +5623,7 @@
    "id":"SZYM02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Karola Szymanowskiego",
+    "place":"Szymanowskiego",
     "id":"SZYM02",
     "name":"Szymanowskiego"
    }
@@ -6116,7 +6048,7 @@
    "id":"ZLOT01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Z\u0142otowska",
+    "place":"Bukowska",
     "id":"ZLOT01",
     "name":"Z\u0142otowska"
    }
@@ -6133,7 +6065,7 @@
    "id":"PLL01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Bukowska",
+    "place":"Port Lotniczy \u0141awica",
     "id":"PLL01",
     "name":"Port Lotniczy \u0141awica"
    }
@@ -6337,7 +6269,7 @@
    "id":"SZPI04",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Bukowska",
+    "place":"Szpitalna",
     "id":"SZPI04",
     "name":"Szpitalna"
    }
@@ -6388,7 +6320,7 @@
    "id":"SZYL02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Szylinga",
+    "place":"Bukowska",
     "id":"SZYL02",
     "name":"Szylinga"
    }
@@ -6592,7 +6524,7 @@
    "id":"GORC30",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Peron 5",
+    "place":"Peron 3",
     "id":"GORC30",
     "name":"G\u00f3rczyn"
    }
@@ -6881,7 +6813,7 @@
    "id":"CZNZ02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Ostrobramska",
+    "place":"Piotra \u015aciegiennego",
     "id":"CZNZ02",
     "name":"Cz\u0119stochowska"
    }
@@ -7003,40 +6935,6 @@
     "place":"Szpitalna",
     "id":"SZPI01",
     "name":"Szpitalna"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.912243,
-     52.402731
-    ]
-   },
-   "type":"Feature",
-   "id":"POGL02",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Most Dworcowy",
-    "id":"POGL02",
-    "name":"Pozna\u0144 G\u0142\u00f3wny"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.913376,
-     52.406664
-    ]
-   },
-   "type":"Feature",
-   "id":"RKAP06",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Dworcowa",
-    "id":"RKAP06",
-    "name":"Rondo Kaponiera"
    }
   },
   {
@@ -7374,7 +7272,7 @@
    "id":"SOB30",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Peron 2",
+    "place":"Franciszka Str\u00f3\u017cy\u0144skiego",
     "id":"SOB30",
     "name":"Os. Sobieskiego"
    }
@@ -7697,43 +7595,9 @@
    "id":"MT02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
+    "place":"Franklina Roosevelta",
     "id":"MT02",
     "name":"Most Teatralny"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.913223,
-     52.40703
-    ]
-   },
-   "type":"Feature",
-   "id":"RKAP05",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Dworcowa",
-    "id":"RKAP05",
-    "name":"Rondo Kaponiera"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.912174,
-     52.402503
-    ]
-   },
-   "type":"Feature",
-   "id":"POGL01",
-   "properties":{
-    "city":"",
-    "place":"",
-    "id":"POGL01",
-    "name":"Pozna\u0144 G\u0142\u00f3wny"
    }
   },
   {
@@ -8386,6 +8250,57 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     17.028524,
+     52.355206
+    ]
+   },
+   "type":"Feature",
+   "id":"GOSP02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Gospodarska",
+    "id":"GOSP02",
+    "name":"Gospodarska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.019959,
+     52.359644
+    ]
+   },
+   "type":"Feature",
+   "id":"OLIW02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Szczepankowo",
+    "id":"OLIW02",
+    "name":"Oliwkowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.01441,
+     52.362317
+    ]
+   },
+   "type":"Feature",
+   "id":"PANZ02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Szczepankowo",
+    "id":"PANZ02",
+    "name":"Porzeczkowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      17.009375,
      52.364793
     ]
@@ -8607,6 +8522,57 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     17.015597,
+     52.361627
+    ]
+   },
+   "type":"Feature",
+   "id":"PANZ01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Szczepankowo",
+    "id":"PANZ01",
+    "name":"Porzeczkowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.019355,
+     52.359824
+    ]
+   },
+   "type":"Feature",
+   "id":"OLIW01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Szczepankowo",
+    "id":"OLIW01",
+    "name":"Oliwkowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.028181,
+     52.355026
+    ]
+   },
+   "type":"Feature",
+   "id":"GOSP01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Gospodarska",
+    "id":"GOSP01",
+    "name":"Gospodarska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      17.068917,
      52.392884
     ]
@@ -8734,7 +8700,7 @@
    "id":"BIGO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Arcybiskupa Antoniego Baraniaka",
+    "place":"Arcybiskupa Walentego Dymka",
     "id":"BIGO02",
     "name":"Bia\u0142a G\u00f3ra"
    }
@@ -8955,7 +8921,7 @@
    "id":"CHAR01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Arcybiskupa Antoniego Baraniaka",
+    "place":"Arcybiskupa Walentego Dymka",
     "id":"CHAR01",
     "name":"Chartowo"
    }
@@ -9295,7 +9261,7 @@
    "id":"OGDY04",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Ogrody",
+    "place":"Jana Henryka D\u0105browskiego",
     "id":"OGDY04",
     "name":"Ogrody"
    }
@@ -9312,7 +9278,7 @@
    "id":"OGDY01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Szpitalna",
+    "place":"Ogrody",
     "id":"OGDY01",
     "name":"Ogrody"
    }
@@ -9771,7 +9737,7 @@
    "id":"ROSR30",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"3",
+    "place":"Peron 3",
     "id":"ROSR30",
     "name":"Rondo \u015ar\u00f3dka"
    }
@@ -10213,7 +10179,7 @@
    "id":"STAR21",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Staro\u0142\u0119cka",
+    "place":"Staro\u0142\u0119ka",
     "id":"STAR21",
     "name":"Staro\u0142\u0119ka"
    }
@@ -10468,7 +10434,7 @@
    "id":"PLL21",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Port Lotniczy \u0141awica",
+    "place":"Bukowska",
     "id":"PLL21",
     "name":"Port Lotniczy \u0141awica"
    }
@@ -10808,7 +10774,7 @@
    "id":"SZYN21",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Koszali\u0144ska",
+    "place":"Strzeszyn",
     "id":"SZYN21",
     "name":"Strzeszyn"
    }
@@ -11709,7 +11675,7 @@
    "id":"CHRZ02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Chrzanowska",
+    "place":"Ostrowska",
     "id":"CHRZ02",
     "name":"Chrzanowska"
    }
@@ -11777,7 +11743,7 @@
    "id":"LOPA02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"\u0141opawska",
+    "place":"Ostrowska",
     "id":"LOPA02",
     "name":"\u0141opawska"
    }
@@ -11879,7 +11845,7 @@
    "id":"TREB02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Promienista",
+    "place":"Raszy\u0144ska",
     "id":"TREB02",
     "name":"Tr\u0119backa"
    }
@@ -12253,7 +12219,7 @@
    "id":"JEZY01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Ko\u015bcielna",
+    "place":"Je\u017cycka",
     "id":"JEZY01",
     "name":"Je\u017cycka"
    }
@@ -12270,7 +12236,7 @@
    "id":"KOSC01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Ko\u015bcielna",
+    "place":"Pozna\u0144ska",
     "id":"KOSC01",
     "name":"Ko\u015bcielna"
    }
@@ -12338,7 +12304,7 @@
    "id":"WYSP01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Matejki",
+    "place":"Wyspia\u0144skiego",
     "id":"WYSP01",
     "name":"Wyspia\u0144skiego"
    }
@@ -13554,23 +13520,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.926297,
-     52.415502
-    ]
-   },
-   "type":"Feature",
-   "id":"POLO02",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Aleja Niepodleg\u0142o\u015bci",
-    "id":"POLO02",
-    "name":"Polonez"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.917964,
      52.415333
     ]
@@ -13834,7 +13783,7 @@
    "id":"OLOK02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"\u0141u\u017cycka",
+    "place":"Os. \u0141okietka",
     "id":"OLOK02",
     "name":"Os. \u0141okietka"
    }
@@ -14608,23 +14557,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     17.015193,
-     52.443126
-    ]
-   },
-   "type":"Feature",
-   "id":"ITM02",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"ITM",
-    "id":"ITM02",
-    "name":"Itm"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      17.002849,
      52.443729
     ]
@@ -15101,6 +15033,57 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.916884,
+     52.38301
+    ]
+   },
+   "type":"Feature",
+   "id":"ROLN01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rolna",
+    "id":"ROLN01",
+    "name":"Rolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.91458,
+     52.379847
+    ]
+   },
+   "type":"Feature",
+   "id":"IPNZ01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rolna",
+    "id":"IPNZ01",
+    "name":"Ipn"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.913744,
+     52.376599
+    ]
+   },
+   "type":"Feature",
+   "id":"WSNZ01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Wsp\u00f3lna",
+    "id":"WSNZ01",
+    "name":"Wsp\u00f3lna I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.916828,
      52.371993
     ]
@@ -15220,16 +15203,50 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.917522,
-     52.384445
+     16.91282,
+     52.377217
     ]
    },
    "type":"Feature",
-   "id":"ROLN91",
+   "id":"WSNZ04",
    "properties":{
     "city":"Pozna\u0144",
     "place":"Rolna",
-    "id":"ROLN91",
+    "id":"WSNZ04",
+    "name":"Wsp\u00f3lna I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.91457,
+     52.379599
+    ]
+   },
+   "type":"Feature",
+   "id":"IPNZ02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rolna",
+    "id":"IPNZ02",
+    "name":"Ipn"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.917086,
+     52.383037
+    ]
+   },
+   "type":"Feature",
+   "id":"ROLN02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rolna",
+    "id":"ROLN02",
     "name":"Rolna"
    }
   },
@@ -15333,23 +15350,6 @@
     "place":"Uniwersytet Ekonomiczny",
     "id":"UE01",
     "name":"Uniwersytet Ekonomiczny"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.926793,
-     52.415281
-    ]
-   },
-   "type":"Feature",
-   "id":"POLO01",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Aleja Niepodleg\u0142o\u015bci",
-    "id":"POLO01",
-    "name":"Polonez"
    }
   },
   {
@@ -15772,7 +15772,7 @@
    "id":"BGPET02",
    "properties":{
     "city":"gmina Swarz\u0119dz",
-    "place":"W\u0142adys\u0142awa S\u0142oci\u0144skiego",
+    "place":"Bogucin/P\u0119tla",
     "id":"BGPET02",
     "name":"Bogucin/P\u0119tla"
    }
@@ -15856,8 +15856,8 @@
    "type":"Feature",
    "id":"JAOGR01",
    "properties":{
-    "city":"gmina Swarz\u0119dz",
-    "place":"Asfaltowa",
+    "city":"",
+    "place":"",
     "id":"JAOGR01",
     "name":"Janikowo/Ogrodnicza"
    }
@@ -15891,7 +15891,7 @@
    "id":"JANI02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Janikowska",
+    "place":"Janikowo",
     "id":"JANI02",
     "name":"Janikowo"
    }
@@ -15925,7 +15925,7 @@
    "id":"JANZ02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Janikowska",
+    "place":"Ba\u0142tycka",
     "id":"JANZ02",
     "name":"Janikowska"
    }
@@ -16571,7 +16571,7 @@
    "id":"SOB26",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Peron 2",
+    "place":"Franciszka Str\u00f3\u017cy\u0144skiego",
     "id":"SOB26",
     "name":"Os. Sobieskiego"
    }
@@ -16928,7 +16928,7 @@
    "id":"BIEL02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Droga D\u0119bi\u0144ska",
+    "place":"Bielniki n/\u017c",
     "id":"BIEL02",
     "name":"Bielniki"
    }
@@ -16996,7 +16996,7 @@
    "id":"HEWI01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Droga D\u0119bi\u0144ska",
+    "place":"Hetma\u0144ska Wiadukt",
     "id":"HEWI01",
     "name":"Hetm./Wiadukt"
    }
@@ -17022,15 +17022,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.825837,
-     52.378258
+     16.831543,
+     52.38302
     ]
    },
    "type":"Feature",
    "id":"KWIA02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Malwowa",
     "id":"KWIA02",
     "name":"Os. Kwiatowe"
    }
@@ -18016,7 +18016,7 @@
    "id":"TYNZ02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Nowe Kotowo",
+    "place":"Wandy Modlibowskiej",
     "id":"TYNZ02",
     "name":"Tyniecka"
    }
@@ -18390,7 +18390,7 @@
    "id":"ZERO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
+    "place":"Stefana \u017beromskiego",
     "id":"ZERO02",
     "name":"\u017beromskiego"
    }
@@ -18917,7 +18917,7 @@
    "id":"STAR30",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Staro\u0142\u0119cka",
+    "place":"Staro\u0142\u0119ka",
     "id":"STAR30",
     "name":"Staro\u0142\u0119ka"
    }
@@ -19375,8 +19375,8 @@
    "type":"Feature",
    "id":"WIWI02",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Wincentego Witosa",
+    "city":"",
+    "place":"",
     "id":"WIWI02",
     "name":"Witosa Wiadukt"
    }
@@ -19529,7 +19529,7 @@
    "id":"RJNJ74",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "place":"Rondo Jana Nowaka-Jeziora\u0144skiego",
     "id":"RJNJ74",
     "name":"Rondo Jana Nowaka-Jeziora\u0144skiego"
    }
@@ -19716,7 +19716,7 @@
    "id":"PSAR02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Koszali\u0144ska",
+    "place":"Psarskie",
     "id":"PSAR02",
     "name":"Psarskie"
    }
@@ -19821,23 +19821,6 @@
     "place":"Koszali\u0144ska",
     "id":"KKNZ01",
     "name":"Koszali\u0144ska"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.8033,
-     52.47369
-    ]
-   },
-   "type":"Feature",
-   "id":"PSAR01",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Koszali\u0144ska",
-    "id":"PSAR01",
-    "name":"Psarskie"
    }
   },
   {
@@ -20311,7 +20294,7 @@
    "id":"POLW01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Tadeusza Ko\u015bciuszki",
+    "place":"Kr\u00f3lowej Jadwigi",
     "id":"POLW01",
     "name":"P\u00f3\u0142wiejska"
    }
@@ -20464,7 +20447,7 @@
    "id":"MT01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Franklina Roosevelta",
+    "place":"Most Teatralny",
     "id":"MT01",
     "name":"Most Teatralny"
    }
@@ -20586,23 +20569,6 @@
     "place":"Jana Paw\u0142a II",
     "id":"BAKA03",
     "name":"Baraniaka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.952471,
-     52.399605
-    ]
-   },
-   "type":"Feature",
-   "id":"KORN93",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"K\u00f3rnicka",
-    "id":"KORN93",
-    "name":"K\u00f3rnicka"
    }
   },
   {
@@ -20753,7 +20719,7 @@
    "id":"MODW03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"G\u0142ogowska",
+    "place":"Most Dworcowy",
     "id":"MODW03",
     "name":"Most Dworcowy"
    }
@@ -20855,7 +20821,7 @@
    "id":"HEWI03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Droga D\u0119bi\u0144ska",
+    "place":"Hetma\u0144ska Wiadukt",
     "id":"HEWI03",
     "name":"Hetm./Wiadukt"
    }
@@ -20926,40 +20892,6 @@
     "place":"Franklina Roosevelta",
     "id":"MODW02",
     "name":"Most Dworcowy"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.873122,
-     52.420302
-    ]
-   },
-   "type":"Feature",
-   "id":"PONZ02",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Polska",
-    "id":"PONZ02",
-    "name":"Polska"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.890369,
-     52.41584
-    ]
-   },
-   "type":"Feature",
-   "id":"ZERO03",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
-    "id":"ZERO03",
-    "name":"\u017beromskiego"
    }
   },
   {
@@ -21215,6 +21147,57 @@
     "place":"Dolna Wilda",
     "id":"LUDEB01",
     "name":"Lubo\u0144/D\u0119biecka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.910367,
+     52.377111
+    ]
+   },
+   "type":"Feature",
+   "id":"WSNZ02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Wsp\u00f3lna",
+    "id":"WSNZ02",
+    "name":"Wsp\u00f3lna I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.907914,
+     52.37785
+    ]
+   },
+   "type":"Feature",
+   "id":"WSPO02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"28 Czerwca 1956 roku",
+    "id":"WSPO02",
+    "name":"Wsp\u00f3lna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.914421,
+     52.384445
+    ]
+   },
+   "type":"Feature",
+   "id":"TRAU04",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"28 Czerwca 1956 roku",
+    "id":"TRAU04",
+    "name":"Traugutta"
    }
   },
   {
@@ -21705,7 +21688,7 @@
    "id":"OSTR01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Ostroroga",
+    "place":"Grunwaldzka",
     "id":"OSTR01",
     "name":"Ostroroga"
    }
@@ -21994,7 +21977,7 @@
    "id":"GROC02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Genera\u0142a J\u00f3zefa Longina Sowi\u0144skiego",
     "id":"GROC02",
     "name":"Grochowska"
    }
@@ -22028,7 +22011,7 @@
    "id":"RKAP34",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Bukowska",
+    "place":"Ba\u0142tyk",
     "id":"RKAP34",
     "name":"Rondo Kaponiera"
    }
@@ -22088,15 +22071,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.994171,
-     52.285772
+     16.994405,
+     52.285971
     ]
    },
    "type":"Feature",
    "id":"KAPET01",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"gmina K\u00f3rnik",
+    "place":"Piotrowska",
     "id":"KAPET01",
     "name":"Kamionki P\u0119tla"
    }
@@ -23031,7 +23014,7 @@
    "id":"DALES01",
    "properties":{
     "city":"gmina Mosina",
-    "place":"Pozna\u0144ska",
+    "place":"Le\u015bna",
     "id":"DALES01",
     "name":"Daszewice Le\u015bna"
    }
@@ -23541,7 +23524,7 @@
    "id":"DALES02",
    "properties":{
     "city":"gmina Mosina",
-    "place":"Pozna\u0144ska",
+    "place":"Le\u015bna",
     "id":"DALES02",
     "name":"Daszewice Le\u015bna"
    }
@@ -23626,7 +23609,7 @@
    "id":"LULAS02",
    "properties":{
     "city":"Lubo\u0144",
-    "place":"Lubo\u0144 / Lasek",
+    "place":"Lubo\u0144/Lasek",
     "id":"LULAS02",
     "name":"Lubo\u0144/Lasek"
    }
@@ -23728,7 +23711,7 @@
    "id":"KASZ02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Kasztanowa",
+    "place":"28 Czerwca 1956 roku",
     "id":"KASZ02",
     "name":"Kasztanowa"
    }
@@ -23745,7 +23728,7 @@
    "id":"DEEC05",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"28 Czerwca 1956 roku",
+    "place":"D\u0119biec",
     "id":"DEEC05",
     "name":"D\u0119biec"
    }
@@ -23966,7 +23949,7 @@
    "id":"KOTO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Nowe Kotowo",
+    "place":"Wandy Modlibowskiej",
     "id":"KOTO02",
     "name":"Kotowo"
    }
@@ -24332,23 +24315,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.889704,
-     52.348172
-    ]
-   },
-   "type":"Feature",
-   "id":"LUSTR04",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Ko\u015bcielna",
-    "id":"LUSTR04",
-    "name":"Lubo\u0144/Streicha"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.88644,
      52.346197
     ]
@@ -24383,15 +24349,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.757745,
-     52.228821
+     16.757836,
+     52.228991
     ]
    },
    "type":"Feature",
    "id":"DNKLU02",
    "properties":{
     "city":"gmina Mosina",
-    "place":"431",
+    "place":"Wincentego Witosa",
     "id":"DNKLU02",
     "name":"Dymaczewo Nowe/Klub"
    }
@@ -24400,15 +24366,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.762056,
-     52.228794
+     16.761638,
+     52.228819
     ]
    },
    "type":"Feature",
    "id":"DNDYM02",
    "properties":{
     "city":"gmina Mosina",
-    "place":"431",
+    "place":"Wiejska",
     "id":"DNDYM02",
     "name":"Dymaczewo Nowe/"
    }
@@ -24417,8 +24383,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.778816,
-     52.228217
+     16.779936,
+     52.228136
     ]
    },
    "type":"Feature",
@@ -24434,8 +24400,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.817087,
-     52.234259
+     16.816756,
+     52.234125
     ]
    },
    "type":"Feature",
@@ -24451,15 +24417,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.813455,
-     52.243233
+     16.812375,
+     52.24579
     ]
    },
    "type":"Feature",
    "id":"LDSZP02",
    "properties":{
     "city":"gmina Mosina",
-    "place":"St\u0119szewska",
+    "place":"Parkowa",
     "id":"LDSZP02",
     "name":"Ludwikowo/Szpital."
    }
@@ -24468,15 +24434,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.817501,
-     52.235098
+     16.817437,
+     52.234933
     ]
    },
    "type":"Feature",
    "id":"KKLUD02",
    "properties":{
     "city":"gmina Mosina",
-    "place":"Wiejska",
+    "place":"Ludwikowska",
     "id":"KKLUD02",
     "name":"Krosinko/Ludwikowska."
    }
@@ -24485,8 +24451,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.847666,
-     52.243133
+     16.847493,
+     52.243389
     ]
    },
    "type":"Feature",
@@ -24502,8 +24468,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.851727,
-     52.241483
+     16.851678,
+     52.241508
     ]
    },
    "type":"Feature",
@@ -24519,8 +24485,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.847622,
-     52.243323
+     16.847609,
+     52.243348
     ]
    },
    "type":"Feature",
@@ -24536,8 +24502,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.851476,
-     52.250916
+     16.851488,
+     52.25101
     ]
    },
    "type":"Feature",
@@ -24553,8 +24519,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.872502,
-     52.256959
+     16.872383,
+     52.256787
     ]
    },
    "type":"Feature",
@@ -24570,8 +24536,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.870243,
-     52.264228
+     16.87019,
+     52.264184
     ]
    },
    "type":"Feature",
@@ -24587,8 +24553,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.873004,
-     52.265472
+     16.872869,
+     52.265669
     ]
    },
    "type":"Feature",
@@ -24604,8 +24570,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.868707,
-     52.272137
+     16.868686,
+     52.272187
     ]
    },
    "type":"Feature",
@@ -24621,8 +24587,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.862092,
-     52.272083
+     16.862002,
+     52.272153
     ]
    },
    "type":"Feature",
@@ -24638,15 +24604,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.858298,
-     52.274527
+     16.85814,
+     52.274573
     ]
    },
    "type":"Feature",
    "id":"PULIB01",
    "properties":{
     "city":"Puszczykowo",
-    "place":"Puszczykowo / Libelta",
+    "place":"Karola Libelta",
     "id":"PULIB01",
     "name":"Puszczykowo/Libelta."
    }
@@ -24655,8 +24621,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.854148,
-     52.278261
+     16.854097,
+     52.27828
     ]
    },
    "type":"Feature",
@@ -24672,8 +24638,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.851535,
-     52.280407
+     16.851403,
+     52.280569
     ]
    },
    "type":"Feature",
@@ -24689,8 +24655,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.855271,
-     52.285548
+     16.85532,
+     52.285642
     ]
    },
    "type":"Feature",
@@ -24706,8 +24672,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.858194,
-     52.288848
+     16.858229,
+     52.28888
     ]
    },
    "type":"Feature",
@@ -24723,8 +24689,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.862299,
-     52.293349
+     16.862186,
+     52.293273
     ]
    },
    "type":"Feature",
@@ -24740,8 +24706,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.869475,
-     52.294512
+     16.869119,
+     52.294524
     ]
    },
    "type":"Feature",
@@ -24859,8 +24825,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.868973,
-     52.294512
+     16.868399,
+     52.29462
     ]
    },
    "type":"Feature",
@@ -24876,8 +24842,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.861738,
-     52.292753
+     16.861444,
+     52.292691
     ]
    },
    "type":"Feature",
@@ -24893,8 +24859,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.858844,
-     52.28957
+     16.858771,
+     52.289723
     ]
    },
    "type":"Feature",
@@ -24910,8 +24876,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.856275,
-     52.286711
+     16.856138,
+     52.286837
     ]
    },
    "type":"Feature",
@@ -24927,8 +24893,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.851373,
-     52.28121
+     16.85121,
+     52.281228
     ]
    },
    "type":"Feature",
@@ -24944,8 +24910,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.85403,
-     52.276809
+     16.853829,
+     52.276878
     ]
    },
    "type":"Feature",
@@ -24961,8 +24927,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.859021,
-     52.273228
+     16.858853,
+     52.273116
     ]
    },
    "type":"Feature",
@@ -24978,8 +24944,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.861753,
-     52.272155
+     16.861829,
+     52.272103
     ]
    },
    "type":"Feature",
@@ -24995,8 +24961,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.868176,
-     52.272002
+     16.868522,
+     52.272065
     ]
    },
    "type":"Feature",
@@ -25012,8 +24978,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.872945,
-     52.265887
+     16.872687,
+     52.266043
     ]
    },
    "type":"Feature",
@@ -25029,8 +24995,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.872399,
-     52.257374
+     16.872084,
+     52.257644
     ]
    },
    "type":"Feature",
@@ -25046,8 +25012,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.851653,
-     52.251232
+     16.851533,
+     52.25121
     ]
    },
    "type":"Feature",
@@ -25063,8 +25029,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.851565,
-     52.24142
+     16.851478,
+     52.24134
     ]
    },
    "type":"Feature",
@@ -25080,15 +25046,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.817619,
-     52.234891
+     16.817577,
+     52.234856
     ]
    },
    "type":"Feature",
    "id":"KKLUD01",
    "properties":{
     "city":"gmina Mosina",
-    "place":"Wiejska",
+    "place":"Ludwikowska",
     "id":"KKLUD01",
     "name":"Krosinko/Ludwikowska."
    }
@@ -25097,8 +25063,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.81505,
-     52.23379
+     16.814895,
+     52.233808
     ]
    },
    "type":"Feature",
@@ -25114,8 +25080,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.777339,
-     52.228136
+     16.777669,
+     52.228122
     ]
    },
    "type":"Feature",
@@ -25131,25 +25097,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.757701,
-     52.229182
-    ]
-   },
-   "type":"Feature",
-   "id":"DNKLU01",
-   "properties":{
-    "city":"gmina Mosina",
-    "place":"431",
-    "id":"DNKLU01",
-    "name":"Dymaczewo Nowe/Klub"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.80309,
-     52.330415
+     16.803233,
+     52.330553
     ]
    },
    "type":"Feature",
@@ -25165,8 +25114,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807136,
-     52.335438
+     16.807277,
+     52.335467
     ]
    },
    "type":"Feature",
@@ -25182,8 +25131,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.816585,
-     52.338062
+     16.816567,
+     52.338068
     ]
    },
    "type":"Feature",
@@ -25471,8 +25420,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807062,
-     52.335384
+     16.806964,
+     52.335584
     ]
    },
    "type":"Feature",
@@ -25819,7 +25768,7 @@
    "id":"SZNOW01",
    "properties":{
     "city":"gmina Komorniki",
-    "place":"Nowa",
+    "place":"5",
     "id":"SZNOW01",
     "name":"Szreniawa/Nowa"
    }
@@ -25904,7 +25853,7 @@
    "id":"OPII02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Nowe Kotowo",
+    "place":"Wandy Modlibowskiej",
     "id":"OPII02",
     "name":"Op\u0142otki II"
    }
@@ -25921,7 +25870,7 @@
    "id":"NOKO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"G\u0142ogowska",
+    "place":"Nowe Kotowo",
     "id":"NOKO02",
     "name":"Nowe Kotowo"
    }
@@ -26151,15 +26100,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.808125,
-     52.361754
+     16.808229,
+     52.361986
     ]
    },
    "type":"Feature",
    "id":"PLKOS01",
    "properties":{
     "city":"gmina Komorniki",
-    "place":"Polna",
+    "place":"Szkolna",
     "id":"PLKOS01",
     "name":"Plewiska/Ko\u015bci\u00f3\u0142"
    }
@@ -26168,8 +26117,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.80715,
-     52.362999
+     16.807252,
+     52.362983
     ]
    },
    "type":"Feature",
@@ -26185,8 +26134,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.801982,
-     52.367345
+     16.80161,
+     52.367685
     ]
    },
    "type":"Feature",
@@ -26202,14 +26151,14 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.781577,
-     52.370917
+     16.78105,
+     52.371135
     ]
    },
    "type":"Feature",
    "id":"PLENE02",
    "properties":{
-    "city":"gmina Komorniki",
+    "city":"gmina Dopiewo",
     "place":"Szkolna",
     "id":"PLENE02",
     "name":"Plewiska/Stacja Energetyczna"
@@ -26219,8 +26168,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.802352,
-     52.367039
+     16.802405,
+     52.366947
     ]
    },
    "type":"Feature",
@@ -26236,8 +26185,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807992,
-     52.365199
+     16.807995,
+     52.365327
     ]
    },
    "type":"Feature",
@@ -26253,8 +26202,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.812776,
-     52.368581
+     16.812777,
+     52.368689
     ]
    },
    "type":"Feature",
@@ -26270,8 +26219,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.816999,
-     52.371629
+     16.816967,
+     52.371658
     ]
    },
    "type":"Feature",
@@ -26287,8 +26236,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.821517,
-     52.369032
+     16.82105,
+     52.369398
     ]
    },
    "type":"Feature",
@@ -26304,8 +26253,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.82509,
-     52.36583
+     16.824711,
+     52.366576
     ]
    },
    "type":"Feature",
@@ -26321,8 +26270,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.832133,
-     52.366308
+     16.831908,
+     52.366361
     ]
    },
    "type":"Feature",
@@ -26338,15 +26287,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.840963,
-     52.355639
+     16.840888,
+     52.35584
     ]
    },
    "type":"Feature",
    "id":"AUCH03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Op\u0142otki",
+    "place":"Haliny Konopackiej",
     "id":"AUCH03",
     "name":"Auchan/Sycowska"
    }
@@ -26355,8 +26304,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.830731,
-     52.366119
+     16.830793,
+     52.366256
     ]
    },
    "type":"Feature",
@@ -26372,8 +26321,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.825046,
-     52.365966
+     16.824995,
+     52.366187
     ]
    },
    "type":"Feature",
@@ -26389,8 +26338,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.820956,
-     52.369456
+     16.821131,
+     52.369421
     ]
    },
    "type":"Feature",
@@ -26406,8 +26355,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.813869,
-     52.369339
+     16.813722,
+     52.369441
     ]
    },
    "type":"Feature",
@@ -26423,8 +26372,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807859,
-     52.365109
+     16.807836,
+     52.365336
     ]
    },
    "type":"Feature",
@@ -26440,8 +26389,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807446,
-     52.362746
+     16.807479,
+     52.362706
     ]
    },
    "type":"Feature",
@@ -26474,8 +26423,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.822831,
-     52.375697
+     16.822752,
+     52.375873
     ]
    },
    "type":"Feature",
@@ -26491,8 +26440,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.81725,
-     52.371819
+     16.817025,
+     52.371785
     ]
    },
    "type":"Feature",
@@ -26508,8 +26457,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.80718,
-     52.357091
+     16.807092,
+     52.357248
     ]
    },
    "type":"Feature",
@@ -26525,8 +26474,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.803488,
-     52.347306
+     16.803227,
+     52.347087
     ]
    },
    "type":"Feature",
@@ -26542,8 +26491,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.800609,
-     52.339442
+     16.8004,
+     52.33951
     ]
    },
    "type":"Feature",
@@ -26559,8 +26508,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.795279,
-     52.340137
+     16.795074,
+     52.34032
     ]
    },
    "type":"Feature",
@@ -26729,8 +26678,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.796386,
-     52.339839
+     16.796122,
+     52.339921
     ]
    },
    "type":"Feature",
@@ -26746,8 +26695,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.800491,
-     52.339127
+     16.800452,
+     52.339236
     ]
    },
    "type":"Feature",
@@ -26763,15 +26712,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.803415,
-     52.347063
+     16.803428,
+     52.347148
     ]
    },
    "type":"Feature",
    "id":"KOKSW01",
    "properties":{
     "city":"gmina Komorniki",
-    "place":"Ksi\u0119dza Malinowskiego",
+    "place":"Ksi\u0119dza Piotra Wawrzyniaka",
     "id":"KOKSW01",
     "name":"Komorniki/Ks.Wawrzyniaka"
    }
@@ -26780,8 +26729,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807446,
-     52.35775
+     16.807367,
+     52.357772
     ]
    },
    "type":"Feature",
@@ -26797,8 +26746,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.823599,
-     52.376247
+     16.823569,
+     52.376337
     ]
    },
    "type":"Feature",
@@ -26822,26 +26771,9 @@
    "id":"JUNI30",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Junikowo",
     "id":"JUNI30",
     "name":"Junikowo"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.885155,
-     52.416681
-    ]
-   },
-   "type":"Feature",
-   "id":"OGDY06",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
-    "id":"OGDY06",
-    "name":"Ogrody"
    }
   },
   {
@@ -26859,23 +26791,6 @@
     "place":"Pozna\u0144ska",
     "id":"MALW03",
     "name":"Malwowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.790693,
-     52.39163
-    ]
-   },
-   "type":"Feature",
-   "id":"SKKOS01",
-   "properties":{
-    "city":"gmina Dopiewo",
-    "place":"Pozna\u0144ska",
-    "id":"SKKOS01",
-    "name":"Sk\u00f3rzewo, Ko\u015bci\u00f3\u0142"
    }
   },
   {
@@ -27128,7 +27043,7 @@
    "id":"DKKAS02",
    "properties":{
     "city":"gmina Dopiewo",
-    "place":"Cedrowa",
+    "place":"Daglezjowa",
     "id":"DKKAS02",
     "name":"D\u0105br\u00f3wka/Kasztanowa"
    }
@@ -30180,23 +30095,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.913863,
-     52.402922
-    ]
-   },
-   "type":"Feature",
-   "id":"POGL05",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Stanis\u0142awa Matyi",
-    "id":"POGL05",
-    "name":"Pozna\u0144 G\u0142\u00f3wny"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.903824,
      52.453967
     ]
@@ -30375,7 +30273,7 @@
    "id":"ZIOSP01",
    "properties":{
     "city":"gmina Suchy Las",
-    "place":"Kr\u0119ta",
+    "place":"Le\u015bna",
     "id":"ZIOSP01",
     "name":"Ziel\u0105tkowo/Osp"
    }
@@ -30894,6 +30792,23 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.8033,
+     52.47369
+    ]
+   },
+   "type":"Feature",
+   "id":"PSAR01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Psarskie",
+    "id":"PSAR01",
+    "name":"Psarskie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.964843,
      52.313984
     ]
@@ -30962,8 +30877,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807121,
-     52.332245
+     16.807167,
+     52.332565
     ]
    },
    "type":"Feature",
@@ -30979,8 +30894,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.807401,
-     52.332696
+     16.807303,
+     52.332618
     ]
    },
    "type":"Feature",
@@ -30996,8 +30911,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.808538,
-     52.335221
+     16.808424,
+     52.33543
     ]
    },
    "type":"Feature",
@@ -31013,15 +30928,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.808213,
-     52.335483
+     16.808392,
+     52.335285
     ]
    },
    "type":"Feature",
    "id":"KOZAK01",
    "properties":{
     "city":"gmina Komorniki",
-    "place":"Pozna\u0144ska",
+    "place":"Zak\u0142adowa",
     "id":"KOZAK01",
     "name":"Komorniki/Zak\u0142adowa Wirenka"
    }
@@ -31041,6 +30956,40 @@
     "place":"Powsta\u0144c\u00f3w Wielkopolskich",
     "id":"LUNIE01",
     "name":"Lubo\u0144/Niepodleg\u0142o\u015bci"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.776848,
+     52.475178
+    ]
+   },
+   "type":"Feature",
+   "id":"ADMI01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Wilk\u00f3w Morskich",
+    "id":"ADMI01",
+    "name":"Admiralska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.777476,
+     52.475747
+    ]
+   },
+   "type":"Feature",
+   "id":"ADMI02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Wilk\u00f3w Morskich",
+    "id":"ADMI02",
+    "name":"Admiralska"
    }
   },
   {
@@ -31143,108 +31092,6 @@
     "place":"Naramowicka",
     "id":"DUNZ02",
     "name":"Dziurawcowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.006542,
-     52.36151
-    ]
-   },
-   "type":"Feature",
-   "id":"SKIB92",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Skibowa",
-    "id":"SKIB92",
-    "name":"Skibowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.017897,
-     52.356866
-    ]
-   },
-   "type":"Feature",
-   "id":"OLIW91",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Glebowa",
-    "id":"OLIW91",
-    "name":"Oliwkowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.006247,
-     52.36069
-    ]
-   },
-   "type":"Feature",
-   "id":"SKIB91",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Glebowa",
-    "id":"SKIB91",
-    "name":"Skibowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.016745,
-     52.357091
-    ]
-   },
-   "type":"Feature",
-   "id":"OLIW92",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Glebowa",
-    "id":"OLIW92",
-    "name":"Oliwkowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.026756,
-     52.352952
-    ]
-   },
-   "type":"Feature",
-   "id":"GOSP91",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Gospodarska",
-    "id":"GOSP91",
-    "name":"Gospodarska"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.026623,
-     52.353322
-    ]
-   },
-   "type":"Feature",
-   "id":"GOSP92",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Glebowa",
-    "id":"GOSP92",
-    "name":"Gospodarska"
    }
   },
   {
@@ -31361,7 +31208,7 @@
    "id":"DBLES01",
    "properties":{
     "city":"gmina Dopiewo",
-    "place":"Poprzeczna",
+    "place":"Le\u015bna",
     "id":"DBLES01",
     "name":"D\u0105browa/Poprzeczna"
    }
@@ -31446,7 +31293,7 @@
    "id":"DBLES02",
    "properties":{
     "city":"gmina Dopiewo",
-    "place":"Poprzeczna",
+    "place":"Le\u015bna",
     "id":"DBLES02",
     "name":"D\u0105browa/Poprzeczna"
    }
@@ -31463,7 +31310,7 @@
    "id":"DBWIL04",
    "properties":{
     "city":"gmina Dopiewo",
-    "place":"Wiejska",
+    "place":"Le\u015bna",
     "id":"DBWIL04",
     "name":"D\u0105browa, Le\u015bna"
    }
@@ -31636,6 +31483,57 @@
     "place":"2406P",
     "id":"BIJES02",
     "name":"Biedrusko/Jesionowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.067244,
+     52.382103
+    ]
+   },
+   "type":"Feature",
+   "id":"ZATRA02",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Planetarna",
+    "id":"ZATRA02",
+    "name":"Zalasewo/Transportowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.067258,
+     52.382311
+    ]
+   },
+   "type":"Feature",
+   "id":"ZATRA01",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Planetarna",
+    "id":"ZATRA01",
+    "name":"Zalasewo/Transportowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.060114,
+     52.383517
+    ]
+   },
+   "type":"Feature",
+   "id":"ZAOSL01",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Transportowa",
+    "id":"ZAOSL01",
+    "name":"Zalasewo/Os. Le\u015bne"
    }
   },
   {
@@ -31846,8 +31744,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.820144,
-     52.373839
+     16.820377,
+     52.374174
     ]
    },
    "type":"Feature",
@@ -31863,8 +31761,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.82072,
-     52.374245
+     16.820112,
+     52.373883
     ]
    },
    "type":"Feature",
@@ -31880,8 +31778,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.840978,
-     52.367472
+     16.840845,
+     52.36754
     ]
    },
    "type":"Feature",
@@ -31897,8 +31795,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.840402,
-     52.367409
+     16.84029,
+     52.367518
     ]
    },
    "type":"Feature",
@@ -32016,108 +31914,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.863052,
-     52.339514
-    ]
-   },
-   "type":"Feature",
-   "id":"LUPOP02",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Poprzeczna",
-    "id":"LUPOP02",
-    "name":"Lubo\u0144/Poprzeczna"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.863008,
-     52.339821
-    ]
-   },
-   "type":"Feature",
-   "id":"LUPOP01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Poprzeczna",
-    "id":"LUPOP01",
-    "name":"Lubo\u0144/Poprzeczna"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.862801,
-     52.34213
-    ]
-   },
-   "type":"Feature",
-   "id":"LUKLL04",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Poprzeczna",
-    "id":"LUKLL04",
-    "name":"Lubo\u0144/Ko\u0142\u0142\u0105taja"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.862712,
-     52.342824
-    ]
-   },
-   "type":"Feature",
-   "id":"LUKLL03",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Wojska Polskiego",
-    "id":"LUKLL03",
-    "name":"Lubo\u0144/Ko\u0142\u0142\u0105taja"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.861,
-     52.344971
-    ]
-   },
-   "type":"Feature",
-   "id":"LUSWI02",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"11 Listopada",
-    "id":"LUSWI02",
-    "name":"Lubo\u0144/\u015awierkowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.860217,
-     52.344952
-    ]
-   },
-   "type":"Feature",
-   "id":"LUSWI01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"11 Listopada",
-    "id":"LUSWI01",
-    "name":"Lubo\u0144/\u015awierkowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.86252,
      52.405178
     ]
@@ -32203,125 +31999,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.878187,
-     52.331497
-    ]
-   },
-   "type":"Feature",
-   "id":"LUKOS04",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Walki M\u0142odych",
-    "id":"LUKOS04",
-    "name":"Lubo\u0144/Ko\u015bci\u00f3\u0142"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.878762,
-     52.331488
-    ]
-   },
-   "type":"Feature",
-   "id":"LUKOS03",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Walki M\u0142odych",
-    "id":"LUKOS03",
-    "name":"Lubo\u0144/Ko\u015bci\u00f3\u0142"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.888596,
-     52.332056
-    ]
-   },
-   "type":"Feature",
-   "id":"LUWML02",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Armii Pozna\u0144",
-    "id":"LUWML02",
-    "name":"Lubo\u0144/Walki M\u0142odych"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.888301,
-     52.331803
-    ]
-   },
-   "type":"Feature",
-   "id":"LUWML01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Walki M\u0142odych",
-    "id":"LUWML01",
-    "name":"Lubo\u0144/Walki M\u0142odych"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.870258,
-     52.339424
-    ]
-   },
-   "type":"Feature",
-   "id":"LUBUC02",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Mariana Buczka",
-    "id":"LUBUC02",
-    "name":"Lubo\u0144/Buczka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.869755,
-     52.339424
-    ]
-   },
-   "type":"Feature",
-   "id":"LUBUC01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Mariana Buczka",
-    "id":"LUBUC01",
-    "name":"Lubo\u0144/Buczka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.890708,
-     52.331226
-    ]
-   },
-   "type":"Feature",
-   "id":"LUKOC01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Armii Pozna\u0144",
-    "id":"LUKOC01",
-    "name":"Lubo\u0144/Kocie Do\u0142y"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.795082,
      52.393399
     ]
@@ -32373,34 +32050,17 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.882217,
-     52.331614
+     16.892287,
+     52.415207
     ]
    },
    "type":"Feature",
-   "id":"LURYD01",
+   "id":"ZERO91",
    "properties":{
-    "city":"Lubo\u0144",
-    "place":"Walki M\u0142odych",
-    "id":"LURYD01",
-    "name":"Lubo\u0144/Rydla"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.881804,
-     52.331596
-    ]
-   },
-   "type":"Feature",
-   "id":"LURYD02",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Walki M\u0142odych",
-    "id":"LURYD02",
-    "name":"Lubo\u0144/Rydla"
+    "city":"Pozna\u0144",
+    "place":"Jana Henryka D\u0105browskiego",
+    "id":"ZERO91",
+    "name":"\u017beromskiego"
    }
   },
   {
@@ -33852,74 +33512,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     17.009194,
-     52.573731
-    ]
-   },
-   "type":"Feature",
-   "id":"MGRYN01",
-   "properties":{
-    "city":"gmina Murowana Go\u015blina",
-    "place":"Pozna\u0144ska",
-    "id":"MGRYN01",
-    "name":"M. Go\u015blina/Rynek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.009753,
-     52.575083
-    ]
-   },
-   "type":"Feature",
-   "id":"MGRYN02",
-   "properties":{
-    "city":"gmina Murowana Go\u015blina",
-    "place":"Plac Powsta\u0144c\u00f3w Wielkopolskich",
-    "id":"MGRYN02",
-    "name":"M. Go\u015blina/Rynek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.012802,
-     52.579517
-    ]
-   },
-   "type":"Feature",
-   "id":"MGJOD02",
-   "properties":{
-    "city":"gmina Murowana Go\u015blina",
-    "place":"Rogozi\u0144ska",
-    "id":"MGJOD02",
-    "name":"M. Go\u015blina/Jod\u0142owa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     17.012898,
-     52.57967
-    ]
-   },
-   "type":"Feature",
-   "id":"MGJOD01",
-   "properties":{
-    "city":"gmina Murowana Go\u015blina",
-    "place":"Rogozi\u0144ska",
-    "id":"MGJOD01",
-    "name":"M. Go\u015blina/Jod\u0142owa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      17.016552,
      52.58331
     ]
@@ -34353,7 +33945,7 @@
    "id":"BOPAL01",
    "properties":{
     "city":"gmina Czerwonak",
-    "place":"Poligonowa",
+    "place":"Szkolna",
     "id":"BOPAL01",
     "name":"Bolechowo/Pa\u0142ac"
    }
@@ -34370,7 +33962,7 @@
    "id":"BOPAL02",
    "properties":{
     "city":"gmina Czerwonak",
-    "place":"Poligonowa",
+    "place":"Szkolna",
     "id":"BOPAL02",
     "name":"Bolechowo/Pa\u0142ac"
    }
@@ -34668,74 +34260,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.920046,
-     52.378772
-    ]
-   },
-   "type":"Feature",
-   "id":"LEDE92",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Dolna Wilda",
-    "id":"LEDE92",
-    "name":"\u0141\u0119gi D\u0119bi\u0144skie"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.920179,
-     52.379069
-    ]
-   },
-   "type":"Feature",
-   "id":"LEDE91",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Dolna Wilda",
-    "id":"LEDE91",
-    "name":"\u0141\u0119gi D\u0119bi\u0144skie"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.91888,
-     52.375697
-    ]
-   },
-   "type":"Feature",
-   "id":"WSNZ92",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Wsp\u00f3lna",
-    "id":"WSNZ92",
-    "name":"Wsp\u00f3lna I"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.919131,
-     52.376409
-    ]
-   },
-   "type":"Feature",
-   "id":"WSNZ91",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Wsp\u00f3lna",
-    "id":"WSNZ91",
-    "name":"Wsp\u00f3lna I"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.896023,
      52.367039
     ]
@@ -34828,8 +34352,8 @@
    "type":"Feature",
    "id":"RKAP91",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Rondo Kaponiera",
     "id":"RKAP91",
     "name":"Rondo Kaponiera"
    }
@@ -34849,6 +34373,856 @@
     "place":"Janusza Zeylanda",
     "id":"BALT95",
     "name":"Ba\u0142tyk"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.850162,
+     52.485831
+    ]
+   },
+   "type":"Feature",
+   "id":"ZLPNL01",
+   "properties":{
+    "city":"gmina Suchy Las",
+    "place":"Krzemowa",
+    "id":"ZLPNL01",
+    "name":"Z\u0142otniki/Park Nickel"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.844861,
+     52.484361
+    ]
+   },
+   "type":"Feature",
+   "id":"ZLPNL02",
+   "properties":{
+    "city":"gmina Suchy Las",
+    "place":"Z\u0142otnicka",
+    "id":"ZLPNL02",
+    "name":"Z\u0142otniki/Park Nickel"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.913863,
+     52.402922
+    ]
+   },
+   "type":"Feature",
+   "id":"POGL00",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Stanis\u0142awa Matyi",
+    "id":"POGL00",
+    "name":"Pozna\u0144 G\u0142\u00f3wny"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.763061,
+     52.344637
+    ]
+   },
+   "type":"Feature",
+   "id":"GLMOR01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Stawna",
+    "id":"GLMOR01",
+    "name":"G\u0142uchowo/Morelowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.763696,
+     52.344817
+    ]
+   },
+   "type":"Feature",
+   "id":"GLMOR02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Stawna",
+    "id":"GLMOR02",
+    "name":"G\u0142uchowo/Morelowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.805331,
+     52.347343
+    ]
+   },
+   "type":"Feature",
+   "id":"KOKSW03",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Ksi\u0119dza Piotra Wawrzyniaka",
+    "id":"KOKSW03",
+    "name":"Komorniki/Ks.Wawrzyniaka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.804677,
+     52.347431
+    ]
+   },
+   "type":"Feature",
+   "id":"KOKSW04",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Ksi\u0119dza Piotra Wawrzyniaka",
+    "id":"KOKSW04",
+    "name":"Komorniki/Ks.Wawrzyniaka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.811699,
+     52.347805
+    ]
+   },
+   "type":"Feature",
+   "id":"KOWIS01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Wi\u015bniowa",
+    "id":"KOWIS01",
+    "name":"Komorniki/Wi\u015bniowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.811723,
+     52.347691
+    ]
+   },
+   "type":"Feature",
+   "id":"KOWIS02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Wi\u015bniowa",
+    "id":"KOWIS02",
+    "name":"Komorniki/Wi\u015bniowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.819897,
+     52.349315
+    ]
+   },
+   "type":"Feature",
+   "id":"KOFAB02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Fabianowska",
+    "id":"KOFAB02",
+    "name":"Komorniki/Fabianowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.820146,
+     52.349377
+    ]
+   },
+   "type":"Feature",
+   "id":"KOFAB01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Fabianowska",
+    "id":"KOFAB01",
+    "name":"Komorniki/Fabianowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.827421,
+     52.35232
+    ]
+   },
+   "type":"Feature",
+   "id":"KOKOL01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Fabianowska",
+    "id":"KOKOL01",
+    "name":"Komorniki/Kolejowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.827356,
+     52.352207
+    ]
+   },
+   "type":"Feature",
+   "id":"KOKOL02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Fabianowska",
+    "id":"KOKOL02",
+    "name":"Komorniki/Kolejowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.796477,
+     52.34777
+    ]
+   },
+   "type":"Feature",
+   "id":"KOKLB01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Krzysztofa Kolumba",
+    "id":"KOKLB01",
+    "name":"Komorniki/Kolumba"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.892775,
+     52.415098
+    ]
+   },
+   "type":"Feature",
+   "id":"ZERO92",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Jana Henryka D\u0105browskiego",
+    "id":"ZERO92",
+    "name":"\u017beromskiego"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.926793,
+     52.415281
+    ]
+   },
+   "type":"Feature",
+   "id":"URMA01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Aleja Niepodleg\u0142o\u015bci",
+    "id":"URMA01",
+    "name":"Urz\u0105d Marsza\u0142kowski"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.926297,
+     52.415502
+    ]
+   },
+   "type":"Feature",
+   "id":"URMA02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Aleja Niepodleg\u0142o\u015bci",
+    "id":"URMA02",
+    "name":"Urz\u0105d Marsza\u0142kowski"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.793918,
+     52.347858
+    ]
+   },
+   "type":"Feature",
+   "id":"KOKLB02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Krzysztofa Kolumba",
+    "id":"KOKLB02",
+    "name":"Komorniki/Kolumba"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.911276,
+     52.410761
+    ]
+   },
+   "type":"Feature",
+   "id":"MICK94",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Adama Mickiewicza",
+    "id":"MICK94",
+    "name":"Mickiewicza"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.881583,
+     52.41389
+    ]
+   },
+   "type":"Feature",
+   "id":"SZGO91",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Augustyna Szamarzewskiego",
+    "id":"SZGO91",
+    "name":"Szamarzewskiego"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.982091,
+     52.464854
+    ]
+   },
+   "type":"Feature",
+   "id":"CESZK04",
+   "properties":{
+    "city":"gmina Czerwonak",
+    "place":"Szkolna",
+    "id":"CESZK04",
+    "name":"Czerwonak/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.982356,
+     52.464998
+    ]
+   },
+   "type":"Feature",
+   "id":"CESZK03",
+   "properties":{
+    "city":"gmina Czerwonak",
+    "place":"Szkolna",
+    "id":"CESZK03",
+    "name":"Czerwonak/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.01515,
+     52.575348
+    ]
+   },
+   "type":"Feature",
+   "id":"MGSTA01",
+   "properties":{
+    "city":"gmina Murowana Go\u015blina",
+    "place":"Dworcowa",
+    "id":"MGSTA01",
+    "name":"M. Go\u015blina/Dworzec"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.015475,
+     52.575718
+    ]
+   },
+   "type":"Feature",
+   "id":"MGSTA02",
+   "properties":{
+    "city":"gmina Murowana Go\u015blina",
+    "place":"Dworcowa",
+    "id":"MGSTA02",
+    "name":"M. Go\u015blina/Dworzec"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.011444,
+     52.574176
+    ]
+   },
+   "type":"Feature",
+   "id":"MGPOZ01",
+   "properties":{
+    "city":"gmina Murowana Go\u015blina",
+    "place":"Pozna\u0144ska",
+    "id":"MGPOZ01",
+    "name":"M. Go\u015blina/Pozna\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.009436,
+     52.573572
+    ]
+   },
+   "type":"Feature",
+   "id":"MGPOZ02",
+   "properties":{
+    "city":"gmina Murowana Go\u015blina",
+    "place":"Pozna\u0144ska",
+    "id":"MGPOZ02",
+    "name":"M. Go\u015blina/Pozna\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.017867,
+     52.578739
+    ]
+   },
+   "type":"Feature",
+   "id":"MGPOL02",
+   "properties":{
+    "city":"gmina Murowana Go\u015blina",
+    "place":"Kolejowa",
+    "id":"MGPOL02",
+    "name":"M. Go\u015blina/Polna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.018103,
+     52.579055
+    ]
+   },
+   "type":"Feature",
+   "id":"MGPOL01",
+   "properties":{
+    "city":"gmina Murowana Go\u015blina",
+    "place":"Polna",
+    "id":"MGPOL01",
+    "name":"M. Go\u015blina/Polna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.749151,
+     52.472285
+    ]
+   },
+   "type":"Feature",
+   "id":"KBLIP02",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Szamotulska",
+    "id":"KBLIP02",
+    "name":"Kobylniki/Lipowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.748517,
+     52.472664
+    ]
+   },
+   "type":"Feature",
+   "id":"KBLIP01",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Szamotulska",
+    "id":"KBLIP01",
+    "name":"Kobylniki/Lipowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.770827,
+     52.478481
+    ]
+   },
+   "type":"Feature",
+   "id":"RETM01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Podjazdowa",
+    "id":"RETM01",
+    "name":"Retma\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.769956,
+     52.47849
+    ]
+   },
+   "type":"Feature",
+   "id":"RETM02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Podjazdowa",
+    "id":"RETM02",
+    "name":"Retma\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.755116,
+     52.474981
+    ]
+   },
+   "type":"Feature",
+   "id":"RGKOS01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Podjazdowa",
+    "id":"RGKOS01",
+    "name":"Rogier\u00f3wko/Ko\u015bciuszki"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.0048,
+     52.293944
+    ]
+   },
+   "type":"Feature",
+   "id":"SCSZC02",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Szczelinka",
+    "id":"SCSZC02",
+    "name":"Szczytniki/Szczelinka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.004298,
+     52.293628
+    ]
+   },
+   "type":"Feature",
+   "id":"SCSZC01",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Szczelinka",
+    "id":"SCSZC01",
+    "name":"Szczytniki/Szczelinka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.000459,
+     52.289588
+    ]
+   },
+   "type":"Feature",
+   "id":"KANKA02",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Zacisze",
+    "id":"KANKA02",
+    "name":"Kamionki/Nad Kople"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.000444,
+     52.289209
+    ]
+   },
+   "type":"Feature",
+   "id":"KANKA01",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Nad Kople",
+    "id":"KANKA01",
+    "name":"Kamionki/Nad Kople"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.021115,
+     52.308779
+    ]
+   },
+   "type":"Feature",
+   "id":"KXTEL02",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Telewizyjna",
+    "id":"KXTEL02",
+    "name":"Koninko/Telewizyjna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.021337,
+     52.308924
+    ]
+   },
+   "type":"Feature",
+   "id":"KXTEL01",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Telewizyjna",
+    "id":"KXTEL01",
+    "name":"Koninko/Telewizyjna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.880948,
+     52.414043
+    ]
+   },
+   "type":"Feature",
+   "id":"SZGO92",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Augustyna Szamarzewskiego",
+    "id":"SZGO92",
+    "name":"Szamarzewskiego"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.993534,
+     52.282445
+    ]
+   },
+   "type":"Feature",
+   "id":"KAPRO02",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Mieczewska",
+    "id":"KAPRO02",
+    "name":"Kamionki/Promienna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.993696,
+     52.282977
+    ]
+   },
+   "type":"Feature",
+   "id":"KAPRO01",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Mieczewska",
+    "id":"KAPRO01",
+    "name":"Kamionki/Promienna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.992072,
+     52.278702
+    ]
+   },
+   "type":"Feature",
+   "id":"KASZK01",
+   "properties":{
+    "city":"gmina K\u00f3rnik",
+    "place":"Mieczewska",
+    "id":"KASZK01",
+    "name":"Kamionki/Szko\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.765097,
+     52.478309
+    ]
+   },
+   "type":"Feature",
+   "id":"KIWIA02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Podjazdowa",
+    "id":"KIWIA02",
+    "name":"Kiekrz/Wiatraczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.764685,
+     52.478273
+    ]
+   },
+   "type":"Feature",
+   "id":"KIWIA01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Podjazdowa",
+    "id":"KIWIA01",
+    "name":"Kiekrz/Wiatraczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.068762,
+     52.388314
+    ]
+   },
+   "type":"Feature",
+   "id":"ZAOZA02",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Planetarna",
+    "id":"ZAOZA02",
+    "name":"Zalasewo/Os. Zamoyskiego"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.068628,
+     52.388723
+    ]
+   },
+   "type":"Feature",
+   "id":"ZAOZA01",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Planetarna",
+    "id":"ZAOZA01",
+    "name":"Zalasewo/Os. Zamoyskiego"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.068736,
+     52.384858
+    ]
+   },
+   "type":"Feature",
+   "id":"ZAHSZ02",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Planetarna",
+    "id":"ZAHSZ02",
+    "name":"Zalasewo/Heweliusza Szko\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.068593,
+     52.385079
+    ]
+   },
+   "type":"Feature",
+   "id":"ZAHSZ01",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Planetarna",
+    "id":"ZAHSZ01",
+    "name":"Zalasewo/Heweliusza Szko\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718307,
+     52.404971
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKBUK04",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Gajowa",
+    "id":"ZKBUK04",
+    "name":"Zakrzewo/Bukowska"
    }
   }
  ]
