@@ -4,7 +4,8 @@
 """
 Skrypt importujący punkty (POI) z bazy serwisu www.poznan.pl/mim
 
-@see http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/
+@see http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/ [stary format]
+@see http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/ [nowy format]
 """
 
 import json
@@ -38,7 +39,7 @@ class POI(object):
         names = tree.xpath('//div[@class="Paragraph"]//li/p//a')
         addresses = tree.xpath('//div[@class="Paragraph"]//li/p[2]')
 
-        points = []
+        res = []
 
         for name, address in zip(names, addresses):
             name = name.text.strip()
@@ -48,7 +49,7 @@ class POI(object):
 
             # brak adresu, miejsce poza Poznaniem
             if address == '' or ('Pozna' not in address and "\n" in address):
-                #self._logger.debug("Skipping! - %s: %s", name, address)
+                # self._logger.debug("Skipping! - %s: %s", name, address)
                 continue
 
             self._logger.debug('%s - %s', name, street)
@@ -56,14 +57,14 @@ class POI(object):
             # pobierz współrzędne
             pos = self._geo.query(street + u', Poznań')
 
-            points.append({
+            res.append({
                 "name": name,
                 "address": street,
                 "lat": pos['lat'] if pos is not None else False,
                 "lon": pos['lon'] if pos is not None else False,
             })
 
-        return points
+        return res
 
 
 # kategorie do iterowania
