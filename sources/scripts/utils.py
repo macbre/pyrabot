@@ -47,7 +47,7 @@ class Geo(NominatimApi):
 
         # pierwszy punkt
         point = data[0]
-        self._logger.info("Geo point found (%s, %s): %s", point['lat'], point['lon'], point['display_name'])
+        self._logger.debug("Geo point found (%s, %s): %s", point['lat'], point['lon'], point['display_name'])
 
         return {
             "lat": float(point['lat']),
