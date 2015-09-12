@@ -33,15 +33,23 @@ class POI(object):
 
         return html.fromstring(resp.text.encode("utf8"))
 
-    def get_points(self, url):
+    def get_points(self, category_name, url):
+        self._logger.info('Category: {}'.format(category_name))
+
         tree = self._fetch_and_parse(url)
 
-        names = tree.xpath('//div[@class="Paragraph"]//li/p//a')
-        addresses = tree.xpath('//div[@class="Paragraph"]//li/p[2]')
+        if tree.xpath('//div[@class="Paragraph"]//li/p//a'):
+            res = self._get_points_from_old_tree(tree)
+        elif tree.xpath('//article[@class="object"]'):
+            res = self._get_points_from_new_tree(tree)
+        else:
+            raise Exception('Unknown POI page format: <{}>'.format(url))
 
-        res = []
+        points = []
 
-        for name, address in zip(names, addresses):
+        self._logger.info('Points: {}'.format(len(res)))
+
+        for name, address in res:
             name = name.text.strip()
             address = address.text.strip()
 
@@ -49,28 +57,46 @@ class POI(object):
 
             # brak adresu, miejsce poza Poznaniem
             if address == '' or ('Pozna' not in address and "\n" in address):
-                # self._logger.debug("Skipping! - %s: %s", name, address)
+                self._logger.info("Skipping! - %s: %s", name, address)
                 continue
 
             self._logger.debug('%s - %s', name, street)
 
-            # pobierz współrzędne
             pos = self._geo.query(street + u', Poznań')
 
-            res.append({
+            points.append({
                 "name": name,
                 "address": street,
                 "lat": pos['lat'] if pos is not None else False,
                 "lon": pos['lon'] if pos is not None else False,
             })
 
-        return res
+        return points
 
+    @staticmethod
+    def _get_points_from_old_tree(tree):
+        """
+        @see http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/ [stary format]
+        """
+        names = tree.xpath('//div[@class="Paragraph"]//li/p//a')
+        addresses = tree.xpath('//div[@class="Paragraph"]//li/p[2]')
+
+        return zip(names, addresses)
+
+    @staticmethod
+    def _get_points_from_new_tree(tree):
+        """
+        @see http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/ [nowy format]
+        """
+        names = tree.xpath('//article[contains(@class, "object")]//h2')
+        addresses = tree.xpath('//article[contains(@class, "object")]//p[1]')
+
+        return zip(names, addresses)
 
 # kategorie do iterowania
 categories = {
     "Biurowce": "http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/",
-    "Centra handlowe": "http://www.poznan.pl/mim/main/centra-handlowe,poi,670/",
+    # "Centra handlowe": "http://www.poznan.pl/mim/main/centra-handlowe,poi,670/",
     "Muzea": "http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/",
     "Puby i kluby": "http://www.poznan.pl/mim/cim/en/-,poi,92,6117/",
     "Licea ogólnokształcące": "http://www.poznan.pl/mim/oswiata/liceum-ogolnoksztalcace,poi,2286,8884/",
@@ -82,7 +108,7 @@ poi = POI()
 points = []
 
 for (category_name, index_url) in categories.iteritems():
-    category_points = poi.get_points(index_url)
+    category_points = poi.get_points(category_name, index_url)
 
     points.append({
         "category": category_name,
