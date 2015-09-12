@@ -93,37 +93,43 @@ class POI(object):
 
         return zip(names, addresses)
 
-# kategorie do iterowania
-categories = {
-    "Biurowce": "http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/",
-    # "Centra handlowe": "http://www.poznan.pl/mim/main/centra-handlowe,poi,670/",
-    "Muzea": "http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/",
-    "Puby i kluby": "http://www.poznan.pl/mim/cim/en/-,poi,92,6117/",
-    "Licea ogólnokształcące": "http://www.poznan.pl/mim/oswiata/liceum-ogolnoksztalcace,poi,2286,8884/",
-    "Pomniki": "http://www.poznan.pl/mim/turystyka/pomniki,poi,2473/",
-}
 
-# translacja adres -> lat, lon
-poi = POI()
-points = []
+def main():
+    # kategorie do iterowania
+    categories = {
+        "Biurowce": "http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/",
+        # "Centra handlowe": "http://www.poznan.pl/mim/main/centra-handlowe,poi,670/",
+        "Muzea": "http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/",
+        "Puby i kluby": "http://www.poznan.pl/mim/cim/en/-,poi,92,6117/",
+        "Licea ogólnokształcące": "http://www.poznan.pl/mim/oswiata/liceum-ogolnoksztalcace,poi,2286,8884/",
+        "Pomniki": "http://www.poznan.pl/mim/turystyka/pomniki,poi,2473/",
+    }
 
-for (category_name, index_url) in categories.iteritems():
-    category_points = poi.get_points(category_name, index_url)
+    # translacja adres -> lat, lon
+    poi = POI()
+    points = []
 
-    points.append({
-        "category": category_name,
-        "source": index_url,
-        "count": len(category_points),
-        "points": category_points
-    })
+    for (category_name, index_url) in categories.iteritems():
+        category_points = poi.get_points(category_name, index_url)
 
-# eksport do JSONa
-with open("../db/places.json", "w") as json_output:
-    json.dump(points, json_output, indent=True, separators=(',', ':'))
+        points.append({
+            "category": category_name,
+            "source": index_url,
+            "count": len(category_points),
+            "points": category_points
+        })
 
-# zapis do wikitekstu
-with open("../db/places.wikitext", "w") as wikitext_output:
-    for category in points:
-        wikitext_output.write("=== [[:Category:%s]] ===\n[[" % category['category'])
-        wikitext_output.write(']] &middot;\n[['.join([point['name'].encode('utf-8') for point in category['points']]))
-        wikitext_output.write("]]\n\n")
+    # eksport do JSONa
+    with open("../db/places.json", "w") as json_output:
+        json.dump(points, json_output, indent=True, separators=(',', ':'))
+
+    # zapis do wikitekstu
+    with open("../db/places.wikitext", "w") as wikitext_output:
+        for category in points:
+            wikitext_output.write("=== [[:Category:%s]] ===\n[[" % category['category'])
+            wikitext_output.write(']] &middot;\n[['.
+                                  join([point['name'].encode('utf-8') for point in category['points']]))
+            wikitext_output.write("]]\n\n")
+
+if __name__ == "__main__":
+    main()
