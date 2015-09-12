@@ -1,228 +1,23 @@
 [
  {
-  "category":"Centra handlowe",
-  "source":"http://www.poznan.pl/mim/main/centra-handlowe,poi,670/",
-  "points":[],
-  "count":0
- },
- {
-  "category":"Muzea",
-  "source":"http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/",
-  "points":[
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Makiety Dawnego Poznania",
-    "address":"podziemia klasztoru oo. Franciszkan\u00f3w"
-   },
-   {
-    "lat":52.4074188,
-    "lon":16.934737,
-    "name":"Muzeum Archeologiczne (Pa\u0142ac G\u00f3rk\u00f3w)",
-    "address":"ul. Wodna 27"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Rezerwat Archeologiczny",
-    "address":"ul. Ks. I. Posadzego 3"
-   },
-   {
-    "lat":52.4125687,
-    "lon":16.9469352,
-    "name":"Muzeum Archidiecezjalne - Akademia Lubra\u0144skiego",
-    "address":"ul. Lubra\u0144skiego 1"
-   },
-   {
-    "lat":52.4054282,
-    "lon":16.9398729,
-    "name":"Muzeum Bambr\u00f3w Pozna\u0144skich",
-    "address":"ul. Mostowa 7"
-   },
-   {
-    "lat":52.4287976,
-    "lon":16.896447,
-    "name":"Muzeum Broni Pancernej CSWL",
-    "address":"ul. Wojska Polskiego 84"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Muzeum Farmacji",
-    "address":"al. Marcinkowskiego 11"
-   },
-   {
-    "lat":52.4065435,
-    "lon":16.9284847,
-    "name":"Muzeum Narodowe, Galeria Malarstwa i Rze\u017aby",
-    "address":"Al. Marcinkowskiego 9"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Muzeum Etnograficzne, Oddzia\u0142 Muzeum Narodowego",
-    "address":"ul. Grobla 25/ wej\u015bcie od ul. Mostowej 7"
-   },
-   {
-    "lat":52.40856625,
-    "lon":16.93401765,
-    "name":"Muzeum Historii Miasta Poznania, Oddzia\u0142 Muzeum Narodowego",
-    "address":"Ratusz"
-   },
-   {
-    "lat":52.4080361,
-    "lon":16.9347589399363,
-    "name":"Muzeum Instrument\u00f3w Muzycznych, Oddzia\u0142 Muzeum Narodowego",
-    "address":"Stary Rynek 45"
-   },
-   {
-    "lat":52.409283,
-    "lon":16.9313573,
-    "name":"Muzeum Sztuk U\u017cytkowych, Oddzia\u0142 Muzeum Narodowego",
-    "address":"G\u00f3ra Przemys\u0142a 1"
-   },
-   {
-    "lat":52.4079334,
-    "lon":16.9337947,
-    "name":"Wielkopolskie Muzeum Wojskowe, Oddzia\u0142 Muzeum Narodowego",
-    "address":"Stary Rynek 9"
-   },
-   {
-    "lat":52.4079971,
-    "lon":16.9376566428003,
-    "name":"Wielkopolskie Muzeum Walk Niepodleg\u0142o\u015bciowych w Poznaniu",
-    "address":"ul. Wo\u017ana 12"
-   },
-   {
-    "lat":52.420707,
-    "lon":16.8732898,
-    "name":"Muzeum Martyrologii Wielkopolan Fort VII , oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych w Poznaniu",
-    "address":"Al. Polska"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Muzeum Armii \"Pozna\u0144\", oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych",
-    "address":"Al.Armii Pozna\u0144 Park Cytadela"
-   },
-   {
-    "lat":52.40830015,
-    "lon":16.933062898197,
-    "name":"Muzeum Powstania Wielkopolskiego 1918-1919, oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych (Odwach)",
-    "address":"Stary Rynek 3"
-   },
-   {
-    "lat":52.4213241,
-    "lon":16.9339594394014,
-    "name":"Muzeum Uzbrojenia, Cytadela Pozna\u0144ska, oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych w Poznaniu",
-    "address":"Park Cytadela"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Muzeum Powstania Pozna\u0144skiego - Czerwiec 1956 r., oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych w Poznaniu",
-    "address":"ul. \u015aw. Marcin 80/82"
-   },
-   {
-    "lat":52.4412875,
-    "lon":16.8079450187439,
-    "name":"Schronu Przeciwatomowy Prezydenta Poznania, oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych w Poznaniu",
-    "address":"ul. S\u0142upska 62"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Mieszkanie-Pracownia Kazimiery I\u0142\u0142akowicz\u00f3wny, Oddzia\u0142 Biblioteki Raczy\u0144skich",
-    "address":"ul. Gajowa 4 m. 8"
-   },
-   {
-    "lat":52.4088812,
-    "lon":16.9327181,
-    "name":"Muzeum Literackie Henryka Sienkiewicza, Oddzia\u0142 Biblioteki Raczy\u0144skich",
-    "address":"Stary Rynek 84"
-   },
-   {
-    "lat":52.4104501,
-    "lon":16.9343553,
-    "name":"Pracownia-Muzeum J\u00f3zefa I. Kraszewskiego, Oddzia\u0142 Biblioteki Raczy\u0144skich",
-    "address":"ul. Wroniecka 14"
-   },
-   {
-    "lat":52.3732822,
-    "lon":16.8660883,
-    "name":"Muzeum Komunikacji Miejskiej MPK Pozna\u0144",
-    "address":"ul. G\u0142ogowska 131/133"
-   },
-   {
-    "lat":52.4131252,
-    "lon":16.8336066,
-    "name":"Muzeum Wiedzy o \u015arodowisku, Zak\u0142ad Bada\u0144 \u015arodowiska Rolniczego i Le\u015bnego PAN",
-    "address":"ul. Bukowska 19"
-   },
-   {
-    "lat":52.3853017,
-    "lon":16.9974454,
-    "name":"Centrum Wycieczkowe Kompanii Piwowarskiej",
-    "address":"ul. Szwajcarska 11"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Krypta Zas\u0142u\u017conych Wielkopolan",
-    "address":"ul. \u015aw.Wojciech 1"
-   },
-   {
-    "lat":52.4113371,
-    "lon":16.9476211,
-    "name":"Podziemia Katedry Pozna\u0144skiej",
-    "address":"Ostr\u00f3w Tumski"
-   },
-   {
-    "lat":52.41651795,
-    "lon":16.9174764,
-    "name":"Salon Muzyczny Feliksa Nowowiejskiego",
-    "address":"al. Wielkopolska 11"
-   },
-   {
-    "lat":52.4092626,
-    "lon":16.9306247,
-    "name":"Rogalowe Muzeum Poznania",
-    "address":"Stary Rynek 41/2"
-   },
-   {
-    "lat":52.425592,
-    "lon":16.9462294,
-    "name":"Muzeum Unitry",
-    "address":"ul. Prze\u0142ajowa 4"
-   },
-   {
-    "lat":52.41229965,
-    "lon":16.9515218578473,
-    "name":"Brama Poznania ICHOT",
-    "address":"ul. Gda\u0144ska 2"
-   }
-  ],
-  "count":32
- },
- {
   "category":"Biurowce",
   "source":"http://www.poznan.pl/mim/inwestycje/biurowce,poi,4661/",
   "points":[
    {
-    "lat":52.4008306,
-    "lon":16.9253395,
+    "lat":52.40070475,
+    "lon":16.9266916972277,
     "name":"Andersia Business Centre",
     "address":"pl. Andersa 7"
    },
    {
-    "lat":52.4008306,
-    "lon":16.9253395,
+    "lat":52.40070475,
+    "lon":16.9266916972277,
     "name":"Andersia Tower",
     "address":"Pl. Andersa 3"
    },
    {
-    "lat":52.4008306,
-    "lon":16.9253395,
+    "lat":52.40070475,
+    "lon":16.9266916972277,
     "name":"Pozna\u0144skie Centrum Finansowe",
     "address":"Pl. Andersa 5"
    },
@@ -251,8 +46,8 @@
     "address":"Ul. Szyperska 14"
    },
    {
-    "lat":52.40842285,
-    "lon":16.9222649099289,
+    "lat":52.3960701,
+    "lon":17.0661167,
     "name":"Okr\u0105glak",
     "address":"Ul. Miel\u017cy\u0144skiego 14"
    },
@@ -269,39 +64,154 @@
     "address":"Ulica Tylne Chwaliszewo 23"
    },
    {
-    "lat":52.427288,
-    "lon":16.9476626,
+    "lat":52.4208039,
+    "lon":16.9453455,
     "name":"Centrum Biurowe Cytadela",
     "address":"Ul. Szel\u0105gowska 29/30"
    },
    {
-    "lat":52.3821484,
-    "lon":16.9389292784864,
+    "lat":52.3823365,
+    "lon":16.9392045,
     "name":"Budynek biurowy Rataje 164",
     "address":"Ul. Rataje 164"
+   },
+   {
+    "lat":52.39960785,
+    "lon":16.8957466964948,
+    "name":"City Park",
+    "address":"U\u0142a\u0144ska 1"
    }
   ],
-  "count":12
+  "count":13
+ },
+ {
+  "category":"Pomniki",
+  "source":"http://www.poznan.pl/mim/turystyka/pomniki,poi,2473/",
+  "points":[
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Armii 'Pozna\u0144'",
+    "address":"Wzg\u00f3rze \u015bw. Wojciecha"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Hipolita Cegielskiego",
+    "address":"ul. \u015aw. Marcin/ul. Podg\u00f3rna"
+   },
+   {
+    "lat":52.4113371,
+    "lon":16.9476211,
+    "name":"Jana Paw\u0142a II",
+    "address":"Ostr\u00f3w Tumski"
+   },
+   {
+    "lat":52.4113371,
+    "lon":16.9476211,
+    "name":"Jana Kochanowskiego",
+    "address":"Ostr\u00f3w Tumski"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Tadeusza Ko\u015bciuszki",
+    "address":"ul. Grunwaldzka/Bukowska"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Karola Marcinkowskiego",
+    "address":"ul. 23 Lutego/Al. K. Marcinkowskiego"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Adama Mickiewicza",
+    "address":"plac Mickiewicza"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Ofiar Katynia i Sybiru",
+    "address":"al. Niepodleg\u0142o\u015bci/ ul. Fredry"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Polskiego Pa\u0144stwa Podziemnego",
+    "address":"al. Niepodleg\u0142o\u015bci/ ul. Libelta"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Pogromc\u00f3w Enigmy",
+    "address":"ul. \u015aw. Marcin 80/82"
+   },
+   {
+    "lat":52.400519,
+    "lon":16.9245525,
+    "name":"Powsta\u0144c\u00f3w Wielkopolskich",
+    "address":"ul. Kr\u00f3lowej Jadwigi/Wierzbi\u0119cice"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Pozna\u0144skiego Czerwca 1956",
+    "address":"plac Mickiewicza"
+   },
+   {
+    "lat":52.4067414,
+    "lon":16.9362265,
+    "name":"Pozna\u0144skich kozio\u0142k\u00f3w",
+    "address":"plac Kolegiacki"
+   },
+   {
+    "lat":52.4083326,
+    "lon":16.9305643,
+    "name":"15. Pu\u0142ku U\u0142an\u00f3w Pozna\u0144skich",
+    "address":"ul. Ludgardy"
+   },
+   {
+    "lat":52.40070475,
+    "lon":16.9266916972277,
+    "name":"Cyryla Ratajskiego",
+    "address":"plac Andersa 5"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Starego Marycha",
+    "address":"ul. P\u00f3\u0142wiejska/Strzelecka"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Zygi Latarnika",
+    "address":"ul. Grobla/ skwer \u0141ukaszewicza"
+   },
+   {
+    "lat":52.408683,
+    "lon":16.8899301,
+    "name":"Pomnik Krzysztofa Komedy Trzci\u0144skiego",
+    "address":"ul. Bukowska 70"
+   }
+  ],
+  "count":18
  },
  {
   "category":"Puby i kluby",
   "source":"http://www.poznan.pl/mim/cim/en/-,poi,92,6117/",
   "points":[
    {
-    "lat":false,
-    "lon":false,
+    "lat":52.40801455,
+    "lon":16.9186904927897,
     "name":"Blue Note Jazz Club",
     "address":"ul. Ko\u015bciuszki 79"
    },
    {
-    "lat":52.4084086,
-    "lon":16.9347165,
-    "name":"Dramat",
-    "address":"Stary Rynek 41"
-   },
-   {
-    "lat":52.4093535,
-    "lon":16.9320911,
+    "lat":51.7676191,
+    "lon":20.259702,
     "name":"Dragon Pub",
     "address":"ul. Zamkowa 3"
    },
@@ -318,16 +228,10 @@
     "address":"ul. Nowowiejskiego 8"
    },
    {
-    "lat":52.4021605,
-    "lon":16.9220512,
+    "lat":52.416099,
+    "lon":16.9285097,
     "name":"The Dubliner",
     "address":"ul. Al. Niepodleg\u0142o\u015bci 8/82"
-   },
-   {
-    "lat":52.4111056,
-    "lon":16.913374,
-    "name":"U Franklina",
-    "address":"ul. Roosevelta 10"
    },
    {
     "lat":52.4093935,
@@ -342,8 +246,8 @@
     "address":"ul. Taczaka 11"
    },
    {
-    "lat":52.4069548,
-    "lon":16.9333262,
+    "lat":52.4069254,
+    "lon":16.9336462149089,
     "name":"Klubokawiarnia Proletaryat",
     "address":"ul. Wroc\u0142awska 9"
    },
@@ -354,15 +258,15 @@
     "address":"ul. Taczaka 10"
    },
    {
-    "lat":52.4086289,
-    "lon":16.9352831,
+    "lat":52.4086808,
+    "lon":16.9352462,
     "name":"Brogans First Stage",
     "address":"ul. Wielka 27"
    },
    {
-    "lat":52.4078377,
-    "lon":16.934658087894,
-    "name":"Shark",
+    "lat":52.4078418,
+    "lon":16.9346762820556,
+    "name":"New Shark Club",
     "address":"Stary Rynek 48"
    },
    {
@@ -378,20 +282,14 @@
     "address":"ul.\u015aw. Wojciech 28"
    },
    {
-    "lat":52.4092626,
-    "lon":16.9306247,
-    "name":"Room 4 Rent",
-    "address":"Stary Rynek 80/82"
-   },
-   {
     "lat":52.4014211,
     "lon":16.9282357794231,
     "name":"Browar Pub",
     "address":"ul. P\u00f3\u0142wiejska 42"
    },
    {
-    "lat":52.4057709,
-    "lon":16.8898265794441,
+    "lat":52.40572255,
+    "lon":16.8892284115427,
     "name":"Klub Eskulap",
     "address":"ul. Przybyszewskiego 39"
    },
@@ -402,16 +300,10 @@
     "address":"ul. Taczaka 15"
    },
    {
-    "lat":52.4080829,
-    "lon":16.938673419657,
-    "name":"Cafe Mi\u0119sna",
-    "address":"ul. Garbary 62"
-   },
-   {
-    "lat":52.4072683,
-    "lon":16.9342428,
+    "lat":52.4073495,
+    "lon":16.9342583,
     "name":"Piwiarnia Warka",
-    "address":"ul.\u015awi\u0119tos\u0142awska 12"
+    "address":"ul. \u015awi\u0119tos\u0142awska 12"
    },
    {
     "lat":52.4099925,
@@ -420,20 +312,20 @@
     "address":"ul. \u017bydowska 12"
    },
    {
-    "lat":false,
-    "lon":false,
+    "lat":52.4091623,
+    "lon":16.9106154294139,
     "name":"Bilaboom Pub Bilardowy",
     "address":"ul. Mickiewicza 32"
    },
    {
-    "lat":false,
-    "lon":false,
+    "lat":52.4102593,
+    "lon":16.910579,
     "name":"Dylemat",
     "address":"ul. Mickiewicza 27"
    },
    {
-    "lat":52.407166,
-    "lon":16.9188273,
+    "lat":52.405254,
+    "lon":16.9259576,
     "name":"Hades Klub Bilardowy",
     "address":"ul. \u015awi\u0119ty Marcin 80/82"
    },
@@ -450,32 +342,20 @@
     "address":"ul. Wielka 21"
    },
    {
-    "lat":52.4079637,
-    "lon":16.9332971,
+    "lat":52.4163652,
+    "lon":16.9373176,
     "name":"Meskalina",
     "address":"ul. Stary Rynek 6"
    },
    {
     "lat":false,
     "lon":false,
-    "name":"Blueberry Bar",
-    "address":"ul. \u015aw. Marcin 40"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Za kulisami",
-    "address":"ul. Wodna 24 / Klasztorna 8"
-   },
-   {
-    "lat":52.4069978,
-    "lon":16.9201912,
     "name":"Setka Pub",
     "address":"ul. \u015aw Marcin 8"
    },
    {
-    "lat":52.4048877,
-    "lon":16.9360946,
+    "lat":52.40494165,
+    "lon":16.9360258476568,
     "name":"12ft Snooker Pub",
     "address":"ul. Za Bramk\u0105 10"
    },
@@ -492,8 +372,8 @@
     "address":"ul. Piekary 22/23"
    },
    {
-    "lat":52.4079321,
-    "lon":16.9339053,
+    "lat":52.40796055,
+    "lon":16.9339461258772,
     "name":"Drink Bar Tropicana",
     "address":"Stary Rynek 10"
    },
@@ -502,12 +382,6 @@
     "lon":16.9223530707815,
     "name":"\u017b\u00f3\u0142ty Balonik Cafe & Pub",
     "address":"ul. Taczaka 7"
-   },
-   {
-    "lat":false,
-    "lon":false,
-    "name":"Pod Pretekstem",
-    "address":"\u015aw. Marcin 80/82"
    },
    {
     "lat":52.4076665,
@@ -528,32 +402,32 @@
     "address":"Stary Rynek 49"
    },
    {
-    "lat":52.4090295,
-    "lon":16.9326471,
+    "lat":51.7676191,
+    "lon":20.259702,
     "name":"Seabass Pub",
     "address":"ul. Zamkowa 5"
    },
    {
-    "lat":52.406553,
-    "lon":16.9331679,
+    "lat":52.4065346,
+    "lon":16.93333061682,
     "name":"Ku\u017ania",
     "address":"ul. Wroc\u0142awska 17"
    },
    {
-    "lat":52.4061826,
-    "lon":16.933196,
+    "lat":52.4061698,
+    "lon":16.9331351391659,
     "name":"Od zmierzchu do \u015bwitu",
     "address":"ul. Wroc\u0142awska 23"
    },
    {
-    "lat":52.40396865,
-    "lon":16.9367074641362,
+    "lat":52.40397785,
+    "lon":16.9369587743352,
     "name":"Old School Pub Piwomania",
     "address":"Pl. Bernardy\u0144ski 2/2"
    },
    {
-    "lat":52.4101705,
-    "lon":16.9364949,
+    "lat":false,
+    "lon":false,
     "name":"Rock Gara\u017c",
     "address":"ul. Szewska 7"
    },
@@ -564,14 +438,8 @@
     "address":"ul.Taczaka 22"
    },
    {
-    "lat":52.407166,
-    "lon":16.9188273,
-    "name":"Klub Bilardowy Hades",
-    "address":"ul. \u015awi\u0119ty Marcin 80/82"
-   },
-   {
-    "lat":52.406553,
-    "lon":16.9331679,
+    "lat":52.4065346,
+    "lon":16.93333061682,
     "name":"Ice Bar Pozna\u0144",
     "address":"ul. Wroc\u0142awska 17"
    },
@@ -582,31 +450,37 @@
     "address":"Stary Rynek 71"
    },
    {
-    "lat":52.4094987,
-    "lon":16.9349206,
+    "lat":52.40950785,
+    "lon":16.934820037011,
     "name":"Lot Chmiela",
     "address":"ul. \u017bydowska 4"
    },
    {
-    "lat":52.4119559,
-    "lon":16.9192705,
-    "name":"Alibi Club Poznan",
-    "address":"al. Niepodleg\u0142o\u015bci 8a"
+    "lat":52.4078715,
+    "lon":16.9301425,
+    "name":"Pacha Pozna\u0144",
+    "address":"ul. Paderewskiego 10"
    },
    {
-    "lat":52.4106442,
-    "lon":16.9266777792108,
-    "name":"Mama\u0142yga",
-    "address":"ul. Feliksa Nowowiejskiego 17"
+    "lat":52.4031349,
+    "lon":16.9297595,
+    "name":"Klub Opcja",
+    "address":"ul. P\u00f3\u0142wiejska 18"
    },
    {
-    "lat":52.4074354,
-    "lon":16.9368799,
-    "name":"NaPiwek PUB",
+    "lat":false,
+    "lon":false,
+    "name":"Alternativa Club",
+    "address":"ul. \u015aw. Marcin 80/82"
+   },
+   {
+    "lat":52.407238,
+    "lon":16.9366635,
+    "name":"NaPiwek Pub",
     "address":"ul. Wodna 12"
    }
   ],
-  "count":53
+  "count":46
  },
  {
   "category":"Licea og\u00f3lnokszta\u0142c\u0105ce",
@@ -619,8 +493,8 @@
     "address":"ul. Garbary 24"
    },
    {
-    "lat":52.4120897,
-    "lon":16.8712129,
+    "lat":52.4071558,
+    "lon":16.9037207,
     "name":"I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Karola Marcinkowskiego w ZSO Nr 1",
     "address":"ul. Bukowska 16"
    },
@@ -649,8 +523,8 @@
     "address":"ul. Zmartwychwstanc\u00f3w 10"
    },
    {
-    "lat":false,
-    "lon":false,
+    "lat":52.39994455,
+    "lon":16.9324490009115,
     "name":"VI Liceum Og\u00f3lnokszta\u0142c\u0105ce w ZSO Nr 7",
     "address":"ul. Krakowska 17a"
    },
@@ -667,8 +541,8 @@
     "address":"ul. Hipolita Cegielskiego 1"
    },
    {
-    "lat":52.428831,
-    "lon":16.9294099,
+    "lat":52.42923765,
+    "lon":16.9293065061717,
     "name":"IX Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Karola Libelta",
     "address":"ul. Warzywna 24"
    },
@@ -679,8 +553,8 @@
     "address":"os. Rzeczypospolitej 111"
    },
    {
-    "lat":52.39568655,
-    "lon":16.8664273732988,
+    "lat":52.3904975,
+    "lon":16.87481455,
     "name":"XI Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"ul. \u015aciegiennego 134"
    },
@@ -691,20 +565,20 @@
     "address":"ul. Gen. T. Kutrzeby 8"
    },
    {
-    "lat":52.3889704,
-    "lon":16.9432571,
+    "lat":52.38665645,
+    "lon":16.9411008630179,
     "name":"XIV Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"os. Piastowskie 106"
    },
    {
-    "lat":52.45436855,
-    "lon":16.9146370680225,
+    "lat":52.4540516,
+    "lon":16.9144883,
     "name":"XV Liceum Og\u00f3lnokszta\u0142c\u0105ce im. prof. Wiktora Degi w ZSO nr 15",
     "address":"os. Boles\u0142awa Chrobrego 107"
    },
    {
-    "lat":52.3403806,
-    "lon":16.9917442,
+    "lat":52.340378,
+    "lon":16.9919330399292,
     "name":"XVI Liceum Og\u00f3lnokszta\u0142c\u0105ce w ZSO Nr 2",
     "address":"ul. Tarnowska 27"
    },
@@ -727,14 +601,14 @@
     "address":"ul. 28 Czerwca1956r. 352/360"
    },
    {
-    "lat":52.4410544,
-    "lon":16.936370023966,
+    "lat":52.4408139,
+    "lon":16.9365509,
     "name":"XX Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"os. Wichrowe Wzg\u00f3rze 111"
    },
    {
-    "lat":52.4009102,
-    "lon":16.9303328,
+    "lat":52.4007202,
+    "lon":16.930229,
     "name":"XXI Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"ul. Rybaki 17"
    },
@@ -757,14 +631,14 @@
     "address":"ul. D\u0105browskiego 163"
    },
    {
-    "lat":52.3868001,
-    "lon":16.8705461,
+    "lat":52.38726935,
+    "lon":16.8701039746031,
     "name":"XXVIII Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"ul. Raszy\u0144ska 48"
    },
    {
-    "lat":52.3723353,
-    "lon":16.8973913,
+    "lat":false,
+    "lon":false,
     "name":"XXIX Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"ul. \u015awierkowa 8"
    },
@@ -775,8 +649,8 @@
     "address":"ul. Dzia\u0142y\u0144skich 4/5"
    },
    {
-    "lat":52.4086743,
-    "lon":16.9216325,
+    "lat":52.4094741,
+    "lon":16.918422,
     "name":"XXXII Liceum Og\u00f3lnokszta\u0142c\u0105ce",
     "address":"ul. Fredry 13"
    },
@@ -793,26 +667,26 @@
     "address":"ul. Prze\u0142ajowa 4"
    },
    {
-    "lat":52.4279894,
-    "lon":16.9282853,
+    "lat":52.42830485,
+    "lon":16.9277849905799,
     "name":"XXXV Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Sportowymi",
     "address":"ul. Warzywna 19"
    },
    {
-    "lat":52.3925725,
-    "lon":16.9757177967643,
+    "lat":52.3933044,
+    "lon":16.9774926,
     "name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w ZSMS",
     "address":"os. Tysi\u0105clecia 43"
    },
    {
-    "lat":52.500476,
-    "lon":16.9393447,
+    "lat":52.4136561,
+    "lon":16.9146965,
     "name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce w Tarnowie Podg\u00f3rnym",
     "address":"ul. Pozna\u0144ska 118"
    },
    {
-    "lat":52.500476,
-    "lon":16.9393447,
+    "lat":52.4136561,
+    "lon":16.9146965,
     "name":"Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Genera\u0142owej Jadwigi Zamoyskiej w K\u00f3rniku",
     "address":"ul. Pozna\u0144ska 2"
    },
@@ -832,9 +706,208 @@
   "count":36
  },
  {
-  "category":"Pomniki",
-  "source":"http://www.poznan.pl/mim/turystyka/pomniki,poi,2473/",
-  "points":[],
-  "count":0
+  "category":"Muzea",
+  "source":"http://www.poznan.pl/mim/osiedla/muzea-w-poznaniu,poi,202,12/",
+  "points":[
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Makiety Dawnego Poznania",
+    "address":"Podziemia klasztoru oo. Franciszkan\u00f3w"
+   },
+   {
+    "lat":52.40733125,
+    "lon":16.9347820585248,
+    "name":"Muzeum Archeologiczne (Pa\u0142ac G\u00f3rk\u00f3w)",
+    "address":"ul. Wodna 27"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Rezerwat Archeologiczny",
+    "address":"ul. Ks. I. Posadzego 3"
+   },
+   {
+    "lat":52.4125687,
+    "lon":16.9469352,
+    "name":"Muzeum Archidiecezjalne - Akademia Lubra\u0144skiego",
+    "address":"ul. Lubra\u0144skiego 1"
+   },
+   {
+    "lat":52.4054282,
+    "lon":16.9398729,
+    "name":"Muzeum Bambr\u00f3w Pozna\u0144skich",
+    "address":"ul. Mostowa 7"
+   },
+   {
+    "lat":52.428813,
+    "lon":16.8962566,
+    "name":"Muzeum Broni Pancernej CSWL",
+    "address":"ul. Wojska Polskiego 84"
+   },
+   {
+    "lat":52.41076125,
+    "lon":16.9290503036302,
+    "name":"Muzeum Farmacji",
+    "address":"al. Marcinkowskiego 11"
+   },
+   {
+    "lat":52.41076125,
+    "lon":16.9290503036302,
+    "name":"Muzeum Narodowe, Galeria Malarstwa i Rze\u017aby",
+    "address":"Al. Marcinkowskiego 9"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Muzeum Etnograficzne, Oddzia\u0142 Muzeum Narodowego",
+    "address":"ul. Grobla 25/ wej\u015bcie od ul. Mostowej 7"
+   },
+   {
+    "lat":52.40857135,
+    "lon":16.9340134318806,
+    "name":"Muzeum Historii Miasta Poznania, Oddzia\u0142 Muzeum Narodowego",
+    "address":"Ratusz"
+   },
+   {
+    "lat":52.4080616,
+    "lon":16.9346305,
+    "name":"Muzeum Instrument\u00f3w Muzycznych, Oddzia\u0142 Muzeum Narodowego",
+    "address":"Stary Rynek 45"
+   },
+   {
+    "lat":52.4093582,
+    "lon":16.9313223821322,
+    "name":"Muzeum Sztuk U\u017cytkowych, Oddzia\u0142 Muzeum Narodowego",
+    "address":"G\u00f3ra Przemys\u0142a 1"
+   },
+   {
+    "lat":52.4082121,
+    "lon":16.9336770540594,
+    "name":"Wielkopolskie Muzeum Wojskowe, Oddzia\u0142 Muzeum Narodowego",
+    "address":"Stary Rynek 9"
+   },
+   {
+    "lat":52.4079812,
+    "lon":16.937607235557,
+    "name":"Wielkopolskie Muzeum Niepodleg\u0142o\u015bci",
+    "address":"ul. Wo\u017ana 12"
+   },
+   {
+    "lat":52.4194195,
+    "lon":16.8726249,
+    "name":"Muzeum Martyrologii Wielkopolan - Fort VII , oddzia\u0142 Wielkopolskiego Muzeum Niepodleg\u0142o\u015bci",
+    "address":"Al. Polska"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Muzeum Armii \"Pozna\u0144\", oddzia\u0142 Wielkopolskiego Muzeum Niepodleg\u0142o\u015bci",
+    "address":"Al.Armii Pozna\u0144 Park Cytadela"
+   },
+   {
+    "lat":52.40830635,
+    "lon":16.933107400659,
+    "name":"Muzeum Powstania Wielkopolskiego 1918-1919, oddzia\u0142 Wielkopolskiego Muzeum Niepodleg\u0142o\u015bci",
+    "address":"Stary Rynek 3"
+   },
+   {
+    "lat":52.42135145,
+    "lon":16.9339791625411,
+    "name":"Muzeum Uzbrojenia, Cytadela Pozna\u0144ska, oddzia\u0142 Wielkopolskiego Muzeum Niepodleg\u0142o\u015bci",
+    "address":"Park Cytadela"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Muzeum Powstania Pozna\u0144skiego - Czerwiec 1956, oddzia\u0142 Wielkopolskiego Muzeum Niepodleg\u0142o\u015bci",
+    "address":"ul. \u015aw. Marcin 80/82"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Mieszkanie-Pracownia Kazimiery I\u0142\u0142akowicz\u00f3wny, Oddzia\u0142 Biblioteki Raczy\u0144skich",
+    "address":"ul. Gajowa 4 m. 8"
+   },
+   {
+    "lat":52.4088812,
+    "lon":16.9327181,
+    "name":"Muzeum Literackie Henryka Sienkiewicza, Oddzia\u0142 Biblioteki Raczy\u0144skich",
+    "address":"Stary Rynek 84"
+   },
+   {
+    "lat":52.41044135,
+    "lon":16.9344759295122,
+    "name":"Pracownia-Muzeum J\u00f3zefa I. Kraszewskiego, Oddzia\u0142 Biblioteki Raczy\u0144skich",
+    "address":"ul. Wroniecka 14"
+   },
+   {
+    "lat":52.3884032,
+    "lon":16.892837299058,
+    "name":"Muzeum Komunikacji Miejskiej MPK Pozna\u0144",
+    "address":"ul. G\u0142ogowska 131/133"
+   },
+   {
+    "lat":52.407395,
+    "lon":16.9056268135977,
+    "name":"Muzeum Wiedzy o \u015arodowisku, Zak\u0142ad Bada\u0144 \u015arodowiska Rolniczego i Le\u015bnego PAN",
+    "address":"ul. Bukowska 19"
+   },
+   {
+    "lat":52.3853017,
+    "lon":16.9974454,
+    "name":"Centrum Wycieczkowe Kompanii Piwowarskiej",
+    "address":"ul. Szwajcarska 11"
+   },
+   {
+    "lat":false,
+    "lon":false,
+    "name":"Krypta Zas\u0142u\u017conych Wielkopolan",
+    "address":"ul. \u015aw.Wojciech 1"
+   },
+   {
+    "lat":52.4113371,
+    "lon":16.9476211,
+    "name":"Podziemia Katedry Pozna\u0144skiej",
+    "address":"Ostr\u00f3w Tumski"
+   },
+   {
+    "lat":52.41651795,
+    "lon":16.9174764,
+    "name":"Salon Muzyczny Feliksa Nowowiejskiego",
+    "address":"al. Wielkopolska 11"
+   },
+   {
+    "lat":52.40831355,
+    "lon":16.9343542817437,
+    "name":"Rogalowe Muzeum Poznania",
+    "address":"Stary Rynek 41/2"
+   },
+   {
+    "lat":52.425592,
+    "lon":16.9462294,
+    "name":"Muzeum Unitry",
+    "address":"ul. Prze\u0142ajowa 4"
+   },
+   {
+    "lat":52.41229965,
+    "lon":16.9515218578473,
+    "name":"Brama Poznania ICHOT",
+    "address":"ul. Gda\u0144ska 2"
+   },
+   {
+    "lat":52.4412875,
+    "lon":16.8079450187439,
+    "name":"Prezydencki Schron Przeciwatomowy - Oddzia\u0142 Wielkopolskiego Muzeum Walk Niepodleg\u0142o\u015bciowych",
+    "address":"ul.S\u0142upska 62"
+   },
+   {
+    "lat":52.408683,
+    "lon":16.8899301,
+    "name":"Muzeum Uniwersytetu Medycznego im. Karola Marcinkowskiego",
+    "address":"ul. Bukowska 70"
+   }
+  ],
+  "count":33
  }
 ]
