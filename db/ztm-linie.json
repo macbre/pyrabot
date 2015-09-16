@@ -5,18 +5,8 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":39,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
-    "typ":"tram"
-  },
-  "2":{
-    "agency":"MPK",
-    "petle":[
-      "D\u0119biec",
-      "D\u0119biec"
-    ],
-    "przystanki":36,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
   "3":{
@@ -59,16 +49,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
-  "7":{
-    "agency":"MPK",
-    "petle":[
-      "D\u0119biec",
-      "D\u0119biec"
-    ],
-    "przystanki":29,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
-    "typ":"tram"
-  },
   "8":{
     "agency":"MPK",
     "petle":[
@@ -102,10 +82,10 @@
   "11":{
     "agency":"MPK",
     "petle":[
-      "G\u0142ogowska/Hetma\u0144ska",
-      "Pi\u0105tkowska"
+      "Pi\u0105tkowska",
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":17,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
@@ -199,24 +179,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
-  "21":{
-    "agency":"MPK",
+  "27":{
     "petle":[
-      "G\u0142ogowska/Hetma\u0144ska",
-      "Rondo Staro\u0142\u0119ka"
-    ],
-    "przystanki":6,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/21",
-    "typ":"tram"
-  },
-  "22":{
-    "agency":"MPK",
-    "petle":[
-      "Staro\u0142\u0119ka",
+      "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":15,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
+    "przystanki":36,
     "typ":"tram"
   },
   "45":{
