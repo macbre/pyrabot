@@ -1033,10 +1033,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec Szko\u0142a",
-      "Franowo"
+      "Franowo",
+      "Kamionki P\u0119tla"
     ],
-    "przystanki":46,
+    "przystanki":45,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1318,16 +1318,6 @@
     ],
     "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
-    "typ":"bus"
-  },
-  "L":{
-    "agency":"MPK",
-    "petle":[
-      "Port Lotniczy \u0141awica",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "przystanki":4,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/L",
     "typ":"bus"
   }
 }
