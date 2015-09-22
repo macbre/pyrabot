@@ -25,9 +25,9 @@ client.getPagesInCategory(CATEGORY, function(err, pages) {
 			return page.pageid;
 		});
 
-	client.purge(pageIds, function(err, data) {
+	client.purge(pageIds, function(err, pages) {
 		if (err) client.log(err);
-		//console.log(data);
+		client.log('Pages purged: %d', pages.length);
 	});
 });
 
