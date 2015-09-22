@@ -12,10 +12,10 @@
   "3":{
     "agency":"MPK",
     "petle":[
-      "G\u00f3rczyn",
+      "D\u0119biec",
       "Wilczak"
     ],
-    "przystanki":32,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
@@ -32,10 +32,10 @@
   "5":{
     "agency":"MPK",
     "petle":[
-      "G\u00f3rczyn",
+      "Stomil",
       "Stomil"
     ],
-    "przystanki":28,
+    "przystanki":51,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -52,10 +52,10 @@
   "8":{
     "agency":"MPK",
     "petle":[
-      "G\u00f3rczyn",
+      "Mi\u0142ostowo",
       "Mi\u0142ostowo"
     ],
-    "przystanki":22,
+    "przystanki":38,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
@@ -1036,7 +1036,7 @@
       "Franowo",
       "Kamionki P\u0119tla"
     ],
-    "przystanki":45,
+    "przystanki":47,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
