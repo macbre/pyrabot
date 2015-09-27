@@ -47,6 +47,11 @@ client.logIn(function(err) {
 					content = content.replace(/\|kody(.*)\n/, "|kody=" + entry.kody_pocztowe + "\n");
 				}
 
+				// autobusy -> przystanki_autobusowe
+				content = content.
+					replace("|autobusy=\n", "|przystanki_autobusowe=\n").
+					replace("|tramwaje=\n", "|przystanki_tramwajowe=\n");
+
 				// zmiana?
 				if (orig === content) return;
 
