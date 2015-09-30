@@ -52,10 +52,10 @@
   "8":{
     "agency":"MPK",
     "petle":[
-      "Mi\u0142ostowo",
+      "G\u00f3rczyn",
       "Mi\u0142ostowo"
     ],
-    "przystanki":38,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
@@ -175,7 +175,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":20,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -552,10 +552,10 @@
   "84":{
     "agency":"MPK",
     "petle":[
-      "Nowe Zoo",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Termy Malta\u0144skie"
     ],
-    "przystanki":32,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
   },
@@ -1033,10 +1033,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Franowo",
-      "Kamionki P\u0119tla"
+      "Bor\u00f3wiec Szko\u0142a",
+      "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1120,6 +1120,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
+  "690":{
+    "petle":[
+      "Auchan/Sycowska",
+      "Auchan/Sycowska"
+    ],
+    "przystanki":40,
+    "typ":"bus"
+  },
   "701":{
     "agency":"PUK",
     "petle":[
@@ -1196,8 +1204,24 @@
       "Dopiewo, D.K.",
       "Ogrody"
     ],
-    "przystanki":34,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/719",
+    "typ":"bus"
+  },
+  "727":{
+    "petle":[
+      "D\u0105br\u00f3wka/Szko\u0142a",
+      "Junikowo"
+    ],
+    "przystanki":16,
+    "typ":"bus"
+  },
+  "729":{
+    "petle":[
+      "Dopiewo, D.K.",
+      "Ogrody"
+    ],
+    "przystanki":35,
     "typ":"bus"
   },
   "830":{
