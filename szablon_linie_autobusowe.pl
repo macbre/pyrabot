@@ -20,7 +20,7 @@ my @linie = (
 		name => "Podmiejskie",
 		lines => [
 			# Czerwonak / Murowana Goślina
-			310, 312, 320..323, 341, 342, 348, 396..398,
+			312, 320..323, 341, 342, 348, 396..398,
 			# Swarzędz (połączenie z Poznaniem)
 			401, 405, 406, 407, 412,
 			# KOMBUS Kórnik (połączenie z Poznaniem)
@@ -28,7 +28,7 @@ my @linie = (
 			# TRANSLUB Luboń
 			601, 602, 603, 610, 611, 614, 616, 651, 691,
 			# PUK Komorniki
-			701, 702, 703, 710, 716, 718, 719,
+			701, 702, 703, 710, 716, 727, 729,
 			# ROKBUS Rokietnica
 			830, 832, 833, 891, 893,
 			# ZKP Sychy Las
@@ -62,7 +62,7 @@ my @linie = (
 	},
 	{
 		name => "Podmiejskie",
-		lines => [101..123, "NB"]
+		lines => [101..123, 310, 718, 719, "NB"]
 	},
 	{
 		name => "Nocne",
