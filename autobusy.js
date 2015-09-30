@@ -82,7 +82,7 @@ client.logIn(function(err, data) {
 					// nawigacja
 					content += "\n\n{{Nawigacja Linie autobusowe}}";
 
-					//console.log(content); return;
+					console.log(content);
 
 					// edytuj
 					client.edit(title, content, SUMMARY + ': ' + petle[0] + ' - ' + petle[1], function(err) {
