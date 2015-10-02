@@ -778,6 +778,13 @@
       "night": false
     },
     {
+      "name": "690",
+      "type": "3",
+      "operator": "ZTM_TRANSLUB",
+      "agencyName": "ZTM_TRANSLUB",
+      "night": false
+    },
+    {
       "name": "701",
       "type": "3",
       "operator": "PUK",
@@ -820,14 +827,14 @@
       "night": false
     },
     {
-      "name": "718",
+      "name": "727",
       "type": "3",
-      "operator": "PUK",
-      "agencyName": "PUK",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
       "night": false
     },
     {
-      "name": "719",
+      "name": "729",
       "type": "3",
       "operator": "PUK",
       "agencyName": "PUK",

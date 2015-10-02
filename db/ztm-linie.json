@@ -1121,11 +1121,13 @@
     "typ":"bus"
   },
   "690":{
+    "agency":"TRANSLUB",
     "petle":[
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
     "przystanki":40,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
   "701":{
@@ -1189,19 +1191,23 @@
     "typ":"bus"
   },
   "727":{
+    "agency":"MPK",
     "petle":[
       "D\u0105br\u00f3wka/Szko\u0142a",
       "Junikowo"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/727",
     "typ":"bus"
   },
   "729":{
+    "agency":"PUK",
     "petle":[
       "Dopiewo, D.K.",
       "Ogrody"
     ],
     "przystanki":35,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
   "830":{
