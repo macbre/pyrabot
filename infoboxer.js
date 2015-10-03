@@ -6,7 +6,7 @@ var bot = require('nodemw'),
 	client = new bot('config.js');
 
 var CATEGORY = 'Pomniki',
-	TEMPLATE_REGEX = /^{{Pomnik|Kategoria:Listy/,
+	TEMPLATE_REGEX = /{{Pomnik|Kategoria:Listy/,
 	SUMMARY = 'Dodaję infobox do stron w kategorii ' + CATEGORY;
 
 function extractFromWikitext(arg, regexp) {
