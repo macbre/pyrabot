@@ -686,8 +686,16 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":45,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
+    "typ":"tram"
+  },
+  "202":{
+    "petle":[
+      "Osiedle Jana III Sobieskiego",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":20,
     "typ":"tram"
   },
   "231":{
@@ -1033,10 +1041,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Franowo",
-      "Kamionki P\u0119tla"
+      "Bor\u00f3wiec Szko\u0142a",
+      "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1328,6 +1336,14 @@
     ],
     "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
+    "typ":"bus"
+  },
+  "L":{
+    "petle":[
+      "Port Lotniczy \u0141awica",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "przystanki":4,
     "typ":"bus"
   }
 }
