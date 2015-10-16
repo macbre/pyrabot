@@ -185,7 +185,7 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":39,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
   },
@@ -335,7 +335,7 @@
       "Garbary",
       "Strzeszyn"
     ],
-    "przystanki":22,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
@@ -365,7 +365,7 @@
       "Garbary",
       "G\u00f3rczyn"
     ],
-    "przystanki":20,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/63",
     "typ":"bus"
   },
@@ -686,7 +686,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":44,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -727,7 +727,7 @@
       "Mogile\u0144ska",
       "Rondo Kaponiera"
     ],
-    "przystanki":11,
+    "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/233",
     "typ":"bus"
   },
@@ -1339,11 +1339,13 @@
     "typ":"bus"
   },
   "L":{
+    "agency":"MPK",
     "petle":[
       "Port Lotniczy \u0141awica",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":4,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/L",
     "typ":"bus"
   }
 }
