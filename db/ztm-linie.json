@@ -122,10 +122,10 @@
   "15":{
     "agency":"MPK",
     "petle":[
-      "Budziszy\u0144ska",
+      "Junikowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":18,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
@@ -185,7 +185,7 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":36,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
   },
@@ -679,6 +679,16 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
+  "173":{
+    "agency":"MPK",
+    "petle":[
+      "Bogucin/P\u0119tla",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/173",
+    "typ":"bus"
+  },
   "201":{
     "agency":"MPK",
     "night":true,
@@ -1104,7 +1114,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":25,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
