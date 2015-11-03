@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -122,10 +122,10 @@
   "15":{
     "agency":"MPK",
     "petle":[
-      "Junikowo",
+      "Budziszy\u0144ska",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":21,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
@@ -185,38 +185,8 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":37,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
-    "typ":"tram"
-  },
-  "32":{
-    "agency":"MPK",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":20,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/32",
-    "typ":"tram"
-  },
-  "33":{
-    "agency":"MPK",
-    "petle":[
-      "Junikowo",
-      "Mi\u0142ostowo"
-    ],
-    "przystanki":39,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/33",
-    "typ":"tram"
-  },
-  "34":{
-    "agency":"MPK",
-    "petle":[
-      "Junikowo",
-      "Mi\u0142ostowo"
-    ],
-    "przystanki":31,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/34",
     "typ":"tram"
   },
   "45":{
@@ -705,29 +675,16 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle R\u00f3\u017cany Potok"
     ],
-    "przystanki":10,
+    "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
-  "173":{
-    "agency":"MPK",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "przystanki":18,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/173",
-    "typ":"bus"
-  },
   "201":{
-    "agency":"MPK",
-    "night":true,
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":44,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
@@ -1006,7 +963,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":36,
+    "przystanki":38,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
@@ -1016,7 +973,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":44,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/342",
     "typ":"bus"
   },
@@ -1026,7 +983,7 @@
       "Osiedle Jana III Sobieskiego",
       "Przeb\u0119dowo/P\u0119tla"
     ],
-    "przystanki":39,
+    "przystanki":38,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
     "typ":"bus"
   },
@@ -1166,7 +1123,7 @@
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
-    "przystanki":41,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
