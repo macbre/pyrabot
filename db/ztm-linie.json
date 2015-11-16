@@ -170,11 +170,13 @@
     "typ":"tram"
   },
   "23":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Junikowo"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/23",
     "typ":"tram"
   },
   "27":{
@@ -679,11 +681,14 @@
     "typ":"tram"
   },
   "231":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
