@@ -160,11 +160,13 @@
     "typ":"tram"
   },
   "19":{
+    "agency":"MPK",
     "petle":[
       "Dworzec Zachodni",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
     "typ":"tram"
   },
   "20":{
@@ -178,13 +180,11 @@
     "typ":"tram"
   },
   "23":{
-    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Junikowo"
     ],
     "przystanki":22,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/23",
     "typ":"tram"
   },
   "27":{
@@ -681,22 +681,19 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Osiedle Jana III Sobieskiego",
+      "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":44,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
-    "agency":"MPK",
-    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
@@ -838,7 +835,7 @@
       "Mogile\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":26,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
     "typ":"bus"
   },
