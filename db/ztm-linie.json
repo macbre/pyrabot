@@ -12,10 +12,10 @@
   "3":{
     "agency":"MPK",
     "petle":[
-      "Wilczak",
-      "Zawady"
+      "G\u00f3rczyn",
+      "Wilczak"
     ],
-    "przystanki":17,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
@@ -32,10 +32,10 @@
   "5":{
     "agency":"MPK",
     "petle":[
-      "Po\u0142abska",
+      "G\u00f3rczyn",
       "Stomil"
     ],
-    "przystanki":29,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -52,10 +52,10 @@
   "8":{
     "agency":"MPK",
     "petle":[
-      "Mi\u0142ostowo",
-      "Zeylanda"
+      "G\u00f3rczyn",
+      "Mi\u0142ostowo"
     ],
-    "przystanki":18,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
@@ -143,9 +143,9 @@
     "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
-      "Zeylanda"
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":27,
+    "przystanki":51,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -177,14 +177,6 @@
     ],
     "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
-    "typ":"tram"
-  },
-  "23":{
-    "petle":[
-      "G\u00f3rczyn",
-      "Junikowo"
-    ],
-    "przystanki":22,
     "typ":"tram"
   },
   "27":{
