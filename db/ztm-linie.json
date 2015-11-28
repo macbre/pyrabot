@@ -95,7 +95,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":24,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -115,7 +115,7 @@
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":14,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
@@ -673,19 +673,22 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Franowo",
+      "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":23,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
