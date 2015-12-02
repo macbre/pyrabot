@@ -95,7 +95,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":22,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -157,16 +157,6 @@
     ],
     "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
-    "typ":"tram"
-  },
-  "19":{
-    "agency":"MPK",
-    "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":8,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
     "typ":"tram"
   },
   "20":{
@@ -355,7 +345,7 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":37,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/62",
     "typ":"bus"
   },
@@ -615,7 +605,7 @@
       "Gie\u0142da Ogrodnicza Franowo",
       "Rondo Rataje"
     ],
-    "przystanki":8,
+    "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"bus"
   },
@@ -655,8 +645,16 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":39,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96",
+    "typ":"bus"
+  },
+  "97":{
+    "petle":[
+      "Osiedle Rusa Szpital",
+      "Rondo Rataje"
+    ],
+    "przystanki":11,
     "typ":"bus"
   },
   "98":{
@@ -819,7 +817,7 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":43,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/244",
     "typ":"bus"
   },
@@ -830,7 +828,7 @@
       "Mogile\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":25,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
     "typ":"bus"
   },
