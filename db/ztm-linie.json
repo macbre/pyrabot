@@ -650,11 +650,13 @@
     "typ":"bus"
   },
   "97":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Rusa Szpital",
       "Rondo Rataje"
     ],
     "przystanki":11,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/97",
     "typ":"bus"
   },
   "98":{
