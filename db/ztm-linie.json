@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -285,7 +285,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":15,
+    "przystanki":12,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56",
     "typ":"bus"
   },
@@ -312,10 +312,10 @@
   "59":{
     "agency":"MPK",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Rondo Kaponiera"
+      "Ba\u0142tyk",
+      "Port Lotniczy \u0141awica"
     ],
-    "przystanki":15,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/59",
     "typ":"bus"
   },
