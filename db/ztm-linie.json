@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -160,11 +160,13 @@
     "typ":"tram"
   },
   "19":{
+    "agency":"MPK",
     "petle":[
       "Dworzec Zachodni",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
     "typ":"tram"
   },
   "20":{
@@ -253,7 +255,7 @@
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":28,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/51",
     "typ":"bus"
   },
