@@ -335,7 +335,7 @@
       "Garbary",
       "Strzeszyn"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
@@ -355,7 +355,7 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":28,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/62",
     "typ":"bus"
   },
@@ -615,7 +615,7 @@
       "Gie\u0142da Ogrodnicza Franowo",
       "Rondo Rataje"
     ],
-    "przystanki":10,
+    "przystanki":8,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"bus"
   },
@@ -655,18 +655,8 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":30,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96",
-    "typ":"bus"
-  },
-  "97":{
-    "agency":"MPK",
-    "petle":[
-      "Osiedle Rusa Szpital",
-      "Rondo Rataje"
-    ],
-    "przystanki":11,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/97",
     "typ":"bus"
   },
   "98":{
@@ -763,7 +753,7 @@
       "Kozieg\u0142owy/Os. Le\u015bne",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/237",
     "typ":"bus"
   },
@@ -829,7 +819,7 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":34,
+    "przystanki":43,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/244",
     "typ":"bus"
   },
@@ -840,7 +830,7 @@
       "Mogile\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":26,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
     "typ":"bus"
   },
@@ -916,7 +906,7 @@
       "Promnice/P\u00f3\u0142nocna",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":28,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/312",
     "typ":"bus"
   },
@@ -926,7 +916,7 @@
       "Kozieg\u0142owy/Zak\u0142ady Drobiarskie",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/320",
     "typ":"bus"
   },
@@ -936,7 +926,7 @@
       "Kicin/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/321",
     "typ":"bus"
   },
@@ -946,7 +936,7 @@
       "Czerwonak/Cmentarz",
       "Pi\u0105tkowska"
     ],
-    "przystanki":19,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/322",
     "typ":"bus"
   },
@@ -956,7 +946,7 @@
       "Rondo \u015ar\u00f3dka",
       "Tuczno/P\u0119tla"
     ],
-    "przystanki":32,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/323",
     "typ":"bus"
   },
@@ -966,7 +956,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":38,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
@@ -976,7 +966,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":40,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/342",
     "typ":"bus"
   },
