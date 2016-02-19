@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -95,7 +95,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":23,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -115,7 +115,7 @@
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":14,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
@@ -157,16 +157,6 @@
     ],
     "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
-    "typ":"tram"
-  },
-  "19":{
-    "agency":"MPK",
-    "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":8,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
     "typ":"tram"
   },
   "20":{
@@ -335,7 +325,7 @@
       "Garbary",
       "Strzeszyn"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
@@ -373,9 +363,9 @@
     "agency":"MPK",
     "petle":[
       "Kacza",
-      "Literacka"
+      "Puszkina"
     ],
-    "przystanki":28,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/64",
     "typ":"bus"
   },
@@ -830,7 +820,7 @@
       "Mogile\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":25,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
     "typ":"bus"
   },
@@ -926,7 +916,7 @@
       "Kicin/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/321",
     "typ":"bus"
   },
@@ -1003,10 +993,10 @@
   "398":{
     "agency":"TRANSKOM",
     "petle":[
-      "Czerwonak/Stacja",
-      "Kicin/P\u0119tla"
+      "D\u0119bog\u00f3ra/D\u0105br\u00f3wki",
+      "Kozieg\u0142owy/Piaskowa Szko\u0142a"
     ],
-    "przystanki":12,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
@@ -1086,7 +1076,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":24,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
@@ -1116,7 +1106,7 @@
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
-    "przystanki":40,
+    "przystanki":41,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
