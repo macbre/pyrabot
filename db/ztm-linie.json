@@ -12,10 +12,10 @@
   "3":{
     "agency":"MPK",
     "petle":[
-      "G\u00f3rczyn",
+      "Staro\u0142\u0119ka",
       "Wilczak"
     ],
-    "przystanki":32,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
@@ -62,10 +62,10 @@
   "9":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
+      "Pi\u0105tkowska",
       "Pi\u0105tkowska"
     ],
-    "przystanki":27,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -103,9 +103,9 @@
     "agency":"MPK",
     "petle":[
       "Junikowo",
-      "Staro\u0142\u0119ka"
+      "Junikowo"
     ],
-    "przystanki":32,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -135,7 +135,7 @@
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":23,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
@@ -165,8 +165,16 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":30,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
+    "typ":"tram"
+  },
+  "22":{
+    "petle":[
+      "Awf",
+      "Pl. Wiosny Lud\u00f3w"
+    ],
+    "przystanki":3,
     "typ":"tram"
   },
   "27":{
@@ -175,8 +183,16 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":36,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
+    "typ":"tram"
+  },
+  "29":{
+    "petle":[
+      "D\u0119biec",
+      "D\u0119biec"
+    ],
+    "przystanki":27,
     "typ":"tram"
   },
   "45":{
@@ -419,6 +435,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/69",
     "typ":"bus"
   },
+  "70":{
+    "petle":[
+      "G\u0142\u00f3wna",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "przystanki":7,
+    "typ":"bus"
+  },
   "71":{
     "agency":"MPK",
     "petle":[
@@ -465,7 +489,7 @@
       "Osiedle D\u0119bina",
       "Plac Bernardy\u0144ski"
     ],
-    "przystanki":12,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/76",
     "typ":"bus"
   },
@@ -557,6 +581,14 @@
     ],
     "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/85",
+    "typ":"bus"
+  },
+  "86":{
+    "petle":[
+      "Kiekrz",
+      "Ogrody"
+    ],
+    "przystanki":25,
     "typ":"bus"
   },
   "87":{
@@ -666,7 +698,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":44,
+    "przystanki":47,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -820,7 +852,7 @@
       "Mogile\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":26,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
     "typ":"bus"
   },
@@ -1046,7 +1078,7 @@
       "Lubo\u0144/Lasek",
       "Plac Bernardy\u0144ski"
     ],
-    "przystanki":19,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
     "typ":"bus"
   },
@@ -1193,10 +1225,10 @@
   "830":{
     "agency":"ROKBUS",
     "petle":[
-      "Kiekrz",
+      "Kobylniki/Lipowa",
       "Paw\u0142owice/P\u0119tla"
     ],
-    "przystanki":7,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/830",
     "typ":"bus"
   },
@@ -1214,10 +1246,18 @@
     "agency":"ROKBUS",
     "petle":[
       "Ogrody",
-      "Rokietnica/Os. Kalinowe"
+      "Starzyny/Rynkowa"
     ],
-    "przystanki":36,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/833",
+    "typ":"bus"
+  },
+  "834":{
+    "petle":[
+      "Ogrody",
+      "\u017bydowo/P\u0119tla"
+    ],
+    "przystanki":44,
     "typ":"bus"
   },
   "891":{
@@ -1233,10 +1273,10 @@
   "893":{
     "agency":"ROKBUS",
     "petle":[
-      "Rokietnica/Ros",
+      "Rokietnica/Stacja",
       "\u017bydowo/P\u0119tla"
     ],
-    "przystanki":11,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
     "typ":"bus"
   },
