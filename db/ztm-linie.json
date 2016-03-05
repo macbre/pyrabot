@@ -35,7 +35,7 @@
       "G\u00f3rczyn",
       "Stomil"
     ],
-    "przystanki":26,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -170,11 +170,13 @@
     "typ":"tram"
   },
   "22":{
+    "agency":"MPK",
     "petle":[
       "Awf",
       "Pl. Wiosny Lud\u00f3w"
     ],
     "przystanki":3,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
   "27":{
@@ -183,16 +185,18 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":35,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
   },
   "29":{
+    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "D\u0119biec"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/29",
     "typ":"tram"
   },
   "45":{
@@ -351,7 +355,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":11,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/61",
     "typ":"bus"
   },
@@ -436,11 +440,13 @@
     "typ":"bus"
   },
   "70":{
+    "agency":"MPK",
     "petle":[
       "G\u0142\u00f3wna",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":7,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/70",
     "typ":"bus"
   },
   "71":{
@@ -584,11 +590,13 @@
     "typ":"bus"
   },
   "86":{
+    "agency":"MPK",
     "petle":[
       "Kiekrz",
       "Ogrody"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/86",
     "typ":"bus"
   },
   "87":{
@@ -1248,16 +1256,18 @@
       "Ogrody",
       "Starzyny/Rynkowa"
     ],
-    "przystanki":35,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/833",
     "typ":"bus"
   },
   "834":{
+    "agency":"ROKBUS",
     "petle":[
       "Ogrody",
       "\u017bydowo/P\u0119tla"
     ],
     "przystanki":44,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/834",
     "typ":"bus"
   },
   "891":{
