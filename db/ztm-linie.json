@@ -62,10 +62,10 @@
   "9":{
     "agency":"MPK",
     "petle":[
-      "Pi\u0105tkowska",
+      "D\u0119biec",
       "Pi\u0105tkowska"
     ],
-    "przystanki":30,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -103,9 +103,9 @@
     "agency":"MPK",
     "petle":[
       "Junikowo",
-      "Junikowo"
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":33,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -135,7 +135,7 @@
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":25,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
@@ -170,13 +170,11 @@
     "typ":"tram"
   },
   "22":{
-    "agency":"MPK",
     "petle":[
       "Awf",
       "Pl. Wiosny Lud\u00f3w"
     ],
     "przystanki":3,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
   "27":{
@@ -185,18 +183,16 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":32,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
   },
   "29":{
-    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "D\u0119biec"
     ],
     "przystanki":27,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/29",
     "typ":"tram"
   },
   "45":{
@@ -385,7 +381,7 @@
       "Kacza",
       "Puszkina"
     ],
-    "przystanki":30,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/64",
     "typ":"bus"
   },
@@ -706,19 +702,16 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":49,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
-    "agency":"MPK",
-    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
@@ -772,7 +765,7 @@
       "Rondo Kaponiera",
       "Rondo Kaponiera"
     ],
-    "przystanki":40,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/236",
     "typ":"bus"
   },
@@ -871,7 +864,7 @@
       "Rondo Kaponiera",
       "Rondo Kaponiera"
     ],
-    "przystanki":42,
+    "przystanki":41,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/246",
     "typ":"bus"
   },
@@ -1086,7 +1079,7 @@
       "Lubo\u0144/Lasek",
       "Plac Bernardy\u0144ski"
     ],
-    "przystanki":21,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
     "typ":"bus"
   },
