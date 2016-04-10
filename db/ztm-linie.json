@@ -3,9 +3,9 @@
     "agency":"MPK",
     "petle":[
       "Franowo",
-      "Franowo"
+      "Junikowo"
     ],
-    "przystanki":45,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -42,10 +42,10 @@
   "6":{
     "agency":"MPK",
     "petle":[
-      "Mi\u0142ostowo",
+      "Budziszy\u0144ska",
       "Mi\u0142ostowo"
     ],
-    "przystanki":48,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -102,10 +102,10 @@
   "13":{
     "agency":"MPK",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":44,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -122,10 +122,10 @@
   "15":{
     "agency":"MPK",
     "petle":[
-      "Osiedle Jana III Sobieskiego",
+      "Budziszy\u0144ska",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":25,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
@@ -1126,7 +1126,7 @@
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
-    "przystanki":41,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
