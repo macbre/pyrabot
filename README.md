@@ -34,3 +34,4 @@ Do wygenerowania powyższych plików wymagane są dane wejściowe - patrz katalo
 ## Dane
 
 * OpenStreetMap: [Overpass XML dla Poznania](http://overpass-api.de/api/map?bbox=16.4452,52.2181,17.3584,52.5818) (266,72M)
+* [Overpass JSON query](http://overpass.osm.rambler.ru/cgi/interpreter?data=%5Bout:json%5D;node[%22name%22=%22Pozna%C5%84%22];%20out%20body;)
