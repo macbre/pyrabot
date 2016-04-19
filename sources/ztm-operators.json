@@ -8,6 +8,13 @@
       "night": false
     },
     {
+      "name": "3",
+      "type": "0",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "4",
       "type": "0",
       "operator": "ZTM_MPK",
@@ -113,42 +120,14 @@
       "night": false
     },
     {
+      "name": "20",
+      "type": "0",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "27",
-      "type": "0",
-      "operator": "ZTM_MPK",
-      "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
-      "name": "30",
-      "type": "0",
-      "operator": "ZTM_MPK",
-      "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
-      "name": "31",
-      "type": "0",
-      "operator": "ZTM_MPK",
-      "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
-      "name": "32",
-      "type": "0",
-      "operator": "ZTM_MPK",
-      "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
-      "name": "33",
-      "type": "0",
-      "operator": "ZTM_MPK",
-      "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
-      "name": "34",
       "type": "0",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
@@ -163,6 +142,13 @@
     },
     {
       "name": "46",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "47",
       "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
@@ -316,6 +302,13 @@
       "night": false
     },
     {
+      "name": "70",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "71",
       "type": "3",
       "operator": "ZTM_MPK",
@@ -421,6 +414,13 @@
       "night": false
     },
     {
+      "name": "87",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "89",
       "type": "3",
       "operator": "ZTM_MPK",
@@ -484,7 +484,14 @@
       "night": false
     },
     {
-      "name": "T2",
+      "name": "98",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "98",
       "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
@@ -493,6 +500,13 @@
     {
       "name": "201",
       "type": "0",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": true
+    },
+    {
+      "name": "231",
+      "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
       "night": true
@@ -666,6 +680,13 @@
       "night": false
     },
     {
+      "name": "341",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "342",
       "type": "3",
       "operator": "TRANSKOM",
@@ -677,6 +698,27 @@
       "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "396",
+      "type": "3",
+      "operator": "TRANSKOM",
+      "agencyName": "TRANSKOM",
+      "night": false
+    },
+    {
+      "name": "397",
+      "type": "3",
+      "operator": "TRANSKOM",
+      "agencyName": "TRANSKOM",
+      "night": false
+    },
+    {
+      "name": "398",
+      "type": "3",
+      "operator": "TRANSKOM",
+      "agencyName": "TRANSKOM",
       "night": false
     },
     {
@@ -736,7 +778,21 @@
       "night": false
     },
     {
+      "name": "616",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "651",
+      "type": "3",
+      "operator": "ZTM_TRANSLUB",
+      "agencyName": "ZTM_TRANSLUB",
+      "night": false
+    },
+    {
+      "name": "690",
       "type": "3",
       "operator": "ZTM_TRANSLUB",
       "agencyName": "ZTM_TRANSLUB",
@@ -758,6 +814,13 @@
     },
     {
       "name": "703",
+      "type": "3",
+      "operator": "PUK",
+      "agencyName": "PUK",
+      "night": false
+    },
+    {
+      "name": "704",
       "type": "3",
       "operator": "PUK",
       "agencyName": "PUK",
@@ -820,6 +883,20 @@
       "night": false
     },
     {
+      "name": "891",
+      "type": "3",
+      "operator": "ZTM_ROKBUS",
+      "agencyName": "ZTM_ROKBUS",
+      "night": false
+    },
+    {
+      "name": "893",
+      "type": "3",
+      "operator": "ZTM_ROKBUS",
+      "agencyName": "ZTM_ROKBUS",
+      "night": false
+    },
+    {
       "name": "901",
       "type": "3",
       "operator": "ZTM_ZKP",
@@ -828,6 +905,13 @@
     },
     {
       "name": "902",
+      "type": "3",
+      "operator": "ZTM_ZKP",
+      "agencyName": "ZTM_ZKP",
+      "night": false
+    },
+    {
+      "name": "903",
       "type": "3",
       "operator": "ZTM_ZKP",
       "agencyName": "ZTM_ZKP",
@@ -856,6 +940,34 @@
     },
     {
       "name": "911",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "911",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "T2",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "T9",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "T10",
       "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
