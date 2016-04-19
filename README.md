@@ -30,3 +30,7 @@ Repozytorium Pyrabota zawiera (w katalogu [/db](https://github.com/macbre/pyrabo
 * [Baza kodów pocztowy](https://raw.github.com/macbre/pyrabot/master/db/ulice_kody_pocztowe.json)
 
 Do wygenerowania powyższych plików wymagane są dane wejściowe - patrz katalog ``sources``.
+
+## Dane
+
+* OpenStreetMap: [Overpass XML dla Poznania](http://overpass-api.de/api/map?bbox=16.4452,52.2181,17.3584,52.5818)
