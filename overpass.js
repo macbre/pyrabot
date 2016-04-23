@@ -67,9 +67,16 @@ request.get({
 			map((element) => element.tags).
 			// tylko tagi z nazwami
 			filter((tag) => typeof tag.name !== 'undefined').
-			map((tag) => tag.name);
+			map((tag) => tag.name).
+			// sortuj
+			sort();
+
+	const wikitext = nodes.
+		// linkuj
+		map((node) => `* [[${node}]]`).
+		join("\n");
 
 	//console.log(data);
-	console.log('* [[' + nodes.join(']]\n* [[') + ']]');
+	console.log(wikitext);
 });
 
