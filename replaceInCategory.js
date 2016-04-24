@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Skrypt dokonujący zamiany tekstu w artykułach podanej kategorii
  */
@@ -76,16 +77,16 @@ var CATEGORY = 'Kalendarium',
 	REGEXP = /\[http:\/\/pl.wikipedia.org\/wiki\/([^\s]+) ([^\]]+)\]/g,
 	REPLACEMENT = '[[wikipedia:pl:$1|$2]]',
 	SUMMARY = 'Interwiki do Wikipedii';
-/**/
+/**
 var CATEGORY = 'Ulica Świety Marcin',
     	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
 	REPLACEMENT = '[[Kategoria:Ulica Święty Marcin]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
-/**
-var CATEGORY = 'Pętle tramwajowe historyczne',
+/**/
+var CATEGORY = 'Pomniki',
     	REGEXP = /$/, // dodaj na końcu wikitekstu
-	REPLACEMENT = '\n\n{{Nawigacja Pętle tramwajowe}}',
-	SUMMARY = 'Dodaję nawigację po historycznych pętlach';
+	REPLACEMENT = '\n\n{{Nawigacja Pomniki}}',
+	SUMMARY = 'Dodaję nawigację po pomnikach';
 /**
 var CATEGORY = 'Dzień po dniu',
     	REGEXP = /'''W dniu [^']+'''/,
@@ -137,7 +138,7 @@ client.logIn(function() {
 	var cnt = 0;
 
 	client.getPagesInCategory(CATEGORY, function(err, pages) {
-		pages.forEach(function(page) {
+		pages.filter((page) => page.ns === 0).forEach(function(page) {
 			cnt++;
 			console.log(cnt + ') sprawdzam ' + page.title + '...');
 
