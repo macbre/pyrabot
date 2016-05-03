@@ -15,8 +15,8 @@ var CATEGORY = process.argv[2] || 'Linie autobusowe',
 
 client.log('Wyszukiwanie plików z Wikimedia Commons do importu w kategorii "%s"', CATEGORY);
 
-client.logIn(function() {
-	client.getPagesInCategory(CATEGORY, function(pages) {
+client.logIn(function(err) {
+	client.getPagesInCategory(CATEGORY, function(err, pages) {
 		pages.forEach(function(page) {
 			if (page.ns !== 0) return;
 
@@ -25,7 +25,7 @@ client.logIn(function() {
 				action: 'query',
 				generator: 'images',
 				titles: page.title
-			}, function(res) {
+			}, function(err, res) {
 				var images = res && res.pages;
 
 				if (!images || images.length === 0) return;
@@ -40,7 +40,7 @@ client.logIn(function() {
 						client.log('%s: "%s"', page.title, imageTitle);
 
 						// pobierz URL do "pełnej" wersji obrazka
-						commons.getImageInfo("File:" + imageTitle, function(res) {
+						commons.getImageInfo("File:" + imageTitle, function(err, res) {
 							if (!res) return;
 
 							var url = res.url,
@@ -54,8 +54,10 @@ client.logIn(function() {
 							client.log('Import pliku <%s> z Wikimedia Commons...', imageTitle);
 
 							// dodaj zdjęcia
-							client.uploadByUrl(imageTitle, url, params, function(res) {
-								client.log('Upload pliku <%s> zakończony', imageTitle);
+							client.uploadByUrl(imageTitle, url, params, function(err, res) {
+								if (!err) {
+									client.log('Upload pliku <%s> zakończony', imageTitle);
+								}
 							});
 						});
 					}
