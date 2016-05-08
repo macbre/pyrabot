@@ -1,4 +1,12 @@
 {
+  "0":{
+    "petle":[
+      "Pl Wielkopolski",
+      "Pl Wielkopolski"
+    ],
+    "przystanki":15,
+    "typ":"tram"
+  },
   "1":{
     "agency":"MPK",
     "petle":[
@@ -25,7 +33,7 @@
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":36,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
@@ -35,7 +43,7 @@
       "Franowo",
       "G\u00f3rczyn"
     ],
-    "przystanki":31,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -85,7 +93,7 @@
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":34,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
@@ -135,7 +143,7 @@
       "Osiedle Jana III Sobieskiego",
       "Zawady"
     ],
-    "przystanki":19,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
@@ -677,6 +685,14 @@
     ],
     "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
+    "typ":"bus"
+  },
+  "100":{
+    "petle":[
+      "Marcinkowskiego",
+      "Nowe Zoo"
+    ],
+    "przystanki":20,
     "typ":"bus"
   },
   "201":{
