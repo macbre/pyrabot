@@ -1,10 +1,12 @@
 {
   "0":{
+    "agency":"MPK",
     "petle":[
       "Pl Wielkopolski",
       "Pl Wielkopolski"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/0",
     "typ":"tram"
   },
   "1":{
@@ -113,7 +115,7 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":29,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -143,18 +145,8 @@
       "Osiedle Jana III Sobieskiego",
       "Zawady"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
-    "typ":"tram"
-  },
-  "17":{
-    "agency":"MPK",
-    "petle":[
-      "Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka"
-    ],
-    "przystanki":53,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
   "18":{
@@ -293,7 +285,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":12,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56",
     "typ":"bus"
   },
@@ -573,7 +565,7 @@
       "Osiedle Jana III Sobieskiego",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":27,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/85",
     "typ":"bus"
   },
@@ -688,11 +680,23 @@
     "typ":"bus"
   },
   "100":{
+    "agency":"MPK",
     "petle":[
       "Marcinkowskiego",
       "Nowe Zoo"
     ],
     "przystanki":20,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/100",
+    "typ":"bus"
+  },
+  "195":{
+    "agency":"MPK",
+    "petle":[
+      "Ogrody",
+      "Strzeszynek"
+    ],
+    "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/195",
     "typ":"bus"
   },
   "201":{
@@ -776,10 +780,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Kozieg\u0142owy/Os. Le\u015bne",
+      "G\u0142\u00f3wna",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":24,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/237",
     "typ":"bus"
   },
@@ -932,7 +936,7 @@
       "Promnice/P\u00f3\u0142nocna",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":27,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/312",
     "typ":"bus"
   },
@@ -942,7 +946,7 @@
       "Kozieg\u0142owy/Zak\u0142ady Drobiarskie",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":16,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/320",
     "typ":"bus"
   },
@@ -952,7 +956,7 @@
       "Kicin/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/321",
     "typ":"bus"
   },
@@ -972,7 +976,7 @@
       "Rondo \u015ar\u00f3dka",
       "Tuczno/P\u0119tla"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/323",
     "typ":"bus"
   },
@@ -982,7 +986,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":37,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
@@ -992,7 +996,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":39,
+    "przystanki":38,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/342",
     "typ":"bus"
   },
@@ -1049,10 +1053,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec Szko\u0142a",
+      "Bor\u00f3wiec/D\u0119bowa",
       "Rondo Rataje"
     ],
-    "przystanki":46,
+    "przystanki":47,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1072,7 +1076,7 @@
       "D\u0119biec",
       "Lubo\u0144/Lasek"
     ],
-    "przystanki":10,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/602",
     "typ":"bus"
   },
