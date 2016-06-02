@@ -82,11 +82,17 @@ var CATEGORY = 'Ulica Świety Marcin',
     	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
 	REPLACEMENT = '[[Kategoria:Ulica Święty Marcin]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
-/**/
+/**
 var CATEGORY = 'Pomniki',
     	REGEXP = /$/, // dodaj na końcu wikitekstu
 	REPLACEMENT = '\n\n{{Nawigacja Pomniki}}',
 	SUMMARY = 'Dodaję nawigację po pomnikach';
+/**/
+var CATEGORY = 'Bramy i forty',
+        REGEXP = '\n\n{{Nawigacja Bramy Twierdzy Poznań}}',
+	//REGEXP = /$/, // dodaj na końcu wikitekstu
+        REPLACEMENT = '\n\n{{Nawigacja Twierdza Poznań}}',
+        SUMMARY = 'Nawigacja po Twierdzy Poznań';
 /**
 var CATEGORY = 'Dzień po dniu',
     	REGEXP = /'''W dniu [^']+'''/,
