@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "dependencies": {
     "ansicolors": "^0.3.2",
-    "diff": "^2.2.2",
+    "diff": "^2.2.3",
     "flickr-client": "0.0.4",
     "flickr-photo-info": "0.0.1",
-    "jsdom": "^9.0.0",
-    "nodemw": "^0.9.0"
+    "jsdom": "^9.2.1",
+    "nodemw": "^0.10.0"
   },
   "devDependencies": {
     "jshint": "^2.9.2",
