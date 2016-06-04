@@ -2,46 +2,36 @@
 'use strict';
 
 const ULICE=`
-Stanisława Pawłowskiego 
-Soni Górnej 
-Maksymiliana Garsteckiego 
-Onufrego Kopczyńskiego 
-Stanisława Strugarka 
-Emila Zegadłowicza 
-Jerzego Suszko 
-Henryka Śniegockiego. 
-Władysława Syrokomli 
-Pawła Gantkowskiego 
-Franciszka Stróżyńskiego 
-Teofila Mateckiego 
-Stefana Poradowskiego 
-Władysława Pniewskiego 
-Rogera Sławskiego 
-Władysława Biegańskiego 
-Konstantego Troczyńskiego 
-Gen. Taczaka 
-Ludwika Braille'a 
-Jerzego Szajowicza 
-Adama Tomaszewskiego 
-Tomasza Drobnika 
-Zygmunta Wojciechowskiego 
-Chróściejowskich 
-Jana Szanieckiego 
-Hulewiczów 
-Mariana Jaroczyńskiego 
-Bibianny Moraczewskiej 
-Tomasza Zana 
-Jana Rymarkiewicza 
-Synów Pułku 
-Straży Ludowej 
-Anieli Tułodzieckiej 
-Heleny Rzepeckiej 
-Janiny Omańkowskiej 
-Szarych Szeregów 
-ZofIi Sokolnickiej 
-Marii Wicherkiewicz 
-Marii i Celestyny Rydlewskich 
-Heleny Szafran 
+Gertrudy Konatkowskiej 
+Aleksandry Karpińskiej 
+Jana Stachowiaka 
+Józefa Łęgowskiego 
+Edwarda Raczyńskiego 
+Nikodema Pajzderskiego 
+Zygmunta Zaleskiego 
+Julii i Antoniego Wojkowskich 
+Edwarda Dembowskiego 
+Tadeusza Kutrzeby 
+Cyryla Ratajskiego 
+Anny Danysz 
+Jarogniewa Drwęskiego 
+Augusta Cieszkowskiego 
+Marcina Rożka 
+Orla 
+Odrodzenia 
+Piastowska 
+Podolańska 
+Szpakowa 
+Skowrończa 
+Sikorowa 
+Słoneczna 
+Skryta 
+Tysiąclecia 
+Wójtowska 
+Zwycięstwa 
+Żurawia 
+25-lecia PRL 
+Słowicza 
 `.trim().split("\n").map((i) => i.trim());
 
 const INFO = `Ulica otrzymała swojego obecnego patrona [[3 października]] [[1973]] r. decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]]<ref>{{KMP|2/1974|strony=169}}</ref>.`;
@@ -71,14 +61,19 @@ client.logIn((err) => {
 	//const ULICE = ['Mariana Jaroczyńskiego']; // debug
 
 	ULICE.forEach((title) => {
-		const ulica = `Ulica ${title}`;
+		let ulica = `Ulica ${title}`;
 
 		//client.log(`Dodaję informację o nadaniu patrona ulicy ${title}...`);
 
-		client.getArticle(ulica, true /* redirect */, (err, content) => {
+		client.getArticle(ulica, true /* redirect */, (err, content, redirectInfo) => {
 			if (err) return;
 
-			if (!content || content.indexOf('==') > -1) {
+			if (!content) {
+				client.error(`${ulica} nie istnieje!`);
+				return;
+			}
+
+			if (content.indexOf('==') > -1) {
 				client.log(`${ulica} posiada treść`);
 				return;
 			}
@@ -87,6 +82,10 @@ client.logIn((err) => {
 			newContent = newContent.
 				replace('{{Szkic}}', '').
 				replace('|rok=\n', `|rok=${YEAR}\n`);
+
+			if (redirectInfo) {
+				ulica = redirectInfo.to;
+			}
 
 			client.log(ulica);
 			client.log(client.diff(content, newContent));
