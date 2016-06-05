@@ -2,32 +2,27 @@
 'use strict';
 
 const ULICE=`
-Bolesława Krzywoustego 
-Wiatraczna 
-Jedności Słowiańskiej 
-Inflancka 
-Kurlandzka 
-Obodrzycka 
-Piaśnicka 
-Śremska 
-Dolska 
-Mieszkowska 
-Wyzwolenia 
-Jastrzębia 
-Łabędzia 
-Krucza 
-Orla 
-Pawia 
-Obrzyca 
-Juracka 
-Szczytnicka 
-Wioślarska 
-Na Skarpie 
-Chyżańska
+Krzysztofa Kamila Baczyńskiego
+Stefana Balickiego
+Wojciecha Bąka
+Stanisława Czernika
+Konstantego Ildefonsa Gałczyńskiego
+Zenona Kosidowskiego
+Bolesława Leśmiana
+Leopolda Staffa
+Artura Marii Swinarskiego
+Jana Sztaudyngera
+Romana Wilkanowicza
+Chochołowska
+Grudziądzka
+Podjaryszi
+Prądnicka
+Wygon
+Żlebowa
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica otrzymała swoją nazwę [[16 stycznia]] [[1976]] r. decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]]<ref>{{KMP|3/1976}}</ref>.`;
-const YEAR = `[[1976]]`
+const INFO = `Ulica została wytyczona i otrzymała swoją nazwę w roku [[1985]]<ref>{{KMP|3/1986|strony=158-160}}</ref>.`;
+const YEAR = `[[1985]]`
 
 const APPEND = `
 
