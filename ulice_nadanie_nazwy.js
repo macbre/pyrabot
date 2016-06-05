@@ -2,27 +2,23 @@
 'use strict';
 
 const ULICE=`
-Krzysztofa Kamila Baczyńskiego
-Stefana Balickiego
-Wojciecha Bąka
-Stanisława Czernika
-Konstantego Ildefonsa Gałczyńskiego
-Zenona Kosidowskiego
-Bolesława Leśmiana
-Leopolda Staffa
-Artura Marii Swinarskiego
-Jana Sztaudyngera
-Romana Wilkanowicza
-Chochołowska
-Grudziądzka
-Podjaryszi
-Prądnicka
-Wygon
-Żlebowa
+Szczęsnego Dettloffa
+Wincentego Jezierskiego
+Władysława Kozłowskiego
+Józefa Paczorskiego
+Romana Pollaka
+Stanisława Rungego
+Wacława Strażewicza
+Zygmunta Szweykowsklego
+Agatowa
+Bursztynowa
+Bazyliowa
+Dziurawcowa
+Gorczycowa
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica została wytyczona i otrzymała swoją nazwę w roku [[1985]]<ref>{{KMP|3/1986|strony=158-160}}</ref>.`;
-const YEAR = `[[1985]]`
+const INFO = `Ulica została wytyczona i otrzymała swoją nazwę w roku [[1988]]<ref>{{KMP|1/1989|strony=127}}</ref>.`;
+const YEAR = `[[1988]]`
 
 const APPEND = `
 
