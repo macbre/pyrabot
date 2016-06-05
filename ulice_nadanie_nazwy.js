@@ -2,40 +2,32 @@
 'use strict';
 
 const ULICE=`
-Gertrudy Konatkowskiej 
-Aleksandry Karpińskiej 
-Jana Stachowiaka 
-Józefa Łęgowskiego 
-Edwarda Raczyńskiego 
-Nikodema Pajzderskiego 
-Zygmunta Zaleskiego 
-Julii i Antoniego Wojkowskich 
-Edwarda Dembowskiego 
-Tadeusza Kutrzeby 
-Cyryla Ratajskiego 
-Anny Danysz 
-Jarogniewa Drwęskiego 
-Augusta Cieszkowskiego 
-Marcina Rożka 
+Bolesława Krzywoustego 
+Wiatraczna 
+Jedności Słowiańskiej 
+Inflancka 
+Kurlandzka 
+Obodrzycka 
+Piaśnicka 
+Śremska 
+Dolska 
+Mieszkowska 
+Wyzwolenia 
+Jastrzębia 
+Łabędzia 
+Krucza 
 Orla 
-Odrodzenia 
-Piastowska 
-Podolańska 
-Szpakowa 
-Skowrończa 
-Sikorowa 
-Słoneczna 
-Skryta 
-Tysiąclecia 
-Wójtowska 
-Zwycięstwa 
-Żurawia 
-25-lecia PRL 
-Słowicza 
+Pawia 
+Obrzyca 
+Juracka 
+Szczytnicka 
+Wioślarska 
+Na Skarpie 
+Chyżańska
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica otrzymała swojego obecnego patrona [[3 października]] [[1973]] r. decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]]<ref>{{KMP|2/1974|strony=169}}</ref>.`;
-const YEAR = `[[1973]] (nadanie patrona)`
+const INFO = `Ulica otrzymała swoją nazwę [[16 stycznia]] [[1976]] r. decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]]<ref>{{KMP|3/1976}}</ref>.`;
+const YEAR = `[[1976]]`
 
 const APPEND = `
 
@@ -48,7 +40,7 @@ ${INFO}
 <references />
 `.trim();
 
-const SUMMARY = 'Informacja o nadaniu patrona na podstawie Kroniki Miasta Poznania';
+const SUMMARY = 'Informacja o nadaniu nazwy / patrona na podstawie Kroniki Miasta Poznania';
 
 
 /***********************************************************************************************************/
