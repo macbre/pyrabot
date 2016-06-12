@@ -2,25 +2,65 @@
 'use strict';
 
 const ULICE=`
-Stanisława Małachowskiego
-Aleksandra Hercena
-Kondratija Rylejewa
-Benedykta Tadeusza Dybowskiego
-Juliana Leńskiego
-Aleja Pod Lipami
-Do Alei
-Estońska
-Łotewska
-Białoruska
-Gruzińska
-Armeńska
-Gieorgija Dobrowolskiego
-Władysława Wołkowa
-Wiktora Pacajewa
+Sławomira
+Dobrochny
+Świętochny
+Kamienna
+Przełom
+Korzenna
+Błotna
+Franciszka Witaszka
+Błońska
+Władysława Orkana
+Xawerego Dunikowskiego
+Roberta Kocha
+Lubońska
+Jacka Malczewskiego
+Poroninska
+Rzeszowska
+Żnińska
+Łódzka
+Jarocińska
+Jasielska
+Oksywska
+Sztumska
+Jastarnicka
+Raciborska
+Tyska
+Szaflarska
+Białczańska
+Limanowska
+Rewekólska
+Architektów
+Geodetów
+Drogowców
+Meliorantów
+Zimowa
+Szafirowa
+Zbigniewa Burzyńskiego
+Ikara
+Dedala
+Latawcowa
+Balonowa
+Moryńska
+Wilhelma Grimma
+Jana Maklakiewicza
+Złotej Kaczki
+Jana Brzechwy
+Lisa Witalisa
+Pana Kleksa
+Juliana Tuwima
+Boruty
+Janosika
+Ezopa
+Fedrusa
+Iwana Kryłowa
+Pana Twardowskiego
+Smoka Wawelskiego
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica, istniejąca już wcześniej, otrzymała swoją nazwę w maju [[1977]] r.<ref>{{KMP|4/1977|strony=100}}</ref>`;
-const YEAR = `[[1977]] (nadanie nazwy)`
+const INFO = `Ulica otrzymała swoją nazwę decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] [[6 grudnia]] [[1974]] r.<ref>{{KMP|3/1975|strony=149-151}}</ref>`;
+const YEAR = `[[1974]]`
 
 const APPEND = `
 
