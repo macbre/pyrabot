@@ -35,17 +35,17 @@
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":35,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
   "5":{
     "agency":"MPK",
     "petle":[
-      "Franowo",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn",
+      "Stomil"
     ],
-    "przystanki":33,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -105,7 +105,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":24,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -142,20 +142,28 @@
   "16":{
     "agency":"MPK",
     "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Zawady"
+      "Franowo",
+      "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":19,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
+    "typ":"tram"
+  },
+  "17":{
+    "petle":[
+      "Staro\u0142\u0119ka",
+      "Staro\u0142\u0119ka"
+    ],
+    "przystanki":53,
     "typ":"tram"
   },
   "18":{
     "agency":"MPK",
     "petle":[
       "Franowo",
-      "Zawady"
+      "Franowo"
     ],
-    "przystanki":34,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -165,7 +173,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -262,10 +270,10 @@
   "54":{
     "agency":"MPK",
     "petle":[
-      "Rondo Rataje",
+      "Franowo",
       "Sp\u0142awie"
     ],
-    "przystanki":20,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/54",
     "typ":"bus"
   },
@@ -696,7 +704,7 @@
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":31,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -1033,20 +1041,20 @@
   "511":{
     "agency":"KOMBUS",
     "petle":[
-      "Kamionki/Klonowa",
-      "Rondo Rataje"
+      "Franowo",
+      "Kamionki/Klonowa"
     ],
-    "przystanki":46,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/511",
     "typ":"bus"
   },
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec/D\u0119bowa",
-      "Rondo Rataje"
+      "Bor\u00f3wiec Szko\u0142a",
+      "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
