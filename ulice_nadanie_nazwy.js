@@ -2,23 +2,25 @@
 'use strict';
 
 const ULICE=`
-Szczęsnego Dettloffa
-Wincentego Jezierskiego
-Władysława Kozłowskiego
-Józefa Paczorskiego
-Romana Pollaka
-Stanisława Rungego
-Wacława Strażewicza
-Zygmunta Szweykowsklego
-Agatowa
-Bursztynowa
-Bazyliowa
-Dziurawcowa
-Gorczycowa
+Stanisława Małachowskiego
+Aleksandra Hercena
+Kondratija Rylejewa
+Benedykta Tadeusza Dybowskiego
+Juliana Leńskiego
+Aleja Pod Lipami
+Do Alei
+Estońska
+Łotewska
+Białoruska
+Gruzińska
+Armeńska
+Gieorgija Dobrowolskiego
+Władysława Wołkowa
+Wiktora Pacajewa
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica została wytyczona i otrzymała swoją nazwę w roku [[1988]]<ref>{{KMP|1/1989|strony=127}}</ref>.`;
-const YEAR = `[[1988]]`
+const INFO = `Ulica, istniejąca już wcześniej, otrzymała swoją nazwę w maju [[1977]] r.<ref>{{KMP|4/1977|strony=100}}</ref>`;
+const YEAR = `[[1977]] (nadanie nazwy)`
 
 const APPEND = `
 
