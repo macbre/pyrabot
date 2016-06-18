@@ -29,7 +29,7 @@ client.logIn(function() {
 				imageUrl = window.document.querySelector('link[rel="image_src"]').href, // e.g. /foto/m/159/159551.jpg
 				desc = $('.OpisZdjecia').text();
 
-			imageUrl = 'http://fotopolska.eu' + imageUrl.replace('/m/', '/');
+			imageUrl = imageUrl.replace('/m/', '/');
 
 			client.log('Obrazek: ' + imageUrl);
 			client.log('Opis: ' + desc);
