@@ -115,8 +115,16 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":32,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
+    "typ":"tram"
+  },
+  "14":{
+    "petle":[
+      "G\u00f3rczyn",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":15,
     "typ":"tram"
   },
   "15":{
@@ -175,7 +183,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -996,7 +1004,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":36,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
@@ -1053,20 +1061,20 @@
   "511":{
     "agency":"KOMBUS",
     "petle":[
-      "Franowo",
-      "Kamionki/Klonowa"
+      "Kamionki/Klonowa",
+      "Rondo Rataje"
     ],
-    "przystanki":42,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/511",
     "typ":"bus"
   },
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec Szko\u0142a",
+      "Bor\u00f3wiec/D\u0119bowa",
       "Franowo"
     ],
-    "przystanki":46,
+    "przystanki":47,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
