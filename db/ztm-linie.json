@@ -19,16 +19,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
-  "3":{
-    "agency":"MPK",
-    "petle":[
-      "Wilczak",
-      "Zawady"
-    ],
-    "przystanki":17,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
-    "typ":"tram"
-  },
   "4":{
     "agency":"MPK",
     "petle":[
@@ -45,7 +35,7 @@
       "G\u00f3rczyn",
       "Stomil"
     ],
-    "przystanki":29,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -115,16 +105,8 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":33,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
-    "typ":"tram"
-  },
-  "14":{
-    "petle":[
-      "G\u00f3rczyn",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":15,
     "typ":"tram"
   },
   "15":{
@@ -163,7 +145,7 @@
       "Franowo",
       "Franowo"
     ],
-    "przystanki":41,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -183,7 +165,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -221,20 +203,10 @@
     "agency":"MPK",
     "petle":[
       "Boranta/Park Naukowo-Technologiczny",
-      "Strzeszyn"
+      "Strzeszynek"
     ],
-    "przystanki":28,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/46",
-    "typ":"bus"
-  },
-  "47":{
-    "agency":"MPK",
-    "petle":[
-      "Boranta/Park Naukowo-Technologiczny",
-      "Chwaliszewo"
-    ],
-    "przystanki":14,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/47",
     "typ":"bus"
   },
   "48":{
@@ -353,7 +325,7 @@
       "Garbary",
       "Strzeszyn"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
@@ -607,16 +579,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/86",
     "typ":"bus"
   },
-  "87":{
-    "agency":"MPK",
-    "petle":[
-      "Osiedle R\u00f3\u017cany Potok",
-      "Pi\u0105tkowska"
-    ],
-    "przystanki":14,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/87",
-    "typ":"bus"
-  },
   "89":{
     "agency":"MPK",
     "petle":[
@@ -703,7 +665,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle R\u00f3\u017cany Potok"
     ],
-    "przystanki":11,
+    "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
@@ -721,10 +683,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Franowo",
+      "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":24,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -954,7 +916,7 @@
       "Promnice/P\u00f3\u0142nocna",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":26,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/312",
     "typ":"bus"
   },
@@ -1004,7 +966,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":37,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
@@ -1024,57 +986,27 @@
       "Osiedle Jana III Sobieskiego",
       "Przeb\u0119dowo/P\u0119tla"
     ],
-    "przystanki":38,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
-    "typ":"bus"
-  },
-  "396":{
-    "agency":"TRANSKOM",
-    "petle":[
-      "Owi\u0144ska/Stacja",
-      "Potasze/Jod\u0142owa"
-    ],
-    "przystanki":8,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
-    "typ":"bus"
-  },
-  "397":{
-    "agency":"TRANSKOM",
-    "petle":[
-      "Promnice/Klonowa",
-      "Trzaskowo/Wie\u015b"
-    ],
-    "przystanki":7,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
-    "typ":"bus"
-  },
-  "398":{
-    "agency":"TRANSKOM",
-    "petle":[
-      "D\u0119bog\u00f3ra/D\u0105br\u00f3wki",
-      "Kozieg\u0142owy/Piaskowa Szko\u0142a"
-    ],
-    "przystanki":19,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
   "511":{
     "agency":"KOMBUS",
     "petle":[
-      "Kamionki/Klonowa",
-      "Rondo Rataje"
+      "Franowo",
+      "Kamionki/Klonowa"
     ],
-    "przystanki":46,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/511",
     "typ":"bus"
   },
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec/D\u0119bowa",
+      "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1134,7 +1066,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":26,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
@@ -1334,7 +1266,7 @@
       "Osiedle Jana III Sobieskiego",
       "Z\u0142otniki/Park Nickel"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/903",
     "typ":"bus"
   },
