@@ -44,6 +44,10 @@ client.logIn(function() {
 				text: ('{{Cyryl|' + SIGN + '}}\n\n' + desc + "\n\n[[Kategoria:" + date + "]]").trim()
 			};
 
+			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4_ar16x9.jpg
+			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4.jpg
+			imageUrl = imageUrl.replace(/_ar\d+x\d+\.jpg/, '.jpg');
+
 			client.log('Wrzucam plik <' + imageUrl + '> jako <' + DEST + '>...');
 			client.log(JSON.stringify(params));
 
