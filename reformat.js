@@ -63,6 +63,8 @@ client.logIn(function() {
 			replace(/<strong>([.,\s]+)<\/strong>/g, '$1').
 			replace(/(\'+)([\.\s]+)$1/g, '$2').
 			replace(/<\/?(em|strong|p|span)( (class|style)="[^>]*)?>/g, '').
+			// puste nagłówki
+			replace(/\n==\s+ ==\n/g, '').
 			// autolinkowanie lat
 			replace(/(\d{3,4}) (r\.|rok)/g, '[[$1]] $2').
 			replace(/(roku) (\d{3,4})/g, '$1 [[$2]]').
