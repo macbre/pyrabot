@@ -31,17 +31,23 @@ client.logIn(function() {
 		function (errors, window) {
 			var $ = window.$,
 				imageUrl = 'http://www.cyryl.poznan.pl/' + $('.obraz > a').attr('href'),
+				author = $('.autor_obiektu > a').text(),
 				desc = $('.tytul_obiektu > a').text(),
 				date = $('.data_obiektu').text().split('.').pop().trim();
 
+			// parsuj datę
+			var matches = date.match(/\d{4}/);
+			if (matches) date = matches[0];
+
 			client.log('Obrazek: ' + imageUrl);
-			client.log('Opis: ' + desc);
-			client.log('Data: ' + date);
+			client.log('Autor: ' + author);
+			client.log('Opis:  ' + desc);
+			client.log('Data:  ' + date);
 
 			// upload
 			var params = {
 				comment: 'Import z Cyryla',
-				text: ('{{Cyryl|' + SIGN + '}}\n\n' + desc + "\n\n[[Kategoria:" + date + "]]").trim()
+				text: ('{{Cyryl|' + SIGN + '}}\n\nAutor: [[' + author + ']]\n\n' + desc + "\n\n[[Kategoria:" + date + "]][[Kategoria:" + author + "]]").trim()
 			};
 
 			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4_ar16x9.jpg
