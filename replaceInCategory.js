@@ -77,17 +77,17 @@ var CATEGORY = 'Kalendarium',
 	REGEXP = /\[http:\/\/pl.wikipedia.org\/wiki\/([^\s]+) ([^\]]+)\]/g,
 	REPLACEMENT = '[[wikipedia:pl:$1|$2]]',
 	SUMMARY = 'Interwiki do Wikipedii';
-/**
-var CATEGORY = 'Ulica Świety Marcin',
+/**/
+var CATEGORY = 'Pomnik Higiei',
     	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
-	REPLACEMENT = '[[Kategoria:Ulica Święty Marcin]]',
+	REPLACEMENT = '[[Kategoria:Fontanna Higiei]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
 /**
 var CATEGORY = 'Pomniki',
     	REGEXP = /$/, // dodaj na końcu wikitekstu
 	REPLACEMENT = '\n\n{{Nawigacja Pomniki}}',
 	SUMMARY = 'Dodaję nawigację po pomnikach';
-/**/
+/**
 var CATEGORY = 'Bramy i forty',
         REGEXP = '\n\n{{Nawigacja Bramy Twierdzy Poznań}}',
 	//REGEXP = /$/, // dodaj na końcu wikitekstu
@@ -144,7 +144,9 @@ client.logIn(function() {
 	var cnt = 0;
 
 	client.getPagesInCategory(CATEGORY, function(err, pages) {
-		pages.filter((page) => page.ns === 0).forEach(function(page) {
+		client.log(pages.length + ' artykułów do sprawdzenia');
+
+		pages.filter((page) => page.ns === 0 || page.ns === 6 /* NS_FILE */).forEach(function(page) {
 			cnt++;
 			console.log(cnt + ') sprawdzam ' + page.title + '...');
 
@@ -199,5 +201,7 @@ client.logIn(function() {
 				});
 			});
 		});
+
+		client.log('Gotowe');
 	});
 });
