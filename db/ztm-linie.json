@@ -142,10 +142,10 @@
   "17":{
     "agency":"MPK",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Budziszy\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":54,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -155,7 +155,7 @@
       "Franowo",
       "Franowo"
     ],
-    "przystanki":41,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -167,6 +167,14 @@
     ],
     "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
+    "typ":"tram"
+  },
+  "22":{
+    "petle":[
+      "Pl Wielkopolski",
+      "\u017beromskiego"
+    ],
+    "przystanki":7,
     "typ":"tram"
   },
   "27":{
@@ -355,7 +363,7 @@
       "Kacza",
       "Puszkina"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/64",
     "typ":"bus"
   },
@@ -385,7 +393,7 @@
       "Radojewo",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/67",
     "typ":"bus"
   },
@@ -665,7 +673,7 @@
       "Marcinkowskiego",
       "Nowe Zoo"
     ],
-    "przystanki":20,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/100",
     "typ":"bus"
   },
@@ -852,7 +860,7 @@
       "Piotrowo",
       "Rondo Rataje"
     ],
-    "przystanki":29,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/247",
     "typ":"bus"
   },
@@ -1136,7 +1144,7 @@
       "G\u00f3rczyn",
       "Plewiska/Ko\u015bci\u00f3\u0142"
     ],
-    "przystanki":17,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/710",
     "typ":"bus"
   },
@@ -1146,7 +1154,7 @@
       "G\u0142uchowo/Stawna",
       "Junikowo"
     ],
-    "przystanki":16,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716",
     "typ":"bus"
   },
@@ -1156,7 +1164,7 @@
       "D\u0105br\u00f3wka/Szko\u0142a",
       "Junikowo"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/727",
     "typ":"bus"
   },
@@ -1166,7 +1174,7 @@
       "Dopiewo, D.K.",
       "Ogrody"
     ],
-    "przystanki":35,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
@@ -1296,7 +1304,7 @@
       "Biedrusko/Park",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":28,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   },
