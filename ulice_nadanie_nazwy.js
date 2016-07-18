@@ -2,65 +2,23 @@
 'use strict';
 
 const ULICE=`
-Sławomira
-Dobrochny
-Świętochny
-Kamienna
-Przełom
-Korzenna
-Błotna
-Franciszka Witaszka
-Błońska
-Władysława Orkana
-Xawerego Dunikowskiego
-Roberta Kocha
-Lubońska
-Jacka Malczewskiego
-Poroninska
-Rzeszowska
-Żnińska
-Łódzka
-Jarocińska
-Jasielska
-Oksywska
-Sztumska
-Jastarnicka
-Raciborska
-Tyska
-Szaflarska
-Białczańska
-Limanowska
-Rewekólska
-Architektów
-Geodetów
-Drogowców
-Meliorantów
-Zimowa
-Szafirowa
-Zbigniewa Burzyńskiego
-Ikara
-Dedala
-Latawcowa
-Balonowa
-Moryńska
-Wilhelma Grimma
-Jana Maklakiewicza
-Złotej Kaczki
-Jana Brzechwy
-Lisa Witalisa
-Pana Kleksa
-Juliana Tuwima
-Boruty
-Janosika
-Ezopa
-Fedrusa
-Iwana Kryłowa
-Pana Twardowskiego
-Smoka Wawelskiego
+vKonstantego Hrynakowskiego
+Ireneusza Wierzejewskiego
+Ignacego Zielewicza
+Kazimierza Brossa
+Franciszka Adamanisa
+Józefa Grobelnego
+Czesława Gerwela
+Kiemliczów
+Gorzowska
+Sławińska
+Ławica
+Gniewka
+Kłecka
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica otrzymała swoją nazwę decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] [[6 grudnia]] [[1974]] r.<ref>{{KMP|3/1975|strony=149-151}}</ref>`;
-const YEAR = `[[1974]]`
+const INFO = `Ulica otrzymała swoją nazwę decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] [[12 maja]] [[1983]] r.<ref>{{KMP|3-4/1984|strony=63}}</ref>`;
+const YEAR = `[[1983]]`
 
 const APPEND = `
 
