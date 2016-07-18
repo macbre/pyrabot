@@ -170,11 +170,13 @@
     "typ":"tram"
   },
   "22":{
+    "agency":"MPK",
     "petle":[
       "Pl Wielkopolski",
       "\u017beromskiego"
     ],
     "przystanki":7,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
   "27":{
