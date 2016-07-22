@@ -3243,7 +3243,7 @@
   "dlugosc": 257, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-693", 
-  "numeracja": "1-5, 10"
+  "numeracja": "1-8, 10"
  }, 
  "Heliodora \u015awi\u0119cickiego": {
   "dlugosc": 314, 
@@ -3874,6 +3874,12 @@
   "dzielnica": "Wilda", 
   "kody_pocztowe": "61-408", 
   "numeracja": "1-40"
+ }, 
+ "Janusza Kulasa": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "Janusza Meissnera": {
   "dlugosc": 257, 
@@ -6297,7 +6303,7 @@
   "dlugosc": 444, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-465", 
-  "numeracja": "1, 3-7, 9, 11, 13, 15, 17, 19, 21, 23-24, 26, 28-30, 32-33, 35-36, 38, 40, 42-46, 48"
+  "numeracja": "1, 3-7, 9, 11-13, 15, 17, 19, 21, 23-24, 26, 28-30, 32-33, 35-36, 38, 40, 42-46, 48"
  }, 
  "Marii i Celestyna Rydlewskich": {
   "dlugosc": null, 
@@ -6783,7 +6789,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": "9, 19"
+  "numeracja": "9, 17, 19"
  }, 
  "Morasko": {
   "dlugosc": 3096, 
@@ -7833,7 +7839,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "61-312", 
-  "numeracja": "3, 6, 8"
+  "numeracja": "3-4, 6, 8"
  }, 
  "Pas\u0142\u0119cka": {
   "dlugosc": 282, 
@@ -8247,7 +8253,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": false
+  "numeracja": "20"
  }, 
  "Pogodna": {
   "dlugosc": 1280, 
@@ -10029,7 +10035,7 @@
   "dlugosc": 641, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "16"
+  "numeracja": "10, 16"
  }, 
  "Stanis\u0142awa Rungego": {
   "dlugosc": 87, 
@@ -10742,7 +10748,7 @@
  "S\u0119pia": {
   "dlugosc": 443, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-065", 
+  "kody_pocztowe": "61-065,61-066", 
   "numeracja": "1, 3, 5, 7-13, 15-16, 20, 22, 24, 26, 28, 30, 32, 34, 36"
  }, 
  "S\u0119pole\u0144ska": {
