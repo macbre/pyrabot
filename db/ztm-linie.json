@@ -15,7 +15,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":32,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -32,10 +32,10 @@
   "5":{
     "agency":"MPK",
     "petle":[
-      "Stomil",
+      "Marcinkowskiego",
       "Stomil"
     ],
-    "przystanki":37,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -135,7 +135,7 @@
       "Franowo",
       "Po\u0142abska"
     ],
-    "przystanki":28,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
@@ -145,7 +145,7 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":37,
+    "przystanki":36,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -159,21 +159,13 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "20":{
-    "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":30,
-    "typ":"tram"
-  },
   "22":{
     "agency":"MPK",
     "petle":[
-      "Pl Wielkopolski",
+      "\u017beromskiego",
       "\u017beromskiego"
     ],
-    "przystanki":7,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
@@ -705,7 +697,7 @@
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
-    "przystanki":10,
+    "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
@@ -1094,7 +1086,7 @@
       "D\u0119biec",
       "Mosina/D.K."
     ],
-    "przystanki":26,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
@@ -1154,7 +1146,7 @@
       "G\u00f3rczyn",
       "Plewiska/Ko\u015bci\u00f3\u0142"
     ],
-    "przystanki":15,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/710",
     "typ":"bus"
   },
