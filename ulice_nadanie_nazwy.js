@@ -2,23 +2,21 @@
 'use strict';
 
 const ULICE=`
-vKonstantego Hrynakowskiego
-Ireneusza Wierzejewskiego
-Ignacego Zielewicza
-Kazimierza Brossa
-Franciszka Adamanisa
-Józefa Grobelnego
-Czesława Gerwela
-Kiemliczów
-Gorzowska
-Sławińska
-Ławica
-Gniewka
-Kłecka
+Chocimska
+Wilanowska
+Słomiana
+Kłosowa
+Wiktora Gosienieckiego
+Leszczyńska
+Ładna
+Wonna
+Majowa
+Wesoła
+Porzeczkowa
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica otrzymała swoją nazwę decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] [[12 maja]] [[1983]] r.<ref>{{KMP|3-4/1984|strony=63}}</ref>`;
-const YEAR = `[[1983]]`
+const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[28 września]] [[1979]] r<ref>{{KMP|2/1980}}</ref>.`;
+const YEAR = `[[1979]]`
 
 const APPEND = `
 
