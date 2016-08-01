@@ -2,25 +2,23 @@
 'use strict';
 
 const ULICE=`
-Milicka
-Kmicica
-Soroki
-Ketlinga
-Józwy Butryma
-Oleńki Billewiczówny
-Onufrego Zagłoby
-Michała Wołodyjowskiego
-Hajduczka
-Longinusa Podbipięty
-Jana Skrzetuskiego
-Heleny Kurcewiczówny
-Oskierki
-Laudańska
-Rocha Kowalskiego
+Koprowa
+Szczawiowa
+Sopocka
+Kąpielowa
+Reglowa
+Powojowa
+Rezedowa
+Ku Dębinie
+Eugeniusza Piaseckiego
+Zajęcza
+Stanisława Taczaka
+Józefa Dowbora-Muśnickiego
+Leśników
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[16 stycznia]] [[1976]] r<ref>{{KMP|3/1976|rozdział=Plan rozwoju społeczno-gospodarczego i budzet Poznania na rok 1976 (Sesja Miejskiej Rady Narodowej w dniu 16 stycznia 1976 r.)}}</ref>.`;
-const YEAR = `[[1976]]`
+const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[1 grudnia]] [[1988]] r<ref>{{KMP|3/1989|rozdział=Sprawozdania}}</ref>.`;
+const YEAR = `[[1988]]`
 
 const APPEND = `
 
