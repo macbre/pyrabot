@@ -2,21 +2,25 @@
 'use strict';
 
 const ULICE=`
-Chocimska
-Wilanowska
-Słomiana
-Kłosowa
-Wiktora Gosienieckiego
-Leszczyńska
-Ładna
-Wonna
-Majowa
-Wesoła
-Porzeczkowa
+Milicka
+Kmicica
+Soroki
+Ketlinga
+Józwy Butryma
+Oleńki Billewiczówny
+Onufrego Zagłoby
+Michała Wołodyjowskiego
+Hajduczka
+Longinusa Podbipięty
+Jana Skrzetuskiego
+Heleny Kurcewiczówny
+Oskierki
+Laudańska
+Rocha Kowalskiego
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[28 września]] [[1979]] r<ref>{{KMP|2/1980}}</ref>.`;
-const YEAR = `[[1979]]`
+const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[16 stycznia]] [[1976]] r<ref>{{KMP|3/1976|rozdział=Plan rozwoju społeczno-gospodarczego i budzet Poznania na rok 1976 (Sesja Miejskiej Rady Narodowej w dniu 16 stycznia 1976 r.)}}</ref>.`;
+const YEAR = `[[1976]]`
 
 const APPEND = `
 
