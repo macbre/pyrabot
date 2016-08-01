@@ -2,32 +2,22 @@
 'use strict';
 
 const ULICE=`
-Agatowa
-Bursztynowa
-Żywokostowa
-Bazyliowa
-Dziurawcowa
-Gorczycowa
-Diamentowa
-Opalowa
-Rubinowa
-Szmaragdowa
-Topazowa
-Kminkowa
-Majerankowa
-Karsińska
-Sępo1eńska
-Wolnica
-Berdychowo
-Niepołomnicka
-Mgielna
-Szronowa
-Działkowa
-Zamknięta
+Biecka
+Lubomierska
+Pelplińska
+Charzykowska
+Izbicka
+Łebska
+Gronostajowa
+Wiewiórcza
+Na Uboczu
+Rondo Żegrze
+Unii Lubelskiej
+Falista
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[31 marca]] [[1988]] r<ref>{{KMP|1/1989|rozdział=Sprawozdania}}</ref>.`;
-const YEAR = `[[1988]]`
+const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[26 czerwca]] [[1986]] r.<ref>{{KMP|3/1987|rozdział=Sprawozdania}}</ref>`;
+const YEAR = `[[1986]]`
 
 const APPEND = `
 
