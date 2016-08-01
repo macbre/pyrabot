@@ -2,22 +2,31 @@
 'use strict';
 
 const ULICE=`
-Koprowa
-Szczawiowa
-Sopocka
-Kąpielowa
-Reglowa
-Powojowa
-Rezedowa
-Ku Dębinie
-Eugeniusza Piaseckiego
-Zajęcza
-Stanisława Taczaka
-Józefa Dowbora-Muśnickiego
-Leśników
+Agatowa
+Bursztynowa
+Żywokostowa
+Bazyliowa
+Dziurawcowa
+Gorczycowa
+Diamentowa
+Opalowa
+Rubinowa
+Szmaragdowa
+Topazowa
+Kminkowa
+Majerankowa
+Karsińska
+Sępo1eńska
+Wolnica
+Berdychowo
+Niepołomnicka
+Mgielna
+Szronowa
+Działkowa
+Zamknięta
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[1 grudnia]] [[1988]] r<ref>{{KMP|3/1989|rozdział=Sprawozdania}}</ref>.`;
+const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[31 marca]] [[1988]] r<ref>{{KMP|1/1989|rozdział=Sprawozdania}}</ref>.`;
 const YEAR = `[[1988]]`
 
 const APPEND = `
