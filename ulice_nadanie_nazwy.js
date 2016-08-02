@@ -2,18 +2,13 @@
 'use strict';
 
 const ULICE=`
-Biecka
-Lubomierska
-Pelplińska
-Charzykowska
-Izbicka
-Łebska
-Gronostajowa
-Wiewiórcza
-Na Uboczu
-Rondo Żegrze
-Unii Lubelskiej
-Falista
+Truskawkowa
+Jeżynowa
+Dobrodzieńska
+Międzyborska
+Pogorzelska
+Przepiórcza
+Raszkowska
 `.trim().split("\n").map((i) => i.trim());
 
 const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[26 czerwca]] [[1986]] r.<ref>{{KMP|3/1987|rozdział=Sprawozdania}}</ref>`;
