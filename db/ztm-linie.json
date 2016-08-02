@@ -209,6 +209,16 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/46",
     "typ":"bus"
   },
+  "47":{
+    "agency":"MPK",
+    "petle":[
+      "Boranta/Park Naukowo-Technologiczny",
+      "Chwaliszewo"
+    ],
+    "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/47",
+    "typ":"bus"
+  },
   "48":{
     "agency":"MPK",
     "petle":[
