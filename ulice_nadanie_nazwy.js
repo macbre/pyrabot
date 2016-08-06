@@ -2,14 +2,14 @@
 'use strict';
 
 const ULICE=`
-Stanisława Konarskiego
-Andrzeja Łaskarza
-Piotra Tomickiego
+Jana Keplera
+Galileusza
+Izaaka Newtona
 `.trim().split("\n").map((i) => i.trim());
 
-//const INFO = `Ulica swoją nazwę otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[26 czerwca]] [[1986]] r.<ref>{{KMP|3/1987|rozdział=Sprawozdania}}</ref>`;
-const INFO = `Ulica została wytyczona i otrzymała swojego patrona w roku [[1936]]<ref>{{KMP|3-4/1984|strony=61|rozdział=Sprawozdania}}</ref>.`;
-const YEAR = `[[1936]]`
+const INFO = `Ulica swojego patrona otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[29 czerwca]] [[1976]] r.<ref>{{KMP|4/1976|rozdział=Sprawozdania}}</ref>`;
+//const INFO = `Ulica została wytyczona i otrzymała swojego patrona w roku [[1936]]<ref>{{KMP|3-4/1984|strony=61|rozdział=Sprawozdania}}</ref>.`;
+const YEAR = `[[1976]]`
 
 const APPEND = `
 
