@@ -32,10 +32,10 @@
   "5":{
     "agency":"MPK",
     "petle":[
-      "Marcinkowskiego",
+      "G\u00f3rczyn",
       "Stomil"
     ],
-    "przystanki":17,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -63,9 +63,9 @@
     "agency":"MPK",
     "petle":[
       "D\u0119biec",
-      "Marcinkowskiego"
+      "Pi\u0105tkowska"
     ],
-    "przystanki":13,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -102,10 +102,10 @@
   "13":{
     "agency":"MPK",
     "petle":[
-      "Marcinkowskiego",
+      "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":15,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -142,10 +142,10 @@
   "17":{
     "agency":"MPK",
     "petle":[
-      "Junikowo",
+      "Budziszy\u0144ska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":36,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -155,7 +155,7 @@
       "Franowo",
       "G\u00f3rczyn"
     ],
-    "przystanki":24,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -165,7 +165,7 @@
       "\u017beromskiego",
       "\u017beromskiego"
     ],
-    "przystanki":18,
+    "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
@@ -175,7 +175,7 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":31,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
   },
@@ -784,7 +784,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":25,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -1096,7 +1096,7 @@
       "D\u0119biec",
       "Mosina/D.K."
     ],
-    "przystanki":28,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
