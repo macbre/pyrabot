@@ -5,7 +5,7 @@
       "Pl Wielkopolski",
       "Pl Wielkopolski"
     ],
-    "przystanki":14,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/0",
     "typ":"tram"
   },
@@ -35,7 +35,7 @@
       "G\u00f3rczyn",
       "Stomil"
     ],
-    "przystanki":26,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -47,6 +47,16 @@
     ],
     "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
+    "typ":"tram"
+  },
+  "7":{
+    "agency":"MPK",
+    "petle":[
+      "Budziszy\u0144ska",
+      "Zawady"
+    ],
+    "przystanki":26,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
   "8":{
@@ -65,7 +75,7 @@
       "D\u0119biec",
       "Pi\u0105tkowska"
     ],
-    "przystanki":27,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -75,7 +85,7 @@
       "D\u0119biec",
       "Po\u0142abska"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
@@ -105,7 +115,7 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":29,
+    "przystanki":32,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -155,7 +165,7 @@
       "Franowo",
       "G\u00f3rczyn"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
@@ -165,7 +175,7 @@
       "\u017beromskiego",
       "\u017beromskiego"
     ],
-    "przystanki":11,
+    "przystanki":12,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
@@ -175,18 +185,8 @@
       "D\u0119biec",
       "Zawady"
     ],
-    "przystanki":40,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
-    "typ":"tram"
-  },
-  "29":{
-    "agency":"MPK",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Pi\u0105tkowska"
-    ],
-    "przystanki":28,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/29",
     "typ":"tram"
   },
   "45":{
@@ -255,7 +255,7 @@
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":26,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/51",
     "typ":"bus"
   },
@@ -295,7 +295,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":12,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56",
     "typ":"bus"
   },
@@ -345,7 +345,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":13,
+    "przystanki":11,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/61",
     "typ":"bus"
   },
@@ -445,7 +445,7 @@
       "Osiedle D\u0119bina",
       "Osiedle Wichrowe Wzg\u00f3rze"
     ],
-    "przystanki":29,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/71",
     "typ":"bus"
   },
@@ -693,10 +693,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Franowo",
+      "Po\u0142abska",
       "Po\u0142abska"
     ],
-    "przystanki":27,
+    "przystanki":49,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -707,7 +707,7 @@
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
-    "przystanki":11,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
@@ -784,7 +784,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":23,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -883,7 +883,7 @@
       "Radojewo",
       "Rondo Kaponiera"
     ],
-    "przystanki":26,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/248",
     "typ":"bus"
   },
@@ -1013,10 +1013,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec Szko\u0142a",
+      "Bor\u00f3wiec/D\u0119bowa",
       "Franowo"
     ],
-    "przystanki":40,
+    "przystanki":47,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1036,7 +1036,7 @@
       "D\u0119biec",
       "Lubo\u0144/Lasek"
     ],
-    "przystanki":10,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/602",
     "typ":"bus"
   },
@@ -1296,7 +1296,7 @@
       "Chludowo/Szko\u0142a",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":47,
+    "przystanki":48,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/905",
     "typ":"bus"
   },
