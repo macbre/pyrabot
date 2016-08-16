@@ -101,6 +101,12 @@ client.logIn(function() {
 			replace(/\n\n\n+/g, "\n").
 			trim();
 
+		// dodaj <references />
+		if (content.indexOf('</ref>') > -1 && content.indexOf('<references') === -1) {
+			REASON += ' + sekcja "Źródła"';
+			content += '\n\n== Źródła ==\n<references />';
+		}
+
 		client.log('Generating the diff...'); //console.log(content); return;
 
 		console.log(diff(orig, content)); //return;
