@@ -1640,7 +1640,7 @@
  "Czechos\u0142owacka": {
   "dlugosc": 2666, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "60-116,61-425,61-437,61-456,61-459,61-461,61-464,61-476", 
+  "kody_pocztowe": "60-116,61-425,61-437,61-456,61-459,61-461,61-476", 
   "numeracja": "1-11, 13-19, 21, 23-24, 27, 29-33, 35, 37, 39-44, 46, 51-53, 55, 57, 59-60, 62-67, 69, 71-73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95-99, 101-109, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 175-177, 179, 181, 183, 185, 187, 189"
  }, 
  "Czechowska": {
@@ -1916,7 +1916,7 @@
  "Dobromi\u0142y": {
   "dlugosc": 643, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-055", 
+  "kody_pocztowe": "61-054,61-055", 
   "numeracja": "2-14, 16, 22, 24, 26, 28, 32-34, 36-37, 40, 44, 48, 50, 52, 54, 56, 58"
  }, 
  "Dobrowita": {
@@ -2162,7 +2162,7 @@
  "D\u0105br\u00f3wki": {
   "dlugosc": 107, 
   "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-501,61-503", 
+  "kody_pocztowe": "61-501", 
   "numeracja": "1-4, 13-16"
  }, 
  "D\u0119bicka": {
@@ -2564,7 +2564,7 @@
  "Fryderyka Schillera": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "60-461", 
   "numeracja": "1"
  }, 
  "Fryderyka Skarbka": {
@@ -5888,7 +5888,7 @@
  "Litewska": {
   "dlugosc": 864, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-601,60-605", 
+  "kody_pocztowe": "60-605", 
   "numeracja": "1-22"
  }, 
  "Lodowa": {
@@ -8300,7 +8300,7 @@
  "Pogodna": {
   "dlugosc": 1280, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-131,60-137,60-275", 
+  "kody_pocztowe": "60-131,60-135,60-137,60-142,60-275", 
   "numeracja": "4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 46-57, 60, 64, 66-74, 76, 78, 80, 82, 84, 86, 88, 90"
  }, 
  "Pogorzelska": {
@@ -8625,7 +8625,7 @@
   "dlugosc": 972, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-324", 
-  "numeracja": "4-6, 8, 12, 14-16, 18-20, 23-24, 26-31, 33-38, 40, 42, 44, 47, 49, 51-56"
+  "numeracja": "4-6, 8, 12, 14-16, 18-20, 24, 26, 28, 30, 33-34, 36, 42, 44"
  }, 
  "Przemys\u0142owa": {
   "dlugosc": 1017, 
@@ -9842,8 +9842,8 @@
  "Sokalska": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
-  "numeracja": false
+  "kody_pocztowe": "61-324", 
+  "numeracja": "1, 3-7, 9, 19, 23-26, 28, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53"
  }, 
  "Soko\u0142a": {
   "dlugosc": 704, 
@@ -10910,7 +10910,7 @@
  "Tadeusza Ko\u015bciuszki": {
   "dlugosc": 1739, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-715,61-716,61-717,61-736,61-891,61-892", 
+  "kody_pocztowe": "61-715,61-716,61-717,61-891,61-892", 
   "numeracja": "42, 57, 68, 70-77, 79-80, 82, 84, 86-87, 93, 95, 98-99, 101-110, 112, 114"
  }, 
  "Tadeusza Mikke": {
@@ -10964,7 +10964,7 @@
  "Tarnowska": {
   "dlugosc": 1393, 
   "dzielnica": false, 
-  "kody_pocztowe": "61-321,61-323", 
+  "kody_pocztowe": "61-323", 
   "numeracja": "1-3, 5-7, 10, 12-30, 32-34, 36, 38"
  }, 
  "Tatarakowa": {
@@ -11426,7 +11426,7 @@
  "Waniliowa": {
   "dlugosc": 120, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-680", 
   "numeracja": "8"
  }, 
  "Warecka": {
@@ -11918,7 +11918,7 @@
  "Wojciecha Bogus\u0142awskiego": {
   "dlugosc": 946, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-209,60-214", 
+  "kody_pocztowe": "60-209,60-214,60-234", 
   "numeracja": "2, 4, 6, 10-12, 14, 16, 18-19, 21-22, 24, 26-27, 29-32, 34"
  }, 
  "Wojciecha B\u0105ka": {
@@ -12056,7 +12056,7 @@
  "Wroniecka": {
   "dlugosc": 308, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-763,61-766", 
+  "kody_pocztowe": "61-763", 
   "numeracja": "2, 5-6, 9-11, 13-19, 21-24"
  }, 
  "Wrotyczowa": {
@@ -12128,7 +12128,7 @@
  "Wysoka": {
   "dlugosc": 168, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-810", 
+  "kody_pocztowe": "61-810,61-850", 
   "numeracja": "4-5, 11-12"
  }, 
  "Wyszeborska": {
@@ -12932,7 +12932,7 @@
  "\u0141agowska": {
   "dlugosc": 1076, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-452,60-456", 
+  "kody_pocztowe": "60-456", 
   "numeracja": "3, 5-14, 16, 18, 20-23, 25, 30, 32, 34, 36-37, 40-61, 63"
  }, 
  "\u0141anowa": {
