@@ -49,16 +49,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
-  "7":{
-    "agency":"MPK",
-    "petle":[
-      "Budziszy\u0144ska",
-      "Zawady"
-    ],
-    "przystanki":26,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
-    "typ":"tram"
-  },
   "8":{
     "agency":"MPK",
     "petle":[
@@ -295,7 +285,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":15,
+    "przystanki":12,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56",
     "typ":"bus"
   },
@@ -345,7 +335,7 @@
       "Krzy\u017cowniki",
       "Ogrody"
     ],
-    "przystanki":11,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/61",
     "typ":"bus"
   },
@@ -1013,10 +1003,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec/D\u0119bowa",
+      "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1036,7 +1026,7 @@
       "D\u0119biec",
       "Lubo\u0144/Lasek"
     ],
-    "przystanki":9,
+    "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/602",
     "typ":"bus"
   },
