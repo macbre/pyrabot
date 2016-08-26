@@ -19,6 +19,16 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
+  "2":{
+    "agency":"MPK",
+    "petle":[
+      "D\u0119biec",
+      "Ogrody"
+    ],
+    "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
+    "typ":"tram"
+  },
   "4":{
     "agency":"MPK",
     "petle":[
@@ -47,6 +57,16 @@
     ],
     "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
+    "typ":"tram"
+  },
+  "7":{
+    "agency":"MPK",
+    "petle":[
+      "Budziszy\u0144ska",
+      "Zawady"
+    ],
+    "przystanki":26,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
   "8":{
@@ -142,10 +162,10 @@
   "17":{
     "agency":"MPK",
     "petle":[
-      "Budziszy\u0144ska",
+      "Ogrody",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":34,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -153,30 +173,26 @@
     "agency":"MPK",
     "petle":[
       "Franowo",
-      "G\u00f3rczyn"
+      "Ogrody"
     ],
-    "przystanki":24,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
   "22":{
-    "agency":"MPK",
     "petle":[
       "\u017beromskiego",
       "\u017beromskiego"
     ],
     "przystanki":12,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/22",
     "typ":"tram"
   },
   "27":{
-    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "Zawady"
     ],
     "przystanki":34,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/27",
     "typ":"tram"
   },
   "45":{
@@ -535,7 +551,7 @@
       "G\u00f3rczyn",
       "Osiedle Wichrowe Wzg\u00f3rze"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/82",
     "typ":"bus"
   },
@@ -605,7 +621,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Kopernika"
     ],
-    "przystanki":29,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91",
     "typ":"bus"
   },
@@ -677,6 +693,16 @@
     ],
     "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/100",
+    "typ":"bus"
+  },
+  "101":{
+    "agency":"MPK",
+    "petle":[
+      "Nowe Zoo",
+      "Nowe Zoo"
+    ],
+    "przystanki":21,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/101",
     "typ":"bus"
   },
   "201":{
@@ -785,7 +811,7 @@
       "Rondo Kaponiera",
       "Wichrowa"
     ],
-    "przystanki":16,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
     "typ":"bus"
   },
