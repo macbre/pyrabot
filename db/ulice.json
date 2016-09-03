@@ -807,7 +807,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "61-680", 
-  "numeracja": "10, 12"
+  "numeracja": "7, 10, 12"
  }, 
  "Bogusza": {
   "dlugosc": 185, 
@@ -849,7 +849,7 @@
   "dlugosc": 1430, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "3, 5, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29-31, 33, 35, 37, 39, 41, 43, 45, 51, 53, 55, 59, 61"
+  "numeracja": "3, 5, 11, 13, 15-17, 19, 21, 23, 25, 27, 29-31, 33, 35, 37, 39, 41, 43, 45, 51, 53, 55, 59, 61"
  }, 
  "Boles\u0142awa Czerwi\u0144skiego": {
   "dlugosc": 74, 
@@ -2157,7 +2157,7 @@
   "dlugosc": 1547, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "1, 3-20, 30, 46"
+  "numeracja": "1, 3-20, 30"
  }, 
  "D\u0105br\u00f3wki": {
   "dlugosc": 107, 
@@ -5151,7 +5151,7 @@
   "dlugosc": 7163, 
   "dzielnica": false, 
   "kody_pocztowe": "60-480", 
-  "numeracja": "3, 15, 20, 22, 26, 40, 42, 44-62, 64-65, 67-68, 71"
+  "numeracja": "3, 15, 20, 22, 26, 40, 42, 44-59, 61-62, 64-65, 67-68, 71"
  }, 
  "Kotlarska": {
   "dlugosc": 135, 
@@ -5859,7 +5859,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": "8, 10, 12"
+  "numeracja": "8, 10, 12, 14"
  }, 
  "Lisa Witalisa": {
   "dlugosc": 248, 
@@ -6023,11 +6023,17 @@
   "kody_pocztowe": "61-057", 
   "numeracja": "9, 11, 13, 19, 21, 25"
  }, 
+ "Ludwika Braille`a": {
+  "dlugosc": 103, 
+  "dzielnica": "Stare Miasto", 
+  "kody_pocztowe": null, 
+  "numeracja": "1-2, 4-5"
+ }, 
  "Ludwika Braillea": {
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": null, 
-  "numeracja": "1-2, 4-5"
+  "numeracja": false
  }, 
  "Ludwika Idzikowskiego": {
   "dlugosc": 235, 
@@ -7889,11 +7895,17 @@
   "kody_pocztowe": "60-454", 
   "numeracja": "3-14, 16-18, 20, 24, 26, 28, 30, 34, 36"
  }, 
+ "Patrice`a Lumumby": {
+  "dlugosc": 70, 
+  "dzielnica": "Wilda", 
+  "kody_pocztowe": null, 
+  "numeracja": "1-16"
+ }, 
  "Patricea Lumumby": {
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": null, 
-  "numeracja": "1-16"
+  "numeracja": false
  }, 
  "Pawia": {
   "dlugosc": 1003, 
@@ -8631,7 +8643,7 @@
   "dlugosc": 1017, 
   "dzielnica": false, 
   "kody_pocztowe": "61-541,61-579", 
-  "numeracja": "2, 11, 13, 15, 19, 21-23, 25, 27-35, 37, 39, 41, 45-51, 53, 55, 57, 62, 64, 66, 68, 70"
+  "numeracja": "2, 11, 13, 15, 19, 21-23, 25, 27-35, 37, 39, 41, 45-51, 53, 55, 62, 64, 66, 68, 70"
  }, 
  "Przepadek": {
   "dlugosc": 453, 
@@ -10617,7 +10629,7 @@
   "dlugosc": 4933, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-306,61-311,61-313", 
-  "numeracja": "4, 6, 8, 11, 13, 15, 17, 19-26, 28, 30, 32-86, 88-116, 118, 120-144, 146-163, 165, 167-169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 201, 203, 209"
+  "numeracja": "4, 6, 8, 11, 13, 15, 17, 19-26, 28, 30, 32-86, 88-116, 118, 120-144, 146-165, 167-169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 201, 203, 209"
  }, 
  "Szczytnicka": {
   "dlugosc": 345, 
@@ -10827,7 +10839,7 @@
   "dlugosc": 824, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "2, 4, 6-8, 14-17, 19, 21, 23, 25, 27, 29-30, 32-37, 39-43"
+  "numeracja": "2, 4-8, 14-17, 19, 21, 23, 25, 27, 29-30, 32-37, 39-43"
  }, 
  "S\u0142omiana": {
   "dlugosc": 227, 
@@ -11096,8 +11108,8 @@
  "Towarowa": {
   "dlugosc": 145, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-896", 
-  "numeracja": "35, 37, 41, 43, 45, 47, 53, 55"
+  "kody_pocztowe": "61-588,61-896", 
+  "numeracja": "35, 37, 39, 41, 43, 45, 47, 53, 55"
  }, 
  "Trebli\u0144ska": {
   "dlugosc": 132, 
@@ -11511,7 +11523,7 @@
   "dlugosc": 199, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-101", 
-  "numeracja": "2, 4, 6, 8, 10"
+  "numeracja": "2, 4, 6-8, 10"
  }, 
  "Wened\u00f3w": {
   "dlugosc": 128, 
