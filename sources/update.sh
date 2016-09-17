@@ -37,7 +37,7 @@ curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
 
 # rejestr zabytków
 # @see http://poznan.wuoz.gov.pl/rejestr-zabytkow
-curl -s "http://poznan.wuoz.gov.pl/system/files/zalaczniki/wykaz.xls" > tmp.xls && xls2csv tmp.xls > zabytki.csv
+curl -s "http://poznan.wuoz.gov.pl/sites/default/files/obrazki/wykaz.xls" > tmp.xls && xls2csv tmp.xls > zabytki.csv
 
 #
 unlink tmp*
