@@ -15,7 +15,7 @@
       "D\u0119biec",
       "Ogrody"
     ],
-    "przystanki":21,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -33,9 +33,9 @@
     "agency":"MPK",
     "petle":[
       "Po\u0142abska",
-      "Staro\u0142\u0119ka"
+      "Zawady"
     ],
-    "przystanki":29,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
@@ -43,9 +43,9 @@
     "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
-      "Stomil"
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":28,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -65,7 +65,7 @@
       "Ogrody",
       "Zawady"
     ],
-    "przystanki":21,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -85,7 +85,7 @@
       "D\u0119biec",
       "Pi\u0105tkowska"
     ],
-    "przystanki":27,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -123,9 +123,9 @@
     "agency":"MPK",
     "petle":[
       "Junikowo",
-      "Staro\u0142\u0119ka"
+      "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -197,6 +197,14 @@
     ],
     "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
+    "typ":"tram"
+  },
+  "24":{
+    "petle":[
+      "Rondo Rataje",
+      "Rondo Staro\u0142\u0119ka"
+    ],
+    "przystanki":5,
     "typ":"tram"
   },
   "44":{
@@ -505,7 +513,7 @@
       "Junikowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/77",
     "typ":"bus"
   },
@@ -565,17 +573,17 @@
       "Rondo \u015ar\u00f3dka",
       "Szarych Szereg\u00f3w"
     ],
-    "przystanki":27,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/83",
     "typ":"bus"
   },
   "84":{
     "agency":"MPK",
     "petle":[
-      "Nowe Zoo",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Termy Malta\u0144skie"
     ],
-    "przystanki":32,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
   },
@@ -602,8 +610,8 @@
   "87":{
     "agency":"MPK",
     "petle":[
-      "Osiedle R\u00f3\u017cany Potok",
-      "Pi\u0105tkowska"
+      "Pi\u0105tkowska",
+      "Uam Os. R\u00f3\u017cany Potok"
     ],
     "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/87",
@@ -693,9 +701,9 @@
     "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
-      "Osiedle R\u00f3\u017cany Potok"
+      "Uam Os. R\u00f3\u017cany Potok"
     ],
-    "przystanki":11,
+    "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
@@ -706,7 +714,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":44,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -761,7 +769,7 @@
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":22,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/235",
     "typ":"bus"
   },
@@ -1006,7 +1014,7 @@
       "Osiedle Jana III Sobieskiego",
       "Przeb\u0119dowo/P\u0119tla"
     ],
-    "przystanki":39,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
     "typ":"bus"
   },
@@ -1233,10 +1241,10 @@
   "830":{
     "agency":"ROKBUS",
     "petle":[
-      "Kiekrz Ko\u015bci\u00f3\u0142",
-      "Kobylniki/Lipowa"
+      "Kobylniki/Lipowa",
+      "Paw\u0142owice/P\u0119tla"
     ],
-    "przystanki":6,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/830",
     "typ":"bus"
   },
