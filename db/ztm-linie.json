@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":31,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -15,7 +15,7 @@
       "D\u0119biec",
       "Ogrody"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -33,9 +33,9 @@
     "agency":"MPK",
     "petle":[
       "Po\u0142abska",
-      "Zawady"
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":17,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
@@ -43,9 +43,9 @@
     "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
-      "Staro\u0142\u0119ka"
+      "Stomil"
     ],
-    "przystanki":29,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -65,7 +65,7 @@
       "Ogrody",
       "Zawady"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -85,7 +85,7 @@
       "D\u0119biec",
       "Pi\u0105tkowska"
     ],
-    "przystanki":28,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -95,7 +95,7 @@
       "D\u0119biec",
       "Po\u0142abska"
     ],
-    "przystanki":23,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
@@ -123,9 +123,9 @@
     "agency":"MPK",
     "petle":[
       "Junikowo",
-      "Junikowo"
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":46,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -162,10 +162,10 @@
   "17":{
     "agency":"MPK",
     "petle":[
-      "Ogrody",
-      "Staro\u0142\u0119ka"
+      "Franowo",
+      "Ogrody"
     ],
-    "przystanki":27,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -179,6 +179,16 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
+  "19":{
+    "agency":"MPK",
+    "petle":[
+      "Dworzec Zachodni",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
+    "typ":"tram"
+  },
   "20":{
     "agency":"MPK",
     "petle":[
@@ -187,16 +197,6 @@
     ],
     "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
-    "typ":"tram"
-  },
-  "24":{
-    "agency":"MPK",
-    "petle":[
-      "Rondo Rataje",
-      "Rondo Staro\u0142\u0119ka"
-    ],
-    "przystanki":5,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/24",
     "typ":"tram"
   },
   "44":{
@@ -242,10 +242,10 @@
   "48":{
     "agency":"MPK",
     "petle":[
-      "Ba\u0142tyk",
+      "Rondo Kaponiera",
       "\u0141awica"
     ],
-    "przystanki":17,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/48",
     "typ":"bus"
   },
@@ -275,7 +275,7 @@
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":28,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/51",
     "typ":"bus"
   },
@@ -505,7 +505,7 @@
       "Junikowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/77",
     "typ":"bus"
   },
@@ -703,22 +703,11 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Stomil"
-    ],
-    "przystanki":26,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"tram"
-  },
-  "202":{
-    "agency":"MPK",
-    "night":true,
-    "petle":[
-      "Osiedle Jana III Sobieskiego",
+      "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":20,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/202",
+    "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
@@ -805,7 +794,7 @@
       "Franowo",
       "Rondo Kaponiera"
     ],
-    "przystanki":25,
+    "przystanki":26,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
@@ -1017,7 +1006,7 @@
       "Osiedle Jana III Sobieskiego",
       "Przeb\u0119dowo/P\u0119tla"
     ],
-    "przystanki":36,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
     "typ":"bus"
   },
