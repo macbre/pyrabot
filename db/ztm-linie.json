@@ -15,7 +15,7 @@
       "D\u0119biec",
       "Ogrody"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -85,7 +85,7 @@
       "D\u0119biec",
       "Pi\u0105tkowska"
     ],
-    "przystanki":28,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -199,14 +199,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
-  "24":{
-    "petle":[
-      "Rondo Rataje",
-      "Rondo Staro\u0142\u0119ka"
-    ],
-    "przystanki":5,
-    "typ":"tram"
-  },
   "44":{
     "agency":"MPK",
     "petle":[
@@ -250,10 +242,10 @@
   "48":{
     "agency":"MPK",
     "petle":[
-      "Rondo Kaponiera",
+      "Ba\u0142tyk",
       "\u0141awica"
     ],
-    "przystanki":18,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/48",
     "typ":"bus"
   },
@@ -313,7 +305,7 @@
       "Rondo Rataje",
       "Zalasewo/Planetarna Gimnazjum"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/55",
     "typ":"bus"
   },
@@ -857,7 +849,7 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":43,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/244",
     "typ":"bus"
   },
@@ -1154,7 +1146,7 @@
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
-    "przystanki":41,
+    "przystanki":39,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
