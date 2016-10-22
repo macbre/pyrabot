@@ -115,7 +115,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -135,7 +135,7 @@
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":14,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
@@ -185,7 +185,7 @@
       "Dworzec Zachodni",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":8,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
     "typ":"tram"
   },
@@ -332,10 +332,10 @@
   "58":{
     "agency":"MPK",
     "petle":[
-      "Piotrowo",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka",
+      "Sypniewo"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/58",
     "typ":"bus"
   },
@@ -879,10 +879,10 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Piotrowo",
-      "Rondo Rataje"
+      "Rondo Rataje",
+      "Sypniewo"
     ],
-    "przystanki":29,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/247",
     "typ":"bus"
   },
