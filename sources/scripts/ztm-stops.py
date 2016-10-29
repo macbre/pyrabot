@@ -39,7 +39,7 @@ for part in parts:
 # 5 - ID (?)
 # 6 - ID (?)
 # 7 - ID wpisu w indeksie 0 (nazwa przystanku)
-geo = ReverseGeo(base_url="http://open.mapquestapi.com/nominatim/v1/reverse.php")
+geo = ReverseGeo()
 
 for idx, stop in enumerate(raw[2]):
     if stop == '':
