@@ -498,6 +498,13 @@
       "night": false
     },
     {
+      "name": "173",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "201",
       "type": "0",
       "operator": "ZTM_MPK",
@@ -698,27 +705,6 @@
       "type": "3",
       "operator": "ZTM_MPK",
       "agencyName": "ZTM_MPK",
-      "night": false
-    },
-    {
-      "name": "396",
-      "type": "3",
-      "operator": "TRANSKOM",
-      "agencyName": "TRANSKOM",
-      "night": false
-    },
-    {
-      "name": "397",
-      "type": "3",
-      "operator": "TRANSKOM",
-      "agencyName": "TRANSKOM",
-      "night": false
-    },
-    {
-      "name": "398",
-      "type": "3",
-      "operator": "TRANSKOM",
-      "agencyName": "TRANSKOM",
       "night": false
     },
     {
