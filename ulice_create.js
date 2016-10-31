@@ -39,6 +39,7 @@ client.logIn((err, data) => {
 			client.log(place);
 
 			place.address.postcode = place.address.postcode || '';
+			place.address.suburb = place.address.suburb || '';
 
 			/**
 			{ place_id: '196302900',
@@ -66,7 +67,7 @@ client.logIn((err, data) => {
 
 			var content = `{{Ulica infobox
 |nazwa_ulicy=${ULICA}
-|mapa_ulica=<place lat="${place.lat}" lon="${place.lon}" width="300" zoom=16 />
+|mapa_ulica=<place lat="${place.lat}" lon="${place.lon}" width="300" zoom=14 />
 |patron=
 |patron_wikipedia=
 |długość=
