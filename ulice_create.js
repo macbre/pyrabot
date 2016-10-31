@@ -77,9 +77,15 @@ client.logIn((err, data) => {
 |przystanki_tramwajowe=
 |osm_place_id=${place.place_id}
 }}
-{{Szkic}}
+'''${ULICA}'''
 
-'''${ULICA}'''`;
+== Historia ==
+{{Rozwiń Sekcję}}
+
+{{Przy ulicy}}
+
+== Źródła ==
+<references />`;
 
 			client.log(content);
 
