@@ -38,6 +38,8 @@ client.logIn((err, data) => {
 			var place = data[0];
 			client.log(place);
 
+			place.address.postcode = place.address.postcode || '';
+
 			/**
 			{ place_id: '196302900',
 			  licence: 'Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright',
@@ -75,7 +77,6 @@ client.logIn((err, data) => {
 |kody=${place.address.postcode}
 |przystanki_autobusowe=
 |przystanki_tramwajowe=
-|osm_place_id=${place.place_id}
 }}
 '''${ULICA}'''
 
