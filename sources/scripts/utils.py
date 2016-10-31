@@ -24,6 +24,8 @@ class NominatimApi(object):
         self._logger.debug("<%s> %s", self._base_url, params)
 
         r = self._session.get(self._base_url, headers=self._headers, params=params)
+        r.raise_for_status()
+
         return r.json()
 
 
