@@ -11,7 +11,8 @@ var bot = require('nodemw'),
 		debug: true
 	}),
 	OSOBA = process.argv[2] || '',
-	DEST = process.argv[3] || OSOBA;
+	DEST = process.argv[3] || OSOBA,
+	SUMMARY = 'Import zalążka artykułu z Wikipedii';
 
 if (OSOBA === '') {
 	console.log('Podaj tytuł biogramu');
@@ -28,18 +29,18 @@ function formatDate(day) {
 
 client.logIn(function(err) {
 	// pobierz biogram
-	wikipedia.getArticle(OSOBA, function(err, content) {
+	wikipedia.getArticle(OSOBA, (err, content) => {
 
 		if (typeof content === 'undefined') {
 			throw 'Brak artykułu';
 		}
 
-		wikipedia.parse(content, undefined, function(err, parsed) {
+		wikipedia.parse(content, undefined, (err, parsed) => {
 			if (err) throw err;
 
 			//console.log(parsed);
 
-			var image = parsed.match(/\d+px-([^"]+)"/),
+			var image = parsed.match(/\d+px-([^"]+.jpg)"/),
 				firstPara = parsed.match(/<p>(<b>[^\n]+)<\/p>/),
 				born, died;
 
@@ -90,33 +91,23 @@ ${firstPara}
 `.trim();
 
 			console.log(wikitext);
+
+			client.getArticle(DEST, (err, content) => {
+				// strona istnieje
+				if (typeof content !== 'undefined') {
+					throw 'Artykuł juz istnieje';
+				}
+
+
+				// edytuj
+				client.edit(DEST, wikitext, SUMMARY, (err) => {
+					if (err) {
+						throw err;
+					}
+					console.log(DEST + ' - artykuł utworzony');
+				});
+			});
+
 		});
-
-		/**
-		var url = res.url,
-			params;
-
-		params = {
-			comment: 'Import zdjęcia z Wikimedia Commons',
-			text: '{{Wikimedia|' + src + '}}'
-		};
-
-		console.log('Import pliku <' + IMAGE + '> z Wikimedia Commons jako <' + DEST + '>...');
-
-		// dodaj zdjęcia
-		client.uploadByUrl(DEST, url, params, function(err, res) {
-			if (err) {
-				console.error(err);
-				return;
-			}
-
-			var info = res.imageinfo;
-
-			client.log('File page: <%s>', info.descriptionurl);
-			client.log('URL:       <%s>', info.url);
-
-			console.log('Upload ' + DEST + ' zakończony');
-		});
-		**/
 	});
 });
