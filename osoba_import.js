@@ -40,11 +40,12 @@ client.logIn(function(err) {
 
 			//console.log(parsed);
 
-			var image = parsed.match(/\d+px-([^"]+.jpg)"/),
+			var image = parsed.match(/\d+px-([^"]+.jpg)"/i),
 				firstPara = parsed.match(/<p>(<b>[^\n]+)<\/p>/),
 				born, died;
 
-			if (!image || !firstPara) throw 'No matches';
+			if (!image) throw 'No image match';
+			if (!firstPara) throw 'No paragraph match';
 
 			image = decodeURIComponent(image[1]);
 			firstPara = firstPara[0];
