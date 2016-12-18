@@ -7,7 +7,7 @@
     "flickr-client": "0.0.4",
     "flickr-photo-info": "0.0.1",
     "jsdom": "^9.2.1",
-    "nodemw": "^0.10.1",
+    "nodemw": "macbre/nodemw#devel",
     "nominatim-client": "^1.0.1"
   },
   "devDependencies": {
