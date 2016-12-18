@@ -50,6 +50,8 @@ client.logIn(function() {
 				text: ('{{Cyryl|' + SIGN + '}}\n\nAutor: [[' + author + ']]\n\n' + desc + "\n\n[[Kategoria:" + date + "]][[Kategoria:" + author + "]]").trim()
 			};
 
+			client.log(params.text);
+
 			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4_ar16x9.jpg
 			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4.jpg
 			imageUrl = imageUrl.replace(/_ar\d+x\d+\.jpg/, '.jpg');
