@@ -2,14 +2,17 @@
 'use strict';
 
 const ULICE=`
-Jana Keplera
-Galileusza
-Izaaka Newtona
+Franciszka Włada
+Władysława Bortnowskiego
+Edmunda Knolla-Kownackiego
+Romana Abrahama
+Franciszka Altera
+Stanisława Grzmota-Skotnickiego
 `.trim().split("\n").map((i) => i.trim());
 
-const INFO = `Ulica swojego patrona otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[29 czerwca]] [[1976]] r.<ref>{{KMP|4/1976|rozdział=Sprawozdania}}</ref>`;
+const INFO = `Ulica swojego patrona otrzymała decyzją [[Miejska Rada Narodowa|Miejskiej Rady Narodowej]] na sesji [[29 września]] [[1989]] r.<ref>{{KMP|2/1990|rozdział=IX Sesja Miejskiej Rady Narodowej}}</ref>`;
 //const INFO = `Ulica została wytyczona i otrzymała swojego patrona w roku [[1936]]<ref>{{KMP|3-4/1984|strony=61|rozdział=Sprawozdania}}</ref>.`;
-const YEAR = `[[1976]]`
+const YEAR = `[[1989]]`
 
 const APPEND = `
 
