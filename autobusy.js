@@ -9,15 +9,13 @@ var fs = require('fs'),
 var SUMMARY = 'Automatyczne tworzenie stron o liniach autobusowych';
 
 var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
-	year = 2015,
+	year = 2017,
 	text = '';
 
-// Czerwonak
-/**
-text = 'linia uruchomiona [[1 stycznia]] [[2015]] roku wraz z integracją komunikacji miejskiej na terenie gminy [[Czerwonak]] i części gminy [[Murowana Goślina]]' +
-'<ref>[http://www.ztm.poznan.pl/czerwonak-m-go-l/wykaz-linii-oraz-mapy/ ztm.poznan.pl - nowa organizacja linii oraz opłat za korzystanie z komunikacji miejskiej na terenie gminy Czerwonak i części gminy Murowana Goślina]</ref>.\n\n' +
+// Tarnowo Podgórne
+text = 'linia uruchomiona [[1 stycznia]] [[2017]] roku wraz z integracją komunikacji miejskiej na terenie gminy [[Tarnowo Podgórne]]' +
+'<ref>[http://www.ztm.poznan.pl/aktualnosci/wszystkie/od-1-stycznia-2017-roku-integracja-transportu-publicznego-miasta-poznania-i-gminy-tarnowo-podgorne-wszystko-co-warto-wiedziec/ ztm.poznan.pl - Od 1 stycznia 2017 roku – integracja transportu publicznego Miasta Poznania i Gminy Tarnowo Podgórne]</ref>.\n\n' +
 '== Źródła ==\n<references />';
-/**/
 
 client.logIn(function(err, data) {
 
