@@ -127,6 +127,13 @@
       "night": false
     },
     {
+      "name": "19",
+      "type": "0",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
       "name": "20",
       "type": "0",
       "operator": "ZTM_MPK",
@@ -491,6 +498,13 @@
       "night": true
     },
     {
+      "name": "231",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": true
+    },
+    {
       "name": "232",
       "type": "3",
       "operator": "ZTM_MPK",
@@ -680,6 +694,27 @@
       "night": false
     },
     {
+      "name": "396",
+      "type": "3",
+      "operator": "TRANSKOM",
+      "agencyName": "TRANSKOM",
+      "night": false
+    },
+    {
+      "name": "397",
+      "type": "3",
+      "operator": "TRANSKOM",
+      "agencyName": "TRANSKOM",
+      "night": false
+    },
+    {
+      "name": "398",
+      "type": "3",
+      "operator": "TRANSKOM",
+      "agencyName": "TRANSKOM",
+      "night": false
+    },
+    {
       "name": "511",
       "type": "3",
       "operator": "ZTM_KOMBUS",
@@ -813,6 +848,62 @@
       "night": false
     },
     {
+      "name": "801",
+      "type": "3",
+      "operator": "ZTM_MPK",
+      "agencyName": "ZTM_MPK",
+      "night": false
+    },
+    {
+      "name": "802",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
+      "name": "803",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
+      "name": "804",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
+      "name": "811",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
+      "name": "812",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
+      "name": "813",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
+      "name": "821",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
+      "night": false
+    },
+    {
       "name": "830",
       "type": "3",
       "operator": "ZTM_ROKBUS",
@@ -838,6 +929,13 @@
       "type": "3",
       "operator": "ZTM_ROKBUS",
       "agencyName": "ZTM_ROKBUS",
+      "night": false
+    },
+    {
+      "name": "882",
+      "type": "3",
+      "operator": "ZTM_TPBUS",
+      "agencyName": "ZTM_TPBUS",
       "night": false
     },
     {
