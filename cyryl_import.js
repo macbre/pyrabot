@@ -31,7 +31,8 @@ client.logIn(function() {
 		function (errors, window) {
 			var $ = window.$,
 				imageUrl = 'http://www.cyryl.poznan.pl/' + $('.obraz > a').attr('href'),
-				author = $('.autor_obiektu > a').text(),
+				author = $('.autor_obiektu > a').text() || $('.wlasciciel_obiektu > a').text(),
+				place = $('.miejsce_obiektu > a').text().split(',')[1].trim(),
 				desc = $('.tytul_obiektu > a').text(),
 				date = $('.data_obiektu').text().split('.').pop().trim();
 
@@ -39,15 +40,19 @@ client.logIn(function() {
 			var matches = date.match(/\d{4}/);
 			if (matches) date = matches[0];
 
+			// miejsce
+			place = place.replace('ul. ', 'Ulica ');
+
 			client.log('Obrazek: ' + imageUrl);
-			client.log('Autor: ' + author);
-			client.log('Opis:  ' + desc);
-			client.log('Data:  ' + date);
+			client.log('Autor:   ' + author);
+			client.log('Miejsce: ' + place);
+			client.log('Opis:    ' + desc);
+			client.log('Data:    ' + date);
 
 			// upload
 			var params = {
 				comment: 'Import z Cyryla',
-				text: ('{{Cyryl|' + SIGN + '}}\n\nAutor: [[' + author + ']]\n\n' + desc + "\n\n[[Kategoria:" + date + "]][[Kategoria:" + author + "]]").trim()
+				text: ('{{Cyryl|' + SIGN + '}}\n\nAutor: [[' + author + ']]\n\n' + desc + "\n\n[[Kategoria:" + date + "]][[Kategoria:" + author + "]][[Kategoria:" + place + "]]").trim()
 			};
 
 			client.log(params.text);
