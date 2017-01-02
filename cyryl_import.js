@@ -65,7 +65,9 @@ client.logIn(function() {
 			client.log(JSON.stringify(params));
 
 			// dodaj zdjęcie
-			client.uploadByUrl(DEST, imageUrl, params, function(res) {
+			client.uploadByUrl(DEST, imageUrl, params, function(err, res) {
+				if (err) throw err;
+
 				console.log('Import zakończony');
 			});
 		}
