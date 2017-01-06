@@ -32,7 +32,7 @@ client.logIn(function() {
 			var $ = window.$,
 				imageUrl = 'http://www.cyryl.poznan.pl/' + $('.obraz > a').attr('href'),
 				author = $('.autor_obiektu > a').text() || $('.wlasciciel_obiektu > a').text(),
-				place = $('.miejsce_obiektu > a').text().split(',')[1].trim(),
+				place = ($('.miejsce_obiektu > a').text() + ',').split(',')[1].trim(),
 				desc = $('.tytul_obiektu > a').text(),
 				date = $('.data_obiektu').text().split('.').pop().trim();
 
