@@ -90,6 +90,108 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.975479,
+     52.386172
+    ]
+   },
+   "type":"Feature",
+   "id":"OCZ41",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Os.Lecha",
+    "id":"OCZ41",
+    "name":"Os. Czecha"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.969101,
+     52.383283
+    ]
+   },
+   "type":"Feature",
+   "id":"ZIII41",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"\u017begrze",
+    "id":"ZIII41",
+    "name":"\u017begrze III"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.965921,
+     52.380702
+    ]
+   },
+   "type":"Feature",
+   "id":"Z II41",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"\u017begrze",
+    "id":"Z II41",
+    "name":"\u017begrze II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.96112,
+     52.37898
+    ]
+   },
+   "type":"Feature",
+   "id":"Z I41",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Os. Stare \u017begrze",
+    "id":"Z I41",
+    "name":"\u017begrze I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.954686,
+     52.376614
+    ]
+   },
+   "type":"Feature",
+   "id":"RZEG41",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rondo \u017begrze",
+    "id":"RZEG41",
+    "name":"Rondo \u017begrze"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.944033,
+     52.37996
+    ]
+   },
+   "type":"Feature",
+   "id":"RSTA47",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rondo Staro\u0142\u0119ka",
+    "id":"RSTA47",
+    "name":"Rondo Staro\u0142\u0119ka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.9421,
      52.380541
     ]
@@ -498,23 +600,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.83566,
-     52.38383
-    ]
-   },
-   "type":"Feature",
-   "id":"JUCM41",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
-    "id":"JUCM41",
-    "name":"Junikowo/Cmentarz"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.83383,
      52.38366
     ]
@@ -523,7 +608,7 @@
    "id":"JUNI41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Junikowo",
+    "place":"Peron 3",
     "id":"JUNI41",
     "name":"Junikowo"
    }
@@ -917,6 +1002,108 @@
     "place":"Hetma\u0144ska",
     "id":"RSTA44",
     "name":"Rondo Staro\u0142\u0119ka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.944339,
+     52.379758
+    ]
+   },
+   "type":"Feature",
+   "id":"RSTA48",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rondo Staro\u0142\u0119ka",
+    "id":"RSTA48",
+    "name":"Rondo Staro\u0142\u0119ka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.954442,
+     52.376548
+    ]
+   },
+   "type":"Feature",
+   "id":"RZEG42",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Rondo \u017begrze",
+    "id":"RZEG42",
+    "name":"Rondo \u017begrze"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.96146,
+     52.378926
+    ]
+   },
+   "type":"Feature",
+   "id":"Z I42",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"\u017begrze",
+    "id":"Z I42",
+    "name":"\u017begrze I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.966194,
+     52.380715
+    ]
+   },
+   "type":"Feature",
+   "id":"Z II42",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"\u017begrze",
+    "id":"Z II42",
+    "name":"\u017begrze II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.969313,
+     52.383306
+    ]
+   },
+   "type":"Feature",
+   "id":"ZIII42",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"\u017begrze",
+    "id":"ZIII42",
+    "name":"\u017begrze III"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.975649,
+     52.386112
+    ]
+   },
+   "type":"Feature",
+   "id":"OCZ42",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Os.Lecha",
+    "id":"OCZ42",
+    "name":"Os. Czecha"
    }
   },
   {
@@ -1798,7 +1985,7 @@
    "id":"OPIA42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Osiedle Piastowskie",
+    "place":"Os. Piastowskie",
     "id":"OPIA42",
     "name":"Os. Piastowskie"
    }
@@ -2495,7 +2682,7 @@
    "id":"OPIA41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Osiedle Piastowskie",
+    "place":"Os. Piastowskie",
     "id":"OPIA41",
     "name":"Os. Piastowskie"
    }
@@ -2648,7 +2835,7 @@
    "id":"OSTY42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Os. Tysi\u0105clecia",
+    "place":"Pia\u015bnicka",
     "id":"OSTY42",
     "name":"Os. Tysi\u0105clecia"
    }
@@ -2971,7 +3158,7 @@
    "id":"OSTY41",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Os. Tysi\u0105clecia",
+    "place":"Pia\u015bnicka",
     "id":"OSTY41",
     "name":"Os. Tysi\u0105clecia"
    }
@@ -4178,7 +4365,7 @@
    "id":"JUNI42",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Peron 5",
     "id":"JUNI42",
     "name":"Junikowo"
    }
@@ -4263,7 +4450,7 @@
    "id":"PAWI02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Ryszarda Berwi\u0144skiego",
+    "place":"Park Wilsona",
     "id":"PAWI02",
     "name":"Park Wilsona"
    }
@@ -6694,7 +6881,7 @@
    "id":"SCIE03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Edmunda Taczanowskiego",
+    "place":"\u015aciegiennego",
     "id":"SCIE03",
     "name":"\u015aciegiennego"
    }
@@ -7374,7 +7561,7 @@
    "id":"GABA02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Garbary Dworzec",
+    "place":"Garbary",
     "id":"GABA02",
     "name":"Garbary"
    }
@@ -7493,7 +7680,7 @@
    "id":"POGL01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Dworcowa",
+    "place":"Pozna\u0144 G\u0142\u00f3wny",
     "id":"POGL01",
     "name":"Pozna\u0144 G\u0142\u00f3wny"
    }
@@ -8666,7 +8853,7 @@
    "id":"INFL01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"os. Stare \u017begrze",
+    "place":"Os. Stare \u017begrze",
     "id":"INFL01",
     "name":"Inflancka"
    }
@@ -10332,7 +10519,7 @@
    "id":"GABA04",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Garbary Dworzec",
+    "place":"Garbary",
     "id":"GABA04",
     "name":"Garbary"
    }
@@ -10825,7 +11012,7 @@
    "id":"GABA03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Aleja Armii  Pozna\u0144",
+    "place":"Garbary",
     "id":"GABA03",
     "name":"Garbary"
    }
@@ -14105,8 +14292,8 @@
    "type":"Feature",
    "id":"GDII01",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Gdy\u0144ska",
     "id":"GDII01",
     "name":"Gdy\u0144ska II"
    }
@@ -14115,15 +14302,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.981697,
-     52.438319
+     16.982016,
+     52.43937
     ]
    },
    "type":"Feature",
    "id":"GDKA01",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Gdy\u0144ska",
     "id":"GDKA01",
     "name":"Gdy\u0144ska Karolin"
    }
@@ -14421,15 +14608,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.980802,
-     52.437426
+     16.982016,
+     52.438812
     ]
    },
    "type":"Feature",
    "id":"GDKA02",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Gdy\u0144ska",
     "id":"GDKA02",
     "name":"Gdy\u0144ska Karolin"
    }
@@ -14462,8 +14649,8 @@
    "type":"Feature",
    "id":"GDI02",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Gdy\u0144ska",
     "id":"GDI02",
     "name":"Gdy\u0144ska I"
    }
@@ -14653,23 +14840,6 @@
     "place":"Aleja Niepodleg\u0142o\u015bci",
     "id":"ZAME02",
     "name":"Zamek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.9185,
-     52.40536
-    ]
-   },
-   "type":"Feature",
-   "id":"UE02",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Aleja Niepodleg\u0142o\u015bci",
-    "id":"UE02",
-    "name":"Uniwersytet Ekonomiczny"
    }
   },
   {
@@ -15061,23 +15231,6 @@
     "place":"Wolne Tory",
     "id":"POGL04",
     "name":"Pozna\u0144 G\u0142\u00f3wny"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.91892,
-     52.40531
-    ]
-   },
-   "type":"Feature",
-   "id":"UE01",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Aleja Niepodleg\u0142o\u015bci",
-    "id":"UE01",
-    "name":"Uniwersytet Ekonomiczny"
    }
   },
   {
@@ -15560,6 +15713,57 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     17.027809,
+     52.440648
+    ]
+   },
+   "type":"Feature",
+   "id":"JAASF01",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Asfaltowa",
+    "id":"JAASF01",
+    "name":"Janikowo/Asfaltowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.032469,
+     52.443605
+    ]
+   },
+   "type":"Feature",
+   "id":"JAOGR01",
+   "properties":{
+    "city":"",
+    "place":"",
+    "id":"JAOGR01",
+    "name":"Janikowo/Ogrodnicza"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.027219,
+     52.440441
+    ]
+   },
+   "type":"Feature",
+   "id":"JAASF02",
+   "properties":{
+    "city":"gmina Swarz\u0119dz",
+    "place":"Asfaltowa",
+    "id":"JAASF02",
+    "name":"Janikowo/Asfaltowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      17.017859,
      52.436552
     ]
@@ -15976,7 +16180,7 @@
    "id":"OBOH02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"os. Bohater\u00f3w II Wojny \u015awiatowej",
+    "place":"Os. Bohater\u00f3w II Wojny \u015awiatowej",
     "id":"OBOH02",
     "name":"Os. Bohater\u00f3w II Wojny \u015awiatowej"
    }
@@ -16673,7 +16877,7 @@
    "id":"HEWI01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Hetma\u0144ska Wiadukt",
+    "place":"Droga D\u0119bi\u0144ska",
     "id":"HEWI01",
     "name":"Hetm./Wiadukt"
    }
@@ -17471,8 +17675,8 @@
    "type":"Feature",
    "id":"AUCH02",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Sycowska/Auchan",
     "id":"AUCH02",
     "name":"Auchan/Sycowska"
    }
@@ -17488,8 +17692,8 @@
    "type":"Feature",
    "id":"OPNZ02",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Op\u0142otki",
+    "city":"",
+    "place":"",
     "id":"OPNZ02",
     "name":"Op\u0142otki"
    }
@@ -17574,7 +17778,7 @@
    "id":"RUDN02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Ole\u015bnicka",
+    "place":"Krzepicka",
     "id":"RUDN02",
     "name":"Rudnicze"
    }
@@ -17795,7 +17999,7 @@
    "id":"OSIA01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"G\u0142ogowska",
+    "place":"Ostatnia",
     "id":"OSIA01",
     "name":"Ostatnia"
    }
@@ -17913,8 +18117,8 @@
    "type":"Feature",
    "id":"OPNZ01",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Op\u0142otki",
+    "city":"",
+    "place":"",
     "id":"OPNZ01",
     "name":"Op\u0142otki"
    }
@@ -19039,23 +19243,6 @@
     "place":"Klenowska",
     "id":"FRAN02",
     "name":"Gie\u0142da Ogrodnicza Franowo"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.973161,
-     52.381803
-    ]
-   },
-   "type":"Feature",
-   "id":"SLEZ01",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Bobrza\u0144ska",
-    "id":"SLEZ01",
-    "name":"\u015al\u0119\u017ca\u0144ska"
    }
   },
   {
@@ -20260,7 +20447,7 @@
    "id":"HEWI03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Hetma\u0144ska Wiadukt",
+    "place":"Hetma\u0144ska",
     "id":"HEWI03",
     "name":"Hetm./Wiadukt"
    }
@@ -20314,6 +20501,23 @@
     "place":"Hetma\u0144ska",
     "id":"KOLE01",
     "name":"Kolejowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.880174,
+     52.41606
+    ]
+   },
+   "type":"Feature",
+   "id":"OGDY03",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Nowina",
+    "id":"OGDY03",
+    "name":"Ogrody"
    }
   },
   {
@@ -20643,8 +20847,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.890918,
-     52.348961
+     16.890888,
+     52.348951
     ]
    },
    "type":"Feature",
@@ -20957,7 +21161,7 @@
    "id":"ROOB01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jurasz\u00f3w",
+    "place":"Lutycka",
     "id":"ROOB01",
     "name":"Rondo Obornicka"
    }
@@ -21314,7 +21518,7 @@
    "id":"SMGO02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Grunwaldzka",
+    "place":"Jawornicka",
     "id":"SMGO02",
     "name":"Smoluchowskiego"
    }
@@ -21365,7 +21569,7 @@
    "id":"GROC02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Genera\u0142a J\u00f3zefa Longina Sowi\u0144skiego",
+    "place":"Grunwaldzka",
     "id":"GROC02",
     "name":"Grochowska"
    }
@@ -22989,23 +23193,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.886771,
-     52.322462
-    ]
-   },
-   "type":"Feature",
-   "id":"LULES01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Armii Pozna\u0144",
-    "id":"LULES01",
-    "name":"Lubo\u0144/Le\u015bna"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.887686,
      52.326253
     ]
@@ -23506,8 +23693,8 @@
    "type":"Feature",
    "id":"LUCME01",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"Cmentarna",
+    "city":"",
+    "place":"",
     "id":"LUCME01",
     "name":"Lubo\u0144/Cmentarz"
    }
@@ -23975,6 +24162,40 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.862186,
+     52.293273
+    ]
+   },
+   "type":"Feature",
+   "id":"PUZRO01",
+   "properties":{
+    "city":"Puszczykowo",
+    "place":"Pozna\u0144ska",
+    "id":"PUZRO01",
+    "name":"Puszczykowo/\u0179r\u00f3dlana."
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.869119,
+     52.294524
+    ]
+   },
+   "type":"Feature",
+   "id":"PUDWK01",
+   "properties":{
+    "city":"Puszczykowo",
+    "place":"Pozna\u0144ska",
+    "id":"PUDWK01",
+    "name":"Puszczykowo/Dworzec Kolejowy"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.867955,
      52.302531
     ]
@@ -24071,6 +24292,40 @@
     "place":"Pozna\u0144ska",
     "id":"LEWPN02",
     "name":"\u0141\u0119czyca/Wpn."
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.868399,
+     52.29462
+    ]
+   },
+   "type":"Feature",
+   "id":"PUDWK02",
+   "properties":{
+    "city":"Puszczykowo",
+    "place":"Pozna\u0144ska",
+    "id":"PUDWK02",
+    "name":"Puszczykowo/Dworzec Kolejowy"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.861444,
+     52.292691
+    ]
+   },
+   "type":"Feature",
+   "id":"PUZRO02",
+   "properties":{
+    "city":"Puszczykowo",
+    "place":"Pozna\u0144ska",
+    "id":"PUZRO02",
+    "name":"Puszczykowo/\u0179r\u00f3dlana."
    }
   },
   {
@@ -25369,6 +25624,74 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.812777,
+     52.368689
+    ]
+   },
+   "type":"Feature",
+   "id":"PLRYN01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Grunwaldzka",
+    "id":"PLRYN01",
+    "name":"Plewiska/Rynek"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.816967,
+     52.371658
+    ]
+   },
+   "type":"Feature",
+   "id":"PLSKR01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Grunwaldzka",
+    "id":"PLSKR01",
+    "name":"Plewiska/Skryta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.82105,
+     52.369398
+    ]
+   },
+   "type":"Feature",
+   "id":"PLZCH02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Skryta",
+    "id":"PLZCH02",
+    "name":"Plewiska/Zachodnia"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.824711,
+     52.366576
+    ]
+   },
+   "type":"Feature",
+   "id":"PLPOD02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Skryta",
+    "id":"PLPOD02",
+    "name":"Plewiska/Podg\u00f3rna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.831908,
      52.366361
     ]
@@ -25414,6 +25737,40 @@
     "place":"Fabianowska",
     "id":"PLSLO01",
     "name":"Plewiska/S\u0142oneczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.824995,
+     52.366187
+    ]
+   },
+   "type":"Feature",
+   "id":"PLPOD01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Skryta",
+    "id":"PLPOD01",
+    "name":"Plewiska/Podg\u00f3rna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.821131,
+     52.369421
+    ]
+   },
+   "type":"Feature",
+   "id":"PLZCH01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Skryta",
+    "id":"PLZCH01",
+    "name":"Plewiska/Zachodnia"
    }
   },
   {
@@ -25482,6 +25839,23 @@
     "place":"Grunwaldzka",
     "id":"JUST01",
     "name":"Junikowo Stacja"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.822752,
+     52.375873
+    ]
+   },
+   "type":"Feature",
+   "id":"PLWOL02",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Grunwaldzka",
+    "id":"PLWOL02",
+    "name":"Plewiska/Wo\u0142czy\u0144ska"
    }
   },
   {
@@ -25794,6 +26168,23 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.823569,
+     52.376337
+    ]
+   },
+   "type":"Feature",
+   "id":"PLWOL01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Grunwaldzka",
+    "id":"PLWOL01",
+    "name":"Plewiska/Wo\u0142czy\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.833509,
      52.383546
     ]
@@ -25802,7 +26193,7 @@
    "id":"JUNI30",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Junikowo",
+    "place":"Peron 3",
     "id":"JUNI30",
     "name":"Junikowo"
    }
@@ -25811,17 +26202,17 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.885155,
-     52.416681
+     16.802933,
+     52.397945
     ]
    },
    "type":"Feature",
-   "id":"OGDY06",
+   "id":"MALW03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Jana Henryka D\u0105browskiego",
-    "id":"OGDY06",
-    "name":"Ogrody"
+    "place":"Sk\u00f3rzewska",
+    "id":"MALW03",
+    "name":"Malwowa"
    }
   },
   {
@@ -28259,8 +28650,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.875962,
-     52.471531
+     16.875349,
+     52.470889
     ]
    },
    "type":"Feature",
@@ -29602,8 +29993,8 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.980356,
-     52.435418
+     16.980245,
+     52.434779
     ]
    },
    "type":"Feature",
@@ -29619,15 +30010,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.98077,
-     52.436218
+     16.980304,
+     52.435292
     ]
    },
    "type":"Feature",
    "id":"GDII01",
    "properties":{
-    "city":"",
-    "place":"",
+    "city":"Pozna\u0144",
+    "place":"Gdy\u0144ska",
     "id":"GDII01",
     "name":"Gdy\u0144ska II"
    }
@@ -29840,57 +30231,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.891213,
-     52.348961
-    ]
-   },
-   "type":"Feature",
-   "id":"LUNIE01",
-   "properties":{
-    "city":"Lubo\u0144",
-    "place":"Powsta\u0144c\u00f3w Wielkopolskich",
-    "id":"LUNIE01",
-    "name":"Lubo\u0144/Niepodleg\u0142o\u015bci"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.982474,
-     52.387664
-    ]
-   },
-   "type":"Feature",
-   "id":"PIAR41",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Pia\u015bnicka",
-    "id":"PIAR41",
-    "name":"Pia\u015bnicka/Rynek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.98206,
-     52.387799
-    ]
-   },
-   "type":"Feature",
-   "id":"PIAR42",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Pia\u015bnicka",
-    "id":"PIAR42",
-    "name":"Pia\u015bnicka/Rynek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.776848,
      52.475178
     ]
@@ -29967,7 +30307,7 @@
    "id":"CZII02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Osiedle Czecha",
+    "place":"Os. Czecha",
     "id":"CZII02",
     "name":"Os.Czecha II"
    }
@@ -29984,7 +30324,7 @@
    "id":"CZII01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Osiedle Czecha",
+    "place":"Os. Czecha",
     "id":"CZII01",
     "name":"Os.Czecha II"
    }
@@ -30072,6 +30412,23 @@
     "place":"Szwajcarska",
     "id":"R SZ02",
     "name":"Os. Rusa Szpital"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.872845,
+     52.4204
+    ]
+   },
+   "type":"Feature",
+   "id":"PONZ02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Polska",
+    "id":"PONZ02",
+    "name":"Polska"
    }
   },
   {
@@ -30528,7 +30885,7 @@
    "id":"ZAOSL01",
    "properties":{
     "city":"gmina Swarz\u0119dz",
-    "place":"Micha\u0142\u00f3wka",
+    "place":"Transportowa",
     "id":"ZAOSL01",
     "name":"Zalasewo/Os. Le\u015bne"
    }
@@ -30758,6 +31115,23 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
+     16.820112,
+     52.373883
+    ]
+   },
+   "type":"Feature",
+   "id":"PLPLD01",
+   "properties":{
+    "city":"gmina Komorniki",
+    "place":"Grunwaldzka",
+    "id":"PLPLD01",
+    "name":"Plewiska/Po\u0142udniowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
      16.840845,
      52.36754
     ]
@@ -30936,7 +31310,7 @@
    "id":"GALC02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Wojciecha B\u0105ka",
+    "place":"Strzegomska",
     "id":"GALC02",
     "name":"Ga\u0142czy\u0144skiego"
    }
@@ -30970,7 +31344,7 @@
    "id":"BRZE03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Le\u015bnych Skrzat\u00f3w",
+    "place":"Strzegomska",
     "id":"BRZE03",
     "name":"Brzechwy"
    }
@@ -34430,17 +34804,17 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.907933,
-     52.368853
+     16.99332,
+     52.457584
     ]
    },
    "type":"Feature",
-   "id":"LOZO91",
+   "id":"CESWW01",
    "properties":{
-    "city":"Pozna\u0144",
-    "place":"\u0141ozowa",
-    "id":"LOZO91",
-    "name":"\u0141ozowa"
+    "city":"gmina Czerwonak",
+    "place":"\u015awi\u0119tego Wojciecha",
+    "id":"CESWW01",
+    "name":"Czerwonak/\u015aw. Wojciecha"
    }
   },
   {
@@ -34770,40 +35144,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.982961,
-     52.387196
-    ]
-   },
-   "type":"Feature",
-   "id":"PIAR01",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"os. Czecha",
-    "id":"PIAR01",
-    "name":"Pia\u015bnicka/Rynek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.979375,
-     52.388394
-    ]
-   },
-   "type":"Feature",
-   "id":"PIAS03",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Pia\u015bnicka",
-    "id":"PIAS03",
-    "name":"Pia\u015bnicka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.97142,
      52.392269
     ]
@@ -34812,7 +35152,7 @@
    "id":"OSTY01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Os.Lecha",
+    "place":"Pia\u015bnicka",
     "id":"OSTY01",
     "name":"Os. Tysi\u0105clecia"
    }
@@ -34829,94 +35169,9 @@
    "id":"OSTY02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Os.Lecha",
+    "place":"Pia\u015bnicka",
     "id":"OSTY02",
     "name":"Os. Tysi\u0105clecia"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.986989,
-     52.385087
-    ]
-   },
-   "type":"Feature",
-   "id":"PK03",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Pia\u015bnicka",
-    "id":"PK03",
-    "name":"Pia\u015bnicka/Kurlandzka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.825025,
-     52.365418
-    ]
-   },
-   "type":"Feature",
-   "id":"PLPOD03",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"Fabianowska",
-    "id":"PLPOD03",
-    "name":"Plewiska/Podg\u00f3rna"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.824405,
-     52.365355
-    ]
-   },
-   "type":"Feature",
-   "id":"PLPOD04",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"Fabianowska",
-    "id":"PLPOD04",
-    "name":"Plewiska/Podg\u00f3rna"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.814606,
-     52.363993
-    ]
-   },
-   "type":"Feature",
-   "id":"PLKOL01",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"Fabianowska",
-    "id":"PLKOL01",
-    "name":"Plewiska/Kolejowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.815005,
-     52.364066
-    ]
-   },
-   "type":"Feature",
-   "id":"PLKOL02",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"Fabianowska",
-    "id":"PLKOL02",
-    "name":"Plewiska/Kolejowa"
    }
   },
   {
@@ -34957,40 +35212,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.810179,
-     52.366103
-    ]
-   },
-   "type":"Feature",
-   "id":"PLSPA91",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"Kolejowa",
-    "id":"PLSPA91",
-    "name":"Plewiska/Stacja Paliw"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.809943,
-     52.366257
-    ]
-   },
-   "type":"Feature",
-   "id":"PLSPA92",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"Kolejowa",
-    "id":"PLSPA92",
-    "name":"Plewiska/Stacja Paliw"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.916887,
      52.407625
     ]
@@ -35002,23 +35223,6 @@
     "place":"\u015awi\u0119ty Marcin",
     "id":"ZAME33",
     "name":"Zamek"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.828301,
-     52.368024
-    ]
-   },
-   "type":"Feature",
-   "id":"PLZAK91",
-   "properties":{
-    "city":"gmina Komorniki",
-    "place":"S\u0142oneczna",
-    "id":"PLZAK91",
-    "name":"Plewiska/Zak\u0142adowa"
    }
   },
   {
@@ -35305,7 +35509,7 @@
    "id":"OOB04",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"os. Or\u0142a Bia\u0142ego",
+    "place":"Os. Or\u0142a Bia\u0142ego",
     "id":"OOB04",
     "name":"Os. Or\u0142a Bia\u0142ego"
    }
@@ -35325,40 +35529,6 @@
     "place":"Juliusza S\u0142owackiego",
     "id":"MICK96",
     "name":"Mickiewicza"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.861462,
-     52.297456
-    ]
-   },
-   "type":"Feature",
-   "id":"PULIP01",
-   "properties":{
-    "city":"Puszczykowo",
-    "place":"Wysoka",
-    "id":"PULIP01",
-    "name":"Puszczykowo/Lipowa"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.860163,
-     52.296445
-    ]
-   },
-   "type":"Feature",
-   "id":"PULIP02",
-   "properties":{
-    "city":"Puszczykowo",
-    "place":"Lipowa",
-    "id":"PULIP02",
-    "name":"Puszczykowo/Lipowa"
    }
   },
   {
@@ -35458,7 +35628,7 @@
    "id":"UAMF01",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Huby Moraskie",
+    "place":"Umultowska",
     "id":"UAMF01",
     "name":"Uam Wydzia\u0142 Fizyki"
    }
@@ -35492,7 +35662,7 @@
    "id":"UAMH02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Umultowska",
+    "place":"Tadeusza Szeligowskiego",
     "id":"UAMH02",
     "name":"Uam Wydzia\u0142 Historyczny"
    }
@@ -35526,7 +35696,7 @@
    "id":"UAMB02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Umultowska",
+    "place":"Osiedle Stefana Batorego",
     "id":"UAMB02",
     "name":"Uam Wydzia\u0142 Biologii"
    }
@@ -35603,91 +35773,6 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.945049,
-     52.379995
-    ]
-   },
-   "type":"Feature",
-   "id":"RSTA93",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Pawia",
-    "id":"RSTA93",
-    "name":"Rondo Staro\u0142\u0119ka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.9565,
-     52.376741
-    ]
-   },
-   "type":"Feature",
-   "id":"RZEG92",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"\u017begrze",
-    "id":"RZEG92",
-    "name":"Rondo \u017begrze"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.944783,
-     52.379391
-    ]
-   },
-   "type":"Feature",
-   "id":"RSTA94",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Hetma\u0144ska",
-    "id":"RSTA94",
-    "name":"Rondo Staro\u0142\u0119ka"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.954552,
-     52.376813
-    ]
-   },
-   "type":"Feature",
-   "id":"RZEG93",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Hetma\u0144ska",
-    "id":"RZEG93",
-    "name":"Rondo \u017begrze"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
-     16.956219,
-     52.393617
-    ]
-   },
-   "type":"Feature",
-   "id":"OJAG01",
-   "properties":{
-    "city":"Pozna\u0144",
-    "place":"Boles\u0142awa Krzywoustego",
-    "id":"OJAG01",
-    "name":"Os.Jagiello\u0144skie"
-   }
-  },
-  {
-   "geometry":{
-    "type":"Point",
-    "coordinates":[
      16.956406,
      52.39401
     ]
@@ -35747,7 +35832,7 @@
    "id":"WIAT04",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Inflancka",
+    "place":"Milcza\u0144ska",
     "id":"WIAT04",
     "name":"Wiatraczna"
    }
@@ -35764,7 +35849,7 @@
    "id":"BRKA02",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Milcza\u0144ska",
+    "place":"Brne\u0144ska",
     "id":"BRKA02",
     "name":"Brne\u0144ska"
    }
@@ -35798,7 +35883,7 @@
    "id":"WIAT03",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Wiatraczna",
+    "place":"Inflancka",
     "id":"WIAT03",
     "name":"Wiatraczna"
    }
@@ -35807,15 +35892,15 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.913069,
-     52.408116
+     16.912683,
+     52.407549
     ]
    },
    "type":"Feature",
    "id":"RKAP45",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Most Uniwersytecki",
+    "place":"Rondo Kaponiera",
     "id":"RKAP45",
     "name":"Rondo Kaponiera"
    }
@@ -35824,17 +35909,3332 @@
    "geometry":{
     "type":"Point",
     "coordinates":[
-     16.913172,
-     52.408377
+     16.912986,
+     52.407717
     ]
    },
    "type":"Feature",
    "id":"RKAP46",
    "properties":{
     "city":"Pozna\u0144",
-    "place":"Franklina Roosevelta",
+    "place":"Rondo Kaponiera",
     "id":"RKAP46",
     "name":"Rondo Kaponiera"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.886771,
+     52.322462
+    ]
+   },
+   "type":"Feature",
+   "id":"LULAS01",
+   "properties":{
+    "city":"Lubo\u0144",
+    "place":"Armii Pozna\u0144",
+    "id":"LULAS01",
+    "name":"Lubo\u0144/Lasek"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.882122,
+     52.316262
+    ]
+   },
+   "type":"Feature",
+   "id":"LEDWO03",
+   "properties":{
+    "city":"",
+    "place":"",
+    "id":"LEDWO03",
+    "name":"\u0141\u0119czyca/Dworcowa."
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.953327,
+     52.398387
+    ]
+   },
+   "type":"Feature",
+   "id":"KORN03",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Pleszewska",
+    "id":"KORN03",
+    "name":"K\u00f3rnicka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.991048,
+     52.464943
+    ]
+   },
+   "type":"Feature",
+   "id":"CEZAL01",
+   "properties":{
+    "city":"gmina Czerwonak",
+    "place":"Szkolna",
+    "id":"CEZAL01",
+    "name":"Czerwonak/Zalesie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.991491,
+     52.464952
+    ]
+   },
+   "type":"Feature",
+   "id":"CEZAL02",
+   "properties":{
+    "city":"gmina Czerwonak",
+    "place":"Szkolna",
+    "id":"CEZAL02",
+    "name":"Czerwonak/Zalesie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.008137,
+     52.462865
+    ]
+   },
+   "type":"Feature",
+   "id":"KCPRO01",
+   "properties":{
+    "city":"gmina Czerwonak",
+    "place":"Szkolna",
+    "id":"KCPRO01",
+    "name":"Kicin/Prosta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     17.007827,
+     52.46291
+    ]
+   },
+   "type":"Feature",
+   "id":"KCPRO02",
+   "properties":{
+    "city":"gmina Czerwonak",
+    "place":"Szkolna",
+    "id":"KCPRO02",
+    "name":"Kicin/Prosta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.787452,
+     52.41687
+    ]
+   },
+   "type":"Feature",
+   "id":"PMCME01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Sosnowa",
+    "id":"PMCME01",
+    "name":"Prze\u017amierowo/Cmentarz"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.788323,
+     52.416924
+    ]
+   },
+   "type":"Feature",
+   "id":"PMCME02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Sosnowa",
+    "id":"PMCME02",
+    "name":"Prze\u017amierowo/Cmentarz"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.785667,
+     52.425317
+    ]
+   },
+   "type":"Feature",
+   "id":"PMKOS02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rynkowa",
+    "id":"PMKOS02",
+    "name":"Prze\u017amierowo/Ko\u015bcielna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.785268,
+     52.426181
+    ]
+   },
+   "type":"Feature",
+   "id":"PMKOS01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rynkowa",
+    "id":"PMKOS01",
+    "name":"Prze\u017amierowo/Ko\u015bcielna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.799923,
+     52.429008
+    ]
+   },
+   "type":"Feature",
+   "id":"BNRUB01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Ametystowa",
+    "id":"BNRUB01",
+    "name":"Baranowo/Os. Rubinowe"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.78636,
+     52.435625
+    ]
+   },
+   "type":"Feature",
+   "id":"PMWIA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"PMWIA01",
+    "name":"Prze\u017amierowo/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.786316,
+     52.435418
+    ]
+   },
+   "type":"Feature",
+   "id":"PMWIA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"PMWIA02",
+    "name":"Prze\u017amierowo/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.782981,
+     52.431061
+    ]
+   },
+   "type":"Feature",
+   "id":"PMLES02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Brzoskwiniowa",
+    "id":"PMLES02",
+    "name":"Prze\u017amierowo/Le\u015bna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.782745,
+     52.431574
+    ]
+   },
+   "type":"Feature",
+   "id":"PMLES01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rynkowa",
+    "id":"PMLES01",
+    "name":"Prze\u017amierowo/Le\u015bna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.772769,
+     52.436318
+    ]
+   },
+   "type":"Feature",
+   "id":"PMWYS01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"PMWYS01",
+    "name":"Prze\u017amierowo/Wysogotowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.772635,
+     52.435967
+    ]
+   },
+   "type":"Feature",
+   "id":"PMWYS02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Wschodnia",
+    "id":"PMWYS02",
+    "name":"Prze\u017amierowo/Wysogotowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.753022,
+     52.441035
+    ]
+   },
+   "type":"Feature",
+   "id":"SWWIA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SWWIA01",
+    "name":"Swadzim/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.755945,
+     52.440126
+    ]
+   },
+   "type":"Feature",
+   "id":"SWWIA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SWWIA02",
+    "name":"Swadzim/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.747238,
+     52.441458
+    ]
+   },
+   "type":"Feature",
+   "id":"SWKLA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SWKLA01",
+    "name":"Swadzim/K\u0142adka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.747017,
+     52.441251
+    ]
+   },
+   "type":"Feature",
+   "id":"SWKLA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SWKLA02",
+    "name":"Swadzim/K\u0142adka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.763442,
+     52.438848
+    ]
+   },
+   "type":"Feature",
+   "id":"SWAUC01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"\u015awi\u0119tego Antoniego",
+    "id":"SWAUC01",
+    "name":"Swadzim/Auchan"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.76263,
+     52.441278
+    ]
+   },
+   "type":"Feature",
+   "id":"SWAUC02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"\u015awi\u0119tego Antoniego",
+    "id":"SWAUC02",
+    "name":"Swadzim/Auchan"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.725249,
+     52.448514
+    ]
+   },
+   "type":"Feature",
+   "id":"SAWIA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SAWIA01",
+    "name":"Sady/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.725884,
+     52.448127
+    ]
+   },
+   "type":"Feature",
+   "id":"SAWIA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SAWIA02",
+    "name":"Sady/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.768902,
+     52.420418
+    ]
+   },
+   "type":"Feature",
+   "id":"BTSKO01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTSKO01",
+    "name":"Batorowo/Sko\u015bna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.768282,
+     52.420499
+    ]
+   },
+   "type":"Feature",
+   "id":"BTSKO02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTSKO02",
+    "name":"Batorowo/Sko\u015bna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.754514,
+     52.421202
+    ]
+   },
+   "type":"Feature",
+   "id":"BTBAT02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTBAT02",
+    "name":"Batorowo/Batorowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.753761,
+     52.421337
+    ]
+   },
+   "type":"Feature",
+   "id":"BTBAT01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTBAT01",
+    "name":"Batorowo/Batorowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.745747,
+     52.421859
+    ]
+   },
+   "type":"Feature",
+   "id":"BTWID02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Widok",
+    "id":"BTWID02",
+    "name":"Batorowo/Widok"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.746618,
+     52.421868
+    ]
+   },
+   "type":"Feature",
+   "id":"BTWID01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTWID01",
+    "name":"Batorowo/Widok"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.740243,
+     52.421814
+    ]
+   },
+   "type":"Feature",
+   "id":"BTPOR01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTPOR01",
+    "name":"Batorowo/Poranek"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.739712,
+     52.421868
+    ]
+   },
+   "type":"Feature",
+   "id":"BTPOR02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTPOR02",
+    "name":"Batorowo/Poranek"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.733174,
+     52.422624
+    ]
+   },
+   "type":"Feature",
+   "id":"BTBRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTBRZ01",
+    "name":"Batorowo/Brzask"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.732584,
+     52.422688
+    ]
+   },
+   "type":"Feature",
+   "id":"BTBRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTBRZ02",
+    "name":"Batorowo/Brzask"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.721339,
+     52.423948
+    ]
+   },
+   "type":"Feature",
+   "id":"BTZAK01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTZAK01",
+    "name":"Batorowo/Zakrzewska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.720793,
+     52.424011
+    ]
+   },
+   "type":"Feature",
+   "id":"BTZAK02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Stefana Batorego",
+    "id":"BTZAK02",
+    "name":"Batorowo/Zakrzewska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718121,
+     52.42122
+    ]
+   },
+   "type":"Feature",
+   "id":"LWBOC02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Boczna",
+    "id":"LWBOC02",
+    "name":"Lusowo/Boczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718121,
+     52.42158
+    ]
+   },
+   "type":"Feature",
+   "id":"LWBOC01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Zakrzewska",
+    "id":"LWBOC01",
+    "name":"Lusowo/Boczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718254,
+     52.418761
+    ]
+   },
+   "type":"Feature",
+   "id":"LWGRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Zakrzewska",
+    "id":"LWGRZ01",
+    "name":"Lusowo/Grzybowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718225,
+     52.419194
+    ]
+   },
+   "type":"Feature",
+   "id":"LWGRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Zakrzewska",
+    "id":"LWGRZ02",
+    "name":"Lusowo/Grzybowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.71843,
+     52.414195
+    ]
+   },
+   "type":"Feature",
+   "id":"LWPRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Zakrzewska",
+    "id":"LWPRZ02",
+    "name":"Lusowo/Przylesie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718416,
+     52.414655
+    ]
+   },
+   "type":"Feature",
+   "id":"LWPRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Zakrzewska",
+    "id":"LWPRZ01",
+    "name":"Lusowo/Przylesie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.70971,
+     52.405738
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKZAK02",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Pozna\u0144ska",
+    "id":"ZKZAK02",
+    "name":"Zakrzewo/Zakrzewska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.708839,
+     52.405783
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKZAK01",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Pozna\u0144ska",
+    "id":"ZKZAK01",
+    "name":"Zakrzewo/Zakrzewska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.702625,
+     52.406143
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKINS01",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Pozna\u0144ska",
+    "id":"ZKINS01",
+    "name":"Zakrzewo/Instytut"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.701754,
+     52.406179
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKINS02",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Pozna\u0144ska",
+    "id":"ZKINS02",
+    "name":"Zakrzewo/Instytut"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.674866,
+     52.403486
+    ]
+   },
+   "type":"Feature",
+   "id":"SIKSZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Bukowska",
+    "id":"SIKSZ02",
+    "name":"Sieros\u0142aw/Kasztanowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.676283,
+     52.403675
+    ]
+   },
+   "type":"Feature",
+   "id":"SIKSZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Bukowska",
+    "id":"SIKSZ01",
+    "name":"Sieros\u0142aw/Kasztanowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.667872,
+     52.402279
+    ]
+   },
+   "type":"Feature",
+   "id":"SIPRO02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Prosta",
+    "id":"SIPRO02",
+    "name":"Sieros\u0142aw/Prosta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.669318,
+     52.402522
+    ]
+   },
+   "type":"Feature",
+   "id":"SIPRO01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Le\u015bna",
+    "id":"SIPRO01",
+    "name":"Sieros\u0142aw/Prosta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.665717,
+     52.401648
+    ]
+   },
+   "type":"Feature",
+   "id":"SIDZI01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"307",
+    "id":"SIDZI01",
+    "name":"Sieros\u0142aw/Dzia\u0142ki"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.715464,
+     52.425857
+    ]
+   },
+   "type":"Feature",
+   "id":"LWOTO02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"LWOTO02",
+    "name":"Lusowo/Otowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.714535,
+     52.426424
+    ]
+   },
+   "type":"Feature",
+   "id":"LWOTO01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"LWOTO01",
+    "name":"Lusowo/Otowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.70596,
+     52.431376
+    ]
+   },
+   "type":"Feature",
+   "id":"LWSWA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"LWSWA02",
+    "name":"Lusowo/Swadzimska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.705607,
+     52.431601
+    ]
+   },
+   "type":"Feature",
+   "id":"LWSWA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"LWSWA01",
+    "name":"Lusowo/Swadzimska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.702213,
+     52.43332
+    ]
+   },
+   "type":"Feature",
+   "id":"LWSZK02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"LWSZK02",
+    "name":"Lusowo/Szko\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.701695,
+     52.433519
+    ]
+   },
+   "type":"Feature",
+   "id":"LWSZK01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"LWSZK01",
+    "name":"Lusowo/Szko\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.697845,
+     52.432996
+    ]
+   },
+   "type":"Feature",
+   "id":"LWKOS01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"LWKOS01",
+    "name":"Lusowo/Ko\u015bci\u00f3\u0142"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718269,
+     52.443366
+    ]
+   },
+   "type":"Feature",
+   "id":"SALIP01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Lusowska",
+    "id":"SALIP01",
+    "name":"Sady/Lipowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718771,
+     52.443708
+    ]
+   },
+   "type":"Feature",
+   "id":"SALIP02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Lusowska",
+    "id":"SALIP02",
+    "name":"Sady/Lipowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.759412,
+     52.465051
+    ]
+   },
+   "type":"Feature",
+   "id":"WLKE02",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"184",
+    "id":"WLKE02",
+    "name":"Wielkie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.759221,
+     52.465348
+    ]
+   },
+   "type":"Feature",
+   "id":"WLKE01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"184",
+    "id":"WLKE01",
+    "name":"Wielkie"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.72916,
+     52.484127
+    ]
+   },
+   "type":"Feature",
+   "id":"NAKOB02",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Szamotulska",
+    "id":"NAKOB02",
+    "name":"Napachanie/Kobylnicka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.728421,
+     52.484469
+    ]
+   },
+   "type":"Feature",
+   "id":"NAKOB01",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Pozna\u0144ska",
+    "id":"NAKOB01",
+    "name":"Napachanie/Kobylnicka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.7188,
+     52.483731
+    ]
+   },
+   "type":"Feature",
+   "id":"NAKOK02",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Tarnowska",
+    "id":"NAKOK02",
+    "name":"Napachanie/Kokoszczy\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.719729,
+     52.484199
+    ]
+   },
+   "type":"Feature",
+   "id":"NAKOK01",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Tarnowska",
+    "id":"NAKOK01",
+    "name":"Napachanie/Kokoszczy\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.620825,
+     52.439478
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPET01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"JNPET01",
+    "name":"Jankowice/P\u0119tla"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.634048,
+     52.442412
+    ]
+   },
+   "type":"Feature",
+   "id":"LKADM01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Admiralska",
+    "id":"LKADM01",
+    "name":"Lus\u00f3wko/Admiralska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.634623,
+     52.44243
+    ]
+   },
+   "type":"Feature",
+   "id":"LKADM02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Admiralska",
+    "id":"LKADM02",
+    "name":"Lus\u00f3wko/Admiralska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.644599,
+     52.440468
+    ]
+   },
+   "type":"Feature",
+   "id":"LKSZA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Tarnowska",
+    "id":"LKSZA02",
+    "name":"Lus\u00f3wko/Szantowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.644673,
+     52.440828
+    ]
+   },
+   "type":"Feature",
+   "id":"LKSZA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Tarnowska",
+    "id":"LKSZA01",
+    "name":"Lus\u00f3wko/Szantowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.644894,
+     52.435688
+    ]
+   },
+   "type":"Feature",
+   "id":"LKBOS01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Tarnowska",
+    "id":"LKBOS01",
+    "name":"Lus\u00f3wko/Bosma\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.64485,
+     52.436219
+    ]
+   },
+   "type":"Feature",
+   "id":"LKBOS02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Tarnowska",
+    "id":"LKBOS02",
+    "name":"Lus\u00f3wko/Bosma\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.61746,
+     52.440648
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPAL02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Ogrodowa",
+    "id":"JNPAL02",
+    "name":"Jankowice/Pa\u0142ac"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.617445,
+     52.440882
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPAL01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Ogrodowa",
+    "id":"JNPAL01",
+    "name":"Jankowice/Pa\u0142ac"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.576788,
+     52.425353
+    ]
+   },
+   "type":"Feature",
+   "id":"CDOKR02",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Powsta\u0144c\u00f3w Wielkopolskich",
+    "id":"CDOKR02",
+    "name":"Ceradz Dolny/Okr\u0119\u017cna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.577364,
+     52.425767
+    ]
+   },
+   "type":"Feature",
+   "id":"CDOKR01",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Okr\u0119\u017cna",
+    "id":"CDOKR01",
+    "name":"Ceradz Dolny/Okr\u0119\u017cna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.64302,
+     52.475116
+    ]
+   },
+   "type":"Feature",
+   "id":"GRCIE01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"GRCIE01",
+    "name":"G\u00f3ra/Ciep\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.642444,
+     52.475521
+    ]
+   },
+   "type":"Feature",
+   "id":"GRCIE02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"GRCIE02",
+    "name":"G\u00f3ra/Ciep\u0142a"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.633295,
+     52.481861
+    ]
+   },
+   "type":"Feature",
+   "id":"GRSZK01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"GRSZK01",
+    "name":"G\u00f3ra/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.633206,
+     52.482212
+    ]
+   },
+   "type":"Feature",
+   "id":"GRSZK02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"GRSZK02",
+    "name":"G\u00f3ra/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.583753,
+     52.513233
+    ]
+   },
+   "type":"Feature",
+   "id":"KMRYN01",
+   "properties":{
+    "city":"gmina Ka\u017amierz",
+    "place":"Rynek",
+    "id":"KMRYN01",
+    "name":"Ka\u017amierz/Rynek"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.634387,
+     52.444671
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPOZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"JNPOZ02",
+    "name":"Jankowice/Pozna\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.634549,
+     52.444923
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPOZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"JNPOZ01",
+    "name":"Jankowice/Pozna\u0144ska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.717825,
+     52.406098
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKBUK03",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Bukowska",
+    "id":"ZKBUK03",
+    "name":"Zakrzewo/Bukowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.718748,
+     52.40592
+    ]
+   },
+   "type":"Feature",
+   "id":"ZKBUK05",
+   "properties":{
+    "city":"gmina Dopiewo",
+    "place":"Pozna\u0144ska",
+    "id":"ZKBUK05",
+    "name":"Zakrzewo/Bukowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.640761,
+     52.41343
+    ]
+   },
+   "type":"Feature",
+   "id":"LKROZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Dopiewska",
+    "id":"LKROZ01",
+    "name":"Lus\u00f3wko/Os. Rozalin"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.710669,
+     52.449171
+    ]
+   },
+   "type":"Feature",
+   "id":"SAAMA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"SAAMA01",
+    "name":"Sady/Amazon"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.622655,
+     52.491167
+    ]
+   },
+   "type":"Feature",
+   "id":"BZZNO01",
+   "properties":{
+    "city":"",
+    "place":"",
+    "id":"BZZNO01",
+    "name":"Brzezno/"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.622447,
+     52.491356
+    ]
+   },
+   "type":"Feature",
+   "id":"BZZNO02",
+   "properties":{
+    "city":"",
+    "place":"",
+    "id":"BZZNO02",
+    "name":"Brzezno/"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.64426,
+     52.424362
+    ]
+   },
+   "type":"Feature",
+   "id":"LKPRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Dopiewska",
+    "id":"LKPRZ02",
+    "name":"Lus\u00f3wko/Przedszkole"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.64457,
+     52.424713
+    ]
+   },
+   "type":"Feature",
+   "id":"LKPRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Dopiewska",
+    "id":"LKPRZ01",
+    "name":"Lus\u00f3wko/Przedszkole"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.641176,
+     52.417402
+    ]
+   },
+   "type":"Feature",
+   "id":"LKSTO01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Dopiewska",
+    "id":"LKSTO01",
+    "name":"Lus\u00f3wko/Storczyka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.641102,
+     52.417032
+    ]
+   },
+   "type":"Feature",
+   "id":"LKSTO02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Dopiewska",
+    "id":"LKSTO02",
+    "name":"Lus\u00f3wko/Storczyka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.766998,
+     52.412908
+    ]
+   },
+   "type":"Feature",
+   "id":"WYBAT02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Bukowska",
+    "id":"WYBAT02",
+    "name":"Wysogotowo/Batorowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.776989,
+     52.414439
+    ]
+   },
+   "type":"Feature",
+   "id":"WYWIE01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Wierzbowa",
+    "id":"WYWIE01",
+    "name":"Wysogotowo/Wierzbowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.777727,
+     52.41434
+    ]
+   },
+   "type":"Feature",
+   "id":"WYWIE02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Wierzbowa",
+    "id":"WYWIE02",
+    "name":"Wysogotowo/Wierzbowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.631347,
+     52.462271
+    ]
+   },
+   "type":"Feature",
+   "id":"RUNOA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"RUNOA01",
+    "name":"Rumianek/Nowa II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.774805,
+     52.419797
+    ]
+   },
+   "type":"Feature",
+   "id":"PMBRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Olszynowa",
+    "id":"PMBRZ01",
+    "name":"Prze\u017amierowo/Brzozowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.774082,
+     52.419959
+    ]
+   },
+   "type":"Feature",
+   "id":"PMBRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Brzozowa",
+    "id":"PMBRZ02",
+    "name":"Prze\u017amierowo/Brzozowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.779424,
+     52.418185
+    ]
+   },
+   "type":"Feature",
+   "id":"PMOLS02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Sosnowa",
+    "id":"PMOLS02",
+    "name":"Prze\u017amierowo/Kasztanowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.778509,
+     52.418617
+    ]
+   },
+   "type":"Feature",
+   "id":"PMOLS01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Olszynowa",
+    "id":"PMOLS01",
+    "name":"Prze\u017amierowo/Kasztanowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.787689,
+     52.421058
+    ]
+   },
+   "type":"Feature",
+   "id":"PMKRA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rynkowa",
+    "id":"PMKRA02",
+    "name":"Prze\u017amierowo/Kra\u0144cowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.787438,
+     52.421571
+    ]
+   },
+   "type":"Feature",
+   "id":"PMKRA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rynkowa",
+    "id":"PMKRA01",
+    "name":"Prze\u017amierowo/Kra\u0144cowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.796218,
+     52.434104
+    ]
+   },
+   "type":"Feature",
+   "id":"BNPRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"BNPRZ01",
+    "name":"Baranowo/Przemys\u0142awa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.796159,
+     52.433924
+    ]
+   },
+   "type":"Feature",
+   "id":"BNPRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"BNPRZ02",
+    "name":"Baranowo/Przemys\u0142awa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.786685,
+     52.436363
+    ]
+   },
+   "type":"Feature",
+   "id":"PMWIA03",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"PMWIA03",
+    "name":"Prze\u017amierowo/Wiadukt"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.785652,
+     52.441719
+    ]
+   },
+   "type":"Feature",
+   "id":"BNKLO01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"BNKLO01",
+    "name":"Baranowo/Klonowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.785844,
+     52.443762
+    ]
+   },
+   "type":"Feature",
+   "id":"BNKLO02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"BNKLO02",
+    "name":"Baranowo/Klonowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.783571,
+     52.449
+    ]
+   },
+   "type":"Feature",
+   "id":"BNUNP01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"BNUNP01",
+    "name":"Baranowo/Uniwersytet Przyrodniczy"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.784899,
+     52.447776
+    ]
+   },
+   "type":"Feature",
+   "id":"BNUNP02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"BNUNP02",
+    "name":"Baranowo/Uniwersytet Przyrodniczy"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.774671,
+     52.452239
+    ]
+   },
+   "type":"Feature",
+   "id":"CYCDR02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"CYCDR02",
+    "name":"Chyby/Cedrowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.77392,
+     52.452536
+    ]
+   },
+   "type":"Feature",
+   "id":"CYCDR01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"CYCDR01",
+    "name":"Chyby/Cedrowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.765833,
+     52.457116
+    ]
+   },
+   "type":"Feature",
+   "id":"CYJOD02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"CYJOD02",
+    "name":"Chyby/Jod\u0142owa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.765272,
+     52.45753
+    ]
+   },
+   "type":"Feature",
+   "id":"CYJOD01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"CYJOD01",
+    "name":"Chyby/Jod\u0142owa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.762512,
+     52.460256
+    ]
+   },
+   "type":"Feature",
+   "id":"CYLIP02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"CYLIP02",
+    "name":"Chyby/Lipowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.762099,
+     52.460733
+    ]
+   },
+   "type":"Feature",
+   "id":"CYLIP01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"CYLIP01",
+    "name":"Chyby/Lipowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.63632,
+     52.462577
+    ]
+   },
+   "type":"Feature",
+   "id":"RUNOW01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"RUNOW01",
+    "name":"Rumianek/Nowa I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.63697,
+     52.462766
+    ]
+   },
+   "type":"Feature",
+   "id":"RUNOW02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"RUNOW02",
+    "name":"Rumianek/Nowa I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.625031,
+     52.462577
+    ]
+   },
+   "type":"Feature",
+   "id":"RUSZK02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"RUSZK02",
+    "name":"Rumianek/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.624012,
+     52.461552
+    ]
+   },
+   "type":"Feature",
+   "id":"RUSZK01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szkolna",
+    "id":"RUSZK01",
+    "name":"Rumianek/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.620249,
+     52.459014
+    ]
+   },
+   "type":"Feature",
+   "id":"RUKLU02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szkolna",
+    "id":"RUKLU02",
+    "name":"Rumianek/\u015awietlica"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.620382,
+     52.459392
+    ]
+   },
+   "type":"Feature",
+   "id":"RUKLU01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szkolna",
+    "id":"RUKLU01",
+    "name":"Rumianek/\u015awietlica"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.640585,
+     52.454498
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPRZ02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Przemys\u0142owa",
+    "id":"JNPRZ02",
+    "name":"Jankowice/Przemys\u0142owa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.640998,
+     52.455191
+    ]
+   },
+   "type":"Feature",
+   "id":"JNPRZ01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"92",
+    "id":"JNPRZ01",
+    "name":"Jankowice/Przemys\u0142owa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.64575,
+     52.428063
+    ]
+   },
+   "type":"Feature",
+   "id":"LKDOP01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Tarnowska",
+    "id":"LKDOP01",
+    "name":"Lus\u00f3wko/Dopiewska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.645632,
+     52.428378
+    ]
+   },
+   "type":"Feature",
+   "id":"LKDOP02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Zespo\u0142owa",
+    "id":"LKDOP02",
+    "name":"Lus\u00f3wko/Dopiewska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.654177,
+     52.427424
+    ]
+   },
+   "type":"Feature",
+   "id":"LKPET01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Otowska",
+    "id":"LKPET01",
+    "name":"Lus\u00f3wko/P\u0119tla"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.639951,
+     52.433167
+    ]
+   },
+   "type":"Feature",
+   "id":"LKGRA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Jankowicka",
+    "id":"LKGRA02",
+    "name":"Lus\u00f3wko/Grabowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.639567,
+     52.433447
+    ]
+   },
+   "type":"Feature",
+   "id":"LKGRA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Jankowicka",
+    "id":"LKGRA01",
+    "name":"Lus\u00f3wko/Grabowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.60226,
+     52.440666
+    ]
+   },
+   "type":"Feature",
+   "id":"CKJAN01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Jankowicka",
+    "id":"CKJAN01",
+    "name":"Ceradz Ko\u015bcielny/Jankowicka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.6031,
+     52.440855
+    ]
+   },
+   "type":"Feature",
+   "id":"CKJAN02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Ogrodowa",
+    "id":"CKJAN02",
+    "name":"Ceradz Ko\u015bcielny/Jankowicka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.592239,
+     52.43657
+    ]
+   },
+   "type":"Feature",
+   "id":"CKKOL02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Bukowska",
+    "id":"CKKOL02",
+    "name":"Ceradz Ko\u015bcielny/Ko\u015bci\u00f3\u0142"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.592623,
+     52.43702
+    ]
+   },
+   "type":"Feature",
+   "id":"CKKOL01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Plac Harcerski",
+    "id":"CKKOL01",
+    "name":"Ceradz Ko\u015bcielny/Ko\u015bci\u00f3\u0142"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.570457,
+     52.420499
+    ]
+   },
+   "type":"Feature",
+   "id":"CDPAR02",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Powsta\u0144c\u00f3w Wielkopolskich",
+    "id":"CDPAR02",
+    "name":"Ceradz Dolny/Parkowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.571062,
+     52.420887
+    ]
+   },
+   "type":"Feature",
+   "id":"CDPAR01",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Powsta\u0144c\u00f3w Wielkopolskich",
+    "id":"CDPAR01",
+    "name":"Ceradz Dolny/Parkowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.532058,
+     52.432888
+    ]
+   },
+   "type":"Feature",
+   "id":"GBWIE01",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Lipowa",
+    "id":"GBWIE01",
+    "name":"Grzebienisko/Wierzbowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.531217,
+     52.433068
+    ]
+   },
+   "type":"Feature",
+   "id":"GBWIE02",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Lipowa",
+    "id":"GBWIE02",
+    "name":"Grzebienisko/Wierzbowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.648392,
+     52.48678
+    ]
+   },
+   "type":"Feature",
+   "id":"GRDLII01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"D\u0142uga",
+    "id":"GRDLII01",
+    "name":"G\u00f3ra/D\u0142uga II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.648717,
+     52.48713
+    ]
+   },
+   "type":"Feature",
+   "id":"GRDLII02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"D\u0142uga",
+    "id":"GRDLII02",
+    "name":"G\u00f3ra/D\u0142uga II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.652716,
+     52.491113
+    ]
+   },
+   "type":"Feature",
+   "id":"KHKRE02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Lipowa",
+    "id":"KHKRE02",
+    "name":"Kokoszczyn/Kr\u0119ta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.653085,
+     52.491518
+    ]
+   },
+   "type":"Feature",
+   "id":"KHKRE01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Lipowa",
+    "id":"KHKRE01",
+    "name":"Kokoszczyn/Kr\u0119ta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.653823,
+     52.497829
+    ]
+   },
+   "type":"Feature",
+   "id":"KHPET01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Dworcowa",
+    "id":"KHPET01",
+    "name":"Kokoszczyn/P\u0119tla"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.636025,
+     52.479343
+    ]
+   },
+   "type":"Feature",
+   "id":"GRKRE01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Kr\u0119ta",
+    "id":"GRKRE01",
+    "name":"G\u00f3ra/Kr\u0119ta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.636468,
+     52.479379
+    ]
+   },
+   "type":"Feature",
+   "id":"GRKRE02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Kr\u0119ta",
+    "id":"GRKRE02",
+    "name":"G\u00f3ra/Kr\u0119ta"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.63027,
+     52.484909
+    ]
+   },
+   "type":"Feature",
+   "id":"GRPET02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"GRPET02",
+    "name":"G\u00f3ra/P\u0119tla"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.63027,
+     52.485044
+    ]
+   },
+   "type":"Feature",
+   "id":"GRPET01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szamotulska",
+    "id":"GRPET01",
+    "name":"G\u00f3ra/P\u0119tla"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.58911,
+     52.509755
+    ]
+   },
+   "type":"Feature",
+   "id":"KMSTO02",
+   "properties":{
+    "city":"gmina Ka\u017amierz",
+    "place":"Pozna\u0144ska",
+    "id":"KMSTO02",
+    "name":"Ka\u017amierz/Storczykowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.588329,
+     52.509998
+    ]
+   },
+   "type":"Feature",
+   "id":"KMSTO01",
+   "properties":{
+    "city":"gmina Ka\u017amierz",
+    "place":"Pozna\u0144ska",
+    "id":"KMSTO01",
+    "name":"Ka\u017amierz/Storczykowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.64355,
+     52.481825
+    ]
+   },
+   "type":"Feature",
+   "id":"GRDLI01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"D\u0142uga",
+    "id":"GRDLI01",
+    "name":"G\u00f3ra/D\u0142uga I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.582011,
+     52.429188
+    ]
+   },
+   "type":"Feature",
+   "id":"CDPOW02",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Powsta\u0144c\u00f3w Wielkopolskich",
+    "id":"CDPOW02",
+    "name":"Ceradz Dolny/Powsta\u0144c\u00f3w Wielkopolskich"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.582588,
+     52.429602
+    ]
+   },
+   "type":"Feature",
+   "id":"CDPOW01",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Powsta\u0144c\u00f3w Wielkopolskich",
+    "id":"CDPOW01",
+    "name":"Ceradz Dolny/Powsta\u0144c\u00f3w Wielkopolskich"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.525875,
+     52.433483
+    ]
+   },
+   "type":"Feature",
+   "id":"GBPET01",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Szkolna",
+    "id":"GBPET01",
+    "name":"Grzebienisko/P\u0119tla"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.544896,
+     52.424749
+    ]
+   },
+   "type":"Feature",
+   "id":"CDBRZ02",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Lipowa",
+    "id":"CDBRZ02",
+    "name":"Ceradz Dolny/Brzoza Huby"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.544381,
+     52.425191
+    ]
+   },
+   "type":"Feature",
+   "id":"CDBRZ01",
+   "properties":{
+    "city":"gmina Duszniki",
+    "place":"Lipowa",
+    "id":"CDBRZ01",
+    "name":"Ceradz Dolny/Brzoza Huby"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.793356,
+     52.408404
+    ]
+   },
+   "type":"Feature",
+   "id":"WYSZP01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szparagowa",
+    "id":"WYSZP01",
+    "name":"Wysogotowo/Szparagowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.793001,
+     52.4089
+    ]
+   },
+   "type":"Feature",
+   "id":"WYSZP02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szparagowa",
+    "id":"WYSZP02",
+    "name":"Wysogotowo/Szparagowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.795097,
+     52.406053
+    ]
+   },
+   "type":"Feature",
+   "id":"WYSER01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Sk\u00f3rzewska",
+    "id":"WYSER01",
+    "name":"Wysogotowo/Serdeczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.794757,
+     52.406558
+    ]
+   },
+   "type":"Feature",
+   "id":"WYSER02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Sk\u00f3rzewska",
+    "id":"WYSER02",
+    "name":"Wysogotowo/Serdeczna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.702874,
+     52.45458
+    ]
+   },
+   "type":"Feature",
+   "id":"TPMAR01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPMAR01",
+    "name":"Tarnowo Pdg/Marianowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.701977,
+     52.454372
+    ]
+   },
+   "type":"Feature",
+   "id":"TPMAR02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPMAR02",
+    "name":"Tarnowo Pdg/Marianowska"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.691012,
+     52.457566
+    ]
+   },
+   "type":"Feature",
+   "id":"TPDZI01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPDZI01",
+    "name":"Tarnowo Pdg/Dzia\u0142kowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.691558,
+     52.457197
+    ]
+   },
+   "type":"Feature",
+   "id":"TPDZI02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPDZI02",
+    "name":"Tarnowo Pdg/Dzia\u0142kowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.701298,
+     52.474406
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKAR01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPKAR01",
+    "name":"Tarnowo Pdg/Karolewo III"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.701932,
+     52.474792
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKAR02",
+   "properties":{
+    "city":"gmina Rokietnica",
+    "place":"Tarnowska",
+    "id":"TPKAR02",
+    "name":"Tarnowo Pdg/Karolewo III"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.695512,
+     52.472049
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKAW01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPKAW01",
+    "name":"Tarnowo Pdg/Karolewo II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.696029,
+     52.472094
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKAW02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPKAW02",
+    "name":"Tarnowo Pdg/Karolewo II"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.683899,
+     52.468847
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKAI01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPKAI01",
+    "name":"Tarnowo Pdg/Karolewo I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.684622,
+     52.469153
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKAI02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPKAI02",
+    "name":"Tarnowo Pdg/Karolewo I"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.676343,
+     52.466526
+    ]
+   },
+   "type":"Feature",
+   "id":"TPCZE02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPCZE02",
+    "name":"Tarnowo Pdg/Czere\u015bniowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.675472,
+     52.466562
+    ]
+   },
+   "type":"Feature",
+   "id":"TPCZE01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Rokietnicka",
+    "id":"TPCZE01",
+    "name":"Tarnowo Pdg/Czere\u015bniowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.680371,
+     52.460274
+    ]
+   },
+   "type":"Feature",
+   "id":"TPKRO01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPKRO01",
+    "name":"Tarnowo Pdg/Kr\u00f3tka"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.672934,
+     52.462352
+    ]
+   },
+   "type":"Feature",
+   "id":"TPROL02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPROL02",
+    "name":"Tarnowo Pdg/Rolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.671709,
+     52.462676
+    ]
+   },
+   "type":"Feature",
+   "id":"TPROL01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPROL01",
+    "name":"Tarnowo Pdg/Rolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.664978,
+     52.464187
+    ]
+   },
+   "type":"Feature",
+   "id":"TPCEN01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPCEN01",
+    "name":"Tarnowo Pdg/Centrum"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.664138,
+     52.464295
+    ]
+   },
+   "type":"Feature",
+   "id":"TPCEN02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPCEN02",
+    "name":"Tarnowo Pdg/Centrum"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.655195,
+     52.46237
+    ]
+   },
+   "type":"Feature",
+   "id":"TPNOW01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPNOW01",
+    "name":"Tarnowo Pdg/Nowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.655933,
+     52.462667
+    ]
+   },
+   "type":"Feature",
+   "id":"TPNOW02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPNOW02",
+    "name":"Tarnowo Pdg/Nowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.646075,
+     52.45879
+    ]
+   },
+   "type":"Feature",
+   "id":"TPPIA01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPPIA01",
+    "name":"Tarnowo Pdg/Piaskowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.646754,
+     52.459059
+    ]
+   },
+   "type":"Feature",
+   "id":"TPPIA02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Pozna\u0144ska",
+    "id":"TPPIA02",
+    "name":"Tarnowo Pdg/Piaskowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.643979,
+     52.46336
+    ]
+   },
+   "type":"Feature",
+   "id":"TPOST01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"TPOST01",
+    "name":"Tarnowo Pdg/Ostatnia"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.643404,
+     52.463378
+    ]
+   },
+   "type":"Feature",
+   "id":"TPOST02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Nowa",
+    "id":"TPOST02",
+    "name":"Tarnowo Pdg/Ostatnia"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.657423,
+     52.46766
+    ]
+   },
+   "type":"Feature",
+   "id":"TPZIE01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"23 Pa\u017adziernika",
+    "id":"TPZIE01",
+    "name":"Tarnowo Pdg/Zielona"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.656582,
+     52.467813
+    ]
+   },
+   "type":"Feature",
+   "id":"TPZIE02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"23 Pa\u017adziernika",
+    "id":"TPZIE02",
+    "name":"Tarnowo Pdg/Zielona"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.651639,
+     52.469306
+    ]
+   },
+   "type":"Feature",
+   "id":"TPOKR01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"23 Pa\u017adziernika",
+    "id":"TPOKR01",
+    "name":"Tarnowo Pdg/Okr\u0119\u017cna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.65087,
+     52.469828
+    ]
+   },
+   "type":"Feature",
+   "id":"TPOKR02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"23 Pa\u017adziernika",
+    "id":"TPOKR02",
+    "name":"Tarnowo Pdg/Okr\u0119\u017cna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.663179,
+     52.467246
+    ]
+   },
+   "type":"Feature",
+   "id":"TPSZK01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Szkolna",
+    "id":"TPSZK01",
+    "name":"Tarnowo Pdg/Szkolna"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.647138,
+     52.472265
+    ]
+   },
+   "type":"Feature",
+   "id":"TPGRU01",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"23 Pa\u017adziernika",
+    "id":"TPGRU01",
+    "name":"Tarnowo Pdg/27 Grudnia"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.881669,
+     52.416667
+    ]
+   },
+   "type":"Feature",
+   "id":"OGDY93",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Szpitalna",
+    "id":"OGDY93",
+    "name":"Ogrody"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.83566,
+     52.38383
+    ]
+   },
+   "type":"Feature",
+   "id":"JUNI43",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Grunwaldzka",
+    "id":"JUNI43",
+    "name":"Junikowo"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.775262,
+     52.417041
+    ]
+   },
+   "type":"Feature",
+   "id":"WYZBO02",
+   "properties":{
+    "city":"gmina Tarnowo Podg\u00f3rne",
+    "place":"Wierzbowa",
+    "id":"WYZBO02",
+    "name":"Wysogotowo/Zbo\u017cowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.908316,
+     52.369524
+    ]
+   },
+   "type":"Feature",
+   "id":"LOZO03",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"Czechos\u0142owacka",
+    "id":"LOZO03",
+    "name":"\u0141ozowa"
+   }
+  },
+  {
+   "geometry":{
+    "type":"Point",
+    "coordinates":[
+     16.907933,
+     52.368853
+    ]
+   },
+   "type":"Feature",
+   "id":"LOZO01",
+   "properties":{
+    "city":"Pozna\u0144",
+    "place":"\u0141ozowa",
+    "id":"LOZO01",
+    "name":"\u0141ozowa"
    }
   }
  ]
