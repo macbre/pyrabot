@@ -13,7 +13,7 @@ var REASON = 'Porządkuję wikitekst artykułu',
 	pages = {};
 
 client.logIn(function() {
-	client.getRecentChanges(false, function(pages) {
+	client.getRecentChanges(false, function(err, pages) {
 		pages.forEach(function(page) {
 			// tylko NS_MAIN
 			if (page.ns !== 0) {
@@ -28,7 +28,7 @@ client.logIn(function() {
 
 			console.log('> Sprawdzam ' + page.title + '...');
 
-			client.getArticle(page.title, function(content) {
+			client.getArticle(page.title, function(err, content) {
 				// zmień treść
 				var newContent = content.replace(REPLACE, '');
 
