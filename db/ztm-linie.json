@@ -165,7 +165,7 @@
       "Staro\u0142\u0119ka",
       "Zawady"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -200,11 +200,13 @@
     "typ":"tram"
   },
   "28":{
+    "agency":"MPK",
     "petle":[
       "Pl Wielkopolski",
       "Zawady"
     ],
     "przystanki":6,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/28",
     "typ":"tram"
   },
   "44":{
