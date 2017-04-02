@@ -45,7 +45,7 @@
       "G\u00f3rczyn",
       "Stomil"
     ],
-    "przystanki":29,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -65,7 +65,7 @@
       "Ogrody",
       "Zawady"
     ],
-    "przystanki":23,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -75,7 +75,7 @@
       "G\u00f3rczyn",
       "Mi\u0142ostowo"
     ],
-    "przystanki":22,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
@@ -85,7 +85,7 @@
       "D\u0119biec",
       "Pi\u0105tkowska"
     ],
-    "przystanki":29,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -125,7 +125,7 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":34,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -155,7 +155,7 @@
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":26,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
@@ -187,16 +187,6 @@
     ],
     "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
-    "typ":"tram"
-  },
-  "28":{
-    "agency":"MPK",
-    "petle":[
-      "Pl Wielkopolski",
-      "Zawady"
-    ],
-    "przystanki":6,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/28",
     "typ":"tram"
   },
   "44":{
@@ -255,7 +245,7 @@
       "Azaliowa",
       "G\u00f3rczyn"
     ],
-    "przystanki":12,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/49",
     "typ":"bus"
   },
@@ -385,7 +375,7 @@
       "Garbary",
       "G\u00f3rczyn"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/63",
     "typ":"bus"
   },
@@ -445,7 +435,7 @@
       "Osiedle Kopernika",
       "Osiedle \u0141okietka"
     ],
-    "przystanki":30,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/69",
     "typ":"bus"
   },
@@ -485,7 +475,7 @@
       "D\u0119biec",
       "G\u00f3rczyn"
     ],
-    "przystanki":14,
+    "przystanki":15,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/75",
     "typ":"bus"
   },
@@ -710,6 +700,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
+  "202":{
+    "agency":"MPK",
+    "night":true,
+    "petle":[
+      "Osiedle Jana III Sobieskiego",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":29,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/202",
+    "typ":"tram"
+  },
   "231":{
     "agency":"MPK",
     "night":true,
@@ -783,7 +784,7 @@
       "Kozieg\u0142owy/Os. Le\u015bne",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/237",
     "typ":"bus"
   },
@@ -904,7 +905,7 @@
       "D\u0119biec",
       "Rondo Kaponiera"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
@@ -1266,7 +1267,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":31,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/804",
     "typ":"bus"
   },
