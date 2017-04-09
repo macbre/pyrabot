@@ -82,10 +82,10 @@
   "9":{
     "agency":"MPK",
     "petle":[
-      "D\u0119biec",
+      "Pi\u0105tkowska",
       "Pi\u0105tkowska"
     ],
-    "przystanki":28,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -103,9 +103,9 @@
     "agency":"MPK",
     "petle":[
       "Pi\u0105tkowska",
-      "Staro\u0142\u0119ka"
+      "Pi\u0105tkowska"
     ],
-    "przystanki":28,
+    "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
@@ -115,7 +115,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -187,6 +187,14 @@
     ],
     "przystanki":10,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
+    "typ":"tram"
+  },
+  "20":{
+    "petle":[
+      "Osiedle Jana III Sobieskiego",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":31,
     "typ":"tram"
   },
   "44":{
@@ -701,25 +709,19 @@
     "typ":"tram"
   },
   "202":{
-    "agency":"MPK",
-    "night":true,
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":29,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/202",
+    "przystanki":20,
     "typ":"tram"
   },
   "231":{
-    "agency":"MPK",
-    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
@@ -1137,7 +1139,7 @@
       "D\u0119biec",
       "Mosina/D.K."
     ],
-    "przystanki":26,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
@@ -1207,7 +1209,7 @@
       "G\u0142uchowo/Stawna",
       "Junikowo"
     ],
-    "przystanki":14,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716",
     "typ":"bus"
   },
@@ -1267,7 +1269,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":33,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/804",
     "typ":"bus"
   },
