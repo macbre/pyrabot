@@ -801,7 +801,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-182", 
-  "numeracja": "5"
+  "numeracja": "5, 9"
  }, 
  "Bogumi\u0142a": {
   "dlugosc": 72, 
@@ -1845,7 +1845,7 @@
   "dlugosc": 108, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-306", 
-  "numeracja": "3-10, 16, 18-20, 22-25, 27-30, 32-34, 39, 41"
+  "numeracja": "3-10, 16, 18-20, 22-25, 27-30, 32-34, 39, 41, 43"
  }, 
  "Deszczowa": {
   "dlugosc": 949, 
@@ -3225,7 +3225,7 @@
   "dlugosc": 258, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "8-11, 16, 18, 20, 22, 24"
+  "numeracja": "5, 8-11, 16, 18, 20, 22, 24"
  }, 
  "Halna": {
   "dlugosc": 116, 
@@ -5690,8 +5690,8 @@
  "Laurowa": {
   "dlugosc": 387, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-614,61-680", 
-  "numeracja": "1-14, 16, 18, 20, 32, 34, 36"
+  "kody_pocztowe": "61-680", 
+  "numeracja": "1-14, 16, 18, 20-21, 32, 34, 36"
  }, 
  "Lawendowa": {
   "dlugosc": 422, 
@@ -7623,7 +7623,7 @@
   "dlugosc": 214, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-344", 
-  "numeracja": "1-7, 9, 11, 15"
+  "numeracja": "1-7, 9, 11, 13, 15"
  }, 
  "Opolska": {
   "dlugosc": 2524, 
@@ -7719,7 +7719,7 @@
   "dlugosc": 4130, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-312,61-315,61-324", 
-  "numeracja": "300, 322, 328, 330-331, 333-343, 345-351, 353-367, 369, 371, 374-383, 385-392, 394-401, 403, 405, 407, 410-412, 415, 419, 423, 425, 434, 436, 438, 440, 442, 452-454, 458-460, 463, 465, 467-470, 472, 474, 476, 478, 480, 482, 484, 497-500, 502-504, 506, 532, 536, 539-544, 546, 548, 550, 552, 554, 556-559, 561-562, 564-568, 570, 572, 574, 576, 578, 580, 582"
+  "numeracja": "300, 322, 328, 330-331, 333-343, 345-351, 353-367, 369, 371, 374-383, 385-392, 394-401, 403, 405, 407, 410-412, 415, 419, 423, 425, 434, 436, 438, 440, 442, 452-454, 458-460, 463, 465, 467-470, 472, 474, 476, 478, 480, 482, 484, 497-500, 502-504, 506, 532, 536, 539-544, 546, 548-550, 552, 554, 556-559, 561-562, 564-568, 570, 572, 574, 576, 578, 580, 582"
  }, 
  "Ostro\u0142\u0119cka": {
   "dlugosc": 100, 
@@ -8739,7 +8739,7 @@
   "dlugosc": 729, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-313", 
-  "numeracja": "7, 19, 23, 56, 58, 60, 62, 74, 82, 94"
+  "numeracja": "7, 19, 23, 44, 46, 56, 58, 60, 62, 74, 82, 94"
  }, 
  "Przylaszczkowa": {
   "dlugosc": 302, 
@@ -9639,7 +9639,7 @@
   "dlugosc": 374, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-129,60-131", 
-  "numeracja": "4-28, 32, 34, 36, 38, 40, 43-47, 49"
+  "numeracja": "4-23, 25-28, 32, 34, 36, 38, 40, 43-47, 49"
  }, 
  "Sieradzka": {
   "dlugosc": 522, 
@@ -9969,7 +9969,7 @@
   "dlugosc": 2082, 
   "dzielnica": false, 
   "kody_pocztowe": "61-312", 
-  "numeracja": "5, 7, 9-35, 37, 39-51, 53, 55, 57, 59-61, 63-77, 79-93"
+  "numeracja": "5, 7, 9-35, 37-51, 53, 55, 57, 59-61, 63-77, 79-93"
  }, 
  "Srebrna": {
   "dlugosc": 211, 
@@ -10689,7 +10689,7 @@
   "dlugosc": 327, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-832,61-833", 
-  "numeracja": "3-5, 7-9, 11, 13, 15, 17, 19"
+  "numeracja": "1, 3-5, 7-9, 11, 13, 15, 17, 19"
  }, 
  "Szkunerowa": {
   "dlugosc": 177, 
@@ -11529,7 +11529,7 @@
   "dlugosc": 779, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-446", 
-  "numeracja": "2-4, 10, 24"
+  "numeracja": "2-4, 10, 16, 24"
  }, 
  "Wenecja\u0144ska": {
   "dlugosc": 199, 
@@ -12225,7 +12225,7 @@
   "dlugosc": 169, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-055", 
-  "numeracja": "4-5, 7, 9, 11, 13, 15, 17, 19"
+  "numeracja": "4-5, 7-9, 11, 13, 15, 17, 19"
  }, 
  "W\u0142adys\u0142awa Be\u0142zy": {
   "dlugosc": 73, 
