@@ -15,7 +15,7 @@
       "Ogrody",
       "Wsp\u00f3lna"
     ],
-    "przystanki":21,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -92,10 +92,10 @@
   "10":{
     "agency":"MPK",
     "petle":[
-      "Po\u0142abska",
-      "Zaj. G\u0142ogowska"
+      "G\u0142ogowska/Hetma\u0144ska",
+      "Po\u0142abska"
     ],
-    "przystanki":23,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
@@ -572,10 +572,10 @@
   "84":{
     "agency":"MPK",
     "petle":[
-      "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Nowe Zoo",
+      "Rondo Rataje"
     ],
-    "przystanki":26,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
   },
@@ -708,14 +708,6 @@
     ],
     "przystanki":44,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"tram"
-  },
-  "202":{
-    "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":20,
     "typ":"tram"
   },
   "231":{
@@ -1019,27 +1011,33 @@
     "typ":"bus"
   },
   "396":{
+    "agency":"TRANSKOM",
     "petle":[
       "Owi\u0144ska/Stacja",
       "Potasze/Jod\u0142owa"
     ],
     "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
     "typ":"bus"
   },
   "397":{
+    "agency":"TRANSKOM",
     "petle":[
       "Potasze/Jod\u0142owa",
       "Promnice/Klonowa"
     ],
     "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
   },
   "398":{
+    "agency":"TRANSKOM",
     "petle":[
       "D\u0119bog\u00f3ra/D\u0105br\u00f3wki",
       "Kozieg\u0142owy/Piaskowa Szko\u0142a"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
   "511":{
@@ -1118,7 +1116,7 @@
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
-    "przystanki":26,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
@@ -1138,7 +1136,7 @@
       "D\u0119biec",
       "Mosina/D.K."
     ],
-    "przystanki":28,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
@@ -1148,7 +1146,7 @@
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
-    "przystanki":41,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
@@ -1288,7 +1286,7 @@
       "Grzebienisko/P\u0119tla",
       "Ogrody"
     ],
-    "przystanki":33,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/812",
     "typ":"bus"
   },
@@ -1408,7 +1406,7 @@
       "Osiedle Jana III Sobieskiego",
       "Z\u0142otniki/Park Nickel"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/903",
     "typ":"bus"
   },
