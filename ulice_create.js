@@ -8,7 +8,7 @@ var fs = require('fs'),
 	client = new bot('config.js');
 
 var SUMMARY = 'Szkic strony',
-	YEAR = '2016',
+	YEAR = '2017',
 	ULICA = process.argv[2] || '';
 
 if (ULICA === '') {
