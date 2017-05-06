@@ -35,6 +35,10 @@ client.logIn((err, data) => {
 				throw err;
 			}
 
+			if (!data || !data[0]) {
+				throw 'Address not found';
+			}
+
 			var place = data[0];
 			client.log(place);
 
@@ -53,7 +57,7 @@ client.logIn((err, data) => {
 			  class: 'highway',
 			  type: 'residential',
 			  importance: 0.41,
-			  address: 
+			  address:
 			   { road: 'Anny Jantar',
 			     neighbourhood: 'Łacina',
 			     suburb: 'Rataje',
