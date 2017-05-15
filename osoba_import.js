@@ -44,10 +44,10 @@ client.logIn(function(err) {
 				firstPara = parsed.match(/<p>(<b>[^\n]+)<\/p>/),
 				born, died;
 
-			if (!image) throw 'No image match';
+			//if (!image) throw 'No image match';
 			if (!firstPara) throw 'No paragraph match';
 
-			image = decodeURIComponent(image[1]);
+			image = (image && decodeURIComponent(image[1])) || '';
 			firstPara = firstPara[0];
 
 			firstPara = firstPara.
@@ -61,8 +61,8 @@ client.logIn(function(err) {
 				replace(/<[^>]+>/g, '');
 
 			// bio
-			born = firstPara.match(/ur. (\d+ [^\s]+ \d{4})/);
-			died = firstPara.match(/zm. (\d+ [^\s]+ \d{4})/);
+			born = firstPara.match(/ur. (\d+ [^\s]+ \d{4})/) || '';
+			died = firstPara.match(/zm. (\d+ [^\s]+ \d{4})/) || '';
 
 			if (born && died) {
 				born = formatDate(born[1]);
