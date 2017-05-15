@@ -93,6 +93,8 @@ client.logIn((err, data) => {
 == Źródła ==
 <references />`;
 
+			content = content.replace(/undefined[\s,]*/g, '');
+
 			client.log(content);
 
 			// edytuj
