@@ -861,7 +861,7 @@
   "dlugosc": 1430, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "3, 5, 11, 13, 15-17, 19, 21, 23, 25, 27, 29-31, 33, 35, 37, 39, 41, 43, 45, 51, 53, 55, 59, 61"
+  "numeracja": "3, 5, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 51, 53, 55, 59, 61"
  }, 
  "Boles\u0142awa Czerwi\u0144skiego": {
   "dlugosc": 74, 
@@ -1557,7 +1557,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-480", 
-  "numeracja": false
+  "numeracja": "6, 13"
  }, 
  "Cybi\u0144ska": {
   "dlugosc": 35, 
@@ -3542,7 +3542,7 @@
  "Ignacego Kaczmarka": {
   "dlugosc": 335, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-475", 
+  "kody_pocztowe": "60-475,60-688", 
   "numeracja": "11, 13, 15, 17, 21-22, 24-58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98"
  }, 
  "Ignacego Krasickiego": {
@@ -4790,8 +4790,8 @@
  "Kazimierza Jarochowskiego": {
   "dlugosc": 945, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-129,60-131,60-235,60-238,60-239,60-246,60-248", 
-  "numeracja": "1-2, 4-6, 8, 10, 12, 14, 16, 18, 26, 28, 30, 32, 34, 36, 38-45, 47-59, 61-63, 65, 67-71, 73, 75, 77, 87-88, 93, 95, 97, 99, 101, 103, 105"
+  "kody_pocztowe": "60-129,60-131,60-132,60-235,60-238,60-239,60-246,60-248", 
+  "numeracja": "1-2, 4-6, 8, 10, 12, 14, 16, 18, 26, 28, 30, 32, 34, 36, 38-45, 47-59, 61-63, 65, 67-71, 73, 75, 77, 81, 87-88, 93, 95, 97, 99, 101, 103, 105"
  }, 
  "Kazimierza Kantaka": {
   "dlugosc": 127, 
@@ -10665,7 +10665,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-480", 
-  "numeracja": false
+  "numeracja": "5"
  }, 
  "Szamoci\u0144ska": {
   "dlugosc": 132, 
@@ -12921,7 +12921,7 @@
   "dlugosc": 2183, 
   "dzielnica": false, 
   "kody_pocztowe": "61-131,61-245", 
-  "numeracja": "4, 6, 73, 77, 88, 96, 100, 116, 158"
+  "numeracja": "4, 6, 73, 77, 88, 91, 96, 100, 116, 158"
  }, 
  "abpa Walentego Dymka": {
   "dlugosc": 2504, 
