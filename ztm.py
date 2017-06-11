@@ -56,7 +56,10 @@ with open("sources/ztm-routes.json") as f:
     routes = json.load(f)
 
 with open("sources/ztm-operators.json") as f:
-    operators = json.load(f)
+    try:
+        operators = json.load(f)
+    except ValueError:
+        operators = {'lines': []}
 
 # generuj dane o liniach i przystankach
 lines = {}
