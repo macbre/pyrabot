@@ -230,7 +230,7 @@
  "Andrychowska": {
   "dlugosc": 1048, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-333,61-341", 
+  "kody_pocztowe": "61-333", 
   "numeracja": "1-21, 23-43, 45, 47, 49, 51, 53, 55, 57, 59"
  }, 
  "Andrzeja Kopy": {
@@ -352,12 +352,6 @@
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": null, 
   "numeracja": false
- }, 
- "Armii Ludowej": {
-  "dlugosc": 123, 
-  "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-695", 
-  "numeracja": "1-9, 11-23, 25"
  }, 
  "Armii Pozna\u0144": {
   "dlugosc": 1657, 
@@ -614,7 +608,7 @@
  "Beskidzka": {
   "dlugosc": 3253, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-415,60-416", 
+  "kody_pocztowe": "60-416", 
   "numeracja": "3, 11, 15, 17, 19, 21, 27, 29, 31, 33, 35, 37, 39, 41, 47, 49, 59, 86, 102, 104, 106, 108, 110, 142, 144, 146, 160, 162, 164, 168, 200, 226, 230"
  }, 
  "Be\u0142chatowska": {
@@ -1971,7 +1965,7 @@
   "dlugosc": 168, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "10, 18"
+  "numeracja": "10, 12, 14, 16, 18, 20"
  }, 
  "Dolska": {
   "dlugosc": 684, 
@@ -3068,7 +3062,7 @@
  "Gubi\u0144ska": {
   "dlugosc": 140, 
   "dzielnica": "Grunwald", 
-  "kody_pocztowe": "60-161,60-163", 
+  "kody_pocztowe": "60-163", 
   "numeracja": "19, 21, 23, 25, 27-30, 36, 38, 40, 42, 44"
  }, 
  "Guliwera": {
@@ -3255,7 +3249,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-002", 
-  "numeracja": "18"
+  "numeracja": "18, 20"
  }, 
  "Haliny Po\u015bwiatowskiej": {
   "dlugosc": 258, 
@@ -3674,6 +3668,12 @@
  "Jacka Malczewskiego": {
   "dlugosc": 54, 
   "dzielnica": "Wilda", 
+  "kody_pocztowe": null, 
+  "numeracja": false
+ }, 
+ "Jacka Rychlewskiego": {
+  "dlugosc": null, 
+  "dzielnica": false, 
   "kody_pocztowe": null, 
   "numeracja": false
  }, 
@@ -4409,12 +4409,6 @@
   "kody_pocztowe": "61-606", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19"
  }, 
- "J\u00f3zefa Paszty": {
-  "dlugosc": 108, 
-  "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-579", 
-  "numeracja": "3, 10"
- }, 
  "J\u00f3zefa Pi\u0142sudskiego": {
   "dlugosc": 1306, 
   "dzielnica": "Nowe Miasto", 
@@ -4569,7 +4563,7 @@
   "dlugosc": 471, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-179", 
-  "numeracja": "5, 9, 22, 26"
+  "numeracja": "5, 7, 9, 22, 26"
  }, 
  "Kamie\u0144ska": {
   "dlugosc": 221, 
@@ -4822,6 +4816,12 @@
   "dzielnica": "Wilda", 
   "kody_pocztowe": "61-418", 
   "numeracja": "3, 5, 7, 9"
+ }, 
+ "Kazimierza Spornego": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": "61-695", 
+  "numeracja": "1-9, 11-23, 25"
  }, 
  "Kazimierza Sza\u0142asa": {
   "dlugosc": 238, 
@@ -5553,7 +5553,7 @@
   "dlugosc": 276, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-361", 
-  "numeracja": "1-4, 6, 8, 10, 12, 17, 19, 21, 23-26, 28, 35, 38-41, 43, 45, 47, 49, 51, 53"
+  "numeracja": "1-4, 6, 8, 10, 12, 15, 17, 19, 21, 23-26, 28, 35, 38-41, 43, 45, 47, 49, 51, 53"
  }, 
  "Ksi\u0119cia J\u00f3zefa": {
   "dlugosc": 438, 
@@ -5937,7 +5937,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": "7-8, 10, 12, 14"
+  "numeracja": "7-8, 10-12, 14"
  }, 
  "Lisa Witalisa": {
   "dlugosc": 248, 
@@ -6076,12 +6076,6 @@
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-606", 
   "numeracja": "1, 3, 5, 7, 9"
- }, 
- "Lucjana Szenwalda": {
-  "dlugosc": 84, 
-  "dzielnica": "Wilda", 
-  "kody_pocztowe": "61-406", 
-  "numeracja": "1-11"
  }, 
  "Ludgardy": {
   "dlugosc": 68, 
@@ -6435,7 +6429,7 @@
   "dlugosc": 281, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1, 3, 9, 12, 14-15, 17"
+  "numeracja": "1, 3, 9, 12, 14-17"
  }, 
  "Marklowicka": {
   "dlugosc": 68, 
@@ -6610,6 +6604,12 @@
   "dzielnica": "Wilda", 
   "kody_pocztowe": "61-418", 
   "numeracja": "4, 6"
+ }, 
+ "Micha\u0142a Sobeskiego": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "Micha\u0142a Tokarzewskiego": {
   "dlugosc": 90, 
@@ -11171,6 +11171,12 @@
   "kody_pocztowe": "61-333", 
   "numeracja": "1-14, 16, 18"
  }, 
+ "Tony Halika": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
+ }, 
  "Topazowa": {
   "dlugosc": 103, 
   "dzielnica": "Stare Miasto", 
@@ -12970,6 +12976,12 @@
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-461", 
   "numeracja": "1-8, 10, 12, 14, 16, 18"
+ }, 
+ "ks. Kazimierza Waseli": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": "61-406", 
+  "numeracja": "1-11"
  }, 
  "ks. Mieczys\u0142awa Radziejewskiego": {
   "dlugosc": 619, 
