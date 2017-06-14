@@ -18,17 +18,17 @@
   "3":{
     "petle":[
       "G\u00f3rczyn",
-      "Wilczak"
+      "G\u00f3rczyn"
     ],
-    "przystanki":32,
+    "przystanki":50,
     "typ":"tram"
   },
   "4":{
     "petle":[
-      "Po\u0142abska",
+      "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":29,
+    "przystanki":40,
     "typ":"tram"
   },
   "5":{
@@ -42,9 +42,9 @@
   "6":{
     "petle":[
       "Budziszy\u0144ska",
-      "Zawady"
+      "Mi\u0142ostowo"
     ],
-    "przystanki":24,
+    "przystanki":29,
     "typ":"tram"
   },
   "7":{
@@ -58,33 +58,33 @@
   "8":{
     "petle":[
       "G\u00f3rczyn",
-      "Zawady"
+      "Mi\u0142ostowo"
     ],
-    "przystanki":18,
+    "przystanki":23,
     "typ":"tram"
   },
   "9":{
     "petle":[
       "D\u0119biec",
-      "Pi\u0105tkowska"
+      "D\u0119biec"
     ],
-    "przystanki":27,
+    "przystanki":32,
     "typ":"tram"
   },
   "10":{
     "petle":[
       "D\u0119biec",
-      "Po\u0142abska"
+      "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":22,
+    "przystanki":20,
     "typ":"tram"
   },
   "11":{
     "petle":[
-      "Pi\u0105tkowska",
+      "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":28,
+    "przystanki":35,
     "typ":"tram"
   },
   "12":{
@@ -148,7 +148,7 @@
       "Dworzec Zachodni",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":10,
+    "przystanki":9,
     "typ":"tram"
   },
   "20":{
@@ -460,7 +460,7 @@
       "Nowe Zoo",
       "Rondo Rataje"
     ],
-    "przystanki":30,
+    "przystanki":29,
     "typ":"bus"
   },
   "85":{
@@ -780,7 +780,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":37,
+    "przystanki":35,
     "typ":"bus"
   },
   "342":{
@@ -828,15 +828,15 @@
       "Franowo",
       "Kamionki/Klonowa"
     ],
-    "przystanki":45,
+    "przystanki":42,
     "typ":"bus"
   },
   "512":{
     "petle":[
-      "Bor\u00f3wiec Szko\u0142a",
+      "Bor\u00f3wiec/D\u0119bowa",
       "Franowo"
     ],
-    "przystanki":40,
+    "przystanki":47,
     "typ":"bus"
   },
   "527":{
@@ -900,7 +900,7 @@
       "D\u0119biec",
       "Mosina/D.K."
     ],
-    "przystanki":26,
+    "przystanki":27,
     "typ":"bus"
   },
   "690":{
@@ -1004,7 +1004,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":31,
+    "przystanki":33,
     "typ":"bus"
   },
   "811":{
@@ -1012,7 +1012,7 @@
       "Lus\u00f3wko/P\u0119tla",
       "Ogrody"
     ],
-    "przystanki":34,
+    "przystanki":29,
     "typ":"bus"
   },
   "812":{
