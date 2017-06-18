@@ -1,1138 +1,1443 @@
 {
   "1":{
+    "agency":"MPK",
     "petle":[
       "Franowo",
       "Junikowo"
     ],
     "przystanki":31,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
   "2":{
+    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "Ogrody"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
   "3":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "G\u00f3rczyn"
     ],
     "przystanki":50,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
   "4":{
+    "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":40,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
   "5":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Stomil"
     ],
     "przystanki":28,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
   "6":{
+    "agency":"MPK",
     "petle":[
       "Budziszy\u0144ska",
       "Mi\u0142ostowo"
     ],
     "przystanki":29,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
   "7":{
+    "agency":"MPK",
     "petle":[
       "Ogrody",
       "Zawady"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
   "8":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Mi\u0142ostowo"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
   "9":{
+    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "D\u0119biec"
     ],
     "przystanki":32,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
   "10":{
+    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":20,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
   "11":{
+    "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":35,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
   "12":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
   "13":{
+    "agency":"MPK",
     "petle":[
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":33,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
   "14":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
   },
   "15":{
+    "agency":"MPK",
     "petle":[
       "Budziszy\u0144ska",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
   "16":{
+    "agency":"MPK",
     "petle":[
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
   "17":{
+    "agency":"MPK",
     "petle":[
       "Ogrody",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
   "18":{
+    "agency":"MPK",
     "petle":[
       "Franowo",
       "Ogrody"
     ],
     "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
   "20":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":31,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
   "44":{
+    "agency":"MPK",
     "petle":[
       "Boranta/Park Naukowo-Technologiczny",
       "Kurpi\u0144skiego"
     ],
     "przystanki":9,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/44",
     "typ":"bus"
   },
   "45":{
+    "agency":"MPK",
     "petle":[
       "Dworzec Zachodni",
       "Kacza"
     ],
     "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/45",
     "typ":"bus"
   },
   "46":{
+    "agency":"MPK",
     "petle":[
       "Boranta/Park Naukowo-Technologiczny",
       "Strzeszyn"
     ],
     "przystanki":28,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/46",
     "typ":"bus"
   },
   "47":{
+    "agency":"MPK",
     "petle":[
       "Boranta/Park Naukowo-Technologiczny",
       "Chwaliszewo"
     ],
     "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/47",
     "typ":"bus"
   },
   "48":{
+    "agency":"MPK",
     "petle":[
       "Ba\u0142tyk",
       "\u0141awica"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/48",
     "typ":"bus"
   },
   "49":{
+    "agency":"MPK",
     "petle":[
       "Azaliowa",
       "G\u00f3rczyn"
     ],
     "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/49",
     "typ":"bus"
   },
   "50":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Ogrody"
     ],
     "przystanki":18,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/50",
     "typ":"bus"
   },
   "51":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":26,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/51",
     "typ":"bus"
   },
   "52":{
+    "agency":"MPK",
     "petle":[
       "Darzyb\u00f3r",
       "Rondo Rataje"
     ],
     "przystanki":21,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/52",
     "typ":"bus"
   },
   "54":{
+    "agency":"MPK",
     "petle":[
       "Franowo",
       "Sp\u0142awie"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/54",
     "typ":"bus"
   },
   "55":{
+    "agency":"MPK",
     "petle":[
       "Rondo Rataje",
       "Zalasewo/Planetarna Gimnazjum"
     ],
     "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/55",
     "typ":"bus"
   },
   "56":{
+    "agency":"MPK",
     "petle":[
       "Krzy\u017cowniki",
       "Ogrody"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56",
     "typ":"bus"
   },
   "57":{
+    "agency":"MPK",
     "petle":[
       "Mogile\u0144ska",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/57",
     "typ":"bus"
   },
   "58":{
+    "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
       "Sypniewo"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/58",
     "typ":"bus"
   },
   "59":{
+    "agency":"MPK",
     "petle":[
       "Port Lotniczy \u0141awica",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/59",
     "typ":"bus"
   },
   "60":{
+    "agency":"MPK",
     "petle":[
       "Garbary",
       "Strzeszyn"
     ],
     "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
   "61":{
+    "agency":"MPK",
     "petle":[
       "Krzy\u017cowniki",
       "Ogrody"
     ],
     "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/61",
     "typ":"bus"
   },
   "62":{
+    "agency":"MPK",
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
     ],
     "przystanki":37,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/62",
     "typ":"bus"
   },
   "63":{
+    "agency":"MPK",
     "petle":[
       "Garbary",
       "G\u00f3rczyn"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/63",
     "typ":"bus"
   },
   "64":{
+    "agency":"MPK",
     "petle":[
       "Kacza",
       "Puszkina"
     ],
     "przystanki":31,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/64",
     "typ":"bus"
   },
   "65":{
+    "agency":"MPK",
     "petle":[
       "Rondo Rataje",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":11,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/65",
     "typ":"bus"
   },
   "66":{
+    "agency":"MPK",
     "petle":[
       "Rondo Rataje",
       "Zieliniec"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/66",
     "typ":"bus"
   },
   "67":{
+    "agency":"MPK",
     "petle":[
       "Radojewo",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/67",
     "typ":"bus"
   },
   "68":{
+    "agency":"MPK",
     "petle":[
       "Podolany",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/68",
     "typ":"bus"
   },
   "69":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Kopernika",
       "Osiedle \u0141okietka"
     ],
     "przystanki":30,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/69",
     "typ":"bus"
   },
   "71":{
+    "agency":"MPK",
     "petle":[
       "Osiedle D\u0119bina",
       "Osiedle Wichrowe Wzg\u00f3rze"
     ],
     "przystanki":28,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/71",
     "typ":"bus"
   },
   "73":{
+    "agency":"MPK",
     "petle":[
       "Janikowo",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/73",
     "typ":"bus"
   },
   "74":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
     ],
     "przystanki":30,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/74",
     "typ":"bus"
   },
   "75":{
+    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "G\u00f3rczyn"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/75",
     "typ":"bus"
   },
   "76":{
+    "agency":"MPK",
     "petle":[
       "Osiedle D\u0119bina",
       "Plac Bernardy\u0144ski"
     ],
     "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/76",
     "typ":"bus"
   },
   "77":{
+    "agency":"MPK",
     "petle":[
       "Junikowo",
       "Rondo Kaponiera"
     ],
     "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/77",
     "typ":"bus"
   },
   "78":{
+    "agency":"MPK",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Szarych Szereg\u00f3w"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/78",
     "typ":"bus"
   },
   "79":{
+    "agency":"MPK",
     "petle":[
       "D\u0119biec",
       "Kacza"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/79",
     "typ":"bus"
   },
   "80":{
+    "agency":"MPK",
     "petle":[
       "Auchan/Sycowska",
       "G\u00f3rczyn"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/80",
     "typ":"bus"
   },
   "81":{
+    "agency":"MPK",
     "petle":[
       "M1 Centrum Handlowe",
       "Rondo Rataje"
     ],
     "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/81",
     "typ":"bus"
   },
   "82":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Osiedle Wichrowe Wzg\u00f3rze"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/82",
     "typ":"bus"
   },
   "83":{
+    "agency":"MPK",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Szarych Szereg\u00f3w"
     ],
     "przystanki":28,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/83",
     "typ":"bus"
   },
   "84":{
+    "agency":"MPK",
     "petle":[
       "Nowe Zoo",
       "Rondo Rataje"
     ],
     "przystanki":29,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
   },
   "85":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/85",
     "typ":"bus"
   },
   "86":{
+    "agency":"MPK",
     "petle":[
       "Kiekrz",
       "Ogrody"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/86",
     "typ":"bus"
   },
   "87":{
+    "agency":"MPK",
     "petle":[
       "Pi\u0105tkowska",
       "Uam Os. R\u00f3\u017cany Potok"
     ],
     "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/87",
     "typ":"bus"
   },
   "89":{
+    "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":20,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/89",
     "typ":"bus"
   },
   "90":{
+    "agency":"MPK",
     "petle":[
       "Kazimierza Wielkiego",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/90",
     "typ":"bus"
   },
   "91":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Kopernika"
     ],
     "przystanki":30,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91",
     "typ":"bus"
   },
   "92":{
+    "agency":"MPK",
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"bus"
   },
   "93":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93",
     "typ":"bus"
   },
   "94":{
+    "agency":"MPK",
     "petle":[
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":20,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/94",
     "typ":"bus"
   },
   "95":{
+    "agency":"MPK",
     "petle":[
       "Kiekrz",
       "Ogrody"
     ],
     "przystanki":21,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/95",
     "typ":"bus"
   },
   "96":{
+    "agency":"MPK",
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
     ],
     "przystanki":39,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96",
     "typ":"bus"
   },
   "98":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Uam Os. R\u00f3\u017cany Potok"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
   "201":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":44,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Rondo Rataje"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "232":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Osiedle Rusa",
       "Rondo Kaponiera"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/232",
     "typ":"bus"
   },
   "233":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Mogile\u0144ska",
       "Rondo Kaponiera"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/233",
     "typ":"bus"
   },
   "234":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Osiedle Batorego II",
       "Rondo Kaponiera"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/234",
     "typ":"bus"
   },
   "235":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/235",
     "typ":"bus"
   },
   "236":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":44,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/236",
     "typ":"bus"
   },
   "237":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Kozieg\u0142owy/Os. Le\u015bne",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/237",
     "typ":"bus"
   },
   "238":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Franowo",
       "Rondo Kaponiera"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
   },
   "239":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Wichrowa"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
     "typ":"bus"
   },
   "240":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Kacza",
       "Rondo Kaponiera"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
   "242":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Port Lotniczy \u0141awica",
       "Rondo Kaponiera"
     ],
     "przystanki":22,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/242",
     "typ":"bus"
   },
   "243":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Osiedle D\u0119bina",
       "Rondo Kaponiera"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/243",
     "typ":"bus"
   },
   "244":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/244",
     "typ":"bus"
   },
   "245":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Mogile\u0144ska",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":25,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/245",
     "typ":"bus"
   },
   "246":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":46,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/246",
     "typ":"bus"
   },
   "247":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Rondo Rataje",
       "Sypniewo"
     ],
     "przystanki":30,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/247",
     "typ":"bus"
   },
   "248":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Radojewo",
       "Rondo Kaponiera"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/248",
     "typ":"bus"
   },
   "249":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "D\u0119biec",
       "Rondo Kaponiera"
     ],
     "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
   "251":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Junikowo Stacja",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":18,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
     "typ":"bus"
   },
   "252":{
+    "agency":"MPK",
+    "night":true,
     "petle":[
       "Kacza",
       "Rondo Kaponiera"
     ],
     "przystanki":18,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
   "312":{
+    "agency":"TRANSKOM",
     "petle":[
       "Promnice/P\u00f3\u0142nocna",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/312",
     "typ":"bus"
   },
   "320":{
+    "agency":"MPK",
     "petle":[
       "Kozieg\u0142owy/Zak\u0142ady Drobiarskie",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/320",
     "typ":"bus"
   },
   "321":{
+    "agency":"MPK",
     "petle":[
       "Kicin/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/321",
     "typ":"bus"
   },
   "322":{
+    "agency":"MPK",
     "petle":[
       "Czerwonak/Cmentarz",
       "Pi\u0105tkowska"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/322",
     "typ":"bus"
   },
   "323":{
+    "agency":"TRANSKOM",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Tuczno/P\u0119tla"
     ],
     "przystanki":31,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/323",
     "typ":"bus"
   },
   "341":{
+    "agency":"MPK",
     "petle":[
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":35,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/341",
     "typ":"bus"
   },
   "342":{
+    "agency":"TRANSKOM",
     "petle":[
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":39,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/342",
     "typ":"bus"
   },
   "348":{
+    "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Przeb\u0119dowo/P\u0119tla"
     ],
     "przystanki":37,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
     "typ":"bus"
   },
   "396":{
+    "agency":"TRANSKOM",
     "petle":[
       "Owi\u0144ska/Stacja",
       "Potasze/Jod\u0142owa"
     ],
     "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
     "typ":"bus"
   },
   "397":{
+    "agency":"TRANSKOM",
     "petle":[
       "Potasze/Jod\u0142owa",
       "Promnice/Klonowa"
     ],
     "przystanki":8,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
   },
   "398":{
+    "agency":"TRANSKOM",
     "petle":[
       "D\u0119bog\u00f3ra/D\u0105br\u00f3wki",
       "Kozieg\u0142owy/Piaskowa Szko\u0142a"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
   "511":{
+    "agency":"KOMBUS",
     "petle":[
       "Franowo",
       "Kamionki/Klonowa"
     ],
     "przystanki":42,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/511",
     "typ":"bus"
   },
   "512":{
+    "agency":"KOMBUS",
     "petle":[
       "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
     "przystanki":40,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
   "527":{
+    "agency":"KOMBUS",
     "petle":[
       "Kamionki P\u0119tla",
       "Staro\u0142\u0119ka"
     ],
     "przystanki":32,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/527",
     "typ":"bus"
   },
   "602":{
+    "agency":"TRANSLUB",
     "petle":[
       "D\u0119biec",
       "\u0141\u0119czyca/Dworcowa."
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/602",
     "typ":"bus"
   },
   "603":{
+    "agency":"TRANSLUB",
     "petle":[
       "Plac Bernardy\u0144ski",
       "\u0141\u0119czyca/Dworcowa."
     ],
     "przystanki":20,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
     "typ":"bus"
   },
   "610":{
+    "agency":"TRANSLUB",
     "petle":[
       "D\u0119biec",
       "G\u00f3rczyn"
     ],
     "przystanki":26,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/610",
     "typ":"bus"
   },
   "611":{
+    "agency":"TRANSLUB",
     "petle":[
       "D\u0119biec",
       "Lubo\u0144 \u017babikowo"
     ],
     "przystanki":13,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/611",
     "typ":"bus"
   },
   "614":{
+    "agency":"TRANSLUB",
     "petle":[
       "G\u00f3rczyn",
       "Lubo\u0144/Kr\u0119ta"
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
   "616":{
+    "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
       "Lubo\u0144 \u017babikowo"
     ],
     "przystanki":12,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
     "typ":"bus"
   },
   "651":{
+    "agency":"TRANSLUB",
     "petle":[
       "D\u0119biec",
       "Mosina/D.K."
     ],
     "przystanki":27,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
   "690":{
+    "agency":"TRANSLUB",
     "petle":[
       "Auchan/Sycowska",
       "Auchan/Sycowska"
     ],
     "przystanki":40,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
   "701":{
+    "agency":"PUK",
     "petle":[
       "G\u00f3rczyn",
       "Komorniki/Jeziorna"
     ],
     "przystanki":33,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
     "typ":"bus"
   },
   "702":{
+    "agency":"PUK",
     "petle":[
       "G\u00f3rczyn",
       "Komorniki/Os. Zielone Wzg\u00f3rze"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/702",
     "typ":"bus"
   },
   "703":{
+    "agency":"PUK",
     "petle":[
       "G\u00f3rczyn",
       "Konarzewo/P\u0119tla"
     ],
     "przystanki":23,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/703",
     "typ":"bus"
   },
   "704":{
+    "agency":"PUK",
     "petle":[
       "G\u00f3rczyn",
       "Komorniki/Kolumba"
     ],
     "przystanki":11,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704",
     "typ":"bus"
   },
   "710":{
+    "agency":"PUK",
     "petle":[
       "G\u00f3rczyn",
       "Plewiska/Ko\u015bci\u00f3\u0142"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/710",
     "typ":"bus"
   },
   "716":{
+    "agency":"PUK",
     "petle":[
       "G\u0142uchowo/Stawna",
       "Junikowo"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716",
     "typ":"bus"
   },
   "727":{
+    "agency":"MPK",
     "petle":[
       "D\u0105br\u00f3wka/Szko\u0142a",
       "Junikowo"
     ],
     "przystanki":17,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/727",
     "typ":"bus"
   },
   "729":{
+    "agency":"PUK",
     "petle":[
       "Dopiewo, D.K.",
       "Ogrody"
     ],
     "przystanki":36,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
   "801":{
+    "agency":"MPK",
     "petle":[
       "Baranowo/Os. Rubinowe",
       "Ogrody"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/801",
     "typ":"bus"
   },
   "802":{
+    "agency":"TPBUS",
     "petle":[
       "Ogrody",
       "Tarnowo Pdg/Centrum"
     ],
     "przystanki":35,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/802",
     "typ":"bus"
   },
   "803":{
+    "agency":"TPBUS",
     "petle":[
       "Junikowo",
       "Ogrody"
     ],
     "przystanki":32,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/803",
     "typ":"bus"
   },
   "804":{
+    "agency":"TPBUS",
     "petle":[
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
     "przystanki":31,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/804",
     "typ":"bus"
   },
   "811":{
+    "agency":"TPBUS",
     "petle":[
       "Lus\u00f3wko/P\u0119tla",
       "Ogrody"
     ],
     "przystanki":34,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/811",
     "typ":"bus"
   },
   "812":{
+    "agency":"TPBUS",
     "petle":[
       "Grzebienisko/P\u0119tla",
       "Ogrody"
     ],
     "przystanki":34,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/812",
     "typ":"bus"
   },
   "813":{
+    "agency":"TPBUS",
     "petle":[
       "Ka\u017amierz/Rynek",
       "Ogrody"
     ],
     "przystanki":32,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
   },
   "821":{
+    "agency":"TPBUS",
     "petle":[
       "Lus\u00f3wko/Ko\u015bci\u00f3\u0142",
       "Ogrody"
     ],
     "przystanki":35,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
     "typ":"bus"
   },
   "830":{
+    "agency":"ROKBUS",
     "petle":[
       "Kobylniki/Lipowa",
       "Paw\u0142owice/P\u0119tla"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/830",
     "typ":"bus"
   },
   "832":{
+    "agency":"ROKBUS",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Przybroda/P\u0119tla"
     ],
     "przystanki":33,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/832",
     "typ":"bus"
   },
   "833":{
+    "agency":"ROKBUS",
     "petle":[
       "Ogrody",
       "Starzyny/Rynkowa"
     ],
     "przystanki":37,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/833",
     "typ":"bus"
   },
   "834":{
+    "agency":"ROKBUS",
     "petle":[
       "Ogrody",
       "\u017bydowo/P\u0119tla"
     ],
     "przystanki":44,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/834",
     "typ":"bus"
   },
   "882":{
+    "agency":"TPBUS",
     "petle":[
       "Rokietnica/Stacja",
       "Tarnowo Pdg/Ostatnia"
     ],
     "przystanki":15,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
     "typ":"bus"
   },
   "891":{
+    "agency":"ROKBUS",
     "petle":[
       "Mrowino/Szko\u0142a",
       "Rokietnica/Stacja"
     ],
     "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/891",
     "typ":"bus"
   },
   "893":{
+    "agency":"ROKBUS",
     "petle":[
       "Rokietnica/Stacja",
       "\u017bydowo/P\u0119tla"
     ],
     "przystanki":14,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
     "typ":"bus"
   },
   "901":{
+    "agency":"ZKP",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Z\u0142otniki/Os. Grzybowe"
     ],
     "przystanki":19,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/901",
     "typ":"bus"
   },
   "902":{
+    "agency":"ZKP",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Suchy Las/Dzia\u0142ki"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/902",
     "typ":"bus"
   },
   "903":{
+    "agency":"ZKP",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Z\u0142otniki/Park Nickel"
     ],
     "przystanki":16,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/903",
     "typ":"bus"
   },
   "904":{
+    "agency":"ZKP",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Z\u0142otniki/Wie\u015b"
     ],
     "przystanki":21,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/904",
     "typ":"bus"
   },
   "905":{
+    "agency":"ZKP",
     "petle":[
       "Chludowo/Szko\u0142a",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "przystanki":48,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/905",
     "typ":"bus"
   },
   "907":{
+    "agency":"ZKP",
     "petle":[
       "Chludowo/Szko\u0142a",
       "Osiedle Jana III Sobieskiego"
     ],
     "przystanki":34,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/907",
     "typ":"bus"
   },
   "911":{
+    "agency":"MPK",
     "petle":[
       "Biedrusko/Park",
       "Rondo \u015ar\u00f3dka"
     ],
     "przystanki":29,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   }
 }
