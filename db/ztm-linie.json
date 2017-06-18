@@ -143,14 +143,6 @@
     "przystanki":24,
     "typ":"tram"
   },
-  "19":{
-    "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Jana III Sobieskiego"
-    ],
-    "przystanki":9,
-    "typ":"tram"
-  },
   "20":{
     "petle":[
       "Osiedle Jana III Sobieskiego",
@@ -559,14 +551,6 @@
     "przystanki":10,
     "typ":"bus"
   },
-  "195":{
-    "petle":[
-      "Rondo Kaponiera",
-      "Strzeszynek"
-    ],
-    "przystanki":16,
-    "typ":"bus"
-  },
   "201":{
     "petle":[
       "Osiedle Jana III Sobieskiego",
@@ -833,10 +817,10 @@
   },
   "512":{
     "petle":[
-      "Bor\u00f3wiec/D\u0119bowa",
+      "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":40,
     "typ":"bus"
   },
   "527":{
@@ -988,7 +972,7 @@
       "Ogrody",
       "Tarnowo Pdg/Centrum"
     ],
-    "przystanki":33,
+    "przystanki":35,
     "typ":"bus"
   },
   "803":{
@@ -1004,7 +988,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":33,
+    "przystanki":31,
     "typ":"bus"
   },
   "811":{
@@ -1012,7 +996,7 @@
       "Lus\u00f3wko/P\u0119tla",
       "Ogrody"
     ],
-    "przystanki":29,
+    "przystanki":34,
     "typ":"bus"
   },
   "812":{
