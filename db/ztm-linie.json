@@ -15,27 +15,17 @@
       "D\u0119biec",
       "Ogrody"
     ],
-    "przystanki":22,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
-    "typ":"tram"
-  },
-  "3":{
-    "agency":"MPK",
-    "petle":[
-      "G\u00f3rczyn",
-      "G\u00f3rczyn"
-    ],
-    "przystanki":50,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
   "4":{
     "agency":"MPK",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Po\u0142abska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":40,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
@@ -49,23 +39,13 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
-  "6":{
-    "agency":"MPK",
-    "petle":[
-      "Budziszy\u0144ska",
-      "Mi\u0142ostowo"
-    ],
-    "przystanki":29,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
-    "typ":"tram"
-  },
   "7":{
     "agency":"MPK",
     "petle":[
-      "Ogrody",
-      "Zawady"
+      "Mi\u0142ostowo",
+      "Ogrody"
     ],
-    "przystanki":23,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -83,9 +63,9 @@
     "agency":"MPK",
     "petle":[
       "D\u0119biec",
-      "D\u0119biec"
+      "Pi\u0105tkowska"
     ],
-    "przystanki":32,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
@@ -93,30 +73,20 @@
     "agency":"MPK",
     "petle":[
       "D\u0119biec",
-      "Osiedle Jana III Sobieskiego"
+      "Po\u0142abska"
     ],
-    "przystanki":20,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
   "11":{
     "agency":"MPK",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Pi\u0105tkowska",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":35,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
-    "typ":"tram"
-  },
-  "12":{
-    "agency":"MPK",
-    "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Staro\u0142\u0119ka"
-    ],
-    "przystanki":25,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
   "13":{
@@ -125,7 +95,7 @@
       "Junikowo",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":33,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -145,7 +115,7 @@
       "Budziszy\u0144ska",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":19,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
@@ -169,23 +139,13 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
-  "18":{
-    "agency":"MPK",
-    "petle":[
-      "Franowo",
-      "Ogrody"
-    ],
-    "przystanki":24,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
-    "typ":"tram"
-  },
   "20":{
     "agency":"MPK",
     "petle":[
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":31,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20",
     "typ":"tram"
   },
@@ -213,9 +173,9 @@
     "agency":"MPK",
     "petle":[
       "Boranta/Park Naukowo-Technologiczny",
-      "Strzeszyn"
+      "Strzeszynek"
     ],
-    "przystanki":28,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/46",
     "typ":"bus"
   },
@@ -402,10 +362,10 @@
   "66":{
     "agency":"MPK",
     "petle":[
-      "Rondo Rataje",
-      "Zieliniec"
+      "G\u00f3rska",
+      "Rondo Rataje"
     ],
-    "przystanki":23,
+    "przystanki":22,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/66",
     "typ":"bus"
   },
@@ -589,16 +549,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/86",
     "typ":"bus"
   },
-  "87":{
-    "agency":"MPK",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Uam Os. R\u00f3\u017cany Potok"
-    ],
-    "przystanki":14,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/87",
-    "typ":"bus"
-  },
   "89":{
     "agency":"MPK",
     "petle":[
@@ -615,7 +565,7 @@
       "Kazimierza Wielkiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":27,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/90",
     "typ":"bus"
   },
@@ -926,7 +876,7 @@
       "Promnice/P\u00f3\u0142nocna",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":27,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/312",
     "typ":"bus"
   },
@@ -986,7 +936,7 @@
       "Przeb\u0119dowo/P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
-    "przystanki":39,
+    "przystanki":43,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/342",
     "typ":"bus"
   },
@@ -1003,31 +953,11 @@
   "396":{
     "agency":"TRANSKOM",
     "petle":[
-      "Owi\u0144ska/Stacja",
+      "Kozieg\u0142owy/Piaskowa Szko\u0142a",
       "Potasze/Jod\u0142owa"
     ],
-    "przystanki":8,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
-    "typ":"bus"
-  },
-  "397":{
-    "agency":"TRANSKOM",
-    "petle":[
-      "Potasze/Jod\u0142owa",
-      "Promnice/Klonowa"
-    ],
-    "przystanki":8,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
-    "typ":"bus"
-  },
-  "398":{
-    "agency":"TRANSKOM",
-    "petle":[
-      "D\u0119bog\u00f3ra/D\u0105br\u00f3wki",
-      "Kozieg\u0142owy/Piaskowa Szko\u0142a"
-    ],
-    "przystanki":19,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
   "511":{
@@ -1196,7 +1126,7 @@
       "G\u0142uchowo/Stawna",
       "Junikowo"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716",
     "typ":"bus"
   },
@@ -1236,7 +1166,7 @@
       "Ogrody",
       "Tarnowo Pdg/Centrum"
     ],
-    "przystanki":35,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/802",
     "typ":"bus"
   },
