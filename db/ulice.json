@@ -2601,7 +2601,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1"
+  "numeracja": "1, 8"
  }, 
  "Fryderyka Skarbka": {
   "dlugosc": 421, 
@@ -3783,7 +3783,7 @@
   "dlugosc": 202, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-465", 
-  "numeracja": "4, 7-9, 13, 15-18, 20"
+  "numeracja": "4, 7-9, 13-18, 20"
  }, 
  "Jana Lubra\u0144skiego": {
   "dlugosc": 162, 
@@ -6171,7 +6171,7 @@
   "dlugosc": 1873, 
   "dzielnica": false, 
   "kody_pocztowe": "60-241,60-242,60-273,60-274,60-278,60-279,60-308", 
-  "numeracja": "3, 5, 7-13, 15, 18, 20-23, 25-30, 35-36, 38, 41, 43, 45, 67, 70-72, 74-78, 80-82, 84, 86-94, 96-117, 119-127, 129, 131, 133-136, 138, 140-141, 143, 145, 147, 149"
+  "numeracja": "3, 5, 7-13, 15, 18, 20-23, 25-30, 35-36, 38, 41, 43, 45, 67, 70-72, 74-78, 80-82, 84, 86-94, 96-117, 119-127, 129, 131, 133-136, 138, 140-141, 143-145, 147, 149"
  }, 
  "Macieja Rataja": {
   "dlugosc": 822, 
@@ -6395,6 +6395,12 @@
   "kody_pocztowe": "60-461", 
   "numeracja": "1, 4, 6-7"
  }, 
+ "Marii Lange": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
+ }, 
  "Marii Pawlikowskiej - Jasnorzewskiej": {
   "dlugosc": null, 
   "dzielnica": false, 
@@ -6609,7 +6615,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-579", 
-  "numeracja": false
+  "numeracja": "1-2"
  }, 
  "Micha\u0142a Tokarzewskiego": {
   "dlugosc": 90, 
@@ -6909,7 +6915,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": "8-9, 11, 13, 15, 17, 19"
+  "numeracja": "8-9, 11, 13, 15, 17-19"
  }, 
  "Moniki Ceg\u0142owskiej": {
   "dlugosc": null, 
@@ -8697,7 +8703,7 @@
   "dlugosc": 207, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-175", 
-  "numeracja": "3, 8, 10, 12, 14, 17, 23, 27, 31, 41, 43, 53, 57, 67, 69"
+  "numeracja": "3, 8, 10, 12, 14, 17, 23, 27, 31, 33, 41, 43, 53, 57, 67, 69"
  }, 
  "Przedborska": {
   "dlugosc": 168, 
@@ -9479,6 +9485,12 @@
   "kody_pocztowe": "60-765", 
   "numeracja": "1-2, 5"
  }, 
+ "Ryszarda Kaczorowskiego": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": "61-695", 
+  "numeracja": "1-12, 14-22, 24"
+ }, 
  "Rzecza\u0144ska": {
   "dlugosc": 403, 
   "dzielnica": "Nowe Miasto", 
@@ -9686,8 +9698,8 @@
  "Sianokosy": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
-  "numeracja": false
+  "kody_pocztowe": "61-313", 
+  "numeracja": "9"
  }, 
  "Sianowska": {
   "dlugosc": 1588, 
@@ -11174,8 +11186,8 @@
  "Tony Halika": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
-  "numeracja": false
+  "kody_pocztowe": "61-329", 
+  "numeracja": "11"
  }, 
  "Topazowa": {
   "dlugosc": 103, 
@@ -12807,7 +12819,7 @@
   "dlugosc": 241, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-813,60-814", 
-  "numeracja": "3, 7, 9-10, 13-15, 17-20, 24, 28, 37, 39, 41"
+  "numeracja": "3, 7, 9-10, 13-15, 17-20, 24, 28, 30, 32, 37, 39, 41"
  }, 
  "Zwi\u0105zku Walki Zbrojnej": {
   "dlugosc": 170, 
@@ -12820,12 +12832,6 @@
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "61-482", 
   "numeracja": "1-20, 22, 24, 26, 28, 30"
- }, 
- "Zygmunta Berlinga": {
-  "dlugosc": 86, 
-  "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": null, 
-  "numeracja": "1-12, 14-22, 24"
  }, 
  "Zygmunta Krasi\u0144skiego": {
   "dlugosc": 180, 
@@ -13616,8 +13622,8 @@
  "\u017be\u0144c\u00f3w": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
-  "numeracja": false
+  "kody_pocztowe": "61-313", 
+  "numeracja": "1, 3, 5, 7, 9"
  }, 
  "\u017blebowa": {
   "dlugosc": 170, 
