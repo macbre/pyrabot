@@ -2084,8 +2084,8 @@
  "Dyniowa": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
-  "numeracja": false
+  "kody_pocztowe": "61-314", 
+  "numeracja": "3"
  }, 
  "Dynowska": {
   "dlugosc": null, 
@@ -4239,7 +4239,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461,60-463", 
-  "numeracja": "9, 13, 15"
+  "numeracja": "9, 13, 15, 19"
  }, 
  "Jugos\u0142owia\u0144ska": {
   "dlugosc": 1119, 
@@ -6423,7 +6423,7 @@
   "dlugosc": 444, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-465", 
-  "numeracja": "1, 3-7, 9, 11-13, 15, 17, 19, 21, 23-24, 26, 28-30, 32-33, 35-36, 38, 40, 42-46, 48"
+  "numeracja": "1, 3-13, 15, 17, 19, 21, 23-24, 26, 28-30, 32-33, 35-36, 38, 40, 42-46, 48"
  }, 
  "Marii i Celestyna Rydlewskich": {
   "dlugosc": null, 
@@ -7305,7 +7305,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "61-306", 
-  "numeracja": "2, 8, 10, 12, 18, 22, 26, 30"
+  "numeracja": "2-3, 8, 10, 12, 18, 22, 26, 30"
  }, 
  "Nidzia\u0144ska": {
   "dlugosc": 105, 
@@ -7587,7 +7587,7 @@
   "dlugosc": 451, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-315", 
-  "numeracja": "22, 28, 30, 32, 34, 38"
+  "numeracja": "22, 26, 28, 30, 32, 34, 38"
  }, 
  "Olchowa": {
   "dlugosc": 148, 
@@ -8379,7 +8379,7 @@
   "dlugosc": 269, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-615", 
-  "numeracja": "1-14, 18-27"
+  "numeracja": "1-14, 16, 18-27"
  }, 
  "Podstoli\u0144ska": {
   "dlugosc": 150, 
@@ -8559,7 +8559,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "61-313", 
-  "numeracja": "4, 8, 14, 16"
+  "numeracja": "4, 8, 14, 16, 19"
  }, 
  "Powsta\u0144cza": {
   "dlugosc": 235, 
@@ -9357,7 +9357,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "61-324", 
-  "numeracja": "4"
+  "numeracja": "4, 6"
  }, 
  "Rudnicze": {
   "dlugosc": 93, 
@@ -9915,7 +9915,7 @@
   "dlugosc": 626, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-312", 
-  "numeracja": "2-5, 7, 9-11, 14-15, 17-19, 21, 26, 31, 33, 35, 37, 39"
+  "numeracja": "2-5, 7, 9-12, 14-15, 17-19, 21, 26, 31, 33, 35, 37, 39"
  }, 
  "Sobies\u0142awa": {
   "dlugosc": 187, 
@@ -10527,7 +10527,7 @@
   "dlugosc": 629, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-323", 
-  "numeracja": "1, 3-10, 15, 17, 19, 31, 33, 35, 37, 39, 41"
+  "numeracja": "1, 3-10, 15, 17, 19-20, 31, 33, 35, 37, 39, 41"
  }, 
  "Studzienna": {
   "dlugosc": 237, 
@@ -11505,7 +11505,7 @@
   "dlugosc": 144, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-332", 
-  "numeracja": "3, 5, 7, 9, 11, 13, 15"
+  "numeracja": "3, 5, 7, 9, 11-13, 15"
  }, 
  "Wac\u0142awa Stra\u017cewicza": {
   "dlugosc": 155, 
@@ -11732,7 +11732,7 @@
  "Wielka": {
   "dlugosc": 145, 
   "dzielnica": "Stare Miasto", 
-  "kody_pocztowe": "61-761,61-774,61-775", 
+  "kody_pocztowe": "61-774,61-775", 
   "numeracja": "1-14, 17-24, 27"
  }, 
  "Wielkopolska": {
