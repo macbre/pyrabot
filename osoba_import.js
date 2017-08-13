@@ -60,14 +60,14 @@ client.logIn(function(err) {
 				// remove HTML
 				replace(/<[^>]+>/g, '');
 
-			// bio
-			born = firstPara.match(/ur. (\d+ [^\s]+ \d{4})/) || '';
-			died = firstPara.match(/zm. (\d+ [^\s]+ \d{4})/) || '';
+			client.log(firstPara);
 
-			if (born && died) {
-				born = formatDate(born[1]);
-				died = formatDate(died[1]);
-			}
+			// bio
+			born = firstPara.match(/ur. (\d+ [^\s]+ \d{4})/);
+			died = firstPara.match(/zm. (\d+ [^\s]+ \d{4})/);
+
+			born = born && formatDate(born[1]) || '';
+			died = died && formatDate(died[1]) || '';
 
 			// remove bio data
 			firstPara = firstPara.replace(/ \(ur.[^)]+\)/, '');
