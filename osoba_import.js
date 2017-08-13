@@ -89,6 +89,9 @@ client.logIn(function(err) {
 {{Szkic}}
 
 ${firstPara}
+
+== Źródła ==
+<references />
 `.trim();
 
 			console.log(wikitext);
