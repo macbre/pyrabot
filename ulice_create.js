@@ -60,6 +60,7 @@ client.logIn((err, data) => {
 
 			place.address.postcode = place.address.postcode || '';
 			place.address.suburb = place.address.suburb || '';
+			place.address.neighbourhood = place.address.neighbourhood || '';
 
 			/**
 			{ place_id: '196302900',
@@ -109,7 +110,8 @@ client.logIn((err, data) => {
 == Źródła ==
 <references />`;
 
-			content = content.replace(/undefined[\s,]*/g, '');
+			content = content.replace(/=\s?,\s?/g, '=');
+			//content = content.replace(/, ?\n*/g, '\n');
 
 			client.log(content);
 
