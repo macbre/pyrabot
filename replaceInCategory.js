@@ -77,16 +77,19 @@ var CATEGORY = 'Kalendarium',
 	REGEXP = /\[http:\/\/pl.wikipedia.org\/wiki\/([^\s]+) ([^\]]+)\]/g,
 	REPLACEMENT = '[[wikipedia:pl:$1|$2]]',
 	SUMMARY = 'Interwiki do Wikipedii';
-/**/
+/**
 var CATEGORY = 'Pomnik Higiei',
     	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
 	REPLACEMENT = '[[Kategoria:Fontanna Higiei]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
-/**
-var CATEGORY = 'Pomniki',
+/**/
+var CATEGORY = 'Parki i skwery',
+	FILTER = function(title) {
+		return title.indexOf('Skwer') === 0;
+	},
     	REGEXP = /$/, // dodaj na końcu wikitekstu
-	REPLACEMENT = '\n\n{{Nawigacja Pomniki}}',
-	SUMMARY = 'Dodaję nawigację po pomnikach';
+	REPLACEMENT = '[[Kategoria:Skwery]]',
+	SUMMARY = 'Dodaję kategorię Skwery';
 /**
 var CATEGORY = 'Bramy i forty',
         REGEXP = '\n\n{{Nawigacja Bramy Twierdzy Poznań}}',
@@ -147,6 +150,14 @@ client.logIn(function() {
 		client.log(pages.length + ' artykułów do sprawdzenia');
 
 		pages.filter((page) => page.ns === 0 || page.ns === 6 /* NS_FILE */).forEach(function(page) {
+
+			if (typeof FILTER === 'function') {
+				if (FILTER(page.title) !== true) {
+					console.log('> Pomijam ' + page.title);
+					return;
+				}
+			}
+
 			cnt++;
 			console.log(cnt + ') sprawdzam ' + page.title + '...');
 
