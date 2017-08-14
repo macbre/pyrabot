@@ -4,7 +4,6 @@
  */
 var fs = require('fs'),
 	bot = require('nodemw'),
-	nominatim = require('nominatim-client'),
 	client = new bot('config.js');
 
 var SUMMARY = 'Szkic strony',
@@ -16,6 +15,26 @@ if (ULICA === '') {
 	process.exit(1);
 }
 
+function osmSearch(query, callback) {
+	client.log('osmSearch: query', query);
+
+	// e.g. https://nominatim.openstreetmap.org/search.php?q=Tony+Halika%2C+Pozna%C5%84&format=json&addressdetails=1
+	const url = 'https://nominatim.openstreetmap.org/search.php?format=json&addressdetails=1&q=' + encodeURIComponent(query);
+
+	client.fetchUrl(url, (err, res) => {
+		if (err) {
+			callback(err, null);
+		}
+
+		try {
+			const data = JSON.parse(res);
+			callback(null, data);
+		} catch (e) {
+			callback(e, null);
+		}
+	});
+}
+
 client.logIn((err, data) => {
 
 	client.getArticle(ULICA, (err, content) => {
@@ -25,12 +44,9 @@ client.logIn((err, data) => {
 		}
 
 		// Geo data
-		const query = {
-			q: `${ULICA}, Poznań`,
-			addressdetails: '1'
-		};
+		const query = `${ULICA}, Poznań`;
 
-		nominatim.search(query, (err, data) => {
+		osmSearch(query, (err, data) => {
 			if (err) {
 				throw err;
 			}
