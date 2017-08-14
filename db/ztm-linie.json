@@ -425,7 +425,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/74",
     "typ":"bus"
   },
@@ -443,9 +443,9 @@
     "agency":"MPK",
     "petle":[
       "Osiedle D\u0119bina",
-      "Plac Bernardy\u0144ski"
+      "Uniwersytet Ekonomiczny"
     ],
-    "przystanki":13,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/76",
     "typ":"bus"
   },
@@ -992,10 +992,10 @@
   "603":{
     "agency":"TRANSLUB",
     "petle":[
-      "Plac Bernardy\u0144ski",
+      "Awf",
       "\u0141\u0119czyca/Dworcowa."
     ],
-    "przystanki":20,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
     "typ":"bus"
   },
