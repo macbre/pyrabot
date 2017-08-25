@@ -15,7 +15,7 @@
       "D\u0119biec",
       "Ogrody"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -135,7 +135,7 @@
       "Ogrody",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":28,
+    "przystanki":27,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
   },
@@ -425,7 +425,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/74",
     "typ":"bus"
   },
@@ -443,9 +443,9 @@
     "agency":"MPK",
     "petle":[
       "Osiedle D\u0119bina",
-      "Uniwersytet Ekonomiczny"
+      "Plac Bernardy\u0144ski"
     ],
-    "przystanki":16,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/76",
     "typ":"bus"
   },
@@ -650,6 +650,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"bus"
   },
+  "231":{
+    "agency":"MPK",
+    "night":true,
+    "petle":[
+      "Rondo Kaponiera",
+      "Rondo Rataje"
+    ],
+    "przystanki":10,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
+  },
   "232":{
     "agency":"MPK",
     "night":true,
@@ -734,7 +745,7 @@
       "Pozna\u0144 G\u0142\u00f3wny",
       "Wichrowa"
     ],
-    "przystanki":16,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
     "typ":"bus"
   },
@@ -745,7 +756,7 @@
       "Kacza",
       "Rondo Kaponiera"
     ],
-    "przystanki":15,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
@@ -756,7 +767,7 @@
       "Port Lotniczy \u0141awica",
       "Rondo Kaponiera"
     ],
-    "przystanki":22,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/242",
     "typ":"bus"
   },
@@ -962,10 +973,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec/D\u0119bowa",
+      "Bor\u00f3wiec Szko\u0142a",
       "Franowo"
     ],
-    "przystanki":47,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -992,10 +1003,10 @@
   "603":{
     "agency":"TRANSLUB",
     "petle":[
-      "Awf",
+      "Plac Bernardy\u0144ski",
       "\u0141\u0119czyca/Dworcowa."
     ],
-    "przystanki":18,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
     "typ":"bus"
   },
@@ -1155,7 +1166,7 @@
       "Ogrody",
       "Tarnowo Pdg/Centrum"
     ],
-    "przystanki":33,
+    "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/802",
     "typ":"bus"
   },
@@ -1175,7 +1186,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":33,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/804",
     "typ":"bus"
   },
@@ -1287,6 +1298,14 @@
     ],
     "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
+    "typ":"bus"
+  },
+  "899":{
+    "petle":[
+      "Ogrody",
+      "Swadzim/Intermarche"
+    ],
+    "przystanki":2,
     "typ":"bus"
   },
   "901":{
