@@ -1077,7 +1077,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "61-314", 
-  "numeracja": false
+  "numeracja": "6"
  }, 
  "Bronisza": {
   "dlugosc": 365, 
@@ -1095,7 +1095,7 @@
   "dlugosc": 555, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-332", 
-  "numeracja": "2-8, 10-16, 18-26, 28, 30-31, 33-38"
+  "numeracja": "2-8, 10-26, 28, 30-31, 33-38"
  }, 
  "Bronowa": {
   "dlugosc": 69, 
@@ -1995,7 +1995,7 @@
   "dlugosc": 146, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-760,61-762", 
-  "numeracja": "1-9"
+  "numeracja": "1-10"
  }, 
  "Do\u017cynkowa": {
   "dlugosc": 266, 
@@ -7023,7 +7023,7 @@
   "dlugosc": 547, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-161", 
-  "numeracja": "3-4, 7, 11"
+  "numeracja": "1, 3-4, 7, 11"
  }, 
  "Murawa": {
   "dlugosc": 1685, 
@@ -7174,6 +7174,12 @@
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-639", 
   "numeracja": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35"
+ }, 
+ "Nad Prze\u017amierk\u0105": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": "60-480", 
+  "numeracja": "1-5"
  }, 
  "Nad R\u00f3\u017canym Potokiem": {
   "dlugosc": 1221, 
@@ -7906,12 +7912,6 @@
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-329,61-332", 
   "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 38-43, 62, 66, 68, 82, 84, 88, 102, 134, 142"
- }, 
- "PGR Wielkie": {
-  "dlugosc": 387, 
-  "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": null, 
-  "numeracja": "1-5"
  }, 
  "Pabianicka": {
   "dlugosc": 128, 
@@ -8715,7 +8715,7 @@
   "dlugosc": 207, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-175", 
-  "numeracja": "3, 8, 10, 12, 14, 17, 23, 27, 31, 33, 41, 43, 53, 57, 67, 69"
+  "numeracja": "3, 8, 10, 12, 14, 17, 23, 27, 31, 33, 41, 43, 45, 53, 57, 67, 69"
  }, 
  "Przedborska": {
   "dlugosc": 168, 
@@ -9267,7 +9267,7 @@
   "dlugosc": 1078, 
   "dzielnica": "Nowe Miasto", 
   "kody_pocztowe": "61-357,61-371", 
-  "numeracja": "1, 11, 15, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42-44, 46-48, 50, 53, 55, 57, 61, 63, 65, 67, 69-74, 77, 79-80, 82, 84-87, 89"
+  "numeracja": "1, 11, 15, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42-44, 46-48, 50, 53, 55, 57, 61, 63, 65, 67, 69-74, 77, 79-80, 82, 84-87, 89, 93, 95, 97-98, 100-102, 104, 106, 108, 110, 112-114, 116-137, 139-140, 142, 144, 146, 148, 150, 152, 154-157, 159"
  }, 
  "Romana Pollaka": {
   "dlugosc": 214, 
@@ -11902,12 +11902,6 @@
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-548", 
   "numeracja": "2-6, 8-9, 11"
- }, 
- "Wincentego Pstrowskiego": {
-  "dlugosc": 689, 
-  "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": null, 
-  "numeracja": "93, 95, 97-98, 100-102, 104, 106, 108, 110, 112-114, 116-137, 139-140, 142, 144, 146, 148, 150, 152, 154-157, 159"
  }, 
  "Wincentego Rapackiego": {
   "dlugosc": 86, 
