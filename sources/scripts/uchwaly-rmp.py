@@ -8,6 +8,7 @@ Skrypt generujący plik TSV z listą uchwał Rady Miasta Poznania wraz z linkowa
 import csv
 import json
 import logging
+import os
 
 import requests
 
@@ -50,7 +51,9 @@ def get_all_resolutions():
 		page += 1
 
 
-with open('../../db/uchwaly-rmp.tsv', 'w') as tsv:
+my_dir = os.path.dirname(os.path.abspath(__file__))
+
+with open(my_dir + '/../../db/uchwaly-rmp.tsv', 'w') as tsv:
 	# @see https://docs.python.org/2.7/library/csv.html#csv.writer
 	writer = csv.writer(tsv, delimiter='\t')
 

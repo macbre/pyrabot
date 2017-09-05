@@ -39,6 +39,9 @@ curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
 # @see http://poznan.wuoz.gov.pl/rejestr-zabytkow
 curl -s "http://poznan.wuoz.gov.pl/sites/default/files/obrazki/wykaz.xls" > tmp.xls && xls2csv tmp.xls > zabytki.csv
 
+# uchwały Rada Miasta Poznania
+./scripts/uchwaly-rmp.py
+
 #
 unlink tmp*
 echo "\nGotowe"
