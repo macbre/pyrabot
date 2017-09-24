@@ -261,7 +261,7 @@
   "dlugosc": 681, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-465", 
-  "numeracja": "2-9, 11-12, 14-16, 19, 24, 26-30, 32-38, 40, 43-45, 48-54, 57-58, 60"
+  "numeracja": "2-9, 11-12, 14-16, 19, 24, 26-30, 32-38, 40, 43-45, 48-55, 57-58, 60"
  }, 
  "Anny Danysz": {
   "dlugosc": 226, 
@@ -2331,7 +2331,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-461", 
-  "numeracja": "3, 9"
+  "numeracja": "3, 9, 35"
  }, 
  "Esto\u0144ska": {
   "dlugosc": 478, 
@@ -6164,7 +6164,7 @@
  "Lwowska": {
   "dlugosc": null, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
+  "kody_pocztowe": "61-131", 
   "numeracja": false
  }, 
  "L\u0105decka": {
@@ -6608,7 +6608,7 @@
  "Micha\u0142a Drzyma\u0142y": {
   "dlugosc": 562, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-613", 
+  "kody_pocztowe": "60-613,60-646", 
   "numeracja": "3-4, 7-20, 22, 24, 26, 28"
  }, 
  "Micha\u0142a Kajki": {
@@ -7581,7 +7581,7 @@
   "dlugosc": 707, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "1, 18, 20, 22"
+  "numeracja": "1, 9, 18, 20, 22"
  }, 
  "Okonecka": {
   "dlugosc": 362, 
@@ -10010,7 +10010,7 @@
  "Sowia": {
   "dlugosc": 309, 
   "dzielnica": "Nowe Miasto", 
-  "kody_pocztowe": "61-131", 
+  "kody_pocztowe": "61-131,61-132", 
   "numeracja": "4, 6"
  }, 
  "Sowice": {
