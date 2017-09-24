@@ -22,8 +22,8 @@ function diff(one, other) {
 		res = '';
 
 	diff.forEach(function(part){
-		// green for additions, red for deletions 
-		// grey for common parts 
+		// green for additions, red for deletions
+		// grey for common parts
 		var color = part.added ? 'green' :
 		part.removed ? 'red' : 'brightBlack';
 		res += colors[color](part.value);
@@ -70,7 +70,7 @@ client.logIn(function() {
 			replace(/(roku) (\d{3,4})/g, '$1 [[$2]]').
 			replace(/(latach) (\d{3,4})-(\d{3,4})/g, '$1 [[$2]]-[[$3]]').
 			// linki wewnątrz wiki
-			// [http://poznan.wikia.com/wiki/Ulica_Andrzeja_i_W%C5%82adys%C5%82awa_Niegolewskich ulicą Niegolewskich] 
+			// [http://poznan.wikia.com/wiki/Ulica_Andrzeja_i_W%C5%82adys%C5%82awa_Niegolewskich ulicą Niegolewskich]
 			replace(/\[http:\/\/poznan.wikia.com\/wiki\/([^\s]+) ([^\]]+)\]/g, function(match, page, content) {
 				page = querystring.unescape(page.replace(/_/g, ' '));
 				page = page.split('?')[0]; // remove the query string
@@ -93,6 +93,7 @@ client.logIn(function() {
 			// |thumb|220x220px|
 			replace(/\|thumb\|[\dx]+px/g, '|thumb|300px').
 			replace(/\|left\|thumb/g, '|thumb').
+			replace(/\|thumb]]/g, '|thumb|300px]]').
 			// wielokrotne spacje
 			replace(/([ ]+)/g, ' ').
 			// spacje na końcu wierszy
