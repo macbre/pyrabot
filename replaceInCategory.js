@@ -82,7 +82,7 @@ var CATEGORY = 'Pomnik Higiei',
     	REGEXP = '[[Kategoria:' + CATEGORY + ']]',
 	REPLACEMENT = '[[Kategoria:Fontanna Higiei]]',
 	SUMMARY = 'Unifikacja nazewnictwa kategorii';
-/**/
+/**
 var CATEGORY = 'Parki i skwery',
 	FILTER = function(title) {
 		return title.indexOf('Skwer') === 0;
@@ -90,12 +90,16 @@ var CATEGORY = 'Parki i skwery',
     	REGEXP = /$/, // dodaj na końcu wikitekstu
 	REPLACEMENT = '[[Kategoria:Skwery]]',
 	SUMMARY = 'Dodaję kategorię Skwery';
-/**
-var CATEGORY = 'Bramy i forty',
-        REGEXP = '\n\n{{Nawigacja Bramy Twierdzy Poznań}}',
-	//REGEXP = /$/, // dodaj na końcu wikitekstu
-        REPLACEMENT = '\n\n{{Nawigacja Twierdza Poznań}}',
-        SUMMARY = 'Nawigacja po Twierdzy Poznań';
+/**/
+var CATEGORY = 'Osiedla',
+        //REGEXP = '\n\n{{Nawigacja Osiedla}}',
+	REGEXP = /$/, // dodaj na końcu wikitekstu
+        REPLACEMENT = '\n\n{{Nawigacja Osiedla}}',
+        SUMMARY = 'Nawigacja po poznańskich osiedlach';
+
+var FILTER = function(title) {
+	return title.indexOf('Osiedle') === 0;
+};
 /**
 var CATEGORY = 'Dzień po dniu',
     	REGEXP = /'''W dniu [^']+'''/,
@@ -193,13 +197,12 @@ client.logIn(function() {
 				}
 
 				if (orig === content) {
+					console.log(page.title + ' - brak różnicy po dokonanej zmianie tekstu - pomijam');
 					return;
 				}
 
 				console.log(page.title + ':');
 				console.log(client.diff(orig, content));
-
-				//return; // !!!!!!!!
 
 				// zapisz zmianę
 				client.edit(page.title, content, SUMMARY, function(err) {
