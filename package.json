@@ -4,8 +4,8 @@
   "dependencies": {
     "ansicolors": "^0.3.2",
     "diff": "^3.0.1",
-    "flickr-client": "0.0.4",
-    "flickr-photo-info": "0.0.1",
+    "flickr-client": "2.0.0",
+    "flickr-photo-info": "2.0.0",
     "jsdom": "^9.2.1",
     "nodemw": "macbre/nodemw#devel"
   },
