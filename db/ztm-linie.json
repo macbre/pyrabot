@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -52,10 +52,10 @@
   "6":{
     "agency":"MPK",
     "petle":[
-      "Budziszy\u0144ska",
+      "Junikowo",
       "Mi\u0142ostowo"
     ],
-    "przystanki":29,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -125,7 +125,7 @@
       "Junikowo",
       "Pl Wielkopolski"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -145,7 +145,7 @@
       "Budziszy\u0144ska",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":19,
+    "przystanki":20,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
@@ -705,6 +705,14 @@
     "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"bus"
+  },
+  "221":{
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "przystanki":21,
+    "typ":"tram"
   },
   "231":{
     "agency":"MPK",
