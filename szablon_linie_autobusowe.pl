@@ -23,6 +23,8 @@ my @linie = (
 			312, 320..323, 341, 342, 348, 396..398,
 			# Swarzędz (połączenie z Poznaniem)
 			401, 405, 406, 407, 412,
+			# Kleszczewo (od 1 listopada 2017)
+			431, 432, 435,
 			# KOMBUS Kórnik (połączenie z Poznaniem)
 			501, 511, 512, 527, # 502, 560, 561, 580..583, 590..592, 594..596,
 			# TRANSLUB Luboń
