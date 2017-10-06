@@ -19,11 +19,11 @@ function osmSearch(query, callback) {
 	client.log('osmSearch: query', query);
 
 	// e.g. https://nominatim.openstreetmap.org/search.php?q=Tony+Halika%2C+Pozna%C5%84&format=json&addressdetails=1
-	const url = 'https://nominatim.openstreetmap.org/search.php?format=json&addressdetails=1&q=' + encodeURIComponent(query);
+	const url = 'https://nominatim.openstreetmap.org/search.php?format=json&q=' + encodeURIComponent(query);
 
 	client.fetchUrl(url, (err, res) => {
 		if (err) {
-			callback(err, null);
+			callback(err, res);
 		}
 
 		try {
@@ -48,6 +48,7 @@ client.logIn((err, data) => {
 
 		osmSearch(query, (err, data) => {
 			if (err) {
+				console.log(data);
 				throw err;
 			}
 
