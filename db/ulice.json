@@ -339,7 +339,7 @@
   "dlugosc": 215, 
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-616", 
-  "numeracja": "2, 6, 8, 10, 12"
+  "numeracja": "4, 6, 8, 10, 12"
  }, 
  "Architekt\u00f3w": {
   "dlugosc": 296, 
@@ -1197,7 +1197,7 @@
   "dlugosc": null, 
   "dzielnica": false, 
   "kody_pocztowe": "60-480", 
-  "numeracja": false
+  "numeracja": "10"
  }, 
  "Burys\u0142awa": {
   "dlugosc": 235, 
@@ -1312,6 +1312,12 @@
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-246", 
   "numeracja": "1, 4-5, 7-10, 12, 14-27, 30, 36"
+ }, 
+ "B\u0142ogos\u0142awionej Pozna\u0144skiej Pi\u0105tki": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "B\u0142otna": {
   "dlugosc": 301, 
@@ -5973,7 +5979,7 @@
   "dlugosc": 1657, 
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "34, 36, 38, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69-77, 79, 81, 83, 85, 87, 92-93, 95-96, 101, 103, 112, 114, 120, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 165, 167, 169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 199, 201, 203, 205, 207, 211, 215"
+  "numeracja": "34, 36, 38, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69-77, 79, 81, 83, 85, 87, 92-93, 95-96, 101, 103, 112, 114, 120, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147, 149, 151, 153, 155, 157, 159, 161, 163, 165, 167, 169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 199, 201, 203, 205, 207, 211, 215, 219, 221, 223, 225"
  }, 
  "Litewska": {
   "dlugosc": 864, 
@@ -8108,8 +8114,8 @@
  "Pia\u015bnicka": {
   "dlugosc": 1327, 
   "dzielnica": false, 
-  "kody_pocztowe": null, 
-  "numeracja": false
+  "kody_pocztowe": "61-245", 
+  "numeracja": "2"
  }, 
  "Piekary": {
   "dlugosc": 258, 
@@ -8494,6 +8500,12 @@
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-612", 
   "numeracja": "1-17, 19-21, 23, 25-39, 43-46, 49, 52-54, 56, 58, 60, 62"
+ }, 
+ "Pomidorowa": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "Pomorska": {
   "dlugosc": 163, 
@@ -11648,8 +11660,8 @@
  "Wejherowska": {
   "dlugosc": 779, 
   "dzielnica": "Je\u017cyce", 
-  "kody_pocztowe": "60-446", 
-  "numeracja": "2-4, 10, 16, 24"
+  "kody_pocztowe": "60-446,60-447", 
+  "numeracja": "2-4, 10-11, 13, 15-17, 19, 21, 23-25"
  }, 
  "Wenecja\u0144ska": {
   "dlugosc": 199, 
@@ -12700,6 +12712,12 @@
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-133", 
   "numeracja": "1"
+ }, 
+ "Zdzis\u0142awa Dworzeckiego": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "Zdzis\u0142awy": {
   "dlugosc": 207, 
