@@ -17,6 +17,7 @@ if (ULICA === '') {
 
 function osmSearch(query, callback) {
 	client.log('osmSearch: query', query);
+	query = query.replace(/^Ulica\s/, '');
 
 	// @see http://wiki.openstreetmap.org/wiki/Nominatim#Alternatives_.2F_Third-party_providers
 	// e.g. https://nominatim.openstreetmap.org/search.php?q=Tony+Halika%2C+Pozna%C5%84&format=json&addressdetails=1
