@@ -52,10 +52,10 @@
   "6":{
     "agency":"MPK",
     "petle":[
-      "Junikowo",
+      "Budziszy\u0144ska",
       "Mi\u0142ostowo"
     ],
-    "przystanki":34,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -351,7 +351,7 @@
       "Garbary",
       "Strzeszyn"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/60",
     "typ":"bus"
   },
@@ -695,6 +695,14 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
+  "160":{
+    "petle":[
+      "Podolany",
+      "Safony"
+    ],
+    "przystanki":17,
+    "typ":"bus"
+  },
   "201":{
     "agency":"MPK",
     "night":true,
@@ -704,7 +712,7 @@
     ],
     "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"bus"
+    "typ":"tram"
   },
   "221":{
     "petle":[
@@ -776,7 +784,7 @@
       "Pozna\u0144 G\u0142\u00f3wny",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":46,
+    "przystanki":47,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/236",
     "typ":"bus"
   },
@@ -875,7 +883,7 @@
       "Pozna\u0144 G\u0142\u00f3wny",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "przystanki":48,
+    "przystanki":49,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/246",
     "typ":"bus"
   },
