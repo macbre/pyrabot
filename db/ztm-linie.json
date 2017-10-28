@@ -25,7 +25,7 @@
       "Wilczak",
       "Zawady"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
@@ -52,10 +52,10 @@
   "6":{
     "agency":"MPK",
     "petle":[
-      "Budziszy\u0144ska",
+      "Junikowo",
       "Mi\u0142ostowo"
     ],
-    "przystanki":29,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -65,7 +65,7 @@
       "Ogrody",
       "Zawady"
     ],
-    "przystanki":21,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -125,7 +125,7 @@
       "Junikowo",
       "Pl Wielkopolski"
     ],
-    "przystanki":19,
+    "przystanki":18,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -193,6 +193,30 @@
       "Pl. Wiosny Lud\u00f3w"
     ],
     "przystanki":12,
+    "typ":"tram"
+  },
+  "31":{
+    "petle":[
+      "Junikowo",
+      "Mi\u0142ostowo"
+    ],
+    "przystanki":39,
+    "typ":"tram"
+  },
+  "32":{
+    "petle":[
+      "Mi\u0142ostowo",
+      "Osiedle Jana III Sobieskiego"
+    ],
+    "przystanki":20,
+    "typ":"tram"
+  },
+  "33":{
+    "petle":[
+      "Junikowo",
+      "Staro\u0142\u0119ka"
+    ],
+    "przystanki":32,
     "typ":"tram"
   },
   "44":{
@@ -691,8 +715,16 @@
       "Osiedle Jana III Sobieskiego",
       "Uam Os. R\u00f3\u017cany Potok"
     ],
-    "przystanki":10,
+    "przystanki":9,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
+    "typ":"bus"
+  },
+  "173":{
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "przystanki":18,
     "typ":"bus"
   },
   "201":{
@@ -702,7 +734,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":46,
+    "przystanki":45,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
@@ -1036,6 +1068,30 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
+  "431":{
+    "petle":[
+      "Kleszczewo/P\u0119tla",
+      "Rondo Rataje"
+    ],
+    "przystanki":27,
+    "typ":"bus"
+  },
+  "432":{
+    "petle":[
+      "Kleszczewo/P\u0119tla",
+      "Rondo Rataje"
+    ],
+    "przystanki":38,
+    "typ":"bus"
+  },
+  "435":{
+    "petle":[
+      "Rondo Rataje",
+      "Tulce/Ko\u015bci\u00f3\u0142"
+    ],
+    "przystanki":15,
+    "typ":"bus"
+  },
   "511":{
     "agency":"KOMBUS",
     "petle":[
@@ -1049,10 +1105,10 @@
   "512":{
     "agency":"KOMBUS",
     "petle":[
-      "Bor\u00f3wiec Szko\u0142a",
+      "Bor\u00f3wiec/D\u0119bowa",
       "Franowo"
     ],
-    "przystanki":45,
+    "przystanki":46,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
   },
@@ -1252,7 +1308,7 @@
       "Junikowo",
       "Ogrody"
     ],
-    "przystanki":32,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/803",
     "typ":"bus"
   },
@@ -1282,7 +1338,7 @@
       "Grzebienisko/P\u0119tla",
       "Ogrody"
     ],
-    "przystanki":34,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/812",
     "typ":"bus"
   },
@@ -1304,6 +1360,14 @@
     ],
     "przystanki":35,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
+    "typ":"bus"
+  },
+  "825":{
+    "petle":[
+      "G\u00f3ra/P\u0119tla",
+      "Tarnowo Pdg/Gimnazjum"
+    ],
+    "przystanki":16,
     "typ":"bus"
   },
   "830":{
