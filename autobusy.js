@@ -12,15 +12,17 @@ var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
 	year = 2017,
 	text = '';
 
-// Tarnowo Podgórne
-text = 'linia uruchomiona [[1 stycznia]] [[2017]] roku wraz z integracją komunikacji miejskiej na terenie gminy [[Tarnowo Podgórne]]' +
-'<ref>[http://www.ztm.poznan.pl/aktualnosci/wszystkie/od-1-stycznia-2017-roku-integracja-transportu-publicznego-miasta-poznania-i-gminy-tarnowo-podgorne-wszystko-co-warto-wiedziec/ ztm.poznan.pl - Od 1 stycznia 2017 roku – integracja transportu publicznego Miasta Poznania i Gminy Tarnowo Podgórne]</ref>.\n\n' +
+// Kleszczewo
+text = 'linia włączona w system transportu Poznania [[1 listopada]] [[2017]] roku wraz z integracją komunikacji miejskiej na terenie gminy [[Kleszczewo]]' +
+'<ref>[http://www.ztm.poznan.pl/pl/aktualnosci/integracja-transportu-publicznego-poznania-i-kleszczewa Integracja transportu publicznego Poznania i Kleszczewa]</ref>.\n\n' +
 '== Źródła ==\n<references />';
 
 client.logIn(function(err, data) {
 
 	for (var line in db) {
 		if (line == 201) continue;
+
+		if (line < 400 || line > 440)  continue;
 
 		// tylko linie autobusowe
 		if (line > 40 || line === 'L') {
