@@ -4,7 +4,8 @@
  */
 var fs = require('fs'),
 	bot = require('nodemw'),
-	client = new bot('config.js');
+	client = new bot('config.js'),
+	utils = require('./utils');
 
 var SUMMARY = 'Szkic strony',
 	YEAR = '2017',
@@ -13,32 +14,6 @@ var SUMMARY = 'Szkic strony',
 if (ULICA === '') {
 	console.log('Podaj nazwę ulicy');
 	process.exit(1);
-}
-
-function osmSearch(query, callback) {
-	client.log('osmSearch: query', query);
-	query = query.replace(/^Ulica\s/, '');
-
-	// @see http://wiki.openstreetmap.org/wiki/Nominatim#Alternatives_.2F_Third-party_providers
-	// e.g. https://nominatim.openstreetmap.org/search.php?q=Tony+Halika%2C+Pozna%C5%84&format=json&addressdetails=1
-	//const url = 'https://nominatim.openstreetmap.org/search.php?format=json&q=' + encodeURIComponent(query);
-
-	// e.g. http://locationiq.org/v1/search.php?q=Tony+Halika%2C+Pozna%C5%84&format=json&addressdetails=1&key=XXX
-	const key = client.getConfig('locationiqKey'),
-		url = 'https://locationiq.org/v1/search.php?format=json&addressdetails=1&q=' + encodeURIComponent(query) + '&key=' + key;
-
-	client.fetchUrl(url, (err, res) => {
-		if (err) {
-			callback(err, res);
-		}
-
-		try {
-			const data = JSON.parse(res);
-			callback(null, data);
-		} catch (e) {
-			callback(e, null);
-		}
-	});
 }
 
 client.logIn((err, data) => {
@@ -52,7 +27,7 @@ client.logIn((err, data) => {
 		// Geo data
 		const query = `${ULICA}, Poznań`;
 
-		osmSearch(query, (err, data) => {
+		utils.osmSearch(client, query, (err, data) => {
 			if (err) {
 				console.log(data);
 				throw err;
