@@ -211,7 +211,7 @@
       "Dworzec Zachodni",
       "Kacza"
     ],
-    "przystanki":16,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/45",
     "typ":"bus"
   },
@@ -631,7 +631,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Kopernika"
     ],
-    "przystanki":32,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91",
     "typ":"bus"
   },
@@ -1244,17 +1244,17 @@
       "D\u0105br\u00f3wka/Szko\u0142a",
       "Junikowo"
     ],
-    "przystanki":17,
+    "przystanki":16,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/727",
     "typ":"bus"
   },
   "729":{
     "agency":"PUK",
     "petle":[
-      "Dopiewo, D.K.",
-      "Ogrody"
+      "Ogrody",
+      "Pal\u0119dzie/Przejazd"
     ],
-    "przystanki":36,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
@@ -1294,7 +1294,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":31,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/804",
     "typ":"bus"
   },
