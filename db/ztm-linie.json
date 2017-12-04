@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":30,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -65,7 +65,7 @@
       "Ogrody",
       "Zawady"
     ],
-    "przystanki":21,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -241,7 +241,7 @@
       "Ba\u0142tyk",
       "\u0141awica"
     ],
-    "przystanki":19,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/48",
     "typ":"bus"
   },
@@ -588,10 +588,10 @@
   "86":{
     "agency":"MPK",
     "petle":[
-      "Admiralska",
+      "Kiekrz",
       "Ogrody"
     ],
-    "przystanki":24,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/86",
     "typ":"bus"
   },
@@ -668,10 +668,10 @@
   "95":{
     "agency":"MPK",
     "petle":[
-      "Admiralska",
+      "Kiekrz",
       "Ogrody"
     ],
-    "przystanki":20,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/95",
     "typ":"bus"
   },
@@ -878,7 +878,7 @@
       "Rondo Rataje",
       "Sypniewo"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/247",
     "typ":"bus"
   },
@@ -1060,14 +1060,6 @@
     "przystanki":15,
     "typ":"bus"
   },
-  "488":{
-    "petle":[
-      "Kleszczewo/P\u0119tla",
-      "Markowice/Centrum"
-    ],
-    "przystanki":20,
-    "typ":"bus"
-  },
   "511":{
     "agency":"KOMBUS",
     "petle":[
@@ -1184,7 +1176,7 @@
       "G\u00f3rczyn",
       "Komorniki/Jeziorna"
     ],
-    "przystanki":33,
+    "przystanki":34,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
     "typ":"bus"
   },
@@ -1212,9 +1204,9 @@
     "agency":"PUK",
     "petle":[
       "G\u00f3rczyn",
-      "Komorniki/Kolumba"
+      "G\u0142uchowo/Stawna"
     ],
-    "przystanki":11,
+    "przystanki":14,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704",
     "typ":"bus"
   },
@@ -1244,17 +1236,17 @@
       "D\u0105br\u00f3wka/Szko\u0142a",
       "Junikowo"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/727",
     "typ":"bus"
   },
   "729":{
     "agency":"PUK",
     "petle":[
-      "Ogrody",
-      "Pal\u0119dzie/Przejazd"
+      "Dopiewo, D.K.",
+      "Ogrody"
     ],
-    "przystanki":30,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
@@ -1294,7 +1286,7 @@
       "Ogrody",
       "Sieros\u0142aw/Dzia\u0142ki"
     ],
-    "przystanki":33,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/804",
     "typ":"bus"
   },
@@ -1364,7 +1356,7 @@
       "Ogrody",
       "Starzyny/Rynkowa"
     ],
-    "przystanki":33,
+    "przystanki":37,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/833",
     "typ":"bus"
   },
@@ -1374,7 +1366,7 @@
       "Ogrody",
       "\u017bydowo/P\u0119tla"
     ],
-    "przystanki":39,
+    "przystanki":42,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/834",
     "typ":"bus"
   },
