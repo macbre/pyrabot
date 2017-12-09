@@ -52,10 +52,10 @@
   "6":{
     "agency":"MPK",
     "petle":[
-      "Budziszy\u0144ska",
+      "Junikowo",
       "Mi\u0142ostowo"
     ],
-    "przystanki":29,
+    "przystanki":33,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -125,7 +125,7 @@
       "Junikowo",
       "Pl Wielkopolski"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -1058,6 +1058,14 @@
       "Tulce/Ko\u015bci\u00f3\u0142"
     ],
     "przystanki":15,
+    "typ":"bus"
+  },
+  "488":{
+    "petle":[
+      "Kleszczewo/P\u0119tla",
+      "Markowice/Centrum"
+    ],
+    "przystanki":20,
     "typ":"bus"
   },
   "511":{
