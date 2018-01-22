@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "dependencies": {
     "ansicolors": "^0.3.2",
-    "diff": "^3.0.1",
+    "diff": "^3.4.0",
     "flickr-client": "0.0.4",
     "flickr-photo-info": "0.0.1",
-    "jsdom": "^9.2.1",
-    "nodemw": "macbre/nodemw#devel"
+    "jsdom": "^9.12.0",
+    "nodemw": "github:macbre/nodemw#devel"
   },
   "devDependencies": {
-    "jshint": "^2.9.2",
+    "jshint": "^2.9.5",
     "jsonlint": "^1.6.0",
     "phantomjs": "^2.1.7"
   },
