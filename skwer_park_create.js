@@ -40,6 +40,8 @@ client.logIn((err, data) => {
 			var place = data[0];
 			client.log(place);
 
+			place.address = place.address || {};
+
 			place.address.postcode = place.address.postcode || '';
 			place.address.suburb = place.address.suburb || '';
 			place.address.neighbourhood = place.address.neighbourhood || '';
@@ -95,7 +97,7 @@ client.logIn((err, data) => {
 				content += "\n\n[[Kategoria:Skwery]]";
 			}
 
-			client.log(content);
+			client.log(">>>" + content + "<<<");
 
 			// edytuj
 			client.edit(SKWER_PARK, content, SUMMARY, (err) => {
