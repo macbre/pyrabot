@@ -8,7 +8,7 @@ var fs = require('fs'),
 	utils = require('./utils');
 
 var SUMMARY = 'Szkic strony',
-	YEAR = '2017',
+	YEAR = '2018',
 	ULICA = process.argv[2] || '';
 
 if (ULICA === '') {
@@ -39,6 +39,8 @@ client.logIn((err, data) => {
 
 			var place = data[0];
 			client.log(place);
+
+			place.address = place.address || {};
 
 			place.address.postcode = place.address.postcode || '';
 			place.address.suburb = place.address.suburb || '';
