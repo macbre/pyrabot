@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":31,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -25,17 +25,17 @@
       "Wilczak",
       "Zawady"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
   "4":{
     "agency":"MPK",
     "petle":[
-      "Po\u0142abska",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka",
+      "Wilczak"
     ],
-    "przystanki":29,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
@@ -55,7 +55,7 @@
       "Junikowo",
       "Mi\u0142ostowo"
     ],
-    "przystanki":33,
+    "przystanki":31,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
   },
@@ -93,9 +93,9 @@
     "agency":"MPK",
     "petle":[
       "D\u0119biec",
-      "Po\u0142abska"
+      "Wilczak"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
   },
@@ -115,7 +115,7 @@
       "Osiedle Jana III Sobieskiego",
       "Staro\u0142\u0119ka"
     ],
-    "przystanki":25,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -125,7 +125,7 @@
       "Junikowo",
       "Pl Wielkopolski"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
@@ -488,10 +488,10 @@
   "76":{
     "agency":"MPK",
     "petle":[
-      "Osiedle D\u0119bina",
-      "Pl. Bernardy\u0144ski"
+      "Garbary",
+      "Osiedle D\u0119bina"
     ],
-    "przystanki":13,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/76",
     "typ":"bus"
   },
@@ -1009,10 +1009,10 @@
   "396":{
     "agency":"TRANSKOM",
     "petle":[
-      "Kozieg\u0142owy/Piaskowa Szko\u0142a",
+      "Owi\u0144ska/Stacja",
       "Potasze/Jod\u0142owa"
     ],
-    "przystanki":25,
+    "przystanki":8,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
     "typ":"bus"
   },
@@ -1111,10 +1111,10 @@
   "603":{
     "agency":"TRANSLUB",
     "petle":[
-      "Pl. Bernardy\u0144ski",
+      "Garbary",
       "\u0141\u0119czyca/Dworcowa."
     ],
-    "przystanki":20,
+    "przystanki":23,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
     "typ":"bus"
   },
