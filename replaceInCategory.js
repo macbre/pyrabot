@@ -90,16 +90,30 @@ var CATEGORY = 'Parki i skwery',
     	REGEXP = /$/, // dodaj na końcu wikitekstu
 	REPLACEMENT = '[[Kategoria:Skwery]]',
 	SUMMARY = 'Dodaję kategorię Skwery';
-/**/
+/**
 var CATEGORY = 'Osiedla',
         //REGEXP = '\n\n{{Nawigacja Osiedla}}',
 	REGEXP = /$/, // dodaj na końcu wikitekstu
         REPLACEMENT = '\n\n{{Nawigacja Osiedla}}',
         SUMMARY = 'Nawigacja po poznańskich osiedlach';
-
 var FILTER = function(title) {
 	return title.indexOf('Osiedle') === 0;
 };
+/**/
+var CATEGORY = [
+		'Most Teatralny',
+		'Plac Wiosny Ludów',
+		'Rondo Jana Nowaka Jeziorańskiego',
+		'Rondo Kaponiera',
+		'Rondo Rataje',
+		'Rondo Solidarności',
+		'Rondo Starołęka',
+		'Rondo Śródka',
+	]
+	REGEXP = /$/, // dodaj na końcu wikitekstu
+        REPLACEMENT = '[[Kategoria:Stacje Roweru Miejskiego]]',
+        SUMMARY = 'Dodana informacja o stacji roweru miejskiego';
+
 /**
 var CATEGORY = 'Dzień po dniu',
     	REGEXP = /'''W dniu [^']+'''/,
@@ -150,9 +164,19 @@ var CATEGORY = 'Dzień po dniu',
 client.logIn(function() {
 	var cnt = 0;
 
-	client.getPagesInCategory(CATEGORY, function(err, pages) {
-		client.log(pages.length + ' artykułów do sprawdzenia');
+	if (typeof CATEGORY === 'string') {
+		client.getPagesInCategory(CATEGORY, function(err, pages) {
+			client.log(pages.length + ' artykułów do sprawdzenia');
+			processPages(pages);
+		});
+	}
+	else {
+		processPages(CATEGORY.map(function(entry) {
+			return {'ns': 0, 'title': entry}
+		}));
+	}
 
+	function processPages(pages) {
 		pages.filter((page) => page.ns === 0 || page.ns === 6 /* NS_FILE */).forEach(function(page) {
 
 			if (typeof FILTER === 'function') {
@@ -167,6 +191,16 @@ client.logIn(function() {
 
 			client.getArticle(page.title, function(err, content) {
 				var orig = content;
+
+				if (err || !content) {
+					client.log(err);
+					return;
+				}
+
+				if (/^#REDIRECT/.test(content)) {
+					client.log('Przekierowanie!');
+					return;
+				}
 
 				if (typeof REGEXP === 'string') {
 					// docelowy tekst znajduje się już w artykule
@@ -217,5 +251,5 @@ client.logIn(function() {
 		});
 
 		client.log('Gotowe');
-	});
+	}
 });
