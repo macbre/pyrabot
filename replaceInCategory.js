@@ -100,6 +100,8 @@ var FILTER = function(title) {
 	return title.indexOf('Osiedle') === 0;
 };
 /**/
+
+// curl -s 'http://www.poznan.pl/mim/plan/map_service.html?mtype=pub_transport&co=stacje_rowerowe' | jq '.' | grep label | awk -F\" '{print $4}' | sort | grep -Ei '(plac|most|rondo) '
 var CATEGORY = [
 		'Most Teatralny',
 		'Plac Wiosny Ludów',
