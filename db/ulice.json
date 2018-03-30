@@ -1727,6 +1727,12 @@
   "kody_pocztowe": "60-446", 
   "numeracja": "2, 4, 6, 8-10, 12, 14, 16"
  }, 
+ "Czerwonacka": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
+ }, 
  "Czes\u0142awa Gerwela": {
   "dlugosc": 48, 
   "dzielnica": "Grunwald", 
@@ -3189,7 +3195,7 @@
   "dlugosc": 600, 
   "dzielnica": "Wilda", 
   "kody_pocztowe": "60-116", 
-  "numeracja": "3, 5, 7, 9, 11, 13, 15-35, 37, 39, 41, 43, 45, 48, 50"
+  "numeracja": "3, 5, 7, 9, 11, 13, 15-20, 22-35, 37, 39, 41, 43, 45, 48, 50"
  }, 
  "G\u0142ogowa": {
   "dlugosc": 133, 
@@ -7619,6 +7625,12 @@
   "kody_pocztowe": "60-458", 
   "numeracja": "1, 3-6, 8, 10, 14, 16, 18, 20, 22, 24, 26, 28, 30"
  }, 
+ "Oleszycka": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
+ }, 
  "Ole\u0144ki Billewicz\u00f3wny": {
   "dlugosc": 164, 
   "dzielnica": "Grunwald", 
@@ -7924,6 +7936,12 @@
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-171", 
   "numeracja": "1-26, 28-35, 37-39, 41, 43, 45"
+ }, 
+ "Pag\u00f3rkowa": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": "4-8, 17, 19-20, 22, 25"
  }, 
  "Pami\u0105tkowa": {
   "dlugosc": 758, 
@@ -8799,7 +8817,7 @@
   "dlugosc": 784, 
   "dzielnica": "Wilda", 
   "kody_pocztowe": "60-115", 
-  "numeracja": "4-29, 31-33, 35-51, 53, 58, 60, 62, 64, 66"
+  "numeracja": "4-29, 31, 33, 35-51, 53, 58, 60, 62, 64, 66"
  }, 
  "Prze\u015bwit": {
   "dlugosc": 112, 
@@ -9844,6 +9862,12 @@
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-625,61-631", 
   "numeracja": "2, 4, 6, 8, 12, 14, 16, 18, 20, 22, 24"
+ }, 
+ "Skowronkowa": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "Sko\u015bna": {
   "dlugosc": 100, 
@@ -11349,7 +11373,7 @@
   "dlugosc": 482, 
   "dzielnica": "Grunwald", 
   "kody_pocztowe": "60-116", 
-  "numeracja": "5-41"
+  "numeracja": "5-18, 20-41"
  }, 
  "Turystyczna": {
   "dlugosc": 203, 
@@ -12334,6 +12358,12 @@
   "dzielnica": false, 
   "kody_pocztowe": "60-859", 
   "numeracja": "6"
+ }, 
+ "W\u0105wozowa": {
+  "dlugosc": null, 
+  "dzielnica": false, 
+  "kody_pocztowe": null, 
+  "numeracja": false
  }, 
  "W\u0119glowa": {
   "dlugosc": 352, 
