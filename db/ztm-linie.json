@@ -5,7 +5,7 @@
       "Franowo",
       "Junikowo"
     ],
-    "przystanki":31,
+    "przystanki":40,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
@@ -15,7 +15,7 @@
       "D\u0119biec",
       "Ogrody"
     ],
-    "przystanki":18,
+    "przystanki":19,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
@@ -25,17 +25,27 @@
       "Wilczak",
       "Zawady"
     ],
-    "przystanki":16,
+    "przystanki":17,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
+    "typ":"tram"
+  },
+  "4":{
+    "agency":"MPK",
+    "petle":[
+      "Staro\u0142\u0119ka",
+      "Wilczak"
+    ],
+    "przystanki":28,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
   "5":{
     "agency":"MPK",
     "petle":[
       "G\u00f3rczyn",
-      "Staro\u0142\u0119ka"
+      "Stomil"
     ],
-    "przystanki":30,
+    "przystanki":28,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
   },
@@ -55,7 +65,7 @@
       "Ogrody",
       "Zawady"
     ],
-    "przystanki":22,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
   },
@@ -92,20 +102,20 @@
   "11":{
     "agency":"MPK",
     "petle":[
-      "Pi\u0105tkowska",
-      "Staro\u0142\u0119ka"
+      "D\u0119biec",
+      "Pi\u0105tkowska"
     ],
-    "przystanki":28,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
   "12":{
     "agency":"MPK",
     "petle":[
-      "Marcinkowskiego",
-      "Osiedle Jana III Sobieskiego"
+      "Osiedle Jana III Sobieskiego",
+      "Staro\u0142\u0119ka"
     ],
-    "przystanki":22,
+    "przystanki":25,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
@@ -145,7 +155,7 @@
       "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":23,
+    "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
@@ -167,6 +177,14 @@
     ],
     "przystanki":24,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
+    "typ":"tram"
+  },
+  "23":{
+    "petle":[
+      "Marcinkowskiego",
+      "Staro\u0142\u0119ka"
+    ],
+    "przystanki":15,
     "typ":"tram"
   },
   "29":{
@@ -211,9 +229,9 @@
     "agency":"MPK",
     "petle":[
       "Boranta",
-      "Chwaliszewo"
+      "Ma\u0142e Garbary"
     ],
-    "przystanki":14,
+    "przystanki":13,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/47",
     "typ":"bus"
   },
@@ -453,7 +471,7 @@
       "Osiedle Jana III Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
     ],
-    "przystanki":32,
+    "przystanki":30,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/74",
     "typ":"bus"
   },
@@ -523,7 +541,7 @@
       "Rondo Rataje",
       "Szwajcarska Centrum Handlowe"
     ],
-    "przystanki":13,
+    "przystanki":12,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/81",
     "typ":"bus"
   },
@@ -553,7 +571,7 @@
       "Nowe Zoo",
       "Rondo Rataje"
     ],
-    "przystanki":31,
+    "przystanki":29,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
   },
@@ -623,7 +641,7 @@
       "Rondo Rataje",
       "Rondo Rataje"
     ],
-    "przystanki":22,
+    "przystanki":21,
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"bus"
   },
@@ -681,19 +699,11 @@
     "agency":"MPK",
     "night":true,
     "petle":[
-      "Osiedle Jana III Sobieskiego",
-      "Stomil"
-    ],
-    "przystanki":26,
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"tram"
-  },
-  "202":{
-    "petle":[
-      "Dworzec Zachodni",
+      "Franowo",
       "Osiedle Jana III Sobieskiego"
     ],
-    "przystanki":9,
+    "przystanki":24,
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
   "231":{
