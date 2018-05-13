@@ -35,7 +35,7 @@ client.logIn(function() {
 			return;
 		}
 
-		var imageUrl = photo.urls.original,
+		var imageUrl = photo.urls.large1600,
 			authorName = photo.owner.name,
 			tags = photo.tags.map(function(tag) {
 				if (!authorName) {
