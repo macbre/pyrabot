@@ -290,8 +290,8 @@ if __name__ == "__main__":
         res[street] = {
             'numeracja': numbers if numbers is not None else False,
             'kody_pocztowe': ','.join(zip_codes) if zip_codes is not None else None,
-            'dzielnica': dzielnica if dzielnica is not None else False,
-            'dlugosc': length,
+            # 'dzielnica': dzielnica if dzielnica is not None else False,
+            # 'dlugosc': length,
         }
 
     # zapisz do pliku
