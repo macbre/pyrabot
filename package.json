@@ -11,9 +11,8 @@
     "phantomjs-prebuilt-macbre": "^2.5.0-dev2"
   },
   "devDependencies": {
-    "jshint": "^2.9.5",
-    "jsonlint": "^1.6.3",
-    "phantomjs": "^2.1.7"
+    "jshint": "macbre/jshint#master",
+    "jsonlint": "^1.6.3"
   },
   "scripts": {
     "lint": "jshint --verbose *.js"
