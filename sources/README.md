@@ -12,7 +12,6 @@ Katalog ten zawiera pliki źródłowe służące pyrabotowi do generowania plik�
 
 ```
 sudo apt-get install catdoc python-pip
-sudo npm install --global phantomjs jsonlint
 sudo pip install -r scripts/requirements.txt
 ```
 

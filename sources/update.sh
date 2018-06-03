@@ -26,14 +26,8 @@ echo "\n> Pobieram dane o kodach pocztowych..."
 ./scripts/kody-pocztowe.py
 
 # komunikacja miejska
-echo "\n> Pobieram dane o liniach komunikacji miejskiej..."
-./scripts/rozkladzik.js
-
-echo "\n> Pobieram dane o operatorach linii komunikacji miejskiej..."
-curl -s "http://old.ztm.poznan.pl/gtfs-ztm/routes_by_name.json.php?dbname=production_gtfs" | jsonlint > ztm-operators.json
-
-echo "\n> Pobieram listę przystanków z rozkladzik.pl..."
-curl -s "http://www.rozkladzik.pl/poznan/data.txt" > rozkladzik.txt
+echo "\n> Pobieram dane GTFS od ZTM..."
+curl -s "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile" > gtfs_ztm.zip
 
 # rejestr zabytków
 # @see http://poznan.wuoz.gov.pl/rejestr-zabytkow
