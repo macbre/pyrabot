@@ -74,6 +74,14 @@ function updateLine(pageTitle) {
 			content = content.replace(/\|rozkład\s?=[^|]+/, "|rozkład=" + rozklad + "\n");
 		}
 
+		// kolory
+		if (content.indexOf('|kolor1') < 0) {
+			content = content.replace(/\|rozkład=/, '|kolor1=\n|kolor2=\n|rozkład=');
+		}
+
+		content = content.replace(/\|kolor1\s?=[^|]+/, "|kolor1=" + db[line]['kolor1'] + "\n");
+		content = content.replace(/\|kolor2\s?=[^|]+/, "|kolor2=" + db[line]['kolor2'] + "\n");
+
 		// usuń stare parametry
 		// |przejazd=82
 		// |strefy=A
@@ -106,6 +114,7 @@ function updateLine(pageTitle) {
 }
 
 client.logIn(function(err) {
+	/**
 	// aktualizuj Moduł:Przystanki-linie
 	var lua = fs.readFileSync('db/ztm-stops.lua').toString();
 
@@ -138,5 +147,5 @@ client.logIn(function(err) {
 				updateLine(page.title);
 			});
 		});
-	});
+	//});
 });
