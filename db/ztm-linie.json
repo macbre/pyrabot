@@ -1,5 +1,7 @@
 {
   "0":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
       "Zajezdnia/Madali\u0144skiego",
       "Zajezdnia/Madali\u0144skiego"
@@ -8,6 +10,8 @@
   },
   "1":{
     "agency":"MPK",
+    "kolor1":"#D0006F",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
       "Franowo"
@@ -17,6 +21,8 @@
   },
   "2":{
     "agency":"MPK",
+    "kolor1":"#62B5E5",
+    "kolor2":"#000000",
     "petle":[
       "Ogrody",
       "D\u0119biec"
@@ -26,6 +32,8 @@
   },
   "3":{
     "agency":"MPK",
+    "kolor1":"#6C1D45",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Wilczak",
       "Zawady"
@@ -35,6 +43,8 @@
   },
   "4":{
     "agency":"MPK",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Po\u0142abska",
       "Staro\u0142\u0119ka"
@@ -44,6 +54,8 @@
   },
   "5":{
     "agency":"MPK",
+    "kolor1":"#6CC24A",
+    "kolor2":"#000000",
     "petle":[
       "Stomil",
       "G\u00f3rczyn"
@@ -53,6 +65,8 @@
   },
   "6":{
     "agency":"MPK",
+    "kolor1":"#009639",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Mi\u0142ostowo",
       "Junikowo"
@@ -62,6 +76,8 @@
   },
   "7":{
     "agency":"MPK",
+    "kolor1":"#003594",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Zawady",
       "Ogrody"
@@ -71,6 +87,8 @@
   },
   "8":{
     "agency":"MPK",
+    "kolor1":"#DA291C",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "Mi\u0142ostowo"
@@ -80,6 +98,8 @@
   },
   "9":{
     "agency":"MPK",
+    "kolor1":"#FF671F",
+    "kolor2":"#000000",
     "petle":[
       "Pi\u0105tkowska",
       "Pi\u0105tkowska"
@@ -89,6 +109,8 @@
   },
   "10":{
     "agency":"MPK",
+    "kolor1":"#F1B434",
+    "kolor2":"#000000",
     "petle":[
       "Po\u0142abska",
       "D\u0119biec"
@@ -98,6 +120,8 @@
   },
   "11":{
     "agency":"MPK",
+    "kolor1":"#3CDBC0",
+    "kolor2":"#000000",
     "petle":[
       "Pi\u0105tkowska",
       "D\u0119biec"
@@ -107,6 +131,8 @@
   },
   "12":{
     "agency":"MPK",
+    "kolor1":"#CBA3D8",
+    "kolor2":"#000000",
     "petle":[
       "Staro\u0142\u0119ka",
       "Osiedle Sobieskiego"
@@ -116,6 +142,8 @@
   },
   "13":{
     "agency":"MPK",
+    "kolor1":"#AD841F",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
       "Plac Wielkopolski"
@@ -125,6 +153,8 @@
   },
   "14":{
     "agency":"MPK",
+    "kolor1":"#946037",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "G\u00f3rczyn"
@@ -134,6 +164,8 @@
   },
   "15":{
     "agency":"MPK",
+    "kolor1":"#A2AAAD",
+    "kolor2":"#000000",
     "petle":[
       "Budziszy\u0144ska",
       "Osiedle Sobieskiego"
@@ -143,6 +175,8 @@
   },
   "16":{
     "agency":"MPK",
+    "kolor1":"#440099",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
       "Osiedle Sobieskiego"
@@ -152,6 +186,8 @@
   },
   "17":{
     "agency":"MPK",
+    "kolor1":"#004F71",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Stomil",
       "Ogrody"
@@ -161,6 +197,8 @@
   },
   "18":{
     "agency":"MPK",
+    "kolor1":"#FEDB00",
+    "kolor2":"#000000",
     "petle":[
       "Franowo",
       "Ogrody"
@@ -169,6 +207,8 @@
     "typ":"tram"
   },
   "23":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Marcinkowskiego",
       "Staro\u0142\u0119ka"
@@ -176,6 +216,8 @@
     "typ":"tram"
   },
   "29":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Plac Wiosny Lud\u00f3w",
       "D\u0119biec"
@@ -184,6 +226,8 @@
   },
   "44":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kurpi\u0144skiego",
       "Boranta"
@@ -193,6 +237,8 @@
   },
   "45":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Dworzec Zachodni",
       "Kacza"
@@ -202,6 +248,8 @@
   },
   "46":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Strzeszyn",
       "Boranta"
@@ -211,6 +259,8 @@
   },
   "47":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Wielka",
       "Boranta"
@@ -220,6 +270,8 @@
   },
   "48":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "\u0141awica",
       "Rondo Kaponiera"
@@ -229,6 +281,8 @@
   },
   "49":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "D\u0119biec"
@@ -238,6 +292,8 @@
   },
   "50":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Ogrody",
       "G\u00f3rczyn"
@@ -247,6 +303,8 @@
   },
   "51":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Osiedle Sobieskiego"
@@ -256,6 +314,8 @@
   },
   "52":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Darzyb\u00f3r",
       "Rondo Rataje"
@@ -265,6 +325,8 @@
   },
   "54":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Sp\u0142awie",
       "Franowo"
@@ -274,6 +336,8 @@
   },
   "55":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Zalasewo Planetarna Gimnazjum",
       "Rondo Rataje"
@@ -283,6 +347,8 @@
   },
   "56":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Krzy\u017cowniki",
       "Ogrody"
@@ -292,6 +358,8 @@
   },
   "57":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Mogile\u0144ska",
       "Rondo \u015ar\u00f3dka"
@@ -301,6 +369,8 @@
   },
   "58":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Sypniewo",
       "Staro\u0142\u0119ka"
@@ -310,6 +380,8 @@
   },
   "59":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Port Lotniczy \u0141awica",
       "Pozna\u0144 G\u0142\u00f3wny"
@@ -319,6 +391,8 @@
   },
   "60":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
       "Strzeszyn"
@@ -328,6 +402,8 @@
   },
   "61":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Krzy\u017cowniki",
       "Ogrody"
@@ -337,6 +413,8 @@
   },
   "62":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
@@ -346,6 +424,8 @@
   },
   "63":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
       "G\u00f3rczyn"
@@ -355,6 +435,8 @@
   },
   "64":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Puszkina",
       "Kacza"
@@ -364,6 +446,8 @@
   },
   "65":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Staro\u0142\u0119ka",
       "Rondo Rataje"
@@ -373,6 +457,8 @@
   },
   "66":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rska",
       "Rondo Rataje"
@@ -382,6 +468,8 @@
   },
   "67":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Radojewo",
       "Rondo \u015ar\u00f3dka"
@@ -391,6 +479,8 @@
   },
   "68":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Podolany",
       "Pozna\u0144 G\u0142\u00f3wny"
@@ -400,6 +490,8 @@
   },
   "69":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle \u0141okietka",
       "Osiedle Kopernika"
@@ -409,6 +501,8 @@
   },
   "71":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Wichrowe Wzg\u00f3rze",
       "Osiedle D\u0119bina"
@@ -418,6 +512,8 @@
   },
   "73":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Janikowo",
       "Rondo \u015ar\u00f3dka"
@@ -427,6 +523,8 @@
   },
   "74":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Osiedle Or\u0142a Bia\u0142ego"
@@ -436,6 +534,8 @@
   },
   "75":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
       "G\u00f3rczyn"
@@ -445,6 +545,8 @@
   },
   "76":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
       "Osiedle D\u0119bina"
@@ -454,6 +556,8 @@
   },
   "77":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
       "Rondo Kaponiera"
@@ -463,6 +567,8 @@
   },
   "78":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Szarych Szereg\u00f3w",
       "Rondo \u015ar\u00f3dka"
@@ -472,6 +578,8 @@
   },
   "79":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
       "Kacza"
@@ -481,6 +589,8 @@
   },
   "80":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Sycowska Centrum Handlowe",
       "G\u00f3rczyn"
@@ -490,6 +600,8 @@
   },
   "81":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Szwajcarska Centrum Handlowe",
       "Rondo Rataje"
@@ -499,6 +611,8 @@
   },
   "82":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Wichrowe Wzg\u00f3rze",
       "G\u00f3rczyn"
@@ -508,6 +622,8 @@
   },
   "83":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Szarych Szereg\u00f3w",
       "Rondo \u015ar\u00f3dka"
@@ -517,6 +633,8 @@
   },
   "84":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
       "Nowe Zoo"
@@ -526,6 +644,8 @@
   },
   "85":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Rondo \u015ar\u00f3dka"
@@ -535,6 +655,8 @@
   },
   "86":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kiekrz",
       "Ogrody"
@@ -544,6 +666,8 @@
   },
   "87":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "UAM Osiedle R\u00f3\u017cany Potok",
       "Pi\u0105tkowska"
@@ -553,6 +677,8 @@
   },
   "89":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
@@ -562,6 +688,8 @@
   },
   "90":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kazimierza Wielkiego",
       "Osiedle Sobieskiego"
@@ -571,6 +699,8 @@
   },
   "91":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Osiedle Kopernika"
@@ -580,6 +710,8 @@
   },
   "92":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
@@ -589,6 +721,8 @@
   },
   "93":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "G\u00f3rczyn"
@@ -598,6 +732,8 @@
   },
   "94":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
@@ -607,6 +743,8 @@
   },
   "95":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Ogrody",
       "Kiekrz"
@@ -616,6 +754,8 @@
   },
   "96":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
       "Rondo Rataje"
@@ -625,6 +765,8 @@
   },
   "98":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "UAM Osiedle R\u00f3\u017cany Potok",
       "Osiedle Sobieskiego"
@@ -633,6 +775,8 @@
     "typ":"bus"
   },
   "100":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
       "Nowe Zoo",
       "Pozna\u0144 G\u0142\u00f3wny"
@@ -641,6 +785,8 @@
   },
   "201":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Franowo",
@@ -651,6 +797,8 @@
   },
   "231":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Rondo Kaponiera",
@@ -661,6 +809,8 @@
   },
   "232":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Szwajcarska Szpital",
@@ -671,6 +821,8 @@
   },
   "233":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Mogile\u0144ska",
@@ -681,6 +833,8 @@
   },
   "234":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Osiedle Batorego Ii",
@@ -691,6 +845,8 @@
   },
   "235":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Osiedle Sobieskiego",
@@ -701,6 +857,8 @@
   },
   "236":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
@@ -711,6 +869,8 @@
   },
   "237":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
@@ -721,6 +881,8 @@
   },
   "238":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Rondo Kaponiera",
@@ -731,6 +893,8 @@
   },
   "239":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Starzyny Rynkowa",
@@ -741,6 +905,8 @@
   },
   "240":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Kacza",
@@ -750,6 +916,8 @@
     "typ":"bus"
   },
   "241":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Tarnowo Pdg Centrum",
       "Pozna\u0144 G\u0142\u00f3wny"
@@ -758,6 +926,8 @@
   },
   "242":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Port Lotniczy \u0141awica",
@@ -768,6 +938,8 @@
   },
   "243":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Osiedle D\u0119bina",
@@ -778,6 +950,8 @@
   },
   "244":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Rondo Rataje",
@@ -788,6 +962,8 @@
   },
   "245":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Staro\u0142\u0119ka",
@@ -798,6 +974,8 @@
   },
   "246":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
@@ -808,6 +986,8 @@
   },
   "247":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Sypniewo",
@@ -818,6 +998,8 @@
   },
   "248":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Radojewo",
@@ -828,6 +1010,8 @@
   },
   "249":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "D\u0119biec",
@@ -838,6 +1022,8 @@
   },
   "251":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Junikowo Stacja",
@@ -848,6 +1034,8 @@
   },
   "252":{
     "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
       "Kacza",
@@ -858,6 +1046,8 @@
   },
   "312":{
     "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Promnice P\u00f3\u0142nocna"
@@ -867,6 +1057,8 @@
   },
   "320":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kozieg\u0142owy Zak\u0142ady Drobiarskie",
       "Rondo \u015ar\u00f3dka"
@@ -876,6 +1068,8 @@
   },
   "321":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kicin P\u0119tla",
       "Rondo \u015ar\u00f3dka"
@@ -885,6 +1079,8 @@
   },
   "322":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Czerwonak Cmentarz",
       "Pi\u0105tkowska"
@@ -894,6 +1090,8 @@
   },
   "323":{
     "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Tuczno P\u0119tla",
       "Rondo \u015ar\u00f3dka"
@@ -903,6 +1101,8 @@
   },
   "341":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Przeb\u0119dowo P\u0119tla"
@@ -912,6 +1112,8 @@
   },
   "342":{
     "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Przeb\u0119dowo P\u0119tla"
@@ -921,6 +1123,8 @@
   },
   "348":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Przeb\u0119dowo P\u0119tla",
       "Osiedle Sobieskiego"
@@ -930,6 +1134,8 @@
   },
   "396":{
     "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Potasze Jod\u0142owa",
       "Kozieg\u0142owy Piaskowa Szko\u0142a"
@@ -939,6 +1145,8 @@
   },
   "397":{
     "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Trzaskowo Wie\u015b",
       "Promnice Klonowa"
@@ -948,6 +1156,8 @@
   },
   "398":{
     "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
       "Kozieg\u0142owy Piaskowa Szko\u0142a"
@@ -956,6 +1166,8 @@
     "typ":"bus"
   },
   "431":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kleszczewo P\u0119tla",
       "Rondo Rataje"
@@ -963,6 +1175,8 @@
     "typ":"bus"
   },
   "432":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kleszczewo P\u0119tla",
       "Rondo Rataje"
@@ -970,6 +1184,8 @@
     "typ":"bus"
   },
   "488":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Markowice Centrum",
       "Kleszczewo P\u0119tla"
@@ -978,6 +1194,8 @@
   },
   "511":{
     "agency":"KOMBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
       "Kamionki Klonowa"
@@ -987,6 +1205,8 @@
   },
   "512":{
     "agency":"KOMBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
       "Bor\u00f3wiec Szko\u0142a"
@@ -996,6 +1216,8 @@
   },
   "527":{
     "agency":"KOMBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kamionki P\u0119tla",
       "Staro\u0142\u0119ka"
@@ -1005,6 +1227,8 @@
   },
   "602":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
       "\u0141\u0119czyca Dworcowa"
@@ -1014,6 +1238,8 @@
   },
   "603":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
       "\u0141\u0119czyca Dworcowa"
@@ -1023,6 +1249,8 @@
   },
   "610":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
       "G\u00f3rczyn"
@@ -1032,6 +1260,8 @@
   },
   "611":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
       "Lubo\u0144 \u017babikowo"
@@ -1041,6 +1271,8 @@
   },
   "614":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "Lubo\u0144 Kr\u0119ta"
@@ -1050,6 +1282,8 @@
   },
   "616":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Lubo\u0144 \u017babikowo",
       "G\u00f3rczyn"
@@ -1059,6 +1293,8 @@
   },
   "651":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
       "Mosina Dworzec Kolejowy"
@@ -1068,6 +1304,8 @@
   },
   "690":{
     "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Lubo\u0144 Kr\u0119ta",
       "\u0141\u0119czyca Dworcowa"
@@ -1077,6 +1315,8 @@
   },
   "701":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "Komorniki Jeziorna"
@@ -1086,6 +1326,8 @@
   },
   "702":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Komorniki Osiedle Zielone Wzg\u00f3rze ",
       "G\u00f3rczyn"
@@ -1095,6 +1337,8 @@
   },
   "703":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "Konarzewo P\u0119tla"
@@ -1104,6 +1348,8 @@
   },
   "704":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "G\u0142uchowo Stawna"
@@ -1113,6 +1359,8 @@
   },
   "710":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
       "Plewiska Ko\u015bci\u00f3\u0142"
@@ -1122,6 +1370,8 @@
   },
   "716":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
       "G\u0142uchowo Stawna"
@@ -1131,6 +1381,8 @@
   },
   "727":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "D\u0105br\u00f3wka Szko\u0142a",
       "Junikowo"
@@ -1140,6 +1392,8 @@
   },
   "729":{
     "agency":"PUK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Dopiewo Dworzec Kolejowy",
       "Ogrody"
@@ -1149,6 +1403,8 @@
   },
   "801":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Baranowo Osiedle Rubinowe",
       "Ogrody"
@@ -1158,6 +1414,8 @@
   },
   "802":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Tarnowo Pdg Pocztowa ",
       "Ogrody"
@@ -1167,6 +1425,8 @@
   },
   "803":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
       "Ogrody"
@@ -1176,6 +1436,8 @@
   },
   "804":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Sieros\u0142aw Dzia\u0142ki",
       "Ogrody"
@@ -1185,6 +1447,8 @@
   },
   "811":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Lus\u00f3wko P\u0119tla",
       "Ogrody"
@@ -1194,6 +1458,8 @@
   },
   "812":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Grzebienisko P\u0119tla",
       "Ogrody"
@@ -1203,6 +1469,8 @@
   },
   "813":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Ka\u017amierz Rynek",
       "Ogrody"
@@ -1212,6 +1480,8 @@
   },
   "821":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Lus\u00f3wko Ko\u015bci\u00f3\u0142 ",
       "Ogrody"
@@ -1221,6 +1491,8 @@
   },
   "830":{
     "agency":"ROKBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Kobylniki Lipowa",
       "Paw\u0142owice P\u0119tla"
@@ -1230,6 +1502,8 @@
   },
   "832":{
     "agency":"ROKBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Przybroda P\u0119tla"
@@ -1239,6 +1513,8 @@
   },
   "833":{
     "agency":"ROKBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Starzyny Rynkowa",
       "Ogrody"
@@ -1248,6 +1524,8 @@
   },
   "834":{
     "agency":"ROKBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "\u017bydowo P\u0119tla",
       "Ogrody"
@@ -1257,6 +1535,8 @@
   },
   "882":{
     "agency":"TPBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rokietnica Stacja",
       "Tarnowo Pdg Ostatnia"
@@ -1266,6 +1546,8 @@
   },
   "891":{
     "agency":"ROKBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rokietnica Stacja",
       "Mrowino Szko\u0142a"
@@ -1275,6 +1557,8 @@
   },
   "893":{
     "agency":"ROKBUS",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "\u017bydowo P\u0119tla",
       "Rokietnica Stacja"
@@ -1284,6 +1568,8 @@
   },
   "901":{
     "agency":"ZKP",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Z\u0142otniki Osiedle Grzybowe"
@@ -1293,6 +1579,8 @@
   },
   "902":{
     "agency":"ZKP",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Suchy Las Dzia\u0142ki"
@@ -1302,6 +1590,8 @@
   },
   "903":{
     "agency":"ZKP",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Z\u0142otniki Park Nickel"
@@ -1311,6 +1601,8 @@
   },
   "904":{
     "agency":"ZKP",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Z\u0142otniki Wie\u015b"
@@ -1320,6 +1612,8 @@
   },
   "905":{
     "agency":"ZKP",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Chludowo Szko\u0142a"
@@ -1329,6 +1623,8 @@
   },
   "907":{
     "agency":"ZKP",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Chludowo Szko\u0142a"
@@ -1338,6 +1634,8 @@
   },
   "911":{
     "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo \u015ar\u00f3dka",
       "Biedrusko Park"
@@ -1346,6 +1644,8 @@
     "typ":"bus"
   },
   "T1":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Staro\u0142\u0119ka",
       "Traugutta"

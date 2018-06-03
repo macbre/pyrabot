@@ -75,6 +75,8 @@ for line in routes['lines']:
     lines[line['name']] = {
         "typ": line['typ'],
         "petle": line['petle'],
+        "kolor1": '#' + line['color1'],
+        "kolor2": '#' + line['color2'],
         # "przystanki": line['przystanki'],
     }
 
