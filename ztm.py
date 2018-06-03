@@ -75,9 +75,10 @@ for line in routes['lines']:
     lines[line['name']] = {
         "typ": line['typ'],
         "petle": line['petle'],
-        "przystanki": line['przystanki'],
+        # "przystanki": line['przystanki'],
     }
 
+    """
     # rejestruj linię zatrzymujące się na poszczególnych przystankach
     for stop in line['przystankiSymbole'].split(','):
         if stop not in stops:
@@ -87,12 +88,15 @@ for line in routes['lines']:
 
 	if line_name not in stops[stop]:
 	        stops[stop].append(line_name)
+     """
 
+"""
 # generuj dane o przystankach (format dla skryptów LUA)
 with open("db/ztm-stops.lua", "w") as lua:
     lua_lines = ['    ["%s"] = { "%s" }' % (stop, '", "'.join(stops[stop])) for stop in sorted(stops.keys())]
 
     lua.write('local database = {\n%s}\n\nreturn database\n' % ',\n'.join(lua_lines))
+"""
 
 # typ / operator linii + rozkład jazdy
 for line in operators['lines']:
@@ -119,6 +123,7 @@ for line in operators['lines']:
 with open("db/ztm-linie.json", "w") as out:
     json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=True)
 
+"""
 # generuj dane o ulicach
 stops_to_street = {}
 streets = {}
@@ -152,3 +157,4 @@ for street in streets:
 
 with open("db/ztm-ulice.json", "w") as out:
     json.dump(streets, out, indent=2, separators=(',', ': '), sort_keys=True)
+"""
