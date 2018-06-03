@@ -28,6 +28,7 @@ echo "\n> Pobieram dane o kodach pocztowych..."
 # komunikacja miejska
 echo "\n> Pobieram dane GTFS od ZTM..."
 curl -s "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile" > gtfs_ztm.zip
+./scripts/gtfs_ztm.py
 
 # rejestr zabytków
 # @see http://poznan.wuoz.gov.pl/rejestr-zabytkow
