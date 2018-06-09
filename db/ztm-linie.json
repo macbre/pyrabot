@@ -897,7 +897,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Starzyny Rynkowa",
+      "Wichrowa",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
@@ -1183,6 +1183,15 @@
     ],
     "typ":"bus"
   },
+  "435":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tulce Ko\u015bci\u00f3\u0142",
+      "Rondo Rataje"
+    ],
+    "typ":"bus"
+  },
   "488":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1417,7 +1426,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Tarnowo Pdg Pocztowa ",
+      "Tarnowo Pdg Centrum",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/802",
@@ -1483,7 +1492,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Lus\u00f3wko Ko\u015bci\u00f3\u0142 ",
+      "Tarnowo Pdg Centrum",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",

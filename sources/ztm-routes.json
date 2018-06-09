@@ -907,7 +907,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Starzyny Rynkowa", 
+        "Wichrowa", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -1189,6 +1189,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "435", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Tulce Ko\u015bci\u00f3\u0142", 
+        "Rondo Rataje"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "488", 
       "typ": "bus", 
       "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
@@ -1424,7 +1435,7 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Tarnowo Pdg Pocztowa ", 
+        "Tarnowo Pdg Centrum", 
         "Ogrody"
       ], 
       "color1": "525252", 
@@ -1490,7 +1501,7 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Lus\u00f3wko Ko\u015bci\u00f3\u0142 ", 
+        "Tarnowo Pdg Centrum", 
         "Ogrody"
       ], 
       "color1": "525252", 
