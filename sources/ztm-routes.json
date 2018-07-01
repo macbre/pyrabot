@@ -16,7 +16,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Plac Wielkopolski", 
         "Franowo"
       ], 
       "color1": "D0006F", 
@@ -28,7 +28,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Ogrody", 
-        "D\u0119biec"
+        "G\u0142ogowska/Hetma\u0144ska"
       ], 
       "color1": "62B5E5", 
       "color2": "000000"
@@ -61,7 +61,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Mi\u0142ostowo", 
-        "Junikowo"
+        "Osiedle Sobieskiego"
       ], 
       "color1": "009639", 
       "color2": "FFFFFF"
@@ -105,7 +105,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Po\u0142abska", 
-        "D\u0119biec"
+        "Stomil"
       ], 
       "color1": "F1B434", 
       "color2": "000000"
@@ -116,7 +116,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Pi\u0105tkowska", 
-        "D\u0119biec"
+        "Staro\u0142\u0119ka"
       ], 
       "color1": "3CDBC0", 
       "color2": "000000"
@@ -133,17 +133,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "13", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Junikowo", 
-        "Plac Wielkopolski"
-      ], 
-      "color1": "AD841F", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "14", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -153,17 +142,6 @@
       ], 
       "color1": "946037", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "15", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Budziszy\u0144ska", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "A2AAAD", 
-      "color2": "000000"
     }, 
     {
       "name": "16", 
@@ -214,7 +192,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "D\u0119biec", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "Plac Wiosny Lud\u00f3w"
       ], 
       "color1": "525252", 
@@ -760,12 +738,23 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "T1", 
+      "name": "T2", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo Staro\u0142\u0119ka", 
-        "Traugutta"
+        "D\u0119biec", 
+        "D\u0119biec"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T6", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Junikowo"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -786,7 +775,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Franowo", 
+        "Osiedle Sobieskiego", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
