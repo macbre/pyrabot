@@ -751,18 +751,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Rataje"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
   "232":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -853,7 +841,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Starzyny Rynkowa",
+      "Wichrowa",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
@@ -869,15 +857,6 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
-    "typ":"bus"
-  },
-  "241":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
     "typ":"bus"
   },
   "242":{

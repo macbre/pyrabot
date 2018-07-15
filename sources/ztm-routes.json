@@ -782,17 +782,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "231", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Kaponiera", 
-        "Rondo Rataje"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "232", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -874,7 +863,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Starzyny Rynkowa", 
+        "Wichrowa", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -887,17 +876,6 @@
       "petle": [
         "Kacza", 
         "Rondo Kaponiera"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "241", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Tarnowo Pdg Centrum", 
-        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
