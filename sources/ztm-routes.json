@@ -16,7 +16,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Plac Wielkopolski", 
+        "Junikowo", 
         "Franowo"
       ], 
       "color1": "D0006F", 
@@ -28,10 +28,21 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Ogrody", 
-        "Ogrody"
+        "D\u0119biec"
       ], 
       "color1": "62B5E5", 
       "color2": "000000"
+    }, 
+    {
+      "name": "3", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Zawady", 
+        "Wilczak"
+      ], 
+      "color1": "115740", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "4", 
@@ -49,7 +60,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Stomil", 
+        "G\u00f3rczyn", 
         "G\u00f3rczyn"
       ], 
       "color1": "6CC24A", 
@@ -61,7 +72,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Mi\u0142ostowo", 
-        "Osiedle Sobieskiego"
+        "Junikowo"
       ], 
       "color1": "009639", 
       "color2": "FFFFFF"
@@ -105,7 +116,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Po\u0142abska", 
-        "Stomil"
+        "D\u0119biec"
       ], 
       "color1": "F1B434", 
       "color2": "000000"
@@ -133,6 +144,17 @@
       "color2": "000000"
     }, 
     {
+      "name": "13", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Plac Wielkopolski"
+      ], 
+      "color1": "AD841F", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "14", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -142,6 +164,17 @@
       ], 
       "color1": "946037", 
       "color2": "FFFFFF"
+    }, 
+    {
+      "name": "15", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Budziszy\u0144ska", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "A2AAAD", 
+      "color2": "000000"
     }, 
     {
       "name": "16", 
@@ -159,7 +192,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka", 
+        "\u017begrze I", 
         "Ogrody"
       ], 
       "color1": "004F71", 
@@ -192,8 +225,8 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "G\u0142ogowska/Hetma\u0144ska", 
-        "Plac Wiosny Lud\u00f3w"
+        "D\u0119biec", 
+        "Marcinkowskiego"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -639,6 +672,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "87", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "UAM Osiedle R\u00f3\u017cany Potok", 
+        "Pi\u0105tkowska"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "89", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -738,23 +782,12 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "T2", 
+      "name": "T1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "D\u0119biec", 
-        "D\u0119biec"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "T6", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Junikowo", 
-        "Junikowo"
+        "Rondo Staro\u0142\u0119ka", 
+        "Osiedle Lecha"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -771,12 +804,45 @@
       "color2": "000000"
     }, 
     {
+      "name": "170", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Po\u0142abska", 
+        "Literacka"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "188", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Osiedle Sobieskiego", 
+        "Radojewo"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "201", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Sobieskiego", 
+        "Staro\u0142\u0119ka", 
         "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "231", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo Kaponiera", 
+        "Staro\u0142\u0119ka"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -842,7 +908,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kozieg\u0142owy Osiedle Le\u015bne", 
-        "Staro\u0142\u0119ka"
+        "Franowo"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -876,6 +942,17 @@
       "petle": [
         "Kacza", 
         "Rondo Kaponiera"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "241", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Tarnowo Pdg Centrum", 
+        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1048,7 +1125,7 @@
     {
       "name": "341", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Przeb\u0119dowo P\u0119tla"
@@ -1084,6 +1161,28 @@
       "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Potasze Jod\u0142owa", 
+        "Kozieg\u0142owy Piaskowa Szko\u0142a"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "397", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Trzaskowo Wie\u015b", 
+        "Promnice Klonowa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "398", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "D\u0119bog\u00f3ra D\u0105br\u00f3wki", 
         "Kozieg\u0142owy Piaskowa Szko\u0142a"
       ], 
       "color1": "525252", 
@@ -1345,7 +1444,7 @@
     {
       "name": "801", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
         "Baranowo Osiedle Rubinowe", 
         "Ogrody"

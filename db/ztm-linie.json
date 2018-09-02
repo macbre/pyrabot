@@ -13,7 +13,7 @@
     "kolor1":"#D0006F",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Plac Wielkopolski",
+      "Junikowo",
       "Franowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
@@ -25,9 +25,20 @@
     "kolor2":"#000000",
     "petle":[
       "Ogrody",
-      "Ogrody"
+      "D\u0119biec"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
+    "typ":"tram"
+  },
+  "3":{
+    "agency":"MPK",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Zawady",
+      "Wilczak"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
   "4":{
@@ -46,7 +57,7 @@
     "kolor1":"#6CC24A",
     "kolor2":"#000000",
     "petle":[
-      "Stomil",
+      "G\u00f3rczyn",
       "G\u00f3rczyn"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
@@ -58,7 +69,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Mi\u0142ostowo",
-      "Osiedle Sobieskiego"
+      "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
     "typ":"tram"
@@ -102,7 +113,7 @@
     "kolor2":"#000000",
     "petle":[
       "Po\u0142abska",
-      "Stomil"
+      "D\u0119biec"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
@@ -129,6 +140,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
+  "13":{
+    "agency":"MPK",
+    "kolor1":"#AD841F",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Junikowo",
+      "Plac Wielkopolski"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
+    "typ":"tram"
+  },
   "14":{
     "agency":"MPK",
     "kolor1":"#946037",
@@ -138,6 +160,17 @@
       "G\u00f3rczyn"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
+    "typ":"tram"
+  },
+  "15":{
+    "agency":"MPK",
+    "kolor1":"#A2AAAD",
+    "kolor2":"#000000",
+    "petle":[
+      "Budziszy\u0144ska",
+      "Osiedle Sobieskiego"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
   "16":{
@@ -156,7 +189,7 @@
     "kolor1":"#004F71",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "\u017begrze I",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
@@ -186,8 +219,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u0142ogowska/Hetma\u0144ska",
-      "Plac Wiosny Lud\u00f3w"
+      "D\u0119biec",
+      "Marcinkowskiego"
     ],
     "typ":"tram"
   },
@@ -631,6 +664,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/86",
     "typ":"bus"
   },
+  "87":{
+    "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "UAM Osiedle R\u00f3\u017cany Potok",
+      "Pi\u0105tkowska"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/87",
+    "typ":"bus"
+  },
   "89":{
     "agency":"MPK",
     "kolor1":"#525252",
@@ -739,17 +783,47 @@
     ],
     "typ":"bus"
   },
+  "170":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Po\u0142abska",
+      "Literacka"
+    ],
+    "typ":"bus"
+  },
+  "188":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Radojewo"
+    ],
+    "typ":"bus"
+  },
   "201":{
     "agency":"MPK",
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Osiedle Sobieskiego",
+      "Staro\u0142\u0119ka",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
+  },
+  "231":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo Kaponiera",
+      "Staro\u0142\u0119ka"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
   },
   "232":{
     "agency":"MPK",
@@ -818,7 +892,7 @@
     "night":true,
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
-      "Staro\u0142\u0119ka"
+      "Franowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/237",
     "typ":"bus"
@@ -857,6 +931,15 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
+    "typ":"bus"
+  },
+  "241":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
     "typ":"bus"
   },
   "242":{
@@ -1076,6 +1159,28 @@
       "Kozieg\u0142owy Piaskowa Szko\u0142a"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
+    "typ":"bus"
+  },
+  "397":{
+    "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Trzaskowo Wie\u015b",
+      "Promnice Klonowa"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
+    "typ":"bus"
+  },
+  "398":{
+    "agency":"TRANSKOM",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
+      "Kozieg\u0142owy Piaskowa Szko\u0142a"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
   "431":{
@@ -1565,21 +1670,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   },
-  "T2":{
+  "T1":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
-      "D\u0119biec"
-    ],
-    "typ":"tram"
-  },
-  "T6":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Junikowo",
-      "Junikowo"
+      "Rondo Staro\u0142\u0119ka",
+      "Osiedle Lecha"
     ],
     "typ":"tram"
   }
