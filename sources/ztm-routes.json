@@ -38,7 +38,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "G\u00f3rczyn", 
         "Wilczak"
       ], 
       "color1": "115740", 
@@ -60,7 +60,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "G\u00f3rczyn", 
+        "Stomil", 
         "G\u00f3rczyn"
       ], 
       "color1": "6CC24A", 
@@ -104,7 +104,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pi\u0105tkowska", 
+        "D\u0119biec", 
         "Pi\u0105tkowska"
       ], 
       "color1": "FF671F", 
@@ -149,7 +149,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Junikowo", 
-        "Plac Wielkopolski"
+        "Staro\u0142\u0119ka"
       ], 
       "color1": "AD841F", 
       "color2": "FFFFFF"
@@ -208,28 +208,6 @@
       ], 
       "color1": "FEDB00", 
       "color2": "000000"
-    }, 
-    {
-      "name": "23", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Marcinkowskiego", 
-        "Staro\u0142\u0119ka"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "29", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "D\u0119biec", 
-        "Marcinkowskiego"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
     }, 
     {
       "name": "44", 
@@ -837,8 +815,8 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "231", 
-      "typ": "bus", 
+      "name": "202", 
+      "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Kaponiera", 
@@ -1444,7 +1422,7 @@
     {
       "name": "801", 
       "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Baranowo Osiedle Rubinowe", 
         "Ogrody"
