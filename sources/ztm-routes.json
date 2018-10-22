@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "0", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Zajezdnia/Madali\u0144skiego", 
-        "Zajezdnia/Madali\u0144skiego"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -41,7 +30,7 @@
         "G\u00f3rczyn", 
         "Wilczak"
       ], 
-      "color1": "115740", 
+      "color1": "6C1D45", 
       "color2": "FFFFFF"
     }, 
     {
@@ -771,17 +760,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "100", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Nowe Zoo", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
       "name": "170", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -815,8 +793,19 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "202", 
+      "name": "203", 
       "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Dworzec Zachodni", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "231", 
+      "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Kaponiera", 
@@ -1024,6 +1013,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "250", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
+      "petle": [
+        "G\u00f3rczyn", 
+        "G\u0142uchowo Stawna"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "251", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -1138,8 +1138,8 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
-        "Potasze Jod\u0142owa", 
-        "Kozieg\u0142owy Piaskowa Szko\u0142a"
+        "Kozieg\u0142owy Piaskowa Szko\u0142a", 
+        "Potasze Jod\u0142owa"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1150,7 +1150,7 @@
       "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Trzaskowo Wie\u015b", 
-        "Promnice Klonowa"
+        "Biedrusko Park"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

@@ -1,13 +1,4 @@
 {
-  "0":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zajezdnia/Madali\u0144skiego",
-      "Zajezdnia/Madali\u0144skiego"
-    ],
-    "typ":"tram"
-  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -32,7 +23,7 @@
   },
   "3":{
     "agency":"MPK",
-    "kolor1":"#115740",
+    "kolor1":"#6C1D45",
     "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
@@ -756,15 +747,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
-  "100":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
   "170":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -795,14 +777,26 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
-  "202":{
+  "203":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
+    "petle":[
+      "Dworzec Zachodni",
+      "Osiedle Sobieskiego"
+    ],
+    "typ":"tram"
+  },
+  "231":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
     "petle":[
       "Rondo Kaponiera",
       "Staro\u0142\u0119ka"
     ],
-    "typ":"tram"
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
   },
   "232":{
     "agency":"MPK",
@@ -1017,6 +1011,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
+  "250":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn",
+      "G\u0142uchowo Stawna"
+    ],
+    "typ":"bus"
+  },
   "251":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -1134,8 +1137,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Potasze Jod\u0142owa",
-      "Kozieg\u0142owy Piaskowa Szko\u0142a"
+      "Kozieg\u0142owy Piaskowa Szko\u0142a",
+      "Potasze Jod\u0142owa"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
     "typ":"bus"
@@ -1146,7 +1149,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Trzaskowo Wie\u015b",
-      "Promnice Klonowa"
+      "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
