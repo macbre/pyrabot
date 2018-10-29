@@ -747,6 +747,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
+  "113":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "typ":"bus"
+  },
   "170":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -777,12 +786,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
-  "203":{
+  "202":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Sobieskiego"
+      "Rondo Kaponiera",
+      "Staro\u0142\u0119ka"
     ],
     "typ":"tram"
   },
