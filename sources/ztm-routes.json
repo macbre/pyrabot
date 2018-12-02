@@ -30,7 +30,7 @@
         "G\u00f3rczyn", 
         "Wilczak"
       ], 
-      "color1": "6C1D45", 
+      "color1": "115740", 
       "color2": "FFFFFF"
     }, 
     {
@@ -434,7 +434,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "G\u00f3rska", 
+        "Zieliniec", 
         "Rondo Rataje"
       ], 
       "color1": "525252", 
@@ -611,7 +611,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Rataje", 
-        "Nowe Zoo"
+        "Termy Malta\u0144skie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -760,17 +760,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "113", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Rondo \u015ar\u00f3dka"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "170", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -797,7 +786,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka", 
+        "Franowo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -809,18 +798,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Kaponiera", 
-        "Staro\u0142\u0119ka"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "231", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Kaponiera", 
-        "Staro\u0142\u0119ka"
+        "Franowo"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1031,7 +1009,7 @@
         "G\u00f3rczyn", 
         "G\u0142uchowo Stawna"
       ], 
-      "color1": "000000", 
+      "color1": "525252", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1413,7 +1391,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "D\u0105br\u00f3wka Szko\u0142a", 
+        "Pal\u0119dzie Dworzec Kolejowy", 
         "Junikowo"
       ], 
       "color1": "525252", 
@@ -1543,7 +1521,7 @@
     {
       "name": "833", 
       "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Starzyny Rynkowa", 
         "Ogrody"
@@ -1554,7 +1532,7 @@
     {
       "name": "834", 
       "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "\u017bydowo P\u0119tla", 
         "Ogrody"

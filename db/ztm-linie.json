@@ -23,7 +23,7 @@
   },
   "3":{
     "agency":"MPK",
-    "kolor1":"#6C1D45",
+    "kolor1":"#115740",
     "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
@@ -433,7 +433,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rska",
+      "Zieliniec",
       "Rondo Rataje"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/66",
@@ -610,7 +610,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Nowe Zoo"
+      "Termy Malta\u0144skie"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/84",
     "typ":"bus"
@@ -747,15 +747,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"bus"
   },
-  "113":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "typ":"bus"
-  },
   "170":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -780,7 +771,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Franowo",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
@@ -791,21 +782,9 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Kaponiera",
-      "Staro\u0142\u0119ka"
+      "Franowo"
     ],
     "typ":"tram"
-  },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo Kaponiera",
-      "Staro\u0142\u0119ka"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
   },
   "232":{
     "agency":"MPK",
@@ -1021,7 +1000,7 @@
     "typ":"bus"
   },
   "250":{
-    "kolor1":"#000000",
+    "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
@@ -1402,7 +1381,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0105br\u00f3wka Szko\u0142a",
+      "Pal\u0119dzie Dworzec Kolejowy",
       "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/727",
