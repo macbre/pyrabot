@@ -10,7 +10,7 @@ use Data::Dumper;
 my @linie = (
 	{
 		name => "Dzienne",
-		lines => [145..155, 157..171, 173..185, 187, 189..198]
+		lines => [145..155, 157..171, 173..198]
 	},
 	{
 		name => "Pospieszne",
