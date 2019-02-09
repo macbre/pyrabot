@@ -197,6 +197,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
+  "106":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Strzeszynek",
+      "Safony"
+    ],
+    "typ":"bus"
+  },
   "144":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -219,7 +228,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Strzeszyn",
+      "Instytut Mr",
       "Boranta"
     ],
     "typ":"bus"
@@ -337,7 +346,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
-      "Strzeszyn"
+      "Dukielska"
     ],
     "typ":"bus"
   },
@@ -408,7 +417,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Podolany",
+      "Instytut Mr",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
@@ -427,7 +436,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Po\u0142abska",
-      "Literacka"
+      "Puszkina"
     ],
     "typ":"bus"
   },
@@ -740,7 +749,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Instytut Mr",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/236",
@@ -789,7 +798,7 @@
     "night":true,
     "petle":[
       "Kacza",
-      "Rondo Kaponiera"
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
@@ -810,7 +819,7 @@
     "night":true,
     "petle":[
       "Port Lotniczy \u0141awica",
-      "Rondo Kaponiera"
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/242",
     "typ":"bus"
@@ -857,7 +866,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Puszkina",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/246",

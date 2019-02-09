@@ -210,6 +210,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "106", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Strzeszynek", 
+        "Safony"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "144", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -236,7 +247,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Strzeszyn", 
+        "Instytut Mr", 
         "Boranta"
       ], 
       "color1": "525252", 
@@ -380,7 +391,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Garbary", 
-        "Strzeszyn"
+        "Dukielska"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -467,7 +478,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Podolany", 
+        "Instytut Mr", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "525252", 
@@ -490,7 +501,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Po\u0142abska", 
-        "Literacka"
+        "Puszkina"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -852,7 +863,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Instytut Mr", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -897,7 +908,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kacza", 
-        "Rondo Kaponiera"
+        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -919,7 +930,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Port Lotniczy \u0141awica", 
-        "Rondo Kaponiera"
+        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -962,7 +973,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Puszkina", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
