@@ -346,7 +346,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
-      "Dukielska"
+      "Instytut Mr"
     ],
     "typ":"bus"
   },
@@ -417,7 +417,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Instytut Mr",
+      "Podolany",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
@@ -589,7 +589,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "Radojewo"
+      "Osiedle Sobieskiego"
     ],
     "typ":"bus"
   },
@@ -680,7 +680,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Franowo",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
@@ -691,7 +691,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Kaponiera",
-      "Staro\u0142\u0119ka"
+      "Franowo"
     ],
     "typ":"tram"
   },
@@ -762,7 +762,7 @@
     "night":true,
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
-      "Franowo"
+      "Staro\u0142\u0119ka"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/237",
     "typ":"bus"
@@ -785,7 +785,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Wichrowa",
+      "Starzyny Rynkowa",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
@@ -1555,6 +1555,15 @@
     "petle":[
       "Rondo Staro\u0142\u0119ka",
       "Osiedle Lecha"
+    ],
+    "typ":"tram"
+  },
+  "T21":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Osiedle Sobieskiego"
     ],
     "typ":"tram"
   }

@@ -391,7 +391,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Garbary", 
-        "Dukielska"
+        "Instytut Mr"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -478,7 +478,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Instytut Mr", 
+        "Podolany", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "525252", 
@@ -688,7 +688,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Osiedle Sobieskiego", 
-        "Radojewo"
+        "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -797,7 +797,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka", 
+        "Franowo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -809,7 +809,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Kaponiera", 
-        "Staro\u0142\u0119ka"
+        "Franowo"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -875,7 +875,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kozieg\u0142owy Osiedle Le\u015bne", 
-        "Franowo"
+        "Staro\u0142\u0119ka"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -896,7 +896,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Wichrowa", 
+        "Starzyny Rynkowa", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -1659,6 +1659,17 @@
         "Biedrusko Park"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T21", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Osiedle Sobieskiego", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }
   ]
