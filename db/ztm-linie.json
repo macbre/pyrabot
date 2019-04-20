@@ -59,7 +59,7 @@
     "kolor1":"#009639",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Mi\u0142ostowo",
+      "Zawady",
       "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
@@ -82,7 +82,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "G\u00f3rczyn",
-      "Mi\u0142ostowo"
+      "Zawady"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
@@ -92,7 +92,7 @@
     "kolor1":"#FF671F",
     "kolor2":"#000000",
     "petle":[
-      "D\u0119biec",
+      "Pi\u0105tkowska",
       "Pi\u0105tkowska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
@@ -104,7 +104,7 @@
     "kolor2":"#000000",
     "petle":[
       "Po\u0142abska",
-      "D\u0119biec"
+      "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
@@ -115,7 +115,7 @@
     "kolor2":"#000000",
     "petle":[
       "Pi\u0105tkowska",
-      "Staro\u0142\u0119ka"
+      "D\u0119biec"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
@@ -273,7 +273,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Robocza",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -686,14 +686,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
-  "202":{
+  "231":{
+    "agency":"MPK",
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
+    "night":true,
     "petle":[
       "Rondo Kaponiera",
-      "Franowo"
+      "Rondo Rataje"
     ],
-    "typ":"tram"
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
   },
   "232":{
     "agency":"MPK",
@@ -785,7 +788,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Starzyny Rynkowa",
+      "Wichrowa",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/239",
@@ -801,15 +804,6 @@
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
-    "typ":"bus"
-  },
-  "241":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
     "typ":"bus"
   },
   "242":{
@@ -906,15 +900,6 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
-    "typ":"bus"
-  },
-  "250":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "G\u0142uchowo Stawna"
-    ],
     "typ":"bus"
   },
   "251":{
@@ -1051,17 +1036,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
   },
-  "398":{
-    "agency":"TRANSKOM",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
-      "Kozieg\u0142owy Piaskowa Szko\u0142a"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
-    "typ":"bus"
-  },
   "431":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1086,15 +1060,6 @@
     "petle":[
       "Tulce Ko\u015bci\u00f3\u0142",
       "Rondo Rataje"
-    ],
-    "typ":"bus"
-  },
-  "488":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Markowice Centrum",
-      "Kleszczewo P\u0119tla"
     ],
     "typ":"bus"
   },
@@ -1558,12 +1523,12 @@
     ],
     "typ":"tram"
   },
-  "T21":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
+  "T6":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "Osiedle Sobieskiego",
-      "Osiedle Sobieskiego"
+      "Mi\u0142ostowo",
+      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"tram"
   }
