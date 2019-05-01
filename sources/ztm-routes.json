@@ -93,7 +93,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pi\u0105tkowska", 
+        "D\u0119biec", 
         "Pi\u0105tkowska"
       ], 
       "color1": "FF671F", 
@@ -105,7 +105,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Po\u0142abska", 
-        "Po\u0142abska"
+        "D\u0119biec"
       ], 
       "color1": "F1B434", 
       "color2": "000000"
@@ -116,7 +116,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Pi\u0105tkowska", 
-        "D\u0119biec"
+        "Staro\u0142\u0119ka"
       ], 
       "color1": "3CDBC0", 
       "color2": "000000"
@@ -313,7 +313,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Robocza", 
+        "Pozna\u0144 G\u0142\u00f3wny", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -335,7 +335,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Sp\u0142awie", 
+        "Krzesiny", 
         "Franowo"
       ], 
       "color1": "525252", 
@@ -655,7 +655,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Rataje", 
-        "Termy Malta\u0144skie"
+        "Nowe Zoo"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -907,7 +907,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Wichrowa", 
+        "Starzyny Rynkowa", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -919,6 +919,17 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kacza", 
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "241", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Tarnowo Pdg Centrum", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -1008,6 +1019,17 @@
       "petle": [
         "D\u0119biec", 
         "Rondo Kaponiera"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "250", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
+      "petle": [
+        "G\u00f3rczyn", 
+        "G\u0142uchowo Stawna"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1145,6 +1167,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "398", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "D\u0119bog\u00f3ra D\u0105br\u00f3wki", 
+        "Kozieg\u0142owy Piaskowa Szko\u0142a"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "431", 
       "typ": "bus", 
       "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
@@ -1173,6 +1206,17 @@
       "petle": [
         "Tulce Ko\u015bci\u00f3\u0142", 
         "Rondo Rataje"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "488", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Markowice Centrum", 
+        "Kleszczewo P\u0119tla"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
