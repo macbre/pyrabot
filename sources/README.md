@@ -5,6 +5,7 @@ Katalog ten zawiera pliki źródłowe służące pyrabotowi do generowania plik�
 ### Wymagania
 
 * ``curl``
+* ``dos2unix``
 * ``xls2csv`` do konwersji plików Excel do CSV
 * ``phantomjs``
 * ``jsonlint``
