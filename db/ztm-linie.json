@@ -1,4 +1,13 @@
 {
+  "0":{
+    "kolor1":"#0D7B49",
+    "kolor2":"#000000",
+    "petle":[
+      "Zajezdnia/Madali\u0144skiego",
+      "Zajezdnia/Madali\u0144skiego"
+    ],
+    "typ":"tram"
+  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -175,6 +184,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19",
     "typ":"tram"
   },
+  "100":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Nowe Zoo",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
+  },
   "144":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -287,7 +305,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Baraniaka",
+      "Mogile\u0144ska",
       "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
@@ -522,7 +540,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Rondo \u015ar\u00f3dka"
+      "Nowe Zoo"
     ],
     "typ":"bus"
   },
@@ -766,6 +784,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
+  "241":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
+  },
   "242":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -860,6 +887,15 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
+    "typ":"bus"
+  },
+  "250":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn",
+      "G\u0142uchowo Stawna"
+    ],
     "typ":"bus"
   },
   "251":{
@@ -1477,7 +1513,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Staro\u0142\u0119ka",
-      "Osiedle Lecha"
+      "Rondo Staro\u0142\u0119ka"
     ],
     "typ":"tram"
   },
