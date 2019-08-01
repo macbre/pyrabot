@@ -34,11 +34,22 @@
       "color2": "000000"
     }, 
     {
+      "name": "4", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Po\u0142abska", 
+        "Plac Wielkopolski"
+      ], 
+      "color1": "115740", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "6", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Franowo", 
+        "Mi\u0142ostowo", 
         "Junikowo"
       ], 
       "color1": "009639", 
@@ -49,7 +60,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Po\u0142abska", 
+        "Zawady", 
         "Ogrody"
       ], 
       "color1": "003594", 
@@ -60,7 +71,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "Mi\u0142ostowo"
       ], 
       "color1": "DA291C", 
@@ -127,7 +138,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Osiedle Sobieskiego", 
-        "G\u00f3rczyn"
+        "G\u0142ogowska/Hetma\u0144ska"
       ], 
       "color1": "946037", 
       "color2": "FFFFFF"
@@ -159,7 +170,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Mi\u0142ostowo", 
+        "Zawady", 
         "Ogrody"
       ], 
       "color1": "004F71", 
@@ -199,12 +210,23 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "T4", 
+      "name": "T5", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Rondo Rataje"
+        "Ostatnia", 
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T8", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Marcinkowskiego", 
+        "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1006,7 +1028,7 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "G\u0142uchowo Stawna"
       ], 
       "color1": "000000", 
@@ -1178,6 +1200,28 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "501", 
+      "typ": "bus", 
+      "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
+      "petle": [
+        "Rondo Rataje", 
+        "K\u00f3rnik Bnin Osiedle"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "502", 
+      "typ": "bus", 
+      "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
+      "petle": [
+        "Rondo Rataje", 
+        "K\u00f3rnik Bnin Osiedle"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "511", 
       "typ": "bus", 
       "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
@@ -1211,6 +1255,28 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "560", 
+      "typ": "bus", 
+      "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
+      "petle": [
+        "Rondo Rataje", 
+        "Zaniemy\u015bl Ko\u015bci\u00f3\u0142"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "561", 
+      "typ": "bus", 
+      "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
+      "petle": [
+        "Zaniemy\u015bl Ko\u015bci\u00f3\u0142", 
+        "Rondo Rataje"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "602", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
@@ -1238,7 +1304,7 @@
       "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
       "petle": [
         "D\u0119biec", 
-        "G\u00f3rczyn"
+        "G\u0142ogowska/Hetma\u0144ska"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1259,7 +1325,7 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "Lubo\u0144 Kr\u0119ta"
       ], 
       "color1": "525252", 
@@ -1271,7 +1337,7 @@
       "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
       "petle": [
         "Lubo\u0144 \u017babikowo", 
-        "G\u00f3rczyn"
+        "G\u0142ogowska/Hetma\u0144ska"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1303,7 +1369,7 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "Komorniki Jeziorna"
       ], 
       "color1": "525252", 
@@ -1315,7 +1381,7 @@
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
         "Komorniki Osiedle Zielone Wzg\u00f3rze ", 
-        "G\u00f3rczyn"
+        "G\u0142ogowska/Hetma\u0144ska"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1325,7 +1391,7 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "Konarzewo P\u0119tla"
       ], 
       "color1": "525252", 
@@ -1336,7 +1402,7 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "G\u0142uchowo Stawna"
       ], 
       "color1": "525252", 
@@ -1347,7 +1413,7 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "G\u00f3rczyn", 
+        "G\u0142ogowska/Hetma\u0144ska", 
         "Komorniki Kolumba"
       ], 
       "color1": "525252", 

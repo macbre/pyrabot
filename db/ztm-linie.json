@@ -30,12 +30,23 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
+  "4":{
+    "agency":"MPK",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Po\u0142abska",
+      "Plac Wielkopolski"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
+    "typ":"tram"
+  },
   "6":{
     "agency":"MPK",
     "kolor1":"#009639",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
+      "Mi\u0142ostowo",
       "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/6",
@@ -46,7 +57,7 @@
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Po\u0142abska",
+      "Zawady",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
@@ -57,7 +68,7 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
@@ -124,7 +135,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "G\u00f3rczyn"
+      "G\u0142ogowska/Hetma\u0144ska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
@@ -156,7 +167,7 @@
     "kolor1":"#004F71",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Mi\u0142ostowo",
+      "Zawady",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
@@ -893,7 +904,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "G\u0142uchowo Stawna"
     ],
     "typ":"bus"
@@ -1057,6 +1068,24 @@
     ],
     "typ":"bus"
   },
+  "501":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Rondo Rataje",
+      "K\u00f3rnik Bnin Osiedle"
+    ],
+    "typ":"bus"
+  },
+  "502":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Rondo Rataje",
+      "K\u00f3rnik Bnin Osiedle"
+    ],
+    "typ":"bus"
+  },
   "511":{
     "agency":"KOMBUS",
     "kolor1":"#525252",
@@ -1090,6 +1119,24 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/527",
     "typ":"bus"
   },
+  "560":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Rondo Rataje",
+      "Zaniemy\u015bl Ko\u015bci\u00f3\u0142"
+    ],
+    "typ":"bus"
+  },
+  "561":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Zaniemy\u015bl Ko\u015bci\u00f3\u0142",
+      "Rondo Rataje"
+    ],
+    "typ":"bus"
+  },
   "602":{
     "agency":"TRANSLUB",
     "kolor1":"#525252",
@@ -1118,7 +1165,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec",
-      "G\u00f3rczyn"
+      "G\u0142ogowska/Hetma\u0144ska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/610",
     "typ":"bus"
@@ -1139,7 +1186,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "Lubo\u0144 Kr\u0119ta"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
@@ -1151,7 +1198,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Lubo\u0144 \u017babikowo",
-      "G\u00f3rczyn"
+      "G\u0142ogowska/Hetma\u0144ska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
     "typ":"bus"
@@ -1183,7 +1230,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "Komorniki Jeziorna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
@@ -1195,7 +1242,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Komorniki Osiedle Zielone Wzg\u00f3rze ",
-      "G\u00f3rczyn"
+      "G\u0142ogowska/Hetma\u0144ska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/702",
     "typ":"bus"
@@ -1205,7 +1252,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "Konarzewo P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/703",
@@ -1216,7 +1263,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "G\u0142uchowo Stawna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704",
@@ -1227,7 +1274,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u0142ogowska/Hetma\u0144ska",
       "Komorniki Kolumba"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/710",
@@ -1517,12 +1564,21 @@
     ],
     "typ":"tram"
   },
-  "T4":{
+  "T5":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo Rataje"
+      "Ostatnia",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"tram"
+  },
+  "T8":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Marcinkowskiego",
+      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"tram"
   }
