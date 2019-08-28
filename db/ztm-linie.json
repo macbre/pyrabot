@@ -1,9 +1,9 @@
 {
   "0":{
-    "kolor1":"#FFFFFF",
+    "kolor1":"#0D7B49",
     "kolor2":"#000000",
     "petle":[
-      "Zajezdnia/Madali\u0144skiego",
+      "Stomil",
       "Zajezdnia/Madali\u0144skiego"
     ],
     "typ":"tram"
@@ -226,7 +226,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Instytut Mr",
+      "Strzeszyn",
       "Boranta"
     ],
     "typ":"bus"
@@ -344,7 +344,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Garbary",
-      "Instytut Mr"
+      "Strzeszyn"
     ],
     "typ":"bus"
   },
@@ -505,7 +505,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
+      "Dru\u017cynowa",
       "Kacza"
     ],
     "typ":"bus"
@@ -675,18 +675,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Rataje"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
   "232":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -741,7 +729,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Instytut Mr",
+      "Strzeszyn",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/236",

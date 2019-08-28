@@ -5,10 +5,10 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zajezdnia/Madali\u0144skiego", 
+        "Stomil", 
         "Zajezdnia/Madali\u0144skiego"
       ], 
-      "color1": "FFFFFF", 
+      "color1": "0D7B49", 
       "color2": "000000"
     }, 
     {
@@ -269,7 +269,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Instytut Mr", 
+        "Strzeszyn", 
         "Boranta"
       ], 
       "color1": "525252", 
@@ -413,7 +413,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Garbary", 
-        "Instytut Mr"
+        "Strzeszyn"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -610,7 +610,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "D\u0119biec", 
+        "Dru\u017cynowa", 
         "Kacza"
       ], 
       "color1": "525252", 
@@ -815,17 +815,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "231", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Kaponiera", 
-        "Rondo Rataje"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "232", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -874,7 +863,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Instytut Mr", 
+        "Strzeszyn", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
