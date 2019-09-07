@@ -58,7 +58,7 @@
     "kolor2":"#000000",
     "petle":[
       "Stomil",
-      "G\u00f3rczyn"
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
@@ -201,7 +201,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
-      "Ogrody"
+      "G\u00f3rczyn"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
@@ -964,7 +964,7 @@
   },
   "312":{
     "agency":"TRANSKOM",
-    "kolor1":"#525252",
+    "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo \u015ar\u00f3dka",
@@ -1281,7 +1281,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u0142ogowska/Hetma\u0144ska",
+      "G\u00f3rczyn",
       "Komorniki Jeziorna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
@@ -1293,7 +1293,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Komorniki Osiedle Zielone Wzg\u00f3rze ",
-      "G\u0142ogowska/Hetma\u0144ska"
+      "G\u00f3rczyn"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/702",
     "typ":"bus"
@@ -1605,5 +1605,14 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
+  },
+  "T6":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Rondo Nowaka-Jeziora\u0144skiego",
+      "Rondo Kaponiera"
+    ],
+    "typ":"tram"
   }
 }
