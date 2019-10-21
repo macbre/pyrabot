@@ -1,13 +1,4 @@
 {
-  "0":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zajezdnia/Madali\u0144skiego",
-      "Zajezdnia/Madali\u0144skiego"
-    ],
-    "typ":"tram"
-  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -205,15 +196,6 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
-  },
-  "100":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -571,7 +553,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Nowe Zoo"
+      "Termy Malta\u0144skie"
     ],
     "typ":"bus"
   },
@@ -606,7 +588,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Radojewo",
+      "Osiedle Sobieskiego",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -702,6 +684,15 @@
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
+    "typ":"tram"
+  },
+  "202":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Dworzec Zachodni",
+      "Osiedle Sobieskiego"
+    ],
     "typ":"tram"
   },
   "231":{
@@ -1050,6 +1041,33 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
     "typ":"bus"
   },
+  "388":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
+      "Czerwonak Stacja"
+    ],
+    "typ":"bus"
+  },
+  "392":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Owi\u0144ska Stacja",
+      "Potasze Jod\u0142owa"
+    ],
+    "typ":"bus"
+  },
+  "394":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Kozieg\u0142owy Piaskowa Szko\u0142a",
+      "Mi\u0119kowo Stokrotkowa"
+    ],
+    "typ":"bus"
+  },
   "396":{
     "agency":"TRANSKOM",
     "kolor1":"#525252",
@@ -1070,17 +1088,6 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
-    "typ":"bus"
-  },
-  "398":{
-    "agency":"TRANSKOM",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
-      "Kozieg\u0142owy Piaskowa Szko\u0142a"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/398",
     "typ":"bus"
   },
   "431":{

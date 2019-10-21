@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "0", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Zajezdnia/Madali\u0144skiego", 
-        "Zajezdnia/Madali\u0144skiego"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -207,17 +196,6 @@
         "Ogrody"
       ], 
       "color1": "FEDB00", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "100", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Nowe Zoo", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "FFFFFF", 
       "color2": "000000"
     }, 
     {
@@ -655,7 +633,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Rataje", 
-        "Nowe Zoo"
+        "Termy Malta\u0144skie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -698,7 +676,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Radojewo", 
+        "Osiedle Sobieskiego", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -809,6 +787,17 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Osiedle Sobieskiego", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "202", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Dworzec Zachodni", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -1145,6 +1134,39 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "388", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "D\u0119bog\u00f3ra D\u0105br\u00f3wki", 
+        "Czerwonak Stacja"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "392", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Owi\u0144ska Stacja", 
+        "Potasze Jod\u0142owa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "394", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Kozieg\u0142owy Piaskowa Szko\u0142a", 
+        "Mi\u0119kowo Stokrotkowa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "396", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
@@ -1162,17 +1184,6 @@
       "petle": [
         "Trzaskowo Wie\u015b", 
         "Biedrusko Park"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "398", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "D\u0119bog\u00f3ra D\u0105br\u00f3wki", 
-        "Kozieg\u0142owy Piaskowa Szko\u0142a"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
