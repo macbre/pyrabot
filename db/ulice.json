@@ -976,8 +976,8 @@
  }, 
  "Bystra": {
   "dzielnica": "Staro\u0142\u0119ka-Minikowo-Marlewo", 
-  "kody_pocztowe": "61-366", 
-  "numeracja": "1, 3, 7-10, 12-16, 18-47"
+  "kody_pocztowe": "61-362,61-366", 
+  "numeracja": "1, 3, 7-10, 12-16, 18-48, 57"
  }, 
  "Bystrzycka": {
   "dzielnica": "Wola", 
@@ -1837,7 +1837,7 @@
  "Epicka": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1, 3, 9-10, 14-17, 19, 27, 33, 35"
+  "numeracja": "1, 3, 9-10, 14-17, 19, 27, 29, 33, 35"
  }, 
  "Eugeniusza Kwiatkowskiego": {
   "dzielnica": "\u015awierczewo", 
@@ -2497,7 +2497,7 @@
  "G\u00f3rnicza": {
   "dzielnica": "Grunwald Po\u0142udnie", 
   "kody_pocztowe": "60-107", 
-  "numeracja": "2, 40, 43-44, 258"
+  "numeracja": "2, 40, 43-44, 258, 2143"
  }, 
  "G\u00f3rska": {
   "dzielnica": "Antoninek-Zieliniec-Kobylepole", 
@@ -2582,7 +2582,7 @@
  "Haliny Brodowskiej": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1, 19"
+  "numeracja": "1, 11, 19"
  }, 
  "Haliny Konopackiej": {
   "dzielnica": "Fabianowo-Kotowo", 
@@ -3662,7 +3662,7 @@
  "Karola Irzykowskiego": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "2, 4, 6, 8, 15"
+  "numeracja": "1-2, 4, 6, 8, 15"
  }, 
  "Karola Kurpi\u0144skiego": {
   "dzielnica": "Pi\u0105tkowo", 
@@ -4256,7 +4256,7 @@
  }, 
  "Kro\u015bnie\u0144ska": {
   "dzielnica": "Junikowo", 
-  "kody_pocztowe": "60-162", 
+  "kody_pocztowe": "60-161,60-162", 
   "numeracja": "1-28"
  }, 
  "Kruszwicka": {
@@ -4982,7 +4982,7 @@
  "Mariacka": {
   "dzielnica": "G\u0142\u00f3wna", 
   "kody_pocztowe": "61-012", 
-  "numeracja": "7, 13, 15, 17-18, 20, 22, 24, 30, 32, 34, 36"
+  "numeracja": "7, 13, 15, 17-18, 20, 22, 24, 30, 32, 34, 36, 38"
  }, 
  "Mariampolska": {
   "dzielnica": "Umultowo", 
@@ -5052,7 +5052,7 @@
  "Marka H\u0142aski": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1, 3, 9, 11-12, 14-17"
+  "numeracja": "1, 3, 9, 11-17"
  }, 
  "Marklowicka": {
   "dzielnica": "Staro\u0142\u0119ka-Minikowo-Marlewo", 
@@ -5217,7 +5217,7 @@
  "Micha\u0142owo": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
   "kody_pocztowe": "61-304,61-306,61-314", 
-  "numeracja": "1-11, 13, 15-17, 19, 22-23, 26, 28, 30-31, 34, 42, 44, 46, 48, 50, 54, 60-61, 63-65, 67, 69, 71, 148, 156, 158, 197, 199, 201, 203, 205, 207"
+  "numeracja": "1-11, 13, 15-17, 19, 22-23, 26, 28, 30-31, 34, 42, 44, 46, 48, 50, 54, 60-61, 63-65, 67, 69, 71, 142, 148, 156, 158, 197, 199, 201, 203, 205, 207"
  }, 
  "Micha\u0142owska": {
   "dzielnica": "Winiary", 
@@ -6487,7 +6487,7 @@
  "Pi\u0105tkowska": {
   "dzielnica": "Winiary", 
   "kody_pocztowe": "60-648,60-649,60-650,61-693", 
-  "numeracja": "39, 41, 43, 45, 49, 55, 61, 64-65, 68, 70, 72, 74, 76, 78, 80, 84, 87, 89, 92, 94, 96, 98, 100, 102-103, 105-106, 110, 112, 116-125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147-149, 161, 163-166, 169-171, 173, 175, 177-191, 193, 195, 197, 199-201, 203, 205, 207-212, 214, 216"
+  "numeracja": "39, 41, 43, 45, 49, 55, 61, 64-65, 68, 70, 72, 74, 76, 78, 80, 84, 87, 89, 92, 94, 96, 98, 100, 102-103, 105-106, 110, 112, 116-125, 127, 129, 131, 133, 135, 137, 139, 141, 143, 145, 147-149, 161, 163-166, 169, 171, 173, 175, 177-191, 193, 195, 197, 199-201, 203, 205, 207-212, 214, 216"
  }, 
  "Pi\u0119kna": {
   "dzielnica": "Ogrody", 
@@ -6542,7 +6542,7 @@
  "Pobielska": {
   "dzielnica": "Fabianowo-Kotowo", 
   "kody_pocztowe": "60-002", 
-  "numeracja": "1-5, 7, 11"
+  "numeracja": "1-5, 7, 9, 11"
  }, 
  "Pochy\u0142a": {
   "dzielnica": "Staro\u0142\u0119ka-Minikowo-Marlewo", 
@@ -7162,7 +7162,7 @@
  "Rad\u0142owa": {
   "dzielnica": "Umultowo", 
   "kody_pocztowe": "61-602", 
-  "numeracja": "5, 7, 11, 14-16, 18-25, 27, 29, 31, 33, 35, 37, 39, 41"
+  "numeracja": "3, 5, 7, 11, 14-16, 18-25, 27, 29, 31, 33, 35, 37, 39, 41"
  }, 
  "Raka": {
   "dzielnica": "Chartowo", 
@@ -7942,7 +7942,7 @@
  "Sowice": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
   "kody_pocztowe": "61-306", 
-  "numeracja": "2, 4-9, 11, 13, 15-18, 20-36, 38-40"
+  "numeracja": "2, 4-9, 11, 13, 15-18, 20-40"
  }, 
  "So\u0142tysia": {
   "dzielnica": "Stare Winogrady", 
@@ -8982,7 +8982,7 @@
  "Tr\u00f3jpole": {
   "dzielnica": "Winiary", 
   "kody_pocztowe": "61-692,61-693", 
-  "numeracja": "2-3, 7, 9, 11, 21, 23"
+  "numeracja": "1-3, 7, 9, 11, 21, 23"
  }, 
  "Tr\u0119backa": {
   "dzielnica": "Grunwald Po\u0142udnie", 
@@ -9062,7 +9062,7 @@
  "Ugory": {
   "dzielnica": "Stare Winogrady", 
   "kody_pocztowe": "61-622,61-623", 
-  "numeracja": "18, 63, 67-68, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 95"
+  "numeracja": "18, 20, 63, 67-68, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 95"
  }, 
  "Umultowska": {
   "dzielnica": "Umultowo", 
@@ -9496,8 +9496,8 @@
  }, 
  "Winogrady": {
   "dzielnica": "Stare Winogrady", 
-  "kody_pocztowe": "61-626,61-659,61-663", 
-  "numeracja": "6, 8-12, 14, 16, 18, 20-38, 40, 42-47, 49-54, 56, 58-64, 66-72, 74, 76, 78, 80, 82-83, 86, 88-90, 92, 94, 96, 98, 100, 102-104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128-151"
+  "kody_pocztowe": "61-626,61-654,61-659,61-663", 
+  "numeracja": "6, 8-12, 14, 16, 18, 20-38, 40, 42-47, 49-54, 56, 58-64, 66-72, 74, 76, 78, 80, 82-83, 85-86, 88-90, 92, 94, 96, 98, 100, 102-104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128-151"
  }, 
  "Winogronowa": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
@@ -10237,7 +10237,7 @@
  "Zygmunta Kubiaka": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "3, 5, 7, 10-12"
+  "numeracja": "2-3, 5, 7, 10-12"
  }, 
  "Zygmunta Lisowskiego": {
   "dzielnica": "Umultowo", 
@@ -10422,7 +10422,7 @@
  "\u0141ebska": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
   "kody_pocztowe": "60-456", 
-  "numeracja": "5, 8, 10-15, 21, 23-25, 27, 29, 31-32, 37, 40-41, 43, 45-46, 48-50, 52, 54-56, 61-62, 76-77, 79, 81, 83, 86-90, 92, 96, 98, 100, 102, 104, 106, 108, 110"
+  "numeracja": "5, 8, 10-15, 21, 23-25, 27, 29, 31-32, 37, 40-41, 43, 45-46, 48-50, 52, 54-56, 61-62, 68, 70, 76-77, 79, 81, 83, 86-90, 92, 96, 98, 100, 102, 104, 106, 108, 110"
  }, 
  "\u0141obeska": {
   "dzielnica": "\u0141awica", 
