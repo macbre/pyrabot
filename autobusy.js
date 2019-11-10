@@ -12,17 +12,23 @@ var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
 	year = 2019,
 	text = '';
 
+/**
 // Kórnik
 text = 'linia włączona w system transportu Poznania [[1 sierpnia]] [[2019]] roku wraz z integracją komunikacji miejskiej na terenie gmin [[Kórnik]] i [[Zaniemyśl]]' +
 '<ref>[https://www.ztm.poznan.pl/pl/aktualnosci/od-1-sierpnia-2019-roku-integracja-transportu-publicznego-miasta-poznania-i-gmin-kornik-i-zaniemysl-najwazniejsze-informacje-dla-pasazerow ztm.poznan.pl - Od 1 sierpnia 2019 roku – integracja transportu publicznego Miasta Poznania i gmin Kórnik i Zaniemyśl. Najważniejsze informacje dla pasażerów]</ref>.\n\n' +
 '== Źródła ==\n<references />';
+**/
+
+text = '\n\n== Źródła ==\n<references />';
 
 client.logIn(function(err, data) {
 
 	for (var line in db) {
 		if (line == 201) continue;
 
-		if (line < 500 || line > 570)  continue;
+		if (line != 121) continue;
+
+		// if (line < 500 || line > 570)  continue;
 
 		// tylko linie autobusowe
 		if (line > 40 || line === 'L') {
