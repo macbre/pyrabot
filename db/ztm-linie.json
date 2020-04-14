@@ -10,39 +10,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
-  "2":{
-    "agency":"MPK",
-    "kolor1":"#62B5E5",
-    "kolor2":"#000000",
-    "petle":[
-      "Ogrody",
-      "D\u0119biec"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
-    "typ":"tram"
-  },
-  "3":{
-    "agency":"MPK",
-    "kolor1":"#115740",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Wilczak",
-      "G\u00f3rczyn"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
-    "typ":"tram"
-  },
-  "4":{
-    "agency":"MPK",
-    "kolor1":"#115740",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Po\u0142abska",
-      "Staro\u0142\u0119ka"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
-    "typ":"tram"
-  },
   "5":{
     "agency":"MPK",
     "kolor1":"#6CC24A",
@@ -107,17 +74,6 @@
       "D\u0119biec"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
-    "typ":"tram"
-  },
-  "11":{
-    "agency":"MPK",
-    "kolor1":"#3CDBC0",
-    "kolor2":"#000000",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Staro\u0142\u0119ka"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
   },
   "12":{
@@ -197,47 +153,11 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "121":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Meissnera",
-      "Ogrody"
-    ],
-    "typ":"bus"
-  },
-  "144":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Kurpi\u0144skiego",
-      "Boranta"
-    ],
-    "typ":"bus"
-  },
-  "145":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Dworzec Zachodni",
-      "Kacza"
-    ],
-    "typ":"bus"
-  },
   "146":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "Strzeszyn",
-      "Boranta"
-    ],
-    "typ":"bus"
-  },
-  "147":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Wielka",
       "Boranta"
     ],
     "typ":"bus"
@@ -248,24 +168,6 @@
     "petle":[
       "\u0141awica",
       "Rondo Kaponiera"
-    ],
-    "typ":"bus"
-  },
-  "149":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "D\u0119biec"
-    ],
-    "typ":"bus"
-  },
-  "150":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Ogrody",
-      "G\u00f3rczyn"
     ],
     "typ":"bus"
   },
@@ -301,7 +203,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Zalasewo Planetarna Szko\u0142a",
-      "Rondo Rataje"
+      "Franowo"
     ],
     "typ":"bus"
   },
@@ -314,30 +216,12 @@
     ],
     "typ":"bus"
   },
-  "157":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Mogile\u0144ska",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "typ":"bus"
-  },
   "158":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "Sypniewo",
       "Staro\u0142\u0119ka"
-    ],
-    "typ":"bus"
-  },
-  "159":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Port Lotniczy \u0141awica",
-      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   },
@@ -391,7 +275,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Staro\u0142\u0119ka",
-      "Rondo Rataje"
+      "K\u00f3rnicka"
     ],
     "typ":"bus"
   },
@@ -428,15 +312,6 @@
     "petle":[
       "Osiedle \u0141okietka",
       "Osiedle Kopernika"
-    ],
-    "typ":"bus"
-  },
-  "170":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Po\u0142abska",
-      "Puszkina"
     ],
     "typ":"bus"
   },
@@ -525,7 +400,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Szwajcarska Centrum Handlowe",
+      "Krzywoustego Kinepolis",
       "Rondo Rataje"
     ],
     "typ":"bus"
@@ -553,7 +428,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
   },
@@ -572,24 +447,6 @@
     "petle":[
       "Kiekrz",
       "Ogrody"
-    ],
-    "typ":"bus"
-  },
-  "187":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "UAM Osiedle R\u00f3\u017cany Potok",
-      "Pi\u0105tkowska"
-    ],
-    "typ":"bus"
-  },
-  "188":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Osiedle Sobieskiego"
     ],
     "typ":"bus"
   },
@@ -620,33 +477,6 @@
     ],
     "typ":"bus"
   },
-  "192":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rondo Rataje",
-      "Rondo Rataje"
-    ],
-    "typ":"bus"
-  },
-  "193":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "G\u00f3rczyn"
-    ],
-    "typ":"bus"
-  },
-  "194":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka"
-    ],
-    "typ":"bus"
-  },
   "195":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -669,7 +499,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Radojewo",
+      "UAM Osiedle R\u00f3\u017cany Potok",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -685,39 +515,6 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
-  },
-  "202":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Sobieskiego"
-    ],
-    "typ":"tram"
-  },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Rataje"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
-  "232":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Szwajcarska Szpital",
-      "Rondo Kaponiera"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/232",
-    "typ":"bus"
   },
   "233":{
     "agency":"MPK",
@@ -741,18 +538,6 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/234",
-    "typ":"bus"
-  },
-  "235":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/235",
     "typ":"bus"
   },
   "236":{
@@ -786,7 +571,7 @@
     "night":true,
     "petle":[
       "Rondo Kaponiera",
-      "Szwajcarska Szpital"
+      "Franowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/238",
     "typ":"bus"
@@ -813,15 +598,6 @@
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
-    "typ":"bus"
-  },
-  "241":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
-    ],
     "typ":"bus"
   },
   "242":{
@@ -920,15 +696,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
-  "250":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "G\u0142uchowo Stawna"
-    ],
-    "typ":"bus"
-  },
   "251":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -955,7 +722,7 @@
   },
   "312":{
     "agency":"TRANSKOM",
-    "kolor1":"#000000",
+    "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo \u015ar\u00f3dka",
@@ -1041,61 +808,57 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348",
     "typ":"bus"
   },
-  "388":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
+  "400":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
-      "Czerwonak Stacja"
+      "Rondo \u015ar\u00f3dka",
+      "Swarz\u0119dz Osiedle Raczy\u0144skiego"
     ],
     "typ":"bus"
   },
-  "392":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
+  "401":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "Owi\u0144ska Stacja",
-      "Potasze Jod\u0142owa"
+      "Rondo \u015ar\u00f3dka",
+      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
     ],
     "typ":"bus"
   },
-  "394":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
+  "405":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "Kozieg\u0142owy Piaskowa Szko\u0142a",
-      "Mi\u0119kowo Stokrotkowa"
+      "Rondo \u015ar\u00f3dka",
+      "Swarz\u0119dz Rynek"
     ],
     "typ":"bus"
   },
-  "396":{
-    "agency":"TRANSKOM",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
+  "407":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "Kozieg\u0142owy Piaskowa Szko\u0142a",
-      "Potasze Jod\u0142owa"
+      "Rondo \u015ar\u00f3dka",
+      "Jasin Rabowicka P\u0119tla"
     ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396",
     "typ":"bus"
   },
-  "397":{
-    "agency":"TRANSKOM",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
+  "412":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "Trzaskowo Wie\u015b",
-      "Biedrusko Park"
+      "Rondo \u015ar\u00f3dka",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
     ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
   },
   "431":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Kleszczewo P\u0119tla",
-      "Rondo Rataje"
+      "Kleszczewo Park",
+      "Franowo"
     ],
     "typ":"bus"
   },
@@ -1103,17 +866,35 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Kleszczewo P\u0119tla",
-      "Rondo Rataje"
+      "Kleszczewo Park",
+      "Franowo"
     ],
     "typ":"bus"
   },
-  "435":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
+  "484":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
-      "Tulce Ko\u015bci\u00f3\u0142",
-      "Rondo Rataje"
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Zalasewo Osiedle Le\u015bne"
+    ],
+    "typ":"bus"
+  },
+  "485":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Pobiedziska Dworzec",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "typ":"bus"
+  },
+  "486":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Siekierki Wielkie Ko\u015bci\u00f3\u0142",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
     ],
     "typ":"bus"
   },
@@ -1122,7 +903,61 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Markowice Centrum",
-      "Kleszczewo P\u0119tla"
+      "Kleszczewo Park"
+    ],
+    "typ":"bus"
+  },
+  "491":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "typ":"bus"
+  },
+  "492":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Uzarzewo P\u0119tla (Pa\u0142ac)",
+      "Kobylnica W\u0119ze\u0142"
+    ],
+    "typ":"bus"
+  },
+  "493":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Kar\u0142owice P\u0119tla",
+      "Kobylnica W\u0119ze\u0142"
+    ],
+    "typ":"bus"
+  },
+  "494":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Garby Ma\u0142e P\u0119tla",
+      "Kobylnica Stacja"
+    ],
+    "typ":"bus"
+  },
+  "498":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Kruszewnia P\u0119tla",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "typ":"bus"
+  },
+  "499":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Zalasewo Osiedle Le\u015bne",
+      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
     ],
     "typ":"bus"
   },
@@ -1130,7 +965,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rondo Rataje",
+      "Franowo",
       "K\u00f3rnik Bnin Osiedle"
     ],
     "typ":"bus"
@@ -1139,7 +974,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rondo Rataje",
+      "Franowo",
       "K\u00f3rnik Bnin Osiedle"
     ],
     "typ":"bus"
@@ -1181,7 +1016,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rondo Rataje",
+      "Franowo",
       "Zaniemy\u015bl Ko\u015bci\u00f3\u0142"
     ],
     "typ":"bus"
@@ -1191,7 +1026,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Zaniemy\u015bl Ko\u015bci\u00f3\u0142",
-      "Rondo Rataje"
+      "Franowo"
     ],
     "typ":"bus"
   },
@@ -1250,17 +1085,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
-  "616":{
-    "agency":"MPK",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "Lubo\u0144 \u017babikowo"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
-    "typ":"bus"
-  },
   "651":{
     "agency":"TRANSLUB",
     "kolor1":"#525252",
@@ -1270,17 +1094,6 @@
       "Mosina Dworzec Kolejowy"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
-    "typ":"bus"
-  },
-  "690":{
-    "agency":"TRANSLUB",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Lubo\u0144 \u017babikowo",
-      "\u0141\u0119czyca Dworcowa"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
   "701":{
@@ -1325,6 +1138,24 @@
       "G\u0142uchowo Stawna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704",
+    "typ":"bus"
+  },
+  "705":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn",
+      "Konarzewo P\u0119tla"
+    ],
+    "typ":"bus"
+  },
+  "707":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Rosn\u00f3wko Stacja",
+      "G\u00f3rczyn"
+    ],
     "typ":"bus"
   },
   "710":{
@@ -1453,8 +1284,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Tarnowo Pdg Centrum"
+      "Lus\u00f3wko Osiedle Rozalin",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
     "typ":"bus"
@@ -1464,7 +1295,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Kobylniki Lipowa",
+      "Kobylniki Tarnowska",
       "Paw\u0142owice P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/830",
@@ -1503,17 +1334,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/834",
     "typ":"bus"
   },
-  "882":{
-    "agency":"TPBUS",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rokietnica Stacja",
-      "Tarnowo Pdg Ostatnia"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
-    "typ":"bus"
-  },
   "891":{
     "agency":"ROKBUS",
     "kolor1":"#525252",
@@ -1542,7 +1362,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "Z\u0142otniki Osiedle Grzybowe"
+      "Z\u0142otniki Osiedle"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/901",
     "typ":"bus"
@@ -1558,24 +1378,13 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/902",
     "typ":"bus"
   },
-  "903":{
-    "agency":"ZKP",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Z\u0142otniki Park Nickel"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/903",
-    "typ":"bus"
-  },
   "904":{
     "agency":"ZKP",
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "Z\u0142otniki Wie\u015b"
+      "Z\u0142otniki Osiedle"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/904",
     "typ":"bus"
@@ -1585,7 +1394,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Osiedle Sobieskiego",
       "Chludowo Szko\u0142a"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/905",
@@ -1612,5 +1421,14 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
+  },
+  "T21":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Osiedle Sobieskiego"
+    ],
+    "typ":"tram"
   }
 }
