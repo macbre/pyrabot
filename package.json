@@ -7,13 +7,17 @@
     "flickr-client": "^0.0.4",
     "flickr-photo-info": "^0.0.1",
     "jsdom": "^11.11.0",
-    "nodemw": "github:macbre/nodemw#devel"
+    "nodemw": "github:macbre/nodemw#devel",
+    "snyk": "^1.316.2"
   },
   "devDependencies": {
     "jshint": "macbre/jshint#master",
     "jsonlint": "^1.6.3"
   },
   "scripts": {
-    "lint": "jshint --verbose *.js"
-  }
+    "lint": "jshint --verbose *.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
