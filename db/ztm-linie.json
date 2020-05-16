@@ -10,6 +10,28 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
+  "3":{
+    "agency":"MPK",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Wilczak",
+      "G\u00f3rczyn"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
+    "typ":"tram"
+  },
+  "4":{
+    "agency":"MPK",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Po\u0142abska",
+      "Staro\u0142\u0119ka"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
+    "typ":"tram"
+  },
   "5":{
     "agency":"MPK",
     "kolor1":"#6CC24A",
@@ -213,6 +235,15 @@
     "petle":[
       "Krzy\u017cowniki",
       "Ogrody"
+    ],
+    "typ":"bus"
+  },
+  "157":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Mogile\u0144ska",
+      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
   },
@@ -477,6 +508,15 @@
     ],
     "typ":"bus"
   },
+  "193":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "G\u00f3rczyn"
+    ],
+    "typ":"bus"
+  },
   "195":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -503,18 +543,6 @@
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
-  },
-  "201":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Osiedle Sobieskiego"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"tram"
   },
   "233":{
     "agency":"MPK",
@@ -1153,8 +1181,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rosn\u00f3wko Stacja",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn",
+      "Rosn\u00f3wko Stacja"
     ],
     "typ":"bus"
   },
@@ -1284,8 +1312,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Lus\u00f3wko Osiedle Rozalin",
-      "Ogrody"
+      "Ogrody",
+      "Lus\u00f3wko Osiedle Rozalin"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
     "typ":"bus"
