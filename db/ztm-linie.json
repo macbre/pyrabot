@@ -10,9 +10,20 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
+  "2":{
+    "agency":"MPK",
+    "kolor1":"#62B5E5",
+    "kolor2":"#000000",
+    "petle":[
+      "Ogrody",
+      "D\u0119biec"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
+    "typ":"tram"
+  },
   "3":{
     "agency":"MPK",
-    "kolor1":"#115740",
+    "kolor1":"#800040",
     "kolor2":"#FFFFFF",
     "petle":[
       "Wilczak",
@@ -174,6 +185,24 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
+  },
+  "144":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Kurpi\u0144skiego",
+      "Boranta"
+    ],
+    "typ":"bus"
+  },
+  "145":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Dworzec Zachodni",
+      "Kacza"
+    ],
+    "typ":"bus"
   },
   "146":{
     "kolor1":"#525252",
@@ -517,6 +546,15 @@
     ],
     "typ":"bus"
   },
+  "194":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Staro\u0142\u0119ka",
+      "Staro\u0142\u0119ka"
+    ],
+    "typ":"bus"
+  },
   "195":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -544,6 +582,30 @@
     ],
     "typ":"bus"
   },
+  "201":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Osiedle Sobieskiego"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
+    "typ":"tram"
+  },
+  "232":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Osiedle Rusa",
+      "Rondo Kaponiera"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/232",
+    "typ":"bus"
+  },
   "233":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -566,6 +628,18 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/234",
+    "typ":"bus"
+  },
+  "235":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/235",
     "typ":"bus"
   },
   "236":{
@@ -1122,6 +1196,17 @@
       "Mosina Dworzec Kolejowy"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
+    "typ":"bus"
+  },
+  "690":{
+    "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "\u0141\u0119czyca Dworcowa"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
   "701":{
