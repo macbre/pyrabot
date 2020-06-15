@@ -222,6 +222,24 @@
     ],
     "typ":"bus"
   },
+  "149":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn",
+      "D\u0119biec"
+    ],
+    "typ":"bus"
+  },
+  "150":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Ogrody",
+      "G\u00f3rczyn"
+    ],
+    "typ":"bus"
+  },
   "151":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -282,6 +300,15 @@
     "petle":[
       "Sypniewo",
       "Staro\u0142\u0119ka"
+    ],
+    "typ":"bus"
+  },
+  "159":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Port Lotniczy \u0141awica",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   },
@@ -372,6 +399,15 @@
     "petle":[
       "Osiedle \u0141okietka",
       "Osiedle Kopernika"
+    ],
+    "typ":"bus"
+  },
+  "170":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Po\u0142abska",
+      "Puszkina"
     ],
     "typ":"bus"
   },
@@ -582,18 +618,6 @@
     ],
     "typ":"bus"
   },
-  "201":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Osiedle Sobieskiego"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"tram"
-  },
   "232":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -702,6 +726,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/240",
     "typ":"bus"
   },
+  "241":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
+    ],
+    "typ":"bus"
+  },
   "242":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -798,6 +831,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/249",
     "typ":"bus"
   },
+  "250":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn",
+      "G\u0142uchowo Stawna"
+    ],
+    "typ":"bus"
+  },
   "251":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -820,6 +862,15 @@
       "Rondo Kaponiera"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
+    "typ":"bus"
+  },
+  "253":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
     "typ":"bus"
   },
   "312":{
@@ -937,6 +988,15 @@
     ],
     "typ":"bus"
   },
+  "406":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Jasin Centrum Handlowe Etc"
+    ],
+    "typ":"bus"
+  },
   "407":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1009,6 +1069,15 @@
     ],
     "typ":"bus"
   },
+  "490":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "typ":"bus"
+  },
   "491":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1042,6 +1111,15 @@
     "petle":[
       "Garby Ma\u0142e P\u0119tla",
       "Kobylnica Stacja"
+    ],
+    "typ":"bus"
+  },
+  "497":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Zalasewo Osiedle Le\u015bne",
+      "Kruszewnia P\u0119tla"
     ],
     "typ":"bus"
   },
