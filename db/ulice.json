@@ -169,6 +169,11 @@
   "kody_pocztowe": "61-616", 
   "numeracja": "1-9, 11, 13-18, 20-22"
  }, 
+ "Amelii \u0141\u0105czy\u0144skiej": {
+  "dzielnica": "Strzeszyn", 
+  "kody_pocztowe": "60-461", 
+  "numeracja": "7"
+ }, 
  "Ametystowa": {
   "dzielnica": "Umultowo", 
   "kody_pocztowe": "61-680", 
@@ -487,7 +492,7 @@
  "Beskidzka": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
   "kody_pocztowe": "60-416", 
-  "numeracja": "3, 11, 15, 17, 19, 21, 27, 29, 31, 33, 35, 37, 39, 41, 47, 49, 59, 86, 102, 104, 106, 108, 110, 142, 144, 146, 160, 162, 164, 168, 200, 226, 230"
+  "numeracja": "3, 11, 15, 17, 19, 21, 27, 29, 31, 33, 35, 37, 39, 41, 47, 49, 51, 59, 86, 102, 104, 106, 108, 110, 142, 144, 146, 160, 162, 164, 168, 200, 226, 230"
  }, 
  "Be\u0142chatowska": {
   "dzielnica": "Junikowo", 
@@ -677,7 +682,7 @@
  "Bojerowa": {
   "dzielnica": "Kiekrz", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "3, 5, 11, 13-17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 51, 53, 55, 59, 61"
+  "numeracja": "3, 5, 10-11, 13-17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 51, 53, 55, 59, 61"
  }, 
  "Boles\u0142awa Czerwi\u0144skiego": {
   "dzielnica": "\u015awierczewo", 
@@ -922,7 +927,7 @@
  "Bursztynowa": {
   "dzielnica": "Umultowo", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "4, 6-23, 25, 27-32, 34-35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 67, 69"
+  "numeracja": "4, 6-23, 25, 27-35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 67, 69"
  }, 
  "Burtowa": {
   "dzielnica": "Kiekrz", 
@@ -1126,7 +1131,7 @@
  }, 
  "Chocimska": {
   "dzielnica": "Jana III Sobieskiego i Marysie\u0144ki", 
-  "kody_pocztowe": "60-688,60-689", 
+  "kody_pocztowe": "60-688", 
   "numeracja": "1-40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78"
  }, 
  "Chodzieska": {
@@ -1302,7 +1307,7 @@
  "Czarnucha": {
   "dzielnica": "Naramowice", 
   "kody_pocztowe": "61-612", 
-  "numeracja": "1, 3, 5-7"
+  "numeracja": "1, 3, 5-7, 9, 11"
  }, 
  "Czartoria": {
   "dzielnica": "Stare Miasto", 
@@ -1711,7 +1716,7 @@
  }, 
  "Dziewi\u0144ska": {
   "dzielnica": "Junikowo", 
-  "kody_pocztowe": "60-178,60-179", 
+  "kody_pocztowe": "60-178", 
   "numeracja": "3-33, 35-36, 38, 40-77, 79, 81, 83"
  }, 
  "Dzikiej R\u00f3\u017cy": {
@@ -2142,7 +2147,7 @@
  "George'a Byrona": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1"
+  "numeracja": "1, 7"
  }, 
  "Gerberowa": {
   "dzielnica": "Kwiatowe", 
@@ -2421,8 +2426,8 @@
  }, 
  "Gryfi\u0144ska": {
   "dzielnica": "\u0141awica", 
-  "kody_pocztowe": "60-192", 
-  "numeracja": "2, 4-23, 25"
+  "kody_pocztowe": "60-189,60-192", 
+  "numeracja": "1-2, 4-23, 25"
  }, 
  "Grzybowa": {
   "dzielnica": "\u015awierczewo", 
@@ -2436,8 +2441,8 @@
  }, 
  "Gubi\u0144ska": {
   "dzielnica": "Junikowo", 
-  "kody_pocztowe": "60-163", 
-  "numeracja": "12, 15, 17, 19-21, 23, 25, 27-30, 34, 38, 40, 42, 44"
+  "kody_pocztowe": "60-161,60-163", 
+  "numeracja": "10, 12, 15, 17, 19-21, 23, 25, 27-30, 34, 38, 40, 42, 44"
  }, 
  "Guliwera": {
   "dzielnica": "\u0141awica", 
@@ -2491,7 +2496,7 @@
  }, 
  "G\u00f3rki": {
   "dzielnica": "G\u00f3rczyn", 
-  "kody_pocztowe": "60-203,60-204", 
+  "kody_pocztowe": "60-204", 
   "numeracja": "2-10, 12-20, 22, 24, 26"
  }, 
  "G\u00f3rna Wilda": {
@@ -2626,7 +2631,7 @@
  }, 
  "Hawela\u0144ska": {
   "dzielnica": "Stare Winogrady", 
-  "kody_pocztowe": "61-619,61-625", 
+  "kody_pocztowe": "61-625", 
   "numeracja": "1-2, 5-7, 9-13, 15, 17, 19"
  }, 
  "Heleny Kurcewicz\u00f3wny": {
@@ -2642,7 +2647,7 @@
  "Heleny Rzepeckiej": {
   "dzielnica": "Podolany", 
   "kody_pocztowe": "60-465", 
-  "numeracja": "3-5, 7-9, 11-12, 15-17, 19, 21-24, 26"
+  "numeracja": "3-5, 7-9, 11-12, 15-17, 19, 21-27, 29, 31, 33, 35, 37"
  }, 
  "Heleny Szafran": {
   "dzielnica": "Podolany", 
@@ -2782,7 +2787,7 @@
  "Huby Moraskie": {
   "dzielnica": "Morasko-Radojewo", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "1-16, 18, 20-44"
+  "numeracja": "1-16, 18-44"
  }, 
  "Hugona Ko\u0142\u0142\u0105taja": {
   "dzielnica": "\u015awierczewo", 
@@ -2931,7 +2936,7 @@
  }, 
  "Jacka Rychlewskiego": {
   "dzielnica": "Ostr\u00f3w Tumski-\u015ar\u00f3dka-Zawady-Komandoria", 
-  "kody_pocztowe": "61-139", 
+  "kody_pocztowe": "61-131", 
   "numeracja": "2"
  }, 
  "Jadwigi Wajs\u00f3wny": {
@@ -2986,8 +2991,8 @@
  }, 
  "Jana Henryka D\u0105browskiego": {
   "dzielnica": "Wola", 
-  "kody_pocztowe": "60-406,60-418,60-419,60-425,60-451,60-452,60-522,60-523,60-529,60-543,60-574,60-575,60-576,60-577,60-588,60-594,60-838,60-839,60-840,60-841,60-842,60-843", 
-  "numeracja": "3, 5, 7-10, 12, 14-15, 17-18, 20, 23-30, 32-36, 38-47, 49-54, 56-58, 60, 62-73, 75-82, 84, 86, 88-98, 100, 102, 104-118, 120, 122-124, 127, 129-130, 132-134, 136-141, 143-144, 146-147, 149, 151-156, 158-160, 162-166, 168-170, 172, 174-175, 177, 179, 181-203, 205, 211, 213, 215, 217, 219, 221, 223, 225, 227, 229, 231, 233, 235, 237, 239, 241, 243, 245, 249, 251-253, 255, 257, 259, 261, 263-263, 265, 267, 269, 271, 273-273, 275, 277, 279-279, 281-283, 285-310, 312, 314-316, 318-318, 320-320, 322-322, 324-324, 326-326, 328-328, 330, 332-339, 341, 343, 345, 347, 349, 351-351, 353, 355, 357, 361, 381, 383, 385, 387, 399, 419, 425, 427, 431, 435, 437, 439-439, 441, 443, 445, 447, 449-449, 451, 453, 455, 457-459, 461, 465, 467, 469-473, 475, 479, 481, 483, 485-485, 487, 489-489, 493-493, 495, 497, 499-499, 501-501, 503, 505-507, 509, 511-511, 513, 515, 517, 525-525, 527, 529-529, 531, 533, 536, 543-544, 550-554, 556, 558, 560, 562, 566, 568, 570, 572, 574"
+  "kody_pocztowe": "60-406,60-418,60-419,60-425,60-451,60-452,60-522,60-523,60-529,60-543,60-566,60-574,60-575,60-576,60-577,60-588,60-594,60-838,60-839,60-840,60-841,60-842,60-843", 
+  "numeracja": "3, 5, 7-10, 12, 14-15, 17-18, 20, 23-30, 32-36, 38-47, 49-54, 56-58, 60, 62-73, 75-82, 84, 86, 88-98, 100, 102, 104-118, 120, 122-124, 127, 129-130, 132-134, 136-144, 146-147, 149, 151-156, 158-160, 162-166, 168-170, 172, 174-175, 177, 179, 181-203, 205, 211, 213, 215, 217, 219, 221, 223, 225, 227, 229, 231, 233, 235, 237, 239, 241, 243, 245, 249, 251-253, 255, 257, 259, 261, 263-263, 265, 267, 269, 271, 273-273, 275, 277, 279-279, 281-283, 285-310, 312, 314-316, 318-318, 320-320, 322-322, 324-324, 326-326, 328-328, 330, 332-339, 341, 343, 345, 347, 349, 351-351, 353, 355, 357, 361, 381, 383, 385, 387, 399, 419, 425, 427, 431, 435, 437, 439-439, 441, 443, 445, 447, 449-449, 451, 453, 455, 457-459, 461, 465, 467, 469-473, 475, 479, 481, 483, 485-485, 487, 489-489, 493-493, 495, 497, 499-499, 501-501, 503, 505-507, 509, 511-511, 513, 515, 517, 525-525, 527, 529-529, 531, 533, 536, 543-544, 550-554, 556, 558, 560, 562, 566, 568, 570, 572, 574"
  }, 
  "Jana Kasprowicza": {
   "dzielnica": "Strzeszyn", 
@@ -3167,7 +3172,7 @@
  "Janusza Meissnera": {
   "dzielnica": "Wola", 
   "kody_pocztowe": "60-408", 
-  "numeracja": "1-2, 4, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49"
+  "numeracja": "1-2, 4, 6-7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49"
  }, 
  "Janusza Szpota\u0144skiego": {
   "dzielnica": "Strzeszyn", 
@@ -3656,8 +3661,8 @@
  }, 
  "Karola Buczka": {
   "dzielnica": "\u015awierczewo", 
-  "kody_pocztowe": "61-414", 
-  "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 35, 37, 39, 41, 43, 45, 47, 49"
+  "kody_pocztowe": "61-414,61-415", 
+  "numeracja": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 32, 34-35, 37, 39, 41, 43, 45, 47, 49"
  }, 
  "Karola Bunscha": {
   "dzielnica": "Strzeszyn", 
@@ -3896,8 +3901,8 @@
  }, 
  "Klinkierowa": {
   "dzielnica": "G\u00f3rczyn", 
-  "kody_pocztowe": "60-104", 
-  "numeracja": "7"
+  "kody_pocztowe": "60-104,60-105", 
+  "numeracja": "2, 7"
  }, 
  "Klonowa": {
   "dzielnica": "Zielony D\u0119biec", 
@@ -3946,7 +3951,7 @@
  }, 
  "Kociewska": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
-  "kody_pocztowe": "60-446,60-456", 
+  "kody_pocztowe": "60-456", 
   "numeracja": "3, 10, 12, 14, 17-20, 22"
  }, 
  "Kokosowa": {
@@ -4196,7 +4201,7 @@
  }, 
  "Ko\u015bcierzy\u0144ska": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
-  "kody_pocztowe": "60-446,60-456", 
+  "kody_pocztowe": "60-446", 
   "numeracja": "3, 5, 7-12, 14-23, 25-30, 32-34, 36, 43-48, 50, 54, 56, 58, 60, 62-77, 79-85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 107, 109, 111, 113, 115, 117, 119, 121, 131, 135, 137, 139, 141"
  }, 
  "Ko\u017ami\u0144ska": {
@@ -4427,7 +4432,7 @@
  "Kwarcowa": {
   "dzielnica": "Umultowo", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "4, 6, 8, 10-14"
+  "numeracja": "4, 6, 8, 10-15"
  }, 
  "Kwiatowa": {
   "dzielnica": "Stare Miasto", 
@@ -4667,7 +4672,7 @@
  "Liryczna": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "3-5, 7-8, 10-14, 26, 28, 30, 32, 34, 36, 38, 40"
+  "numeracja": "3-5, 7-8, 10-14, 16, 26, 28, 30, 32, 34, 36, 38, 40"
  }, 
  "Lisa Witalisa": {
   "dzielnica": "\u0141awica", 
@@ -4813,6 +4818,11 @@
   "dzielnica": "Rataje", 
   "kody_pocztowe": "61-131,61-139", 
   "numeracja": "63, 128, 130, 132-133, 138, 140, 142"
+ }, 
+ "Ludwiki Dobrzy\u0144skiej-Rybickiej": {
+  "dzielnica": "Strzeszyn", 
+  "kody_pocztowe": "60-461", 
+  "numeracja": "74, 76, 78, 80, 82, 84"
  }, 
  "Lukrecjusza": {
   "dzielnica": "Strzeszyn", 
@@ -4971,7 +4981,7 @@
  }, 
  "Marcina Ro\u017cka": {
   "dzielnica": "Podolany", 
-  "kody_pocztowe": "60-465", 
+  "kody_pocztowe": "60-465,60-479", 
   "numeracja": "9-30, 32"
  }, 
  "Margaretkowa": {
@@ -5132,7 +5142,7 @@
  "Melchiora Wa\u0144kowicza": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "2, 7, 9, 11, 13, 15, 27, 36, 38, 40, 42-44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 90"
+  "numeracja": "2, 7, 9, 11, 13, 15, 27, 36, 38, 40, 42-44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 78, 90"
  }, 
  "Meliorant\u00f3w": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
@@ -5222,7 +5232,7 @@
  "Micha\u0142owo": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
   "kody_pocztowe": "61-304,61-306,61-314", 
-  "numeracja": "1-11, 13, 15-17, 19, 22-23, 26, 28, 30-31, 34, 42, 44, 46, 48, 50, 54, 60-61, 63-65, 67, 69, 71, 140, 142, 148, 156, 158, 185, 187, 189, 191, 193, 195, 197, 199, 201, 203, 205, 207"
+  "numeracja": "1-11, 13, 15-17, 19, 22-23, 26, 28, 30-31, 34, 42, 44, 46, 48, 50, 54, 60-61, 63-65, 67-69, 71, 140, 142, 148, 156, 158, 185, 187, 189, 191, 193, 195, 197, 199, 201, 203, 205, 207"
  }, 
  "Micha\u0142owska": {
   "dzielnica": "Winiary", 
@@ -5612,7 +5622,7 @@
  "Nad Jeziorem": {
   "dzielnica": "Kiekrz", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "80, 101, 103, 105, 107, 109, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140"
+  "numeracja": "80, 101, 103, 105, 107, 109, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 144"
  }, 
  "Nad Krzesink\u0105": {
   "dzielnica": "Krzesiny-Pokrzywno-Garaszewo", 
@@ -5896,7 +5906,7 @@
  }, 
  "Obornicka": {
   "dzielnica": "Podolany", 
-  "kody_pocztowe": "60-650,60-685,60-689,60-691,60-693", 
+  "kody_pocztowe": "60-650,60-689,60-691,60-693", 
   "numeracja": "223, 225, 227, 229, 231, 233, 235, 239, 242, 244-245, 247-258, 260-260, 262-264, 266, 268-270, 272-279, 281-283, 285-296, 298-300, 302-320, 322, 324-325, 327-328, 330-330, 332, 334-338, 340-344, 346-346, 348, 350-350, 352, 354, 356, 358, 360"
  }, 
  "Obozowa": {
@@ -6357,7 +6367,7 @@
  "Pa\u0142ucka": {
   "dzielnica": "So\u0142acz", 
   "kody_pocztowe": "60-604", 
-  "numeracja": "3-5, 7-20, 22, 24-34, 36-40, 42, 44"
+  "numeracja": "3-5, 7-20, 22, 24-40, 42, 44"
  }, 
  "Pelpli\u0144ska": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
@@ -6767,7 +6777,7 @@
  "Portowa": {
   "dzielnica": "Kiekrz", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "5, 7"
+  "numeracja": "2, 5, 7"
  }, 
  "Porzeczkowa": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
@@ -6787,7 +6797,7 @@
  "Powozowa": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
   "kody_pocztowe": "61-313", 
-  "numeracja": "4, 8, 14, 16, 19"
+  "numeracja": "4, 8, 10, 14, 16, 19"
  }, 
  "Powsta\u0144cza": {
   "dzielnica": "Wilda", 
@@ -7002,7 +7012,7 @@
  "Przyjemna": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
   "kody_pocztowe": "61-313", 
-  "numeracja": "7, 18-19, 21, 23, 30, 32, 39, 43-44, 46, 50, 56, 58, 60, 62, 66, 74, 82, 94, 120, 122"
+  "numeracja": "7, 18-19, 21, 23, 25, 30, 32, 39, 43-44, 46, 50, 56, 58, 60, 62, 66, 74, 82, 94, 120, 122"
  }, 
  "Przylaszczkowa": {
   "dzielnica": "Kwiatowe", 
@@ -7521,8 +7531,8 @@
  }, 
  "Rymanowska": {
   "dzielnica": "Krzesiny-Pokrzywno-Garaszewo", 
-  "kody_pocztowe": "61-318", 
-  "numeracja": "1-2, 12, 14, 29"
+  "kody_pocztowe": "61-318,61-323", 
+  "numeracja": "1-2, 5, 12, 14, 29"
  }, 
  "Rynarzewska": {
   "dzielnica": "Grunwald Po\u0142udnie", 
@@ -7691,7 +7701,7 @@
  }, 
  "Serbska": {
   "dzielnica": "Stare Winogrady", 
-  "kody_pocztowe": "61-621,61-696", 
+  "kody_pocztowe": "61-696", 
   "numeracja": "3-12, 14-17, 19, 24"
  }, 
  "Serdeczna": {
@@ -7907,7 +7917,7 @@
  "Sofii Lutos\u0142awskiej": {
   "dzielnica": "Strzeszyn", 
   "kody_pocztowe": "60-461", 
-  "numeracja": "1, 5-8"
+  "numeracja": "1, 3, 5-8"
  }, 
  "Sofoklesa": {
   "dzielnica": "Strzeszyn", 
@@ -7932,7 +7942,7 @@
  "Solna": {
   "dzielnica": "Stare Miasto", 
   "kody_pocztowe": "61-735,61-736", 
-  "numeracja": "1-4, 9-13, 15, 17-18, 21, 23, 25, 27"
+  "numeracja": "1-4, 6, 9-13, 15, 17-18, 21, 23, 25, 27"
  }, 
  "Sopocka": {
   "dzielnica": "Podolany", 
@@ -7951,7 +7961,7 @@
  }, 
  "Sowia": {
   "dzielnica": "Rataje", 
-  "kody_pocztowe": "61-131,61-132", 
+  "kody_pocztowe": "61-131", 
   "numeracja": "1, 3-4, 6"
  }, 
  "Sowice": {
@@ -8552,12 +8562,12 @@
  "Szczeci\u0144ska": {
   "dzielnica": "\u0141awica", 
   "kody_pocztowe": "60-192", 
-  "numeracja": "2-8"
+  "numeracja": "2-9"
  }, 
  "Szczepankowo": {
   "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
-  "kody_pocztowe": "61-306,61-311,61-313", 
-  "numeracja": "4, 6, 8, 11, 13, 15, 17, 19-26, 28, 30, 32-86, 88-118, 120-144, 146-169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 201, 203, 209"
+  "kody_pocztowe": "61-306,61-311,61-313,61-314", 
+  "numeracja": "4, 6, 8, 11, 13, 15, 17, 19-26, 28, 30-86, 88-118, 120-144, 146-165, 167-169, 171, 173, 175, 177, 179, 181, 183, 185, 187, 189, 191, 193, 195, 197, 201, 203, 209"
  }, 
  "Szcz\u0119sna": {
   "dzielnica": "Ogrody", 
@@ -8587,7 +8597,7 @@
  "Szklarniowa": {
   "dzielnica": "Morasko-Radojewo", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "1-8, 10-11, 13-16, 18-19, 21, 23"
+  "numeracja": "1-11, 13-19, 21, 23"
  }, 
  "Szkolna": {
   "dzielnica": "Stare Miasto", 
@@ -9101,7 +9111,7 @@
  }, 
  "Uniwersytetu Pozna\u0144skiego": {
   "dzielnica": "Morasko-Radojewo", 
-  "kody_pocztowe": "61-614,61-680", 
+  "kody_pocztowe": "61-614", 
   "numeracja": "2, 4-8, 10"
  }, 
  "Uprawna": {
@@ -9278,6 +9288,11 @@
   "dzielnica": "Antoninek-Zieliniec-Kobylepole", 
   "kody_pocztowe": "61-066", 
   "numeracja": "12, 20"
+ }, 
+ "Wdzi\u0119czna": {
+  "dzielnica": "Szczepankowo-Sp\u0142awie-Krzesinki", 
+  "kody_pocztowe": "61-313", 
+  "numeracja": "11, 19"
  }, 
  "Wejherowska": {
   "dzielnica": "Krzy\u017cowniki-Smochowice", 
@@ -10247,7 +10262,7 @@
  "Zwierzyniecka": {
   "dzielnica": "Je\u017cyce", 
   "kody_pocztowe": "60-813,60-814", 
-  "numeracja": "3, 7, 9-10, 13-15, 17-20, 24, 26, 28, 30, 32, 37, 39, 41"
+  "numeracja": "3, 7, 9-10, 13-15, 18-20, 24, 26, 28, 30, 32, 37, 39, 41"
  }, 
  "Zwi\u0105zku Walki Zbrojnej": {
   "dzielnica": "Naramowice", 
@@ -10342,7 +10357,7 @@
  "adm. J\u00f3zefa Unruga": {
   "dzielnica": "Kiekrz", 
   "kody_pocztowe": "60-480", 
-  "numeracja": "4-5, 8-9, 12, 28, 30, 32, 36, 42, 46"
+  "numeracja": "4-5, 7-9, 12, 28, 30, 32, 36, 42, 46"
  }, 
  "gen. Stanis\u0142awa Maczka": {
   "dzielnica": "Winiary", 
@@ -10687,7 +10702,7 @@
  "\u015awietlikowa": {
   "dzielnica": "Morasko-Radojewo", 
   "kody_pocztowe": "61-680", 
-  "numeracja": "4-6, 8, 10, 12, 20, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50-51, 53, 55, 57, 64, 66, 68, 70"
+  "numeracja": "4-6, 8, 10, 12, 20, 30, 32, 34, 36-38, 40, 42, 44, 46, 48, 50-51, 53, 55, 57, 60, 62, 64, 66, 68, 70"
  }, 
  "\u015awit": {
   "dzielnica": "Grunwald P\u00f3\u0142noc", 
