@@ -644,18 +644,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Kaponiera"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
   "232":{
     "agency":"MPK",
     "kolor1":"#000000",
@@ -1427,15 +1415,6 @@
     ],
     "typ":"bus"
   },
-  "707":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "Komorniki Jeziorna"
-    ],
-    "typ":"bus"
-  },
   "710":{
     "agency":"PUK",
     "kolor1":"#525252",
@@ -1507,8 +1486,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Junikowo",
-      "Ogrody"
+      "Ogrody",
+      "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/803",
     "typ":"bus"
