@@ -60,8 +60,8 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
-        "Ogrody"
+        "Ogrody", 
+        "Junikowo"
       ], 
       "color1": "003594", 
       "color2": "FFFFFF"
@@ -93,7 +93,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka", 
+        "Franowo", 
         "D\u0119biec"
       ], 
       "color1": "F1B434", 
@@ -109,17 +109,6 @@
       ], 
       "color1": "CBA3D8", 
       "color2": "000000"
-    }, 
-    {
-      "name": "13", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Junikowo", 
-        "Staro\u0142\u0119ka"
-      ], 
-      "color1": "AD841F", 
-      "color2": "FFFFFF"
     }, 
     {
       "name": "14", 
@@ -170,7 +159,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Franowo", 
+        "Staro\u0142\u0119ka", 
         "Ogrody"
       ], 
       "color1": "FEDB00", 
@@ -742,8 +731,19 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Sobieskiego", 
+        "Franowo", 
         "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "231", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo Kaponiera", 
+        "Rondo Kaponiera"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1563,6 +1563,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "707", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
+      "petle": [
+        "G\u00f3rczyn", 
+        "Komorniki Jeziorna"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "710", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
@@ -1700,7 +1711,7 @@
       "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
         "Kobylniki Tarnowska", 
-        "Paw\u0142owice P\u0119tla"
+        "Kiekrz"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

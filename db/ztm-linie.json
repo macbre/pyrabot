@@ -57,8 +57,8 @@
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Zawady",
-      "Ogrody"
+      "Ogrody",
+      "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
@@ -90,7 +90,7 @@
     "kolor1":"#F1B434",
     "kolor2":"#000000",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Franowo",
       "D\u0119biec"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
@@ -105,17 +105,6 @@
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
-    "typ":"tram"
-  },
-  "13":{
-    "agency":"MPK",
-    "kolor1":"#AD841F",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Junikowo",
-      "Staro\u0142\u0119ka"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
   "14":{
@@ -167,7 +156,7 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "petle":[
-      "Franowo",
+      "Staro\u0142\u0119ka",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
@@ -638,11 +627,23 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Osiedle Sobieskiego",
+      "Franowo",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
+  },
+  "231":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo Kaponiera",
+      "Rondo Kaponiera"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
   },
   "232":{
     "agency":"MPK",
@@ -1415,6 +1416,15 @@
     ],
     "typ":"bus"
   },
+  "707":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn",
+      "Komorniki Jeziorna"
+    ],
+    "typ":"bus"
+  },
   "710":{
     "agency":"PUK",
     "kolor1":"#525252",
@@ -1553,7 +1563,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Kobylniki Tarnowska",
-      "Paw\u0142owice P\u0119tla"
+      "Kiekrz"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/830",
     "typ":"bus"
