@@ -34,6 +34,17 @@
       "color2": "FFFFFF"
     },
     {
+      "name": "4",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Osiedle Piastowskie",
+        "Staro\u0142\u0119ka"
+      ],
+      "color1": "115740",
+      "color2": "FFFFFF"
+    },
+    {
       "name": "5",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -61,7 +72,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Ogrody",
-        "Junikowo"
+        "Osiedle Piastowskie"
       ],
       "color1": "003594",
       "color2": "FFFFFF"
@@ -122,6 +133,17 @@
       "color2": "000000"
     },
     {
+      "name": "13",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Junikowo",
+        "Rondo Rataje"
+      ],
+      "color1": "AD841F",
+      "color2": "FFFFFF"
+    },
+    {
       "name": "14",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -170,7 +192,7 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Staro\u0142\u0119ka",
+        "Rondo Rataje",
         "Ogrody"
       ],
       "color1": "FEDB00",
@@ -183,6 +205,17 @@
       "petle": [
         "Meissnera",
         "Ogrody"
+      ],
+      "color1": "525252",
+      "color2": "FFFFFF"
+    },
+    {
+      "name": "124",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Safony",
+        "Instytut Technologiczno-Przyrodniczy"
       ],
       "color1": "525252",
       "color2": "FFFFFF"
@@ -370,17 +403,6 @@
       "petle": [
         "Puszkina",
         "Kacza"
-      ],
-      "color1": "525252",
-      "color2": "FFFFFF"
-    },
-    {
-      "name": "165",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo Rataje",
-        "Rondo Rataje"
       ],
       "color1": "525252",
       "color2": "FFFFFF"
@@ -632,7 +654,7 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Awf",
+        "Rondo Staro\u0142\u0119ka",
         "Osiedle Sobieskiego"
       ],
       "color1": "525252",
@@ -709,7 +731,7 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Franowo",
+        "Unii Lubelskiej",
         "Osiedle Sobieskiego"
       ],
       "color1": "000000",
@@ -1277,6 +1299,17 @@
       "color2": "FFFFFF"
     },
     {
+      "name": "489",
+      "typ": "bus",
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.",
+      "petle": [
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+        "Kleszczewo Park"
+      ],
+      "color1": "525252",
+      "color2": "FFFFFF"
+    },
+    {
       "name": "490",
       "typ": "bus",
       "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.",
@@ -1519,6 +1552,17 @@
       "color2": "FFFFFF"
     },
     {
+      "name": "690",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.",
+      "petle": [
+        "Lubo\u0144 \u017babikowo",
+        "\u0141\u0119czyca Dworcowa"
+      ],
+      "color1": "525252",
+      "color2": "FFFFFF"
+    },
+    {
       "name": "701",
       "typ": "bus",
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.",
@@ -1743,8 +1787,8 @@
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
       "petle": [
-        "Ogrody",
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek",
+        "Ogrody"
       ],
       "color1": "525252",
       "color2": "FFFFFF"
@@ -1811,6 +1855,28 @@
       "petle": [
         "Rokietnica Stacja",
         "Tarnowo Pdg Ostatnia"
+      ],
+      "color1": "525252",
+      "color2": "FFFFFF"
+    },
+    {
+      "name": "886",
+      "typ": "bus",
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
+      "petle": [
+        "Tarnowo Pdg Centrum",
+        "Piersko Rolna"
+      ],
+      "color1": "525252",
+      "color2": "FFFFFF"
+    },
+    {
+      "name": "889",
+      "typ": "bus",
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
+      "petle": [
+        "Prze\u017amierowo Ko\u015bcielna",
+        "Wielkie"
       ],
       "color1": "525252",
       "color2": "FFFFFF"

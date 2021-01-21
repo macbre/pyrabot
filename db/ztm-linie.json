@@ -32,6 +32,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
+  "4":{
+    "agency":"MPK",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Piastowskie",
+      "Staro\u0142\u0119ka"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
+    "typ":"tram"
+  },
   "5":{
     "agency":"MPK",
     "kolor1":"#6CC24A",
@@ -60,7 +71,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Ogrody",
-      "Junikowo"
+      "Osiedle Piastowskie"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
@@ -120,6 +131,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
+  "13":{
+    "agency":"MPK",
+    "kolor1":"#AD841F",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Junikowo",
+      "Rondo Rataje"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
+    "typ":"tram"
+  },
   "14":{
     "agency":"MPK",
     "kolor1":"#946037",
@@ -169,7 +191,7 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Rondo Rataje",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
@@ -181,6 +203,15 @@
     "petle":[
       "Meissnera",
       "Ogrody"
+    ],
+    "typ":"bus"
+  },
+  "124":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
     ],
     "typ":"bus"
   },
@@ -334,15 +365,6 @@
     "petle":[
       "Puszkina",
       "Kacza"
-    ],
-    "typ":"bus"
-  },
-  "165":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rondo Rataje",
-      "Rondo Rataje"
     ],
     "typ":"bus"
   },
@@ -548,7 +570,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Awf",
+      "Rondo Staro\u0142\u0119ka",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -613,7 +635,7 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Franowo",
+      "Unii Lubelskiej",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
@@ -1158,6 +1180,15 @@
     ],
     "typ":"bus"
   },
+  "489":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Kleszczewo Park"
+    ],
+    "typ":"bus"
+  },
   "490":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1376,6 +1407,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
+  "690":{
+    "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "\u0141\u0119czyca Dworcowa"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
+    "typ":"bus"
+  },
   "701":{
     "agency":"PUK",
     "kolor1":"#525252",
@@ -1589,8 +1631,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1659,6 +1701,24 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
+    "typ":"bus"
+  },
+  "886":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "typ":"bus"
+  },
+  "889":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
     "typ":"bus"
   },
   "891":{
