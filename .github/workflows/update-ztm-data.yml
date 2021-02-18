@@ -49,7 +49,12 @@ jobs:
           git config user.name "macbrebot"
           git config user.email "<51094006+macbrebot@users.noreply.github.com>"
 
-      - name: Show a diff and commit if needed
+      - name: Show a diff
         run: |
           git diff
-          ( git commit -m 'ztm: nowe dane' && git push origin master ) || echo 'Nothing to commit'
+          git add db/ sources/
+
+      - name: Commit if needed
+        continue-on-error: true
+        run: |
+          git commit -m 'ztm: nowe dane' && git push origin master
