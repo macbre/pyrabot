@@ -197,6 +197,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
+  "91":{
+    "agency":"MPK",
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Junikowo",
+      "Wilczak"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91",
+    "typ":"tram"
+  },
   "121":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1817,5 +1828,14 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
+  },
+  "T1":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Czecha",
+      "Franowo"
+    ],
+    "typ":"tram"
   }
 }
