@@ -24,10 +24,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.8
+          python-version: 2.7
 
       - name: Install pip dependencies
-        run: pip install -r sources/scripts/requirements.txt
+        run: |
+          pip install wheel
+          pip install -r sources/scripts/requirements.txt
 
       - name: Update GTFS data
         run: |
