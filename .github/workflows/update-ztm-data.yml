@@ -43,6 +43,13 @@ jobs:
           cd ${GITHUB_WORKSPACE}
           ./ztm.py
 
+      # https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
+      - name: Set up git
+        run: |
+          git config user.name "macbrebot"
+          git config user.email "<51094006+macbrebot@users.noreply.github.com>"
+
       - name: Show a diff and commit if needed
         run: |
           git diff
+          ( git commit -m 'ztm: nowe dane' && git push origin master ) || echo 'Nothing to commit'
