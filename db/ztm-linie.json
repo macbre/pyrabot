@@ -217,15 +217,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96",
     "typ":"tram"
   },
-  "121":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Meissnera",
-      "Ogrody"
-    ],
-    "typ":"bus"
-  },
   "125":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -537,7 +528,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Nowe Zoo"
     ],
     "typ":"bus"
   },
@@ -556,15 +547,6 @@
     "petle":[
       "Kiekrz",
       "Ogrody"
-    ],
-    "typ":"bus"
-  },
-  "188":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Osiedle Sobieskiego"
     ],
     "typ":"bus"
   },
@@ -832,15 +814,6 @@
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Tarnowo Pdg Centrum"
-    ],
-    "typ":"bus"
-  },
-  "259":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Starzyny Rynkowa",
-      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   },
@@ -1538,8 +1511,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1597,17 +1570,6 @@
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/834",
-    "typ":"bus"
-  },
-  "882":{
-    "agency":"TPBUS",
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rokietnica Stacja",
-      "Tarnowo Pdg Ostatnia"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
     "typ":"bus"
   },
   "891":{
