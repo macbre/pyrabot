@@ -528,7 +528,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Nowe Zoo"
     ],
     "typ":"bus"
   },
@@ -781,39 +781,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
-  "250":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "G\u0142uchowo Stawna"
-    ],
-    "typ":"bus"
-  },
   "253":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
       "Chludowo Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
-  "257":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "typ":"bus"
-  },
-  "258":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
     ],
     "typ":"bus"
   },
@@ -1511,8 +1484,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
