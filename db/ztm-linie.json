@@ -217,6 +217,24 @@
     ],
     "typ":"tram"
   },
+  "121":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Meissnera",
+      "Ogrody"
+    ],
+    "typ":"bus"
+  },
+  "124":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "typ":"bus"
+  },
   "125":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -550,6 +568,15 @@
     ],
     "typ":"bus"
   },
+  "188":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Osiedle Sobieskiego"
+    ],
+    "typ":"bus"
+  },
   "189":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -621,6 +648,18 @@
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
+  },
+  "201":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Unii Lubelskiej",
+      "Osiedle Sobieskiego"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
+    "typ":"tram"
   },
   "211":{
     "kolor1":"#000000",
@@ -1077,6 +1116,15 @@
     ],
     "typ":"bus"
   },
+  "489":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Kleszczewo Park"
+    ],
+    "typ":"bus"
+  },
   "490":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1293,6 +1341,17 @@
       "Mosina Dworzec Kolejowy"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
+    "typ":"bus"
+  },
+  "690":{
+    "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "\u0141\u0119czyca Dworcowa"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
   "701":{
@@ -1525,6 +1584,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
     "typ":"bus"
   },
+  "825":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Jankowice P\u0119tla",
+      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+    ],
+    "typ":"bus"
+  },
   "830":{
     "agency":"ROKBUS",
     "kolor1":"#525252",
@@ -1578,6 +1646,24 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
+    "typ":"bus"
+  },
+  "886":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "typ":"bus"
+  },
+  "889":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
     "typ":"bus"
   },
   "891":{
