@@ -1,4 +1,13 @@
 {
+  "0":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Zajezdnia/Madali\u0144skiego",
+      "Zajezdnia/Madali\u0144skiego"
+    ],
+    "typ":"tram"
+  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -216,6 +225,24 @@
       "Pi\u0105tkowska"
     ],
     "typ":"tram"
+  },
+  "100":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Nowe Zoo",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
+  },
+  "102":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Muzeum Broni Pancernej",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -990,60 +1017,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
   },
-  "400":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Osiedle Raczy\u0144skiego"
-    ],
-    "typ":"bus"
-  },
-  "401":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
-    ],
-    "typ":"bus"
-  },
-  "405":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Rynek"
-    ],
-    "typ":"bus"
-  },
-  "406":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Centrum Handlowe Etc"
-    ],
-    "typ":"bus"
-  },
-  "407":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Rabowicka P\u0119tla"
-    ],
-    "typ":"bus"
-  },
-  "412":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
   "425":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1077,123 +1050,6 @@
     "petle":[
       "Tulce Ko\u015bci\u00f3\u0142",
       "Franowo"
-    ],
-    "typ":"bus"
-  },
-  "484":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Zalasewo Osiedle Le\u015bne"
-    ],
-    "typ":"bus"
-  },
-  "485":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Pobiedziska Dworzec",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "486":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Siekierki Wielkie Ko\u015bci\u00f3\u0142",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "488":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Markowice Centrum",
-      "Kleszczewo Park"
-    ],
-    "typ":"bus"
-  },
-  "489":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Kleszczewo Park"
-    ],
-    "typ":"bus"
-  },
-  "490":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "491":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "492":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Uzarzewo P\u0119tla (Pa\u0142ac)",
-      "Kobylnica W\u0119ze\u0142"
-    ],
-    "typ":"bus"
-  },
-  "493":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Kar\u0142owice P\u0119tla",
-      "Kobylnica W\u0119ze\u0142"
-    ],
-    "typ":"bus"
-  },
-  "494":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Garby Ma\u0142e P\u0119tla",
-      "Kobylnica Stacja"
-    ],
-    "typ":"bus"
-  },
-  "497":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Kruszewnia P\u0119tla"
-    ],
-    "typ":"bus"
-  },
-  "498":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Kruszewnia P\u0119tla",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "499":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
     ],
     "typ":"bus"
   },
@@ -1460,42 +1316,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
-  "791":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Trzcielin ",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
-  "792":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Wi\u0119ckowice Szko\u0142a",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
-  "797":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Malwowa",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
-  "799":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Dopiewiec Le\u015bna Polana",
-      "Pal\u0119dzie Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
   "801":{
     "agency":"MPK",
     "kolor1":"#525252",
@@ -1582,15 +1402,6 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
-    "typ":"bus"
-  },
-  "825":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Jankowice P\u0119tla",
-      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-    ],
     "typ":"bus"
   },
   "830":{
@@ -1752,24 +1563,6 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
-    "typ":"bus"
-  },
-  "L10":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Sady Wiadukt",
-      "Lusowo Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
-  "L24":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Kleszczewo W\u0119ze\u0142",
-      "\u015aroda Wielkopolska Dworzec Pks"
-    ],
     "typ":"bus"
   }
 }
