@@ -218,7 +218,7 @@
         "Osiedle Sobieskiego"
       ], 
       "color1": "FFFFFF", 
-      "color2": "000000"
+      "color2": "FFFFFF"
     }, 
     {
       "name": "100", 
@@ -942,6 +942,17 @@
       "petle": [
         "Kozieg\u0142owy Osiedle Le\u015bne", 
         "Rondo Rataje"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "231", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Unii Lubelskiej", 
+        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1976,6 +1987,28 @@
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Biedrusko Park"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "L10", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Sady Wiadukt", 
+        "Lusowo Szko\u0142a"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "L24", 
+      "typ": "bus", 
+      "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
+      "petle": [
+        "Kleszczewo W\u0119ze\u0142", 
+        "\u015aroda Wielkopolska Dworzec Pks"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
