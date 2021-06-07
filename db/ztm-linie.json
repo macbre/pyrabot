@@ -209,7 +209,7 @@
   "92":{
     "agency":"MPK",
     "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
       "Rondo Rataje",
       "Osiedle Sobieskiego"
@@ -1770,24 +1770,6 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
-    "typ":"bus"
-  },
-  "L10":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Sady Wiadukt",
-      "Lusowo Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
-  "L24":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Kleszczewo W\u0119ze\u0142",
-      "\u015aroda Wielkopolska Dworzec Pks"
-    ],
     "typ":"bus"
   }
 }
