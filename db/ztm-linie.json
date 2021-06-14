@@ -1,13 +1,4 @@
 {
-  "0":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zajezdnia/Madali\u0144skiego",
-      "Zajezdnia/Madali\u0144skiego"
-    ],
-    "typ":"tram"
-  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -216,24 +207,6 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"tram"
-  },
-  "100":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
-  "102":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -673,8 +646,8 @@
     "kolor2":"#FFFFFF",
     "night":true,
     "petle":[
-      "Unii Lubelskiej",
-      "Osiedle Sobieskiego"
+      "Zawady",
+      "G\u0142ogowska/Hetma\u0144ska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
@@ -811,63 +784,6 @@
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
-    ],
-    "typ":"bus"
-  },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Unii Lubelskiej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
-  "250":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn",
-      "G\u0142uchowo Stawna"
-    ],
-    "typ":"bus"
-  },
-  "253":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
-  "257":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "typ":"bus"
-  },
-  "258":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
-    ],
-    "typ":"bus"
-  },
-  "259":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Starzyny Rynkowa",
-      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   },
@@ -1585,8 +1501,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1770,6 +1686,15 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
+    "typ":"bus"
+  },
+  "T":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Unii Lubelskiej",
+      "Rondo \u015ar\u00f3dka"
+    ],
     "typ":"bus"
   }
 }
