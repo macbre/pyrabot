@@ -90,7 +90,7 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Pi\u0105tkowska",
+      "G\u00f3rczyn",
       "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
@@ -215,6 +215,15 @@
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
+    "typ":"tram"
+  },
+  "99":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Plac Wielkopolski",
+      "Pi\u0105tkowska"
+    ],
     "typ":"tram"
   },
   "100":{
@@ -590,7 +599,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Radojewo",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -677,6 +686,15 @@
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
+    "typ":"tram"
+  },
+  "202":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Franowo",
+      "Osiedle Sobieskiego"
+    ],
     "typ":"tram"
   },
   "211":{
@@ -1585,8 +1603,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1770,6 +1788,33 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
+    "typ":"bus"
+  },
+  "PKM4":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Pkm Pozna\u0144 G\u0142\u00f3wny",
+      "Pkm Pozna\u0144 Krzesiny"
+    ],
+    "typ":"bus"
+  },
+  "T4":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Piastowskie",
+      "Staro\u0142\u0119ka"
+    ],
+    "typ":"bus"
+  },
+  "T5":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Staro\u0142\u0119ka",
+      "Unii Lubelskiej"
+    ],
     "typ":"bus"
   }
 }

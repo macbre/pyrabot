@@ -93,7 +93,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pi\u0105tkowska", 
+        "G\u00f3rczyn", 
         "Mi\u0142ostowo"
       ], 
       "color1": "DA291C", 
@@ -219,6 +219,39 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
+    }, 
+    {
+      "name": "99", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Wielkopolski", 
+        "Pi\u0105tkowska"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "T4", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Osiedle Piastowskie", 
+        "Staro\u0142\u0119ka"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T5", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Staro\u0142\u0119ka", 
+        "Unii Lubelskiej"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "100", 
@@ -676,7 +709,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Sobieskiego", 
+        "Radojewo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -776,6 +809,17 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Unii Lubelskiej", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "202", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Franowo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -1015,7 +1059,7 @@
     {
       "name": "312", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Promnice P\u00f3\u0142nocna"
@@ -1081,7 +1125,7 @@
     {
       "name": "342", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Przeb\u0119dowo P\u0119tla"
@@ -1798,8 +1842,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ogrody", 
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1990,6 +2034,17 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
+    }, 
+    {
+      "name": "PKM4", 
+      "typ": "bus", 
+      "agency": "Koleje Wielkopolskie", 
+      "petle": [
+        "Pkm Pozna\u0144 G\u0142\u00f3wny", 
+        "Pkm Pozna\u0144 Krzesiny"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
     }
   ]
 }
