@@ -1937,6 +1937,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "T11", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pi\u0105tkowska", 
+        "Most Teatralny"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "PKM4", 
       "typ": "bus", 
       "agency": "Koleje Wielkopolskie", 
