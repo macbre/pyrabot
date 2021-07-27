@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import logging
+logging.basicConfig(level=logging.INFO)
+
 """
 Skrypt generujący dane dla skryptów aktualizujących
 dane o liniach tramwajowych i autobusowych
@@ -79,6 +82,8 @@ for line in routes['lines']:
         "kolor2": '#' + line['color2'],
         # "przystanki": line['przystanki'],
     }
+
+    logging.info("Line %s: %r %s" % (line['name'], line['petle'], line['typ']))
 
     """
     # rejestruj linię zatrzymujące się na poszczególnych przystankach
