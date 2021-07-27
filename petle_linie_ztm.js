@@ -38,6 +38,11 @@ function updateLine(pageTitle) {
 	console.log('Przystanków: ' + przystanki);
 
 	client.getArticle(page.title, function(err, content) {
+		if (err) {
+			console.log('Failed to get the content of ' + page.title);
+			throw err;	
+		}
+
 		if (content.indexOf('|historyczna=tak') > -1) {
 			client.log(page.title + ': linia historyczna - pomijam');
 			return;
@@ -93,6 +98,7 @@ function updateLine(pageTitle) {
 		//console.log(content); return;
 
 		if (content === orig) {
+			console.log('No diff for ' + page.title);
 			return;
 		}
 
@@ -114,6 +120,12 @@ function updateLine(pageTitle) {
 }
 
 client.logIn(function(err) {
+
+	if (err) {
+		console.error('Failed to log in: ' + err);
+		throw err;	
+	}
+
 	/**
 	// aktualizuj Moduł:Przystanki-linie
 	var lua = fs.readFileSync('db/ztm-stops.lua').toString();
