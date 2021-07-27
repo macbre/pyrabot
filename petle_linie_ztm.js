@@ -114,6 +114,12 @@ function updateLine(pageTitle) {
 }
 
 client.logIn(function(err) {
+
+	if (err) {
+		console.error('Failed to log in: ' + err);
+		throw err;	
+	}
+
 	/**
 	// aktualizuj Moduł:Przystanki-linie
 	var lua = fs.readFileSync('db/ztm-stops.lua').toString();
