@@ -1,0 +1,42 @@
+name: Run petle_linie_ztm.js
+
+on:
+  pull_request:
+    branches: [ master ]
+
+  schedule:
+    # run at 5:00 AM every day
+    - cron:  '0 5 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  run-petle_linie_ztm:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+
+    - uses: actions/setup-node@master
+      with:
+        cache: 'npm'
+        node-version: '14.x'
+
+    - name: Install dependencies
+      run: |
+        npm ci
+
+    - name: Prepare config.js
+      env:
+        USERNAME: ${{ secrets.PYRABOT_USERNAME }}
+        PASSWORD: ${{ secrets.PYRABOT_PASSWORD }}
+      run: |
+        echo '{"server":"poznan.wikia.org","protocol":"https","debug":true,"username":"${USERNAME}","password":"${PASSWORD}"}' > config.js
+
+        # should give 2d2479fc617175fc01f68661453c9c89
+        cat config.js | jq '.password' | md5sum
+
+    - name: Run the script
+      run: |
+        node petle_linie_ztm.js
