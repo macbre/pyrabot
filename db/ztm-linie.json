@@ -68,8 +68,8 @@
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Unii Lubelskiej"
+      "Zawady",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
     "typ":"tram"
@@ -91,7 +91,7 @@
     "kolor2":"#000000",
     "petle":[
       "D\u0119biec",
-      "Franowo"
+      "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
@@ -112,7 +112,7 @@
     "kolor1":"#3CDBC0",
     "kolor2":"#000000",
     "petle":[
-      "Pi\u0105tkowska",
+      "Osiedle Winiary",
       "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
@@ -135,7 +135,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
-      "Plac Wielkopolski"
+      "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
@@ -189,21 +189,10 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "petle":[
-      "Rondo Rataje",
+      "Osiedle Sobieskiego",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
-    "typ":"tram"
-  },
-  "92":{
-    "agency":"MPK",
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo Rataje",
-      "Osiedle Sobieskiego"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"tram"
   },
   "99":{
@@ -211,7 +200,7 @@
     "kolor2":"#000000",
     "petle":[
       "Plac Wielkopolski",
-      "Pi\u0105tkowska"
+      "Osiedle Winiary"
     ],
     "typ":"tram"
   },
@@ -588,7 +577,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rondo Staro\u0142\u0119ka",
+      "Rondo Rataje",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -1712,20 +1701,11 @@
     ],
     "typ":"bus"
   },
-  "T11":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Most Teatralny"
-    ],
-    "typ":"bus"
-  },
   "T4":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Osiedle Piastowskie",
+      "Rondo Staro\u0142\u0119ka",
       "Staro\u0142\u0119ka"
     ],
     "typ":"bus"

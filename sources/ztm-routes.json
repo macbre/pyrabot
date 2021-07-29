@@ -71,8 +71,8 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Ogrody", 
-        "Unii Lubelskiej"
+        "Zawady", 
+        "Ogrody"
       ], 
       "color1": "003594", 
       "color2": "FFFFFF"
@@ -94,7 +94,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "D\u0119biec", 
-        "Franowo"
+        "Unii Lubelskiej"
       ], 
       "color1": "FF671F", 
       "color2": "000000"
@@ -115,7 +115,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pi\u0105tkowska", 
+        "Osiedle Winiary", 
         "Unii Lubelskiej"
       ], 
       "color1": "3CDBC0", 
@@ -138,7 +138,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Junikowo", 
-        "Plac Wielkopolski"
+        "Unii Lubelskiej"
       ], 
       "color1": "AD841F", 
       "color2": "FFFFFF"
@@ -192,21 +192,10 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo Rataje", 
+        "Osiedle Sobieskiego", 
         "Ogrody"
       ], 
       "color1": "FEDB00", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "92", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Rataje", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "FFFFFF", 
       "color2": "000000"
     }, 
     {
@@ -215,7 +204,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Plac Wielkopolski", 
-        "Pi\u0105tkowska"
+        "Osiedle Winiary"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
@@ -225,7 +214,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Piastowskie", 
+        "Rondo Staro\u0142\u0119ka", 
         "Staro\u0142\u0119ka"
       ], 
       "color1": "525252", 
@@ -698,7 +687,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo Staro\u0142\u0119ka", 
+        "Rondo Rataje", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -1932,17 +1921,6 @@
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Biedrusko Park"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "T11", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Pi\u0105tkowska", 
-        "Most Teatralny"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
