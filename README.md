@@ -1,7 +1,7 @@
 pyrabot
 =======
 
-Skrypty [bota](http://poznan.wikia.com/wiki/Użytkownik:Pyrabot) używanego na [Poznańskiej Wiki](http://poznan.wikia.com).
+Skrypty [bota](http://poznan.wikia.com/wiki/Użytkownik:Pyrabot) używanego na [Poznańskiej Wiki](http://poznan.wikia.com) ([ostatnie zmiany](https://poznan.wikia.org/wiki/Specjalna:Ostatnie_zmiany?limit=250&days=30&enhanced=1&urlversion=2)).
 
 ## Wymagania
 
