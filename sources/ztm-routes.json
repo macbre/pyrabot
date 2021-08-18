@@ -199,6 +199,17 @@
       "color2": "000000"
     }, 
     {
+      "name": "33", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "W\u0142odarska", 
+        "W\u0142odarska"
+      ], 
+      "color1": "6C1D45", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -1788,7 +1799,7 @@
       "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
         "Kobylniki Tarnowska", 
-        "Paw\u0142owice P\u0119tla"
+        "Kiekrz"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
