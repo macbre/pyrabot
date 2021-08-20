@@ -35,7 +35,7 @@
     "kolor1":"#6C1D45",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Wilczak",
+      "W\u0142odarska",
       "Franowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
@@ -195,15 +195,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "33":{
-    "kolor1":"#6C1D45",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "W\u0142odarska",
-      "W\u0142odarska"
-    ],
-    "typ":"tram"
-  },
   "99":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -222,12 +213,30 @@
     ],
     "typ":"bus"
   },
+  "101":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Garbary",
+      "Garbary"
+    ],
+    "typ":"bus"
+  },
   "102":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
       "Muzeum Broni Pancernej",
       "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
+  },
+  "103":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Garbary",
+      "Garbary"
     ],
     "typ":"bus"
   },

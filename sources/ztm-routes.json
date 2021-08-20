@@ -38,7 +38,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Wilczak", 
+        "W\u0142odarska", 
         "Franowo"
       ], 
       "color1": "6C1D45", 
@@ -199,17 +199,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "33", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "W\u0142odarska", 
-        "W\u0142odarska"
-      ], 
-      "color1": "6C1D45", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -254,12 +243,34 @@
       "color2": "000000"
     }, 
     {
+      "name": "101", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Garbary", 
+        "Garbary"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "102", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Muzeum Broni Pancernej", 
         "Pozna\u0144 G\u0142\u00f3wny"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "103", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Garbary", 
+        "Garbary"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
