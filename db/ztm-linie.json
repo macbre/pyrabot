@@ -91,7 +91,7 @@
     "kolor2":"#000000",
     "petle":[
       "D\u0119biec Pkm",
-      "Unii Lubelskiej"
+      "Staro\u0142\u0119ka Ma\u0142a"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
@@ -112,7 +112,7 @@
     "kolor1":"#3CDBC0",
     "kolor2":"#000000",
     "petle":[
-      "Po\u0142abska",
+      "Pi\u0105tkowska",
       "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
@@ -123,7 +123,7 @@
     "kolor1":"#CBA3D8",
     "kolor2":"#000000",
     "petle":[
-      "Staro\u0142\u0119ka Ma\u0142a",
+      "Staro\u0142\u0119ka Pkm",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
@@ -135,7 +135,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
-      "Unii Lubelskiej"
+      "Staro\u0142\u0119ka Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
@@ -178,7 +178,7 @@
     "kolor1":"#004F71",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka Ma\u0142a",
+      "Staro\u0142\u0119ka Pkm",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
@@ -189,10 +189,19 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Pi\u0105tkowska",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
+    "typ":"tram"
+  },
+  "36":{
+    "kolor1":"#003594",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Plac Wielkopolski",
+      "Osiedle Sobieskiego"
+    ],
     "typ":"tram"
   },
   "100":{
@@ -204,21 +213,12 @@
     ],
     "typ":"bus"
   },
-  "101":{
+  "102":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
-      "Garbary Pkm",
-      "Garbary Pkm"
-    ],
-    "typ":"bus"
-  },
-  "103":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Garbary Pkm",
-      "Garbary Pkm"
+      "Muzeum Broni Pancernej",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   },
@@ -228,6 +228,24 @@
     "petle":[
       "Meissnera",
       "Ogrody"
+    ],
+    "typ":"bus"
+  },
+  "124":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "typ":"bus"
+  },
+  "125":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Staro\u0142\u0119ka Pkm",
+      "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
   },
@@ -559,7 +577,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Radojewo",
+      "Osiedle Sobieskiego",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -808,9 +826,33 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "G\u0142uchowo Stawna"
     ],
+    "typ":"bus"
+  },
+  "251":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
+    "typ":"bus"
+  },
+  "252":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
     "typ":"bus"
   },
   "253":{
@@ -837,15 +879,6 @@
     "petle":[
       "Pozna\u0144 G\u0142\u00f3wny",
       "Tarnowo Pdg Centrum"
-    ],
-    "typ":"bus"
-  },
-  "259":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Starzyny Rynkowa",
-      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   },
@@ -942,7 +975,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
-      "Czerwonak Stacja"
+      "Czerwonak Pkm"
     ],
     "typ":"bus"
   },
@@ -950,7 +983,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Owi\u0144ska Stacja",
+      "Owi\u0144ska Pkm",
       "Potasze Jod\u0142owa"
     ],
     "typ":"bus"
@@ -1112,6 +1145,15 @@
     ],
     "typ":"bus"
   },
+  "489":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Kleszczewo Park"
+    ],
+    "typ":"bus"
+  },
   "490":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1198,7 +1240,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
-      "K\u00f3rnik Bnin Osiedle"
+      "Szczodrzykowo Szko\u0142a"
     ],
     "typ":"bus"
   },
@@ -1230,7 +1272,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Kamionki P\u0119tla",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/527",
     "typ":"bus"
@@ -1258,7 +1300,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
+      "D\u0119biec Pkm",
       "\u0141\u0119czyca Dworcowa"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/602",
@@ -1269,7 +1311,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Garbary",
+      "Garbary Pkm",
       "\u0141\u0119czyca Dworcowa"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603",
@@ -1280,8 +1322,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
-      "G\u00f3rczyn"
+      "D\u0119biec Pkm",
+      "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/610",
     "typ":"bus"
@@ -1291,7 +1333,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
+      "D\u0119biec Pkm",
       "Lubo\u0144 \u017babikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/611",
@@ -1302,10 +1344,21 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "Lubo\u0144 Kr\u0119ta"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
+    "typ":"bus"
+  },
+  "616":{
+    "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "G\u00f3rczyn Pkm"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
     "typ":"bus"
   },
   "651":{
@@ -1313,10 +1366,21 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
+      "D\u0119biec Pkm",
       "Mosina Dworzec Kolejowy"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
+    "typ":"bus"
+  },
+  "690":{
+    "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "\u0141\u0119czyca Dworcowa"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
     "typ":"bus"
   },
   "701":{
@@ -1324,7 +1388,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "Komorniki Jeziorna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701",
@@ -1336,7 +1400,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Komorniki Osiedle Zielone Wzg\u00f3rze ",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/702",
     "typ":"bus"
@@ -1346,7 +1410,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "Konarzewo P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/703",
@@ -1357,7 +1421,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "G\u0142uchowo Stawna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704",
@@ -1367,7 +1431,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "Konarzewo P\u0119tla"
     ],
     "typ":"bus"
@@ -1376,8 +1440,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rosn\u00f3wko Stacja",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm",
+      "Rosn\u00f3wko Pkm"
     ],
     "typ":"bus"
   },
@@ -1386,7 +1450,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "Komorniki Kolumba"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/710",
@@ -1532,8 +1596,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1555,7 +1619,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Kobylniki Tarnowska",
-      "Kiekrz"
+      "Paw\u0142owice P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/830",
     "typ":"bus"
@@ -1602,6 +1666,24 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
+    "typ":"bus"
+  },
+  "886":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "typ":"bus"
+  },
+  "889":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
     "typ":"bus"
   },
   "891":{
@@ -1690,42 +1772,6 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
-    "typ":"bus"
-  },
-  "PKM4":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Pkm Pozna\u0144 G\u0142\u00f3wny",
-      "Pkm Pozna\u0144 Krzesiny"
-    ],
-    "typ":"bus"
-  },
-  "T11":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Most Teatralny"
-    ],
-    "typ":"bus"
-  },
-  "T4":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rondo Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka Pkm"
-    ],
-    "typ":"bus"
-  },
-  "T5":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka Pkm",
-      "Unii Lubelskiej"
-    ],
     "typ":"bus"
   }
 }
