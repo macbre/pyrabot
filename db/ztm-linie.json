@@ -25,7 +25,7 @@
     "kolor2":"#000000",
     "petle":[
       "Ogrody",
-      "D\u0119biec"
+      "D\u0119biec Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
@@ -47,7 +47,7 @@
     "kolor2":"#000000",
     "petle":[
       "Unii Lubelskiej",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
@@ -79,7 +79,7 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
+      "G\u00f3rczyn Pkm",
       "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
@@ -90,7 +90,7 @@
     "kolor1":"#FF671F",
     "kolor2":"#000000",
     "petle":[
-      "D\u0119biec",
+      "D\u0119biec Pkm",
       "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
@@ -102,7 +102,7 @@
     "kolor2":"#000000",
     "petle":[
       "Po\u0142abska",
-      "D\u0119biec"
+      "D\u0119biec Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
     "typ":"tram"
@@ -112,7 +112,7 @@
     "kolor1":"#3CDBC0",
     "kolor2":"#000000",
     "petle":[
-      "Osiedle Winiary",
+      "Po\u0142abska",
       "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
@@ -146,7 +146,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
@@ -195,15 +195,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "99":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Plac Wielkopolski",
-      "Osiedle Winiary"
-    ],
-    "typ":"tram"
-  },
   "100":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -217,17 +208,8 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
-      "Garbary",
-      "Garbary"
-    ],
-    "typ":"bus"
-  },
-  "102":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Garbary Pkm",
+      "Garbary Pkm"
     ],
     "typ":"bus"
   },
@@ -235,8 +217,8 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
-      "Garbary",
-      "Garbary"
+      "Garbary Pkm",
+      "Garbary Pkm"
     ],
     "typ":"bus"
   },
@@ -271,7 +253,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Strzeszyn",
+      "Stary Strzeszyn",
       "Boranta"
     ],
     "typ":"bus"
@@ -289,8 +271,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
-      "D\u0119biec"
+      "G\u00f3rczyn Pkm",
+      "D\u0119biec Pkm"
     ],
     "typ":"bus"
   },
@@ -335,7 +317,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Sypniewo",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
   },
@@ -352,8 +334,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Garbary",
-      "Strzeszyn"
+      "Garbary Pkm",
+      "Stary Strzeszyn"
     ],
     "typ":"bus"
   },
@@ -379,8 +361,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Garbary",
-      "G\u00f3rczyn"
+      "Garbary Pkm",
+      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   },
@@ -469,8 +451,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
-      "G\u00f3rczyn"
+      "D\u0119biec Pkm",
+      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   },
@@ -478,7 +460,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Garbary",
+      "Garbary Pkm",
       "Osiedle D\u0119bina"
     ],
     "typ":"bus"
@@ -505,7 +487,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
+      "D\u0119biec Pkm",
       "Kacza"
     ],
     "typ":"bus"
@@ -515,7 +497,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Sycowska Centrum Handlowe",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   },
@@ -533,7 +515,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Wichrowe Wzg\u00f3rze",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   },
@@ -586,8 +568,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka Pkm",
+      "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
   },
@@ -614,7 +596,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "G\u00f3rczyn"
+      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   },
@@ -622,8 +604,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka Pkm",
+      "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
   },
@@ -679,8 +661,8 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka",
-      "Garbary"
+      "Staro\u0142\u0119ka Pkm",
+      "Garbary Pkm"
     ],
     "typ":"bus"
   },
@@ -697,7 +679,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec",
+      "D\u0119biec Pkm",
       "Mogile\u0144ska"
     ],
     "typ":"bus"
@@ -751,8 +733,8 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Garbary",
-      "Garbary"
+      "Garbary Pkm",
+      "Garbary Pkm"
     ],
     "typ":"bus"
   },
@@ -761,7 +743,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Sypniewo",
-      "Garbary"
+      "Garbary Pkm"
     ],
     "typ":"bus"
   },
@@ -787,7 +769,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Junikowo Stacja",
+      "Junikowo Pkm",
       "Boranta"
     ],
     "typ":"bus"
@@ -1394,8 +1376,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn",
-      "Rosn\u00f3wko Stacja"
+      "Rosn\u00f3wko Stacja",
+      "G\u00f3rczyn"
     ],
     "typ":"bus"
   },
@@ -1550,8 +1532,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1616,7 +1598,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rokietnica Stacja",
+      "Rokietnica Pkm",
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
@@ -1627,7 +1609,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rokietnica Stacja",
+      "Rokietnica Pkm",
       "Mrowino Szko\u0142a"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/891",
@@ -1639,7 +1621,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "\u017bydowo P\u0119tla",
-      "Rokietnica Stacja"
+      "Rokietnica Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
     "typ":"bus"
@@ -1719,12 +1701,21 @@
     ],
     "typ":"bus"
   },
+  "T11":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Pi\u0105tkowska",
+      "Most Teatralny"
+    ],
+    "typ":"bus"
+  },
   "T4":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Staro\u0142\u0119ka",
-      "Staro\u0142\u0119ka"
+      "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
   },
@@ -1732,7 +1723,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka",
+      "Staro\u0142\u0119ka Pkm",
       "Unii Lubelskiej"
     ],
     "typ":"bus"
