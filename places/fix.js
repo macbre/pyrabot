@@ -57,10 +57,9 @@ client.logIn( async err => {
 	}
 
 	const data = await fs.readFile(INPUT, "utf8");
+	const lines = data.split("\n");
 
-	data.split("\n").forEach(async (line, idx) => {
-	  // if (idx > 5) return;
-
+	for (const line of lines) {
 	  client.log('Processing article - ' + line);
 
 	  try {
@@ -69,5 +68,5 @@ client.logIn( async err => {
           catch(ex) {
 	    console.error(line + " failed: " + ex.message);
 	  }
-	});
+	}
 });
