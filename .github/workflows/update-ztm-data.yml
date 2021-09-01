@@ -29,7 +29,7 @@ jobs:
 
       - name: Install pip dependencies
         run: |
-          python -m pip install –upgrade pip
+          pip install --upgrade pip
           pip install wheel
           pip install -r sources/scripts/requirements.txt
 
