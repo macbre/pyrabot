@@ -196,7 +196,7 @@
     "typ":"tram"
   },
   "36":{
-    "kolor1":"#003594",
+    "kolor1":"#FFFFFF",
     "kolor2":"#FFFFFF",
     "petle":[
       "Plac Wielkopolski",
@@ -219,6 +219,15 @@
     "petle":[
       "Muzeum Broni Pancernej",
       "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
+  },
+  "105":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Strzeszynek",
+      "Rondo Kaponiera"
     ],
     "typ":"bus"
   },
@@ -1611,15 +1620,6 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
-    "typ":"bus"
-  },
-  "825":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Jankowice P\u0119tla",
-      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-    ],
     "typ":"bus"
   },
   "830":{

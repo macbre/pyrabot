@@ -206,7 +206,7 @@
         "Plac Wielkopolski", 
         "Osiedle Sobieskiego"
       ], 
-      "color1": "003594", 
+      "color1": "FFFFFF", 
       "color2": "FFFFFF"
     }, 
     {
@@ -230,6 +230,17 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
+    }, 
+    {
+      "name": "105", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Strzeszynek", 
+        "Rondo Kaponiera"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "121", 
@@ -1825,17 +1836,6 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "825", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Jankowice P\u0119tla", 
-        "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
     }, 
     {
       "name": "830", 
