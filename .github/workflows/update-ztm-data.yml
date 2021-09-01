@@ -36,6 +36,7 @@ jobs:
         run: |
           cd ./sources
           echo "> Pobieram dane GTFS od ZTM..."
+          set -x
           curl -sI "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile" | grep filename
           curl -s "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile" > gtfs_ztm.zip
           ./scripts/gtfs_ztm.py
