@@ -1,13 +1,4 @@
 {
-  "0":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zajezdnia/Madali\u0144skiego",
-      "Zajezdnia/Madali\u0144skiego"
-    ],
-    "typ":"tram"
-  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -203,24 +194,6 @@
       "Osiedle Sobieskiego"
     ],
     "typ":"tram"
-  },
-  "100":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
-  "102":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -820,66 +793,6 @@
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
-  "250":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn Pkm",
-      "G\u0142uchowo Stawna"
-    ],
-    "typ":"bus"
-  },
-  "251":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "G\u00f3rczyn Pkm",
-      "Mosina Dworzec Kolejowy"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
-    "typ":"bus"
-  },
-  "252":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
-    "typ":"bus"
-  },
-  "253":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
-  "257":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "typ":"bus"
-  },
-  "258":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
-    ],
     "typ":"bus"
   },
   "312":{
@@ -1596,8 +1509,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
