@@ -1,4 +1,13 @@
 {
+  "0":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Zajezdnia/Madali\u0144skiego",
+      "Zajezdnia/Madali\u0144skiego"
+    ],
+    "typ":"tram"
+  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -194,6 +203,24 @@
       "Osiedle Sobieskiego"
     ],
     "typ":"tram"
+  },
+  "100":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Nowe Zoo",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
+  },
+  "102":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Tor Pozna\u0144",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -795,6 +822,66 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
+  "250":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "G\u0142uchowo Stawna"
+    ],
+    "typ":"bus"
+  },
+  "251":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
+    "typ":"bus"
+  },
+  "252":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
+    "typ":"bus"
+  },
+  "253":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "typ":"bus"
+  },
+  "257":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Junikowo"
+    ],
+    "typ":"bus"
+  },
+  "258":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
+    ],
+    "typ":"bus"
+  },
   "312":{
     "agency":"TRANSKOM",
     "kolor1":"#525252",
@@ -932,60 +1019,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397",
     "typ":"bus"
   },
-  "400":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Osiedle Raczy\u0144skiego"
-    ],
-    "typ":"bus"
-  },
-  "401":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
-    ],
-    "typ":"bus"
-  },
-  "405":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Rynek"
-    ],
-    "typ":"bus"
-  },
-  "406":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Centrum Handlowe Etc"
-    ],
-    "typ":"bus"
-  },
-  "407":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Rabowicka P\u0119tla"
-    ],
-    "typ":"bus"
-  },
-  "412":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
   "425":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1022,120 +1055,12 @@
     ],
     "typ":"bus"
   },
-  "484":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Zalasewo Osiedle Le\u015bne"
-    ],
-    "typ":"bus"
-  },
-  "485":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Pobiedziska Dworzec",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "486":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Siekierki Wielkie Ko\u015bci\u00f3\u0142",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
   "488":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
       "Markowice Centrum",
       "Kleszczewo Park"
-    ],
-    "typ":"bus"
-  },
-  "489":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Kleszczewo Park"
-    ],
-    "typ":"bus"
-  },
-  "490":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "491":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "492":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Uzarzewo P\u0119tla (Pa\u0142ac)",
-      "Kobylnica W\u0119ze\u0142"
-    ],
-    "typ":"bus"
-  },
-  "493":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Kar\u0142owice P\u0119tla",
-      "Kobylnica W\u0119ze\u0142"
-    ],
-    "typ":"bus"
-  },
-  "494":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Garby Ma\u0142e P\u0119tla",
-      "Kobylnica Stacja"
-    ],
-    "typ":"bus"
-  },
-  "497":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Kruszewnia P\u0119tla"
-    ],
-    "typ":"bus"
-  },
-  "498":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Kruszewnia P\u0119tla",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
-  "499":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
     ],
     "typ":"bus"
   },
@@ -1509,8 +1434,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
