@@ -217,7 +217,7 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
-      "Tor Pozna\u0144",
+      "Muzeum Broni Pancernej",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
@@ -1611,6 +1611,15 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
+    "typ":"bus"
+  },
+  "825":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Jankowice P\u0119tla",
+      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+    ],
     "typ":"bus"
   },
   "830":{
