@@ -1,13 +1,4 @@
 {
-  "0":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zajezdnia/Madali\u0144skiego",
-      "Zajezdnia/Madali\u0144skiego"
-    ],
-    "typ":"tram"
-  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -190,7 +181,7 @@
     "kolor2":"#000000",
     "petle":[
       "Pi\u0105tkowska",
-      "Ogrody"
+      "D\u0119biec Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
@@ -203,24 +194,6 @@
       "Osiedle Sobieskiego"
     ],
     "typ":"tram"
-  },
-  "100":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
-  "102":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -1613,15 +1586,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
     "typ":"bus"
   },
-  "825":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Jankowice P\u0119tla",
-      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
   "830":{
     "agency":"ROKBUS",
     "kolor1":"#525252",
@@ -1782,5 +1746,14 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
+  },
+  "T2":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Ogrody",
+      "Rondo Kaponiera"
+    ],
+    "typ":"tram"
   }
 }
