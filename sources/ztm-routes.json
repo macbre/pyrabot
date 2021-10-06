@@ -27,7 +27,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "W\u0142odarska", 
+        "Lechicka/Naramowicka", 
         "Franowo"
       ], 
       "color1": "6C1D45", 
@@ -182,7 +182,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Pi\u0105tkowska", 
-        "D\u0119biec Pkm"
+        "Ogrody"
       ], 
       "color1": "FEDB00", 
       "color2": "000000"
@@ -196,15 +196,15 @@
         "Osiedle Sobieskiego"
       ], 
       "color1": "FFFFFF", 
-      "color2": "FFFFFF"
+      "color2": "000000"
     }, 
     {
-      "name": "T2", 
+      "name": "T1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Ogrody", 
-        "Rondo Kaponiera"
+        "Franowo", 
+        "Franowo"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
