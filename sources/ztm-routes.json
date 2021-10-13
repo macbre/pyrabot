@@ -199,6 +199,28 @@
       "color2": "000000"
     }, 
     {
+      "name": "92", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Traugutta", 
+        "D\u0119biec Pkm"
+      ], 
+      "color1": "62B5E5", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "95", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Krauthofera", 
+        "G\u00f3rczyn Pkm"
+      ], 
+      "color1": "6CC24A", 
+      "color2": "000000"
+    }, 
+    {
       "name": "121", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
