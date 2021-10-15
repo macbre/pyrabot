@@ -188,33 +188,11 @@
   },
   "36":{
     "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Plac Wielkopolski",
       "Osiedle Sobieskiego"
     ],
-    "typ":"tram"
-  },
-  "92":{
-    "agency":"MPK",
-    "kolor1":"#62B5E5",
-    "kolor2":"#000000",
-    "petle":[
-      "Traugutta",
-      "D\u0119biec Pkm"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
-    "typ":"tram"
-  },
-  "95":{
-    "agency":"MPK",
-    "kolor1":"#6CC24A",
-    "kolor2":"#000000",
-    "petle":[
-      "Krauthofera",
-      "G\u00f3rczyn Pkm"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/95",
     "typ":"tram"
   },
   "121":{
@@ -1606,6 +1584,15 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
+    "typ":"bus"
+  },
+  "825":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Jankowice P\u0119tla",
+      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+    ],
     "typ":"bus"
   },
   "830":{

@@ -1,6 +1,413 @@
 {
   "lines": [
     {
+      "name": "258", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Tarnowo Pdg Centrum"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "802", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Tarnowo Pdg Centrum"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "803", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Junikowo"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "804", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Sieros\u0142aw Dzia\u0142ki"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "811", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Lus\u00f3wko P\u0119tla"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "812", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Grzebienisko P\u0119tla"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "813", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Ka\u017amierz Rynek"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "821", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Ogrody", 
+        "Lus\u00f3wko Rozalin P\u0119tla"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "825", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Jankowice P\u0119tla", 
+        "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "886", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Tarnowo Pdg Centrum", 
+        "Piersko Rolna"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "889", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Prze\u017amierowo Ko\u015bcielna", 
+        "Wielkie"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "400", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Swarz\u0119dz Osiedle Raczy\u0144skiego"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "401", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "405", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Swarz\u0119dz Rynek"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "406", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Jasin Centrum Handlowe Etc"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "407", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Jasin Rabowicka P\u0119tla"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "412", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "484", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
+        "Zalasewo Osiedle Le\u015bne"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "485", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Pobiedziska Dworzec", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "486", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Siekierki Wielkie Ko\u015bci\u00f3\u0142", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "490", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "491", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "492", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Uzarzewo P\u0119tla (Pa\u0142ac)", 
+        "Kobylnica W\u0119ze\u0142"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "493", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Kar\u0142owice P\u0119tla", 
+        "Kobylnica W\u0119ze\u0142"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "494", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Garby Ma\u0142e P\u0119tla", 
+        "Kobylnica Stacja"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "497", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Zalasewo Osiedle Le\u015bne", 
+        "Kruszewnia P\u0119tla"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "498", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Kruszewnia P\u0119tla", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "499", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Zalasewo Osiedle Le\u015bne", 
+        "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "431", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Kleszczewo Park", 
+        "Franowo"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "432", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Kleszczewo Park", 
+        "Franowo"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "435", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Tulce Ko\u015bci\u00f3\u0142", 
+        "Franowo"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "488", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Markowice Centrum", 
+        "Kleszczewo Park"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "489", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
+        "Kleszczewo Park"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "791", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Trzcielin ", 
+        "Dopiewo Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "792", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Wi\u0119ckowice Szko\u0142a", 
+        "Dopiewo Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "797", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Malwowa", 
+        "Dopiewo Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "799", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Dopiewiec Le\u015bna Polana", 
+        "Pal\u0119dzie Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -10,83 +417,6 @@
       ], 
       "color1": "D0006F", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "2", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ogrody", 
-        "D\u0119biec Pkm"
-      ], 
-      "color1": "62B5E5", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "3", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Lechicka/Naramowicka", 
-        "Franowo"
-      ], 
-      "color1": "6C1D45", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "5", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Unii Lubelskiej", 
-        "G\u00f3rczyn Pkm"
-      ], 
-      "color1": "6CC24A", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "6", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Junikowo"
-      ], 
-      "color1": "009639", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "7", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Zawady", 
-        "Ogrody"
-      ], 
-      "color1": "003594", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "8", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "G\u00f3rczyn Pkm", 
-        "Mi\u0142ostowo"
-      ], 
-      "color1": "DA291C", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "9", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "D\u0119biec Pkm", 
-        "Staro\u0142\u0119ka Ma\u0142a"
-      ], 
-      "color1": "FF671F", 
-      "color2": "000000"
     }, 
     {
       "name": "10", 
@@ -122,105 +452,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "13", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Junikowo", 
-        "Staro\u0142\u0119ka Pkm"
-      ], 
-      "color1": "AD841F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "14", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Osiedle Sobieskiego", 
-        "G\u00f3rczyn Pkm"
-      ], 
-      "color1": "946037", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "15", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Budziszy\u0144ska", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "A2AAAD", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "16", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Franowo", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "440099", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "17", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Staro\u0142\u0119ka Pkm", 
-        "Ogrody"
-      ], 
-      "color1": "004F71", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "18", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Pi\u0105tkowska", 
-        "Ogrody"
-      ], 
-      "color1": "FEDB00", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "36", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Plac Wielkopolski", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "92", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Traugutta", 
-        "D\u0119biec Pkm"
-      ], 
-      "color1": "62B5E5", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "95", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Krauthofera", 
-        "G\u00f3rczyn Pkm"
-      ], 
-      "color1": "6CC24A", 
-      "color2": "000000"
-    }, 
-    {
       "name": "121", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -251,6 +482,28 @@
         "Staro\u0142\u0119ka Pkm"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "13", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Staro\u0142\u0119ka Pkm"
+      ], 
+      "color1": "AD841F", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "14", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Osiedle Sobieskiego", 
+        "G\u00f3rczyn Pkm"
+      ], 
+      "color1": "946037", 
       "color2": "FFFFFF"
     }, 
     {
@@ -307,6 +560,17 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
+    }, 
+    {
+      "name": "15", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Budziszy\u0144ska", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "A2AAAD", 
+      "color2": "000000"
     }, 
     {
       "name": "152", 
@@ -372,6 +636,17 @@
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "16", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Franowo", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "440099", 
       "color2": "FFFFFF"
     }, 
     {
@@ -474,6 +749,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "17", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Staro\u0142\u0119ka Pkm", 
+        "Ogrody"
+      ], 
+      "color1": "004F71", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "170", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -571,6 +857,17 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
+    }, 
+    {
+      "name": "18", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pi\u0105tkowska", 
+        "Ogrody"
+      ], 
+      "color1": "FEDB00", 
+      "color2": "000000"
     }, 
     {
       "name": "180", 
@@ -749,6 +1046,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "2", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Ogrody", 
+        "D\u0119biec Pkm"
+      ], 
+      "color1": "62B5E5", 
+      "color2": "000000"
+    }, 
+    {
       "name": "201", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -848,17 +1156,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "219", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
-      "petle": [
-        "Wichrowa", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "220", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -947,80 +1244,14 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "250", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
+      "name": "3", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "G\u00f3rczyn Pkm", 
-        "G\u0142uchowo Stawna"
+        "Lechicka/Naramowicka", 
+        "Franowo"
       ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "251", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
-      "petle": [
-        "G\u00f3rczyn Pkm", 
-        "Mosina Dworzec Kolejowy"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "252", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Przeb\u0119dowo P\u0119tla"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "253", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunikacji Publicznej Suchy Las Sp. z o.o.", 
-      "petle": [
-        "Osiedle Sobieskiego", 
-        "Chludowo Szko\u0142a"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "257", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
-      "petle": [
-        "Dopiewo Dworzec Kolejowy", 
-        "Junikowo"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "258", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny", 
-        "Tarnowo Pdg Centrum"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "312", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Promnice P\u00f3\u0142nocna"
-      ], 
-      "color1": "525252", 
+      "color1": "6C1D45", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1057,31 +1288,9 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "323", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Tuczno P\u0119tla", 
-        "Rondo \u015ar\u00f3dka"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "341", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Przeb\u0119dowo P\u0119tla"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "342", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Przeb\u0119dowo P\u0119tla"
@@ -1101,125 +1310,15 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "388", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "name": "36", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "D\u0119bog\u00f3ra D\u0105br\u00f3wki", 
-        "Czerwonak Pkm"
+        "Plac Wielkopolski", 
+        "Osiedle Sobieskiego"
       ], 
-      "color1": "525252", 
+      "color1": "FFFFFF", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "392", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Owi\u0144ska Pkm", 
-        "Potasze Jod\u0142owa"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "394", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Kozieg\u0142owy Piaskowa Szko\u0142a", 
-        "Mi\u0119kowo Stokrotkowa"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "396", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Kozieg\u0142owy Piaskowa Szko\u0142a", 
-        "Potasze Jod\u0142owa"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "397", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Trzaskowo Wie\u015b", 
-        "Biedrusko Park"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "400", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Swarz\u0119dz Osiedle Raczy\u0144skiego"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "401", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "405", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Swarz\u0119dz Rynek"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "406", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Jasin Centrum Handlowe Etc"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "407", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Jasin Rabowicka P\u0119tla"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "412", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
     }, 
     {
       "name": "425", 
@@ -1233,180 +1332,114 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "431", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "name": "5", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Kleszczewo Park", 
-        "Franowo"
+        "Unii Lubelskiej", 
+        "G\u00f3rczyn Pkm"
+      ], 
+      "color1": "6CC24A", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "6", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Mi\u0142ostowo", 
+        "Junikowo"
+      ], 
+      "color1": "009639", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "7", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Zawady", 
+        "Ogrody"
+      ], 
+      "color1": "003594", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "727", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pal\u0119dzie Dworzec Kolejowy", 
+        "Junikowo"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
     }, 
     {
-      "name": "432", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "name": "8", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Kleszczewo Park", 
-        "Franowo"
+        "G\u00f3rczyn Pkm", 
+        "Mi\u0142ostowo"
+      ], 
+      "color1": "DA291C", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "801", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Baranowo Osiedle Rubinowe", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
     }, 
     {
-      "name": "435", 
+      "name": "833", 
       "typ": "bus", 
-      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Tulce Ko\u015bci\u00f3\u0142", 
-        "Franowo"
+        "Starzyny Rynkowa", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
     }, 
     {
-      "name": "484", 
+      "name": "834", 
       "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
-        "Zalasewo Osiedle Le\u015bne"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "485", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Pobiedziska Dworzec", 
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "486", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Siekierki Wielkie Ko\u015bci\u00f3\u0142", 
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "488", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
-      "petle": [
-        "Markowice Centrum", 
-        "Kleszczewo Park"
+        "\u017bydowo P\u0119tla", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
     }, 
     {
-      "name": "489", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "name": "9", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
-        "Kleszczewo Park"
+        "D\u0119biec Pkm", 
+        "Staro\u0142\u0119ka Ma\u0142a"
+      ], 
+      "color1": "FF671F", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "911", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Biedrusko Park"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "490", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "491", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w", 
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "492", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Uzarzewo P\u0119tla (Pa\u0142ac)", 
-        "Kobylnica W\u0119ze\u0142"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "493", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Kar\u0142owice P\u0119tla", 
-        "Kobylnica W\u0119ze\u0142"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "494", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Garby Ma\u0142e P\u0119tla", 
-        "Kobylnica Stacja"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "497", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Zalasewo Osiedle Le\u015bne", 
-        "Kruszewnia P\u0119tla"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "498", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Kruszewnia P\u0119tla", 
-        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "499", 
-      "typ": "bus", 
-      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
-      "petle": [
-        "Zalasewo Osiedle Le\u015bne", 
-        "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
     }, 
     {
       "name": "501", 
@@ -1483,6 +1516,116 @@
         "Franowo"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "252", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Przeb\u0119dowo P\u0119tla"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "312", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Promnice P\u00f3\u0142nocna"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "323", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Tuczno P\u0119tla", 
+        "Rondo \u015ar\u00f3dka"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "342", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Przeb\u0119dowo P\u0119tla"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "388", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "D\u0119bog\u00f3ra D\u0105br\u00f3wki", 
+        "Czerwonak Pkm"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "392", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Owi\u0144ska Pkm", 
+        "Potasze Jod\u0142owa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "394", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Kozieg\u0142owy Piaskowa Szko\u0142a", 
+        "Mi\u0119kowo Stokrotkowa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "396", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Kozieg\u0142owy Piaskowa Szko\u0142a", 
+        "Potasze Jod\u0142owa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "397", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "petle": [
+        "Trzaskowo Wie\u015b", 
+        "Biedrusko Park"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "251", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
+      "petle": [
+        "G\u00f3rczyn Pkm", 
+        "Mosina Dworzec Kolejowy"
+      ], 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1574,6 +1717,28 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "250", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
+      "petle": [
+        "G\u00f3rczyn Pkm", 
+        "G\u0142uchowo Stawna"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "257", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
+      "petle": [
+        "Dopiewo Dworzec Kolejowy", 
+        "Junikowo"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "701", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
@@ -1662,17 +1827,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "727", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Pal\u0119dzie Dworzec Kolejowy", 
-        "Junikowo"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "729", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
@@ -1684,135 +1838,14 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "791", 
+      "name": "219", 
       "typ": "bus", 
-      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
-        "Trzcielin ", 
-        "Dopiewo Dworzec Kolejowy"
+        "Wichrowa", 
+        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "792", 
-      "typ": "bus", 
-      "agency": "Urz\u0105d Gminy Dopiewo", 
-      "petle": [
-        "Wi\u0119ckowice Szko\u0142a", 
-        "Dopiewo Dworzec Kolejowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "797", 
-      "typ": "bus", 
-      "agency": "Urz\u0105d Gminy Dopiewo", 
-      "petle": [
-        "Malwowa", 
-        "Dopiewo Dworzec Kolejowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "799", 
-      "typ": "bus", 
-      "agency": "Urz\u0105d Gminy Dopiewo", 
-      "petle": [
-        "Dopiewiec Le\u015bna Polana", 
-        "Pal\u0119dzie Dworzec Kolejowy"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "801", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Baranowo Osiedle Rubinowe", 
-        "Ogrody"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "802", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Tarnowo Pdg Centrum"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "803", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Junikowo"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "804", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Sieros\u0142aw Dzia\u0142ki"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "811", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Lus\u00f3wko P\u0119tla"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "812", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Grzebienisko P\u0119tla"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "813", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Ka\u017amierz Rynek"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "821", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Ogrody", 
-        "Lus\u00f3wko Rozalin P\u0119tla"
-      ], 
-      "color1": "525252", 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1838,56 +1871,12 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "833", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Starzyny Rynkowa", 
-        "Ogrody"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "834", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "\u017bydowo P\u0119tla", 
-        "Ogrody"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "882", 
       "typ": "bus", 
       "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
         "Rokietnica Pkm", 
         "Tarnowo Pdg Ostatnia"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "886", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Tarnowo Pdg Centrum", 
-        "Piersko Rolna"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "889", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Prze\u017amierowo Ko\u015bcielna", 
-        "Wielkie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1912,6 +1901,17 @@
         "Rokietnica Pkm"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "253", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunikacji Publicznej Suchy Las Sp. z o.o.", 
+      "petle": [
+        "Osiedle Sobieskiego", 
+        "Chludowo Szko\u0142a"
+      ], 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1965,17 +1965,6 @@
       "petle": [
         "Osiedle Sobieskiego", 
         "Chludowo Szko\u0142a"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "911", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Biedrusko Park"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
