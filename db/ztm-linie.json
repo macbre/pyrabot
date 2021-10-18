@@ -1755,5 +1755,14 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
+  },
+  "T2":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Ogrody",
+      "Rondo Kaponiera"
+    ],
+    "typ":"tram"
   }
 }
