@@ -222,6 +222,15 @@
     ],
     "typ":"bus"
   },
+  "133":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Bogucin P\u0119tla",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "typ":"bus"
+  },
   "144":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1569,8 +1578,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
