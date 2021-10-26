@@ -60,7 +60,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "Mi\u0142ostowo", 
         "Ogrody"
       ], 
       "color1": "003594", 
@@ -148,7 +148,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Budziszy\u0144ska", 
+        "Junikowo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "A2AAAD", 
@@ -196,7 +196,40 @@
         "Osiedle Sobieskiego"
       ], 
       "color1": "FFFFFF", 
-      "color2": "FFFFFF"
+      "color2": "000000"
+    }, 
+    {
+      "name": "41", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Mi\u0142ostowo", 
+        "Junikowo"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "42", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Mi\u0142ostowo", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "43", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Mi\u0142ostowo", 
+        "Junikowo"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
     }, 
     {
       "name": "121", 
@@ -236,7 +269,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Bogucin P\u0119tla", 
+        "Rondo \u015ar\u00f3dka", 
         "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "525252", 
@@ -1015,7 +1048,7 @@
     {
       "name": "320", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Kozieg\u0142owy Zak\u0142ady Drobiarskie", 
         "Rondo \u015ar\u00f3dka"
@@ -1026,7 +1059,7 @@
     {
       "name": "321", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Kicin P\u0119tla", 
         "Rondo \u015ar\u00f3dka"
@@ -1059,7 +1092,7 @@
     {
       "name": "341", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Przeb\u0119dowo P\u0119tla"
@@ -1787,8 +1820,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ka\u017amierz Rynek", 
-        "Ogrody"
+        "Ogrody", 
+        "Ka\u017amierz Rynek"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1803,17 +1836,6 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "825", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Jankowice P\u0119tla", 
-        "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
     }, 
     {
       "name": "830", 
@@ -1840,7 +1862,7 @@
     {
       "name": "833", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
         "Starzyny Rynkowa", 
         "Ogrody"
@@ -1851,7 +1873,7 @@
     {
       "name": "834", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
       "petle": [
         "\u017bydowo P\u0119tla", 
         "Ogrody"

@@ -59,7 +59,7 @@
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Zawady",
+      "Mi\u0142ostowo",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
@@ -147,7 +147,7 @@
     "kolor1":"#A2AAAD",
     "kolor2":"#000000",
     "petle":[
-      "Budziszy\u0144ska",
+      "Junikowo",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
@@ -188,10 +188,37 @@
   },
   "36":{
     "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF",
+    "kolor2":"#000000",
     "petle":[
       "Plac Wielkopolski",
       "Osiedle Sobieskiego"
+    ],
+    "typ":"tram"
+  },
+  "41":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Junikowo"
+    ],
+    "typ":"tram"
+  },
+  "42":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Osiedle Sobieskiego"
+    ],
+    "typ":"tram"
+  },
+  "43":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Junikowo"
     ],
     "typ":"tram"
   },
@@ -226,7 +253,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Bogucin P\u0119tla",
+      "Rondo \u015ar\u00f3dka",
       "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
@@ -1578,8 +1605,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1593,15 +1620,6 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
-    "typ":"bus"
-  },
-  "825":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Jankowice P\u0119tla",
-      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-    ],
     "typ":"bus"
   },
   "830":{
