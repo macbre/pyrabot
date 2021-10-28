@@ -60,7 +60,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Mi\u0142ostowo", 
+        "Zawady", 
         "Ogrody"
       ], 
       "color1": "003594", 
@@ -148,7 +148,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Budziszy\u0144ska", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "A2AAAD", 
@@ -199,39 +199,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "41", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Junikowo"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "42", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "43", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Junikowo"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
       "name": "121", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -249,28 +216,6 @@
       "petle": [
         "Safony", 
         "Instytut Technologiczno-Przyrodniczy"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "125", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Staro\u0142\u0119ka Pkm", 
-        "Staro\u0142\u0119ka Pkm"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "133", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -478,7 +423,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Szarych Szereg\u00f3w I", 
+        "Strzeszyn Pkm", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "525252", 
@@ -731,7 +676,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka Pkm", 
+        "Unii Lubelskiej", 
         "Staro\u0142\u0119ka Pkm"
       ], 
       "color1": "525252", 
@@ -1048,7 +993,7 @@
     {
       "name": "320", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kozieg\u0142owy Zak\u0142ady Drobiarskie", 
         "Rondo \u015ar\u00f3dka"
@@ -1059,7 +1004,7 @@
     {
       "name": "321", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kicin P\u0119tla", 
         "Rondo \u015ar\u00f3dka"
@@ -1092,7 +1037,7 @@
     {
       "name": "341", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo \u015ar\u00f3dka", 
         "Przeb\u0119dowo P\u0119tla"
@@ -1820,8 +1765,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ogrody", 
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1862,7 +1807,7 @@
     {
       "name": "833", 
       "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Starzyny Rynkowa", 
         "Ogrody"
@@ -1873,7 +1818,7 @@
     {
       "name": "834", 
       "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "\u017bydowo P\u0119tla", 
         "Ogrody"

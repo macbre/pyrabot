@@ -59,7 +59,7 @@
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Mi\u0142ostowo",
+      "Zawady",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
@@ -147,7 +147,7 @@
     "kolor1":"#A2AAAD",
     "kolor2":"#000000",
     "petle":[
-      "Junikowo",
+      "Budziszy\u0144ska",
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
@@ -195,33 +195,6 @@
     ],
     "typ":"tram"
   },
-  "41":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Junikowo"
-    ],
-    "typ":"tram"
-  },
-  "42":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Osiedle Sobieskiego"
-    ],
-    "typ":"tram"
-  },
-  "43":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Junikowo"
-    ],
-    "typ":"tram"
-  },
   "121":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -237,24 +210,6 @@
     "petle":[
       "Safony",
       "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "typ":"bus"
-  },
-  "125":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka Pkm",
-      "Staro\u0142\u0119ka Pkm"
-    ],
-    "typ":"bus"
-  },
-  "133":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
   },
@@ -424,7 +379,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Szarych Szereg\u00f3w I",
+      "Strzeszyn Pkm",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
@@ -631,7 +586,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka Pkm",
+      "Unii Lubelskiej",
       "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
@@ -1605,8 +1560,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
