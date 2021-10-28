@@ -9,7 +9,7 @@ var fs = require('fs'),
 var SUMMARY = 'Automatyczne tworzenie stron o liniach autobusowych';
 
 var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
-	year = 2019,
+	year = 2021,
 	text = '';
 
 /**
@@ -26,7 +26,7 @@ client.logIn(function(err, data) {
 	for (var line in db) {
 		if (line == 201) continue;
 
-		if (line != 121) continue;
+		if (! ['124', '133'].includes(line) ) continue;
 
 		// if (line < 500 || line > 570)  continue;
 
@@ -67,7 +67,7 @@ client.logIn(function(err, data) {
 						"|foto=",
 						"|pętla1=" + petle[0],
 						"|pętla2=" + petle[1],
-						"|przystanki=" + data.przystanki,
+						"|przystanki=" + (data.przystanki || ''),
 						"|dlugosc=",
 						"|uruchomiona=" + year,
 						"|zlikwidowana=",
