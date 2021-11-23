@@ -32,7 +32,7 @@ jobs:
         USERNAME: ${{ secrets.PYRABOT_USERNAME }}
         PASSWORD: ${{ secrets.PYRABOT_PASSWORD }}
       run: |
-        echo '{"server":"poznan.wikia.org","protocol":"https","debug":true,"username":"'${USERNAME}'","password":"'${PASSWORD}'"}' > config.js
+        echo '{"server":"poznan.fandom.com","protocol":"https","debug":true,"username":"'${USERNAME}'","password":"'${PASSWORD}'"}' > config.js
 
         # should give 2d2479fc617175fc01f68661453c9c89
         cat config.js | jq '.password' | md5sum
