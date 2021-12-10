@@ -12,23 +12,12 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "2", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ogrody", 
-        "D\u0119biec Pkm"
-      ], 
-      "color1": "62B5E5", 
-      "color2": "000000"
-    }, 
-    {
       "name": "3", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Lechicka/Naramowicka", 
-        "Franowo"
+        "Ogrody"
       ], 
       "color1": "6C1D45", 
       "color2": "FFFFFF"
@@ -82,8 +71,8 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "D\u0119biec Pkm", 
-        "Staro\u0142\u0119ka Ma\u0142a"
+        "Staro\u0142\u0119ka Pkm", 
+        "Pi\u0105tkowska"
       ], 
       "color1": "FF671F", 
       "color2": "000000"
@@ -105,7 +94,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Pi\u0105tkowska", 
-        "Unii Lubelskiej"
+        "D\u0119biec Pkm"
       ], 
       "color1": "3CDBC0", 
       "color2": "000000"
@@ -127,7 +116,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Junikowo", 
-        "Staro\u0142\u0119ka Pkm"
+        "Unii Lubelskiej"
       ], 
       "color1": "AD841F", 
       "color2": "FFFFFF"
@@ -181,19 +170,19 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pi\u0105tkowska", 
+        "Ogrody", 
         "Ogrody"
       ], 
       "color1": "FEDB00", 
       "color2": "000000"
     }, 
     {
-      "name": "36", 
+      "name": "39", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Plac Wielkopolski", 
-        "Osiedle Sobieskiego"
+        "Junikowo", 
+        "D\u0119biec Pkm"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
@@ -632,7 +621,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka Pkm", 
+        "Unii Lubelskiej", 
         "Staro\u0142\u0119ka Pkm"
       ], 
       "color1": "525252", 
@@ -643,7 +632,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo Rataje", 
+        "Awf", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -742,7 +731,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka Pkm", 
+        "Unii Lubelskiej", 
         "Garbary Pkm"
       ], 
       "color1": "000000", 
@@ -909,72 +898,6 @@
       "petle": [
         "Unii Lubelskiej", 
         "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "250", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
-      "petle": [
-        "G\u00f3rczyn Pkm", 
-        "G\u0142uchowo Stawna"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "251", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
-      "petle": [
-        "G\u00f3rczyn Pkm", 
-        "Mosina Dworzec Kolejowy"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "252", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Przeb\u0119dowo P\u0119tla"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "253", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunikacji Publicznej Suchy Las Sp. z o.o.", 
-      "petle": [
-        "Osiedle Sobieskiego", 
-        "Chludowo Szko\u0142a"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "257", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
-      "petle": [
-        "Dopiewo Dworzec Kolejowy", 
-        "Junikowo"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "258", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny", 
-        "Tarnowo Pdg Centrum"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
