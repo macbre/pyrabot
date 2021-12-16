@@ -15,7 +15,7 @@
     "kolor1":"#6C1D45",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Lechicka/Naramowicka",
+      "Wilczak",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
@@ -190,15 +190,6 @@
     "petle":[
       "Meissnera",
       "Ogrody"
-    ],
-    "typ":"bus"
-  },
-  "124":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Safony",
-      "Instytut Technologiczno-Przyrodniczy"
     ],
     "typ":"bus"
   },
@@ -530,7 +521,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Radojewo",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -760,6 +751,78 @@
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
+    ],
+    "typ":"bus"
+  },
+  "231":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Unii Lubelskiej",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
+  },
+  "250":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "G\u0142uchowo Stawna"
+    ],
+    "typ":"bus"
+  },
+  "251":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
+    "typ":"bus"
+  },
+  "252":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
+    "typ":"bus"
+  },
+  "253":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "typ":"bus"
+  },
+  "257":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Junikowo"
+    ],
+    "typ":"bus"
+  },
+  "258":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
     ],
     "typ":"bus"
   },
@@ -1401,7 +1464,7 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
-      "Dopiewiec Le\u015bna Polana",
+      "Dopiewiec Poranek",
       "Pal\u0119dzie Dworzec Kolejowy"
     ],
     "typ":"bus"
@@ -1549,24 +1612,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
     "typ":"bus"
   },
-  "886":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Piersko Rolna"
-    ],
-    "typ":"bus"
-  },
-  "889":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Prze\u017amierowo Ko\u015bcielna",
-      "Wielkie"
-    ],
-    "typ":"bus"
-  },
   "891":{
     "agency":"ROKBUS",
     "kolor1":"#525252",
@@ -1655,21 +1700,21 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   },
-  "T1":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Junikowo",
-      "Junikowo"
-    ],
-    "typ":"tram"
-  },
   "T2":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Kosi\u0144skiego",
+      "D\u0119biec Pkm",
       "D\u0119biec Pkm"
+    ],
+    "typ":"tram"
+  },
+  "T3":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lechicka/Naramowicka",
+      "Garbary Pkm"
     ],
     "typ":"tram"
   }
