@@ -15,7 +15,7 @@
     "kolor1":"#6C1D45",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Wilczak",
+      "Lechicka/Naramowicka",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
@@ -1699,6 +1699,15 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
+  },
+  "T1":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Junikowo",
+      "Junikowo"
+    ],
+    "typ":"tram"
   },
   "T2":{
     "kolor1":"#000000",

@@ -16,7 +16,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Wilczak", 
+        "Lechicka/Naramowicka", 
         "Ogrody"
       ], 
       "color1": "6C1D45", 
@@ -186,6 +186,17 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
+    }, 
+    {
+      "name": "T1", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Junikowo"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "T2", 
