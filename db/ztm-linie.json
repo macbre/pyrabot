@@ -530,7 +530,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Unii Lubelskiej",
+      "Staro\u0142\u0119ka Pkm",
       "Staro\u0142\u0119ka Pkm"
     ],
     "typ":"bus"
@@ -623,7 +623,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Unii Lubelskiej",
+      "Staro\u0142\u0119ka Pkm",
       "Garbary Pkm"
     ],
     "typ":"bus"
@@ -764,66 +764,6 @@
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
-    "typ":"bus"
-  },
-  "250":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn Pkm",
-      "G\u0142uchowo Stawna"
-    ],
-    "typ":"bus"
-  },
-  "251":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "G\u00f3rczyn Pkm",
-      "Mosina Dworzec Kolejowy"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
-    "typ":"bus"
-  },
-  "252":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
-    "typ":"bus"
-  },
-  "253":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "typ":"bus"
-  },
-  "257":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "typ":"bus"
-  },
-  "258":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
-    ],
     "typ":"bus"
   },
   "312":{
@@ -1700,30 +1640,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   },
-  "T1":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Junikowo",
-      "Junikowo"
-    ],
-    "typ":"tram"
-  },
   "T2":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec Pkm",
       "D\u0119biec Pkm"
-    ],
-    "typ":"tram"
-  },
-  "T3":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Lechicka/Naramowicka",
-      "Garbary Pkm"
     ],
     "typ":"tram"
   }
