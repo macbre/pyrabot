@@ -610,6 +610,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
     "typ":"tram"
   },
+  "202":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Franowo",
+      "Osiedle Sobieskiego"
+    ],
+    "typ":"tram"
+  },
   "211":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
