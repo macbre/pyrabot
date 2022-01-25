@@ -210,6 +210,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "124", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Safony", 
+        "Instytut Technologiczno-Przyrodniczy"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "144", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -544,7 +555,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Krzywoustego Kinepolis", 
+        "Krzywoustego", 
         "Rondo Rataje"
       ], 
       "color1": "525252", 
@@ -610,7 +621,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Radojewo", 
+        "Osiedle Sobieskiego", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -1381,6 +1392,17 @@
       "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
       "petle": [
         "Franowo", 
+        "K\u00f3rnik Bnin Osiedle"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "503", 
+      "typ": "bus", 
+      "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
+      "petle": [
+        "Franowo", 
         "Szczodrzykowo Szko\u0142a"
       ], 
       "color1": "525252", 
@@ -1403,7 +1425,7 @@
       "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
       "petle": [
         "Franowo", 
-        "Bor\u00f3wiec Szko\u0142a"
+        "Kamionki P\u0119tla"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1754,8 +1776,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ka\u017amierz Rynek", 
-        "Ogrody"
+        "Ogrody", 
+        "Ka\u017amierz Rynek"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1822,6 +1844,28 @@
       "petle": [
         "Rokietnica Pkm", 
         "Tarnowo Pdg Ostatnia"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "886", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Tarnowo Pdg Centrum", 
+        "Piersko Rolna"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "889", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Prze\u017amierowo Ko\u015bcielna", 
+        "Wielkie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

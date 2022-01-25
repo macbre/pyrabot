@@ -193,6 +193,15 @@
     ],
     "typ":"bus"
   },
+  "124":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "typ":"bus"
+  },
   "144":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -467,7 +476,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Krzywoustego Kinepolis",
+      "Krzywoustego",
       "Rondo Rataje"
     ],
     "typ":"bus"
@@ -521,7 +530,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Radojewo",
+      "Osiedle Sobieskiego",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -1184,6 +1193,15 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
+      "K\u00f3rnik Bnin Osiedle"
+    ],
+    "typ":"bus"
+  },
+  "503":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Franowo",
       "Szczodrzykowo Szko\u0142a"
     ],
     "typ":"bus"
@@ -1205,7 +1223,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Franowo",
-      "Bor\u00f3wiec Szko\u0142a"
+      "Kamionki P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",
     "typ":"bus"
@@ -1540,8 +1558,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1610,6 +1628,24 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
+    "typ":"bus"
+  },
+  "886":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "typ":"bus"
+  },
+  "889":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
     "typ":"bus"
   },
   "891":{
