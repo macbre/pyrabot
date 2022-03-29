@@ -10,15 +10,26 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
     "typ":"tram"
   },
-  "3":{
+  "2":{
     "agency":"MPK",
-    "kolor1":"#6C1D45",
-    "kolor2":"#FFFFFF",
+    "kolor1":"#72C4E7",
+    "kolor2":"#000000",
     "petle":[
-      "Lechicka/Naramowicka",
+      "D\u0119biec Pkm",
       "Ogrody"
     ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
+    "typ":"tram"
+  },
+  "4":{
+    "agency":"MPK",
+    "kolor1":"#2E6A4C",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Staro\u0142\u0119ka Pkm",
+      "Po\u0142abska"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
     "typ":"tram"
   },
   "5":{
@@ -70,7 +81,7 @@
     "kolor1":"#FF671F",
     "kolor2":"#000000",
     "petle":[
-      "Staro\u0142\u0119ka Pkm",
+      "Staro\u0142\u0119ka Ma\u0142a",
       "Pi\u0105tkowska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
@@ -81,7 +92,7 @@
     "kolor1":"#F1B434",
     "kolor2":"#000000",
     "petle":[
-      "Po\u0142abska",
+      "Lechicka/Naramowicka",
       "D\u0119biec Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/10",
@@ -93,7 +104,7 @@
     "kolor2":"#000000",
     "petle":[
       "Pi\u0105tkowska",
-      "D\u0119biec Pkm"
+      "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
     "typ":"tram"
@@ -115,7 +126,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Junikowo",
-      "Unii Lubelskiej"
+      "Plac Wielkopolski"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
@@ -169,19 +180,10 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "petle":[
-      "Ogrody",
+      "Franowo",
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
-    "typ":"tram"
-  },
-  "39":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Junikowo",
-      "D\u0119biec Pkm"
-    ],
     "typ":"tram"
   },
   "121":{
@@ -504,7 +506,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Nowe Zoo"
     ],
     "typ":"bus"
   },
@@ -1423,7 +1425,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Junikowo Pkm",
+      "Junikowo",
       "G\u0142uchowo Stawna"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716",
