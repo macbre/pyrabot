@@ -195,15 +195,6 @@
     ],
     "typ":"bus"
   },
-  "124":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Safony",
-      "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "typ":"bus"
-  },
   "144":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -532,7 +523,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Radojewo",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -763,18 +754,6 @@
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
     ],
-    "typ":"bus"
-  },
-  "231":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Unii Lubelskiej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
     "typ":"bus"
   },
   "250":{
@@ -1560,8 +1539,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1630,24 +1609,6 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
-    "typ":"bus"
-  },
-  "886":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Piersko Rolna"
-    ],
-    "typ":"bus"
-  },
-  "889":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Prze\u017amierowo Ko\u015bcielna",
-      "Wielkie"
-    ],
     "typ":"bus"
   },
   "891":{
