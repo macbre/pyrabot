@@ -1,7 +1,7 @@
 {
   "0":{
-    "kolor1":"#D0006F",
-    "kolor2":"#FFFFFF",
+    "kolor1":"#FFFFFF",
+    "kolor2":"#0D7B49",
     "petle":[
       "Stare Zoo",
       "Stare Zoo"
@@ -35,7 +35,7 @@
     "kolor1":"#2E6A4C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka Pkm",
+      "Unii Lubelskiej",
       "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
@@ -90,7 +90,7 @@
     "kolor1":"#FF671F",
     "kolor2":"#000000",
     "petle":[
-      "Staro\u0142\u0119ka Ma\u0142a",
+      "Unii Lubelskiej",
       "Pi\u0105tkowska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
@@ -116,17 +116,6 @@
       "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/11",
-    "typ":"tram"
-  },
-  "12":{
-    "agency":"MPK",
-    "kolor1":"#CBA3D8",
-    "kolor2":"#000000",
-    "petle":[
-      "Staro\u0142\u0119ka Pkm",
-      "Osiedle Sobieskiego"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
   },
   "13":{
@@ -173,17 +162,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
-  "17":{
-    "agency":"MPK",
-    "kolor1":"#004F71",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka Pkm",
-      "Ogrody"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
-    "typ":"tram"
-  },
   "18":{
     "agency":"MPK",
     "kolor1":"#FEDB00",
@@ -210,33 +188,6 @@
     "petle":[
       "Nowe Zoo",
       "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
-  "102":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
-  "121":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Meissnera",
-      "Ogrody"
-    ],
-    "typ":"bus"
-  },
-  "124":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Safony",
-      "Instytut Technologiczno-Przyrodniczy"
     ],
     "typ":"bus"
   },
@@ -564,15 +515,6 @@
     ],
     "typ":"bus"
   },
-  "188":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Osiedle Sobieskiego"
-    ],
-    "typ":"bus"
-  },
   "189":{
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -801,6 +743,18 @@
     ],
     "typ":"bus"
   },
+  "231":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Unii Lubelskiej",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
+  },
   "250":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
@@ -1025,15 +979,6 @@
     ],
     "typ":"bus"
   },
-  "406":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Centrum Handlowe Etc"
-    ],
-    "typ":"bus"
-  },
   "407":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1066,7 +1011,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Kleszczewo Park",
-      "Franowo"
+      "Rondo Rataje"
     ],
     "typ":"bus"
   },
@@ -1075,7 +1020,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Kleszczewo Park",
-      "Franowo"
+      "Rondo Rataje"
     ],
     "typ":"bus"
   },
@@ -1084,7 +1029,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Tulce Ko\u015bci\u00f3\u0142",
-      "Franowo"
+      "Rondo Rataje"
     ],
     "typ":"bus"
   },
@@ -1133,15 +1078,6 @@
     ],
     "typ":"bus"
   },
-  "490":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "typ":"bus"
-  },
   "491":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1178,15 +1114,6 @@
     ],
     "typ":"bus"
   },
-  "497":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Kruszewnia P\u0119tla"
-    ],
-    "typ":"bus"
-  },
   "498":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1209,7 +1136,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
+      "Rondo Rataje",
       "K\u00f3rnik Bnin Osiedle"
     ],
     "typ":"bus"
@@ -1218,8 +1145,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
-      "K\u00f3rnik Bnin Osiedle"
+      "Rondo Rataje",
+      "B\u0142a\u017cejewo Osiedle Przylesie"
     ],
     "typ":"bus"
   },
@@ -1227,7 +1154,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
+      "Rondo Rataje",
       "Szczodrzykowo Szko\u0142a"
     ],
     "typ":"bus"
@@ -1269,7 +1196,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
+      "Rondo Rataje",
       "Zaniemy\u015bl Ko\u015bci\u00f3\u0142"
     ],
     "typ":"bus"
@@ -1279,7 +1206,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Zaniemy\u015bl Ko\u015bci\u00f3\u0142",
-      "Franowo"
+      "Rondo Rataje"
     ],
     "typ":"bus"
   },
@@ -1477,42 +1404,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
     "typ":"bus"
   },
-  "791":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Trzcielin P\u0119tla",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
-  "792":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Wi\u0119ckowice Szko\u0142a",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
-  "797":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Malwowa",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
-  "799":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Dopiewiec Polarna",
-      "Pal\u0119dzie Dworzec Kolejowy"
-    ],
-    "typ":"bus"
-  },
   "801":{
     "agency":"MPK",
     "kolor1":"#525252",
@@ -1654,24 +1545,6 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
-    "typ":"bus"
-  },
-  "886":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Piersko Rolna"
-    ],
-    "typ":"bus"
-  },
-  "889":{
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Prze\u017amierowo Ko\u015bcielna",
-      "Wielkie"
-    ],
     "typ":"bus"
   },
   "891":{
