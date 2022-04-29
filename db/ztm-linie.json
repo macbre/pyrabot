@@ -1,4 +1,13 @@
 {
+  "0":{
+    "kolor1":"#D0006F",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Stare Zoo",
+      "Stare Zoo"
+    ],
+    "typ":"tram"
+  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -1593,6 +1602,15 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
+    "typ":"bus"
+  },
+  "825":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Jankowice P\u0119tla",
+      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+    ],
     "typ":"bus"
   },
   "830":{
