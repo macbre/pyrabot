@@ -196,8 +196,8 @@
     "typ":"tram"
   },
   "100":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Nowe Zoo",
       "Pozna\u0144 G\u0142\u00f3wny"
@@ -205,8 +205,8 @@
     "typ":"bus"
   },
   "102":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Muzeum Broni Pancernej",
       "Pozna\u0144 G\u0142\u00f3wny"
@@ -1602,15 +1602,6 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
-    "typ":"bus"
-  },
-  "825":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Jankowice P\u0119tla",
-      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-    ],
     "typ":"bus"
   },
   "830":{
