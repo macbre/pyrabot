@@ -50,7 +50,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Unii Lubelskiej", 
-        "G\u00f3rczyn Pkm"
+        "Unii Lubelskiej"
       ], 
       "color1": "6CC24A", 
       "color2": "000000"
@@ -82,7 +82,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "G\u00f3rczyn Pkm", 
+        "Mi\u0142ostowo", 
         "Mi\u0142ostowo"
       ], 
       "color1": "DA291C", 
@@ -149,7 +149,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Osiedle Sobieskiego", 
-        "G\u00f3rczyn Pkm"
+        "D\u0119biec Pkm"
       ], 
       "color1": "946037", 
       "color2": "FFFFFF"
@@ -205,6 +205,17 @@
       "petle": [
         "D\u0119biec Pkm", 
         "D\u0119biec Pkm"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T5", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "G\u00f3rczyn Pkm", 
+        "G\u00f3rczyn Pkm"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"

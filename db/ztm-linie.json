@@ -47,7 +47,7 @@
     "kolor2":"#000000",
     "petle":[
       "Unii Lubelskiej",
-      "G\u00f3rczyn Pkm"
+      "Unii Lubelskiej"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
@@ -79,7 +79,7 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn Pkm",
+      "Mi\u0142ostowo",
       "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
@@ -146,7 +146,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "G\u00f3rczyn Pkm"
+      "D\u0119biec Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
@@ -1771,6 +1771,15 @@
     "petle":[
       "D\u0119biec Pkm",
       "D\u0119biec Pkm"
+    ],
+    "typ":"bus"
+  },
+  "T5":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   }
