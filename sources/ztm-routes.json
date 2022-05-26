@@ -8,7 +8,7 @@
         "Stare Zoo", 
         "Stare Zoo"
       ], 
-      "color1": "D0006F", 
+      "color1": "008000", 
       "color2": "FFFFFF"
     }, 
     {
@@ -21,17 +21,6 @@
       ], 
       "color1": "D0006F", 
       "color2": "FFFFFF"
-    }, 
-    {
-      "name": "2", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "D\u0119biec Pkm", 
-        "Ogrody"
-      ], 
-      "color1": "72C4E7", 
-      "color2": "000000"
     }, 
     {
       "name": "4", 
@@ -50,7 +39,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Unii Lubelskiej", 
-        "Unii Lubelskiej"
+        "G\u00f3rczyn Pkm"
       ], 
       "color1": "6CC24A", 
       "color2": "000000"
@@ -82,7 +71,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Mi\u0142ostowo", 
+        "G\u00f3rczyn Pkm", 
         "Mi\u0142ostowo"
       ], 
       "color1": "DA291C", 
@@ -149,7 +138,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Osiedle Sobieskiego", 
-        "D\u0119biec Pkm"
+        "G\u00f3rczyn Pkm"
       ], 
       "color1": "946037", 
       "color2": "FFFFFF"
@@ -177,17 +166,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "17", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Staro\u0142\u0119ka Pkm", 
-        "Ogrody"
-      ], 
-      "color1": "004F71", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "18", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -199,23 +177,23 @@
       "color2": "000000"
     }, 
     {
+      "name": "92", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Staro\u0142\u0119ka Pkm", 
+        "D\u0119biec Pkm"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "T2", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "D\u0119biec Pkm", 
         "D\u0119biec Pkm"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "T5", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "G\u00f3rczyn Pkm", 
-        "G\u00f3rczyn Pkm"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -2000,6 +1978,17 @@
         "Biedrusko Park"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T17", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo Kaponiera", 
+        "Ogrody"
+      ], 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }
   ]

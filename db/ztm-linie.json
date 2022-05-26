@@ -1,6 +1,6 @@
 {
   "0":{
-    "kolor1":"#D0006F",
+    "kolor1":"#008000",
     "kolor2":"#FFFFFF",
     "petle":[
       "Stare Zoo",
@@ -17,17 +17,6 @@
       "Franowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/1",
-    "typ":"tram"
-  },
-  "2":{
-    "agency":"MPK",
-    "kolor1":"#72C4E7",
-    "kolor2":"#000000",
-    "petle":[
-      "D\u0119biec Pkm",
-      "Ogrody"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
   "4":{
@@ -47,7 +36,7 @@
     "kolor2":"#000000",
     "petle":[
       "Unii Lubelskiej",
-      "Unii Lubelskiej"
+      "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/5",
     "typ":"tram"
@@ -79,7 +68,7 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Mi\u0142ostowo",
+      "G\u00f3rczyn Pkm",
       "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
@@ -146,7 +135,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "D\u0119biec Pkm"
+      "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
     "typ":"tram"
@@ -173,17 +162,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
-  "17":{
-    "agency":"MPK",
-    "kolor1":"#004F71",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka Pkm",
-      "Ogrody"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
-    "typ":"tram"
-  },
   "18":{
     "agency":"MPK",
     "kolor1":"#FEDB00",
@@ -193,6 +171,17 @@
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
+    "typ":"tram"
+  },
+  "92":{
+    "agency":"MPK",
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Staro\u0142\u0119ka Pkm",
+      "D\u0119biec Pkm"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/92",
     "typ":"tram"
   },
   "100":{
@@ -1765,21 +1754,21 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   },
+  "T17":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Rondo Kaponiera",
+      "Ogrody"
+    ],
+    "typ":"bus"
+  },
   "T2":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
       "D\u0119biec Pkm",
       "D\u0119biec Pkm"
-    ],
-    "typ":"bus"
-  },
-  "T5":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "G\u00f3rczyn Pkm",
-      "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
   }
