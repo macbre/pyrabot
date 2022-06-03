@@ -1,6 +1,28 @@
 {
   "lines": [
     {
+      "name": "T17", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo Kaponiera", 
+        "Ogrody"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "T2", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "D\u0119biec Pkm", 
+        "D\u0119biec Pkm"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "0", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -186,17 +208,6 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
-    }, 
-    {
-      "name": "T2", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "D\u0119biec Pkm", 
-        "D\u0119biec Pkm"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
     }, 
     {
       "name": "100", 
@@ -1978,17 +1989,6 @@
         "Biedrusko Park"
       ], 
       "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "T17", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Kaponiera", 
-        "Ogrody"
-      ], 
-      "color1": "000000", 
       "color2": "FFFFFF"
     }
   ]
