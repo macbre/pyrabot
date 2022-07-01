@@ -33,7 +33,7 @@
   "3":{
     "agency":"MPK",
     "kolor1":"#800040",
-    "kolor2":"#000000",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Plac Wielkopolski",
       "B\u0142a\u017ceja"
@@ -1718,15 +1718,6 @@
       "Biedrusko Park"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
-    "typ":"bus"
-  },
-  "T1":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Franowo",
-      "Franowo"
-    ],
     "typ":"bus"
   },
   "T2":{

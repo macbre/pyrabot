@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "T1", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Franowo", 
-        "Franowo"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "T2", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -64,7 +53,7 @@
         "B\u0142a\u017ceja"
       ], 
       "color1": "800040", 
-      "color2": "000000"
+      "color2": "FFFFFF"
     }, 
     {
       "name": "4", 
