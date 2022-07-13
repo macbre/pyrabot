@@ -53,7 +53,7 @@
         "B\u0142a\u017ceja"
       ], 
       "color1": "800040", 
-      "color2": "FFFFFF"
+      "color2": "000000"
     }, 
     {
       "name": "4", 
@@ -240,6 +240,17 @@
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "E31E24", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "106", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Ogrody", 
+        "Ogrody"
+      ], 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }, 
     {
