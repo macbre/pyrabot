@@ -33,7 +33,7 @@
   "3":{
     "agency":"MPK",
     "kolor1":"#800040",
-    "kolor2":"#000000",
+    "kolor2":"#FFFFFF",
     "petle":[
       "Plac Wielkopolski",
       "B\u0142a\u017ceja"
@@ -1726,6 +1726,15 @@
     "petle":[
       "D\u0119biec Pkm",
       "D\u0119biec Pkm"
+    ],
+    "typ":"bus"
+  },
+  "T9":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "typ":"bus"
   }

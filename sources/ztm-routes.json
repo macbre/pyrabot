@@ -12,6 +12,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "T9", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "0", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -53,7 +64,7 @@
         "B\u0142a\u017ceja"
       ], 
       "color1": "800040", 
-      "color2": "000000"
+      "color2": "FFFFFF"
     }, 
     {
       "name": "4", 
