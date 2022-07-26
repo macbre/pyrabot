@@ -30,23 +30,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
-  "3":{
-    "agency":"MPK",
-    "kolor1":"#800040",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Plac Wielkopolski",
-      "B\u0142a\u017ceja"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
-    "typ":"tram"
-  },
   "4":{
     "agency":"MPK",
     "kolor1":"#2E6A4C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka Pkm",
+      "Staro\u0142\u0119ka Ma\u0142a",
       "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
@@ -96,17 +85,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
-  "9":{
-    "agency":"MPK",
-    "kolor1":"#FF671F",
-    "kolor2":"#000000",
-    "petle":[
-      "Staro\u0142\u0119ka Ma\u0142a",
-      "Pi\u0105tkowska"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
-    "typ":"tram"
-  },
   "10":{
     "agency":"MPK",
     "kolor1":"#F1B434",
@@ -135,20 +113,9 @@
     "kolor2":"#000000",
     "petle":[
       "Staro\u0142\u0119ka Pkm",
-      "Osiedle Sobieskiego"
+      "Junikowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
-    "typ":"tram"
-  },
-  "13":{
-    "agency":"MPK",
-    "kolor1":"#AD841F",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Junikowo",
-      "Plac Wielkopolski"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
   "14":{
@@ -156,7 +123,7 @@
     "kolor1":"#946037",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Pi\u0105tkowska",
       "G\u00f3rczyn Pkm"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/14",
@@ -168,20 +135,9 @@
     "kolor2":"#000000",
     "petle":[
       "Budziszy\u0144ska",
-      "Osiedle Sobieskiego"
+      "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
-    "typ":"tram"
-  },
-  "16":{
-    "agency":"MPK",
-    "kolor1":"#440099",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Franowo",
-      "Osiedle Sobieskiego"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/16",
     "typ":"tram"
   },
   "17":{
@@ -204,6 +160,48 @@
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
+    "typ":"tram"
+  },
+  "93":{
+    "agency":"MPK",
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "D\u0119biec Pkm",
+      "Staro\u0142\u0119ka Pkm"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93",
+    "typ":"tram"
+  },
+  "95":{
+    "agency":"MPK",
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Wroc\u0142awska",
+      "K\u00f3rnicka"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/95",
+    "typ":"tram"
+  },
+  "96":{
+    "agency":"MPK",
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Franowo",
+      "B\u0142a\u017ceja"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96",
+    "typ":"tram"
+  },
+  "99":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Plac Wiosny Lud\u00f3w",
+      "Awf"
+    ],
     "typ":"tram"
   },
   "100":{
@@ -629,27 +627,6 @@
     ],
     "typ":"bus"
   },
-  "201":{
-    "agency":"MPK",
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "petle":[
-      "Unii Lubelskiej",
-      "Osiedle Sobieskiego"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201",
-    "typ":"tram"
-  },
-  "202":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Franowo",
-      "Osiedle Sobieskiego"
-    ],
-    "typ":"tram"
-  },
   "211":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
@@ -792,9 +769,21 @@
     "night":true,
     "petle":[
       "Unii Lubelskiej",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
+  },
+  "232":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo Rataje",
+      "Osiedle Sobieskiego"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/232",
     "typ":"bus"
   },
   "250":{
@@ -1720,21 +1709,12 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/911",
     "typ":"bus"
   },
-  "T2":{
+  "T12":{
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "petle":[
-      "D\u0119biec Pkm",
-      "D\u0119biec Pkm"
-    ],
-    "typ":"bus"
-  },
-  "T9":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Osiedle Sobieskiego",
+      "Osiedle Sobieskiego"
     ],
     "typ":"bus"
   }
