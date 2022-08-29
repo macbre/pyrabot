@@ -30,12 +30,23 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/2",
     "typ":"tram"
   },
+  "3":{
+    "agency":"MPK",
+    "kolor1":"#8E364C",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "B\u0142a\u017ceja"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
+    "typ":"tram"
+  },
   "4":{
     "agency":"MPK",
     "kolor1":"#2E6A4C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Staro\u0142\u0119ka Ma\u0142a",
+      "Ogrody",
       "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
@@ -79,10 +90,21 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "petle":[
-      "G\u00f3rczyn Pkm",
+      "Staro\u0142\u0119ka Ma\u0142a",
       "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
+    "typ":"tram"
+  },
+  "9":{
+    "agency":"MPK",
+    "kolor1":"#FF671F",
+    "kolor2":"#000000",
+    "petle":[
+      "D\u0119biec Pkm",
+      "Plac Wiosny Lud\u00f3w"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9",
     "typ":"tram"
   },
   "10":{
@@ -113,9 +135,20 @@
     "kolor2":"#000000",
     "petle":[
       "Staro\u0142\u0119ka Pkm",
-      "Junikowo"
+      "Budziszy\u0144ska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
+    "typ":"tram"
+  },
+  "13":{
+    "agency":"MPK",
+    "kolor1":"#AD841F",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Wroc\u0142awska",
+      "Staro\u0142\u0119ka Pkm"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/13",
     "typ":"tram"
   },
   "14":{
@@ -134,7 +167,7 @@
     "kolor1":"#A2AAAD",
     "kolor2":"#000000",
     "petle":[
-      "Budziszy\u0144ska",
+      "Junikowo",
       "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
@@ -146,7 +179,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Staro\u0142\u0119ka Pkm",
-      "Ogrody"
+      "Zawady"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
     "typ":"tram"
@@ -162,46 +195,15 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "93":{
+  "98":{
     "agency":"MPK",
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
-      "D\u0119biec Pkm",
-      "Staro\u0142\u0119ka Pkm"
+      "Plac Wielkopolski",
+      "Rondo \u015ar\u00f3dka"
     ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93",
-    "typ":"tram"
-  },
-  "95":{
-    "agency":"MPK",
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Wroc\u0142awska",
-      "K\u00f3rnicka"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/95",
-    "typ":"tram"
-  },
-  "96":{
-    "agency":"MPK",
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Franowo",
-      "B\u0142a\u017ceja"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96",
-    "typ":"tram"
-  },
-  "99":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Plac Wiosny Lud\u00f3w",
-      "Awf"
-    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"tram"
   },
   "100":{
@@ -228,6 +230,15 @@
     "petle":[
       "Meissnera",
       "Ogrody"
+    ],
+    "typ":"bus"
+  },
+  "124":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
     ],
     "typ":"bus"
   },
@@ -352,7 +363,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Garbary Pkm",
+      "Rondo \u015ar\u00f3dka",
       "G\u00f3rczyn Pkm"
     ],
     "typ":"bus"
@@ -550,7 +561,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Radojewo",
+      "Osiedle Sobieskiego",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -568,7 +579,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Awf",
+      "Rondo Rataje",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -1097,6 +1108,15 @@
     ],
     "typ":"bus"
   },
+  "489":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Kleszczewo Park"
+    ],
+    "typ":"bus"
+  },
   "490":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1183,7 +1203,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "K\u00f3rnik Bnin Osiedle"
+      "B\u0142a\u017cejewo Osiedle Przylesie"
     ],
     "typ":"bus"
   },
@@ -1324,6 +1344,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651",
     "typ":"bus"
   },
+  "690":{
+    "agency":"TRANSLUB",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "\u0141\u0119czyca Dworcowa"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/690",
+    "typ":"bus"
+  },
   "701":{
     "agency":"PUK",
     "kolor1":"#525252",
@@ -1381,8 +1412,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rosn\u00f3wko Pkm",
-      "G\u00f3rczyn Pkm"
+      "G\u00f3rczyn Pkm",
+      "Rosn\u00f3wko Pkm"
     ],
     "typ":"bus"
   },
@@ -1537,8 +1568,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
@@ -1552,6 +1583,15 @@
       "Lus\u00f3wko Rozalin P\u0119tla"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821",
+    "typ":"bus"
+  },
+  "825":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Jankowice P\u0119tla",
+      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+    ],
     "typ":"bus"
   },
   "830":{
@@ -1603,10 +1643,28 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rokietnica Pkm",
+      "Rokietnica W\u0119ze\u0142 Przesiadkowy",
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
+    "typ":"bus"
+  },
+  "886":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "typ":"bus"
+  },
+  "889":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
     "typ":"bus"
   },
   "891":{
@@ -1614,7 +1672,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rokietnica Pkm",
+      "Rokietnica W\u0119ze\u0142 Przesiadkowy",
       "Mrowino Szko\u0142a"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/891",
@@ -1626,7 +1684,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "\u017bydowo P\u0119tla",
-      "Rokietnica Pkm"
+      "Rokietnica W\u0119ze\u0142 Przesiadkowy"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893",
     "typ":"bus"
