@@ -1,13 +1,4 @@
 {
-  "0":{
-    "kolor1":"#009639",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Stare Zoo",
-      "Stare Zoo"
-    ],
-    "typ":"tram"
-  },
   "1":{
     "agency":"MPK",
     "kolor1":"#D0006F",
@@ -41,17 +32,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/3",
     "typ":"tram"
   },
-  "4":{
-    "agency":"MPK",
-    "kolor1":"#2E6A4C",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Ogrody",
-      "Po\u0142abska"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/4",
-    "typ":"tram"
-  },
   "5":{
     "agency":"MPK",
     "kolor1":"#6CC24A",
@@ -83,17 +63,6 @@
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/7",
-    "typ":"tram"
-  },
-  "8":{
-    "agency":"MPK",
-    "kolor1":"#DA291C",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka Ma\u0142a",
-      "Mi\u0142ostowo"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8",
     "typ":"tram"
   },
   "9":{
@@ -135,7 +104,7 @@
     "kolor2":"#000000",
     "petle":[
       "Staro\u0142\u0119ka Pkm",
-      "Budziszy\u0144ska"
+      "Po\u0142abska"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/12",
     "typ":"tram"
@@ -205,24 +174,6 @@
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"tram"
-  },
-  "100":{
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
-  },
-  "102":{
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "typ":"bus"
   },
   "121":{
     "kolor1":"#525252",
@@ -1708,7 +1659,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Osiedle Sobieskiego",
-      "Z\u0142otniki Osiedle"
+      "Z\u0142otniki Wie\u015b"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/904",
     "typ":"bus"
