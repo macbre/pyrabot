@@ -142,17 +142,6 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/15",
     "typ":"tram"
   },
-  "17":{
-    "agency":"MPK",
-    "kolor1":"#004F71",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Staro\u0142\u0119ka Pkm",
-      "Zawady"
-    ],
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/17",
-    "typ":"tram"
-  },
   "18":{
     "agency":"MPK",
     "kolor1":"#FEDB00",
@@ -243,7 +232,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Sp\u0142awie",
-      "Franowo"
+      "Rondo Rataje"
     ],
     "typ":"bus"
   },
@@ -486,7 +475,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Rondo Rataje",
-      "Nowe Zoo"
+      "Termy Malta\u0144skie"
     ],
     "typ":"bus"
   },
@@ -512,7 +501,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Radojewo",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -530,7 +519,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Rondo Rataje",
+      "Bobrza\u0144ska",
       "Osiedle Sobieskiego"
     ],
     "typ":"bus"
@@ -567,7 +556,7 @@
     "kolor2":"#FFFFFF",
     "petle":[
       "Ogrody",
-      "Kiekrz Ko\u015bci\u00f3\u0142"
+      "Kiekrz"
     ],
     "typ":"bus"
   },
@@ -1172,7 +1161,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
+      "Rondo Rataje",
       "Kamionki Klonowa"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/511",
@@ -1183,7 +1172,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Franowo",
+      "Rondo Rataje",
       "Bor\u00f3wiec Szko\u0142a"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_KOMBUS/linia/512",

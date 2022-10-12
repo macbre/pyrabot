@@ -155,17 +155,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "17", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Staro\u0142\u0119ka Pkm", 
-        "Zawady"
-      ], 
-      "color1": "004F71", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "18", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -270,7 +259,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Sp\u0142awie", 
-        "Franowo"
+        "Rondo Rataje"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -567,7 +556,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Rataje", 
-        "Nowe Zoo"
+        "Termy Malta\u0144skie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -599,7 +588,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Sobieskiego", 
+        "Radojewo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -621,7 +610,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo Rataje", 
+        "Bobrza\u0144ska", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -666,7 +655,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Ogrody", 
-        "Kiekrz Ko\u015bci\u00f3\u0142"
+        "Kiekrz"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1369,7 +1358,7 @@
       "typ": "bus", 
       "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
       "petle": [
-        "Franowo", 
+        "Rondo Rataje", 
         "Kamionki Klonowa"
       ], 
       "color1": "525252", 
@@ -1380,7 +1369,7 @@
       "typ": "bus", 
       "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.", 
       "petle": [
-        "Franowo", 
+        "Rondo Rataje", 
         "Bor\u00f3wiec Szko\u0142a"
       ], 
       "color1": "525252", 
