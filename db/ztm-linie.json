@@ -153,13 +153,31 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
+  "41":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Junikowo"
+    ],
+    "typ":"tram"
+  },
+  "42":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Po\u0142abska"
+    ],
+    "typ":"tram"
+  },
   "98":{
     "agency":"MPK",
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
       "Plac Ratajskiego",
-      "Zawady"
+      "Mi\u0142ostowo"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"tram"
@@ -179,6 +197,15 @@
     "petle":[
       "Safony",
       "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "typ":"bus"
+  },
+  "133":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
   },
@@ -723,6 +750,66 @@
       "Osiedle Sobieskiego"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231",
+    "typ":"bus"
+  },
+  "250":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "G\u0142uchowo Stawna"
+    ],
+    "typ":"bus"
+  },
+  "251":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/251",
+    "typ":"bus"
+  },
+  "252":{
+    "agency":"MPK",
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252",
+    "typ":"bus"
+  },
+  "253":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "typ":"bus"
+  },
+  "257":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Junikowo"
+    ],
+    "typ":"bus"
+  },
+  "258":{
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
+    ],
     "typ":"bus"
   },
   "312":{
@@ -1457,8 +1544,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/813",
     "typ":"bus"
