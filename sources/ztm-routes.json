@@ -166,37 +166,26 @@
       "color2": "000000"
     }, 
     {
-      "name": "41", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Junikowo"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "42", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Po\u0142abska"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
       "name": "98", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Plac Ratajskiego", 
-        "Mi\u0142ostowo"
+        "Zawady"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
+    }, 
+    {
+      "name": "121", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Meissnera", 
+        "Ogrody"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "124", 
@@ -207,17 +196,6 @@
         "Instytut Technologiczno-Przyrodniczy"
       ], 
       "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "133", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Rondo \u015ar\u00f3dka"
-      ], 
-      "color1": "000000", 
       "color2": "FFFFFF"
     }, 
     {
@@ -601,6 +579,17 @@
       "petle": [
         "Kiekrz", 
         "Ogrody"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "188", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Radojewo", 
+        "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1112,6 +1101,17 @@
       "color2": "000000"
     }, 
     {
+      "name": "406", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Jasin Centrum Handlowe Etc"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "407", 
       "typ": "bus", 
       "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
@@ -1233,6 +1233,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "490", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "491", 
       "typ": "bus", 
       "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
@@ -1272,6 +1283,17 @@
       "petle": [
         "Garby Ma\u0142e P\u0119tla", 
         "Kobylnica Stacja"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "497", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Zalasewo Osiedle Le\u015bne", 
+        "Kruszewnia P\u0119tla"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
@@ -1442,6 +1464,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "616", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
+      "petle": [
+        "Lubo\u0144 \u017babikowo", 
+        "G\u00f3rczyn Pkm"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "651", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
@@ -1572,6 +1605,61 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
+    }, 
+    {
+      "name": "791", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Trzcielin P\u0119tla", 
+        "Dopiewo Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "792", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Wi\u0119ckowice Szko\u0142a", 
+        "Dopiewo Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "797", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Malwowa", 
+        "Dopiewo Dworzec Kolejowy"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "798", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Sk\u00f3rzewo Wiosenna", 
+        "Malwowa"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "799", 
+      "typ": "bus", 
+      "agency": "Urz\u0105d Gminy Dopiewo", 
+      "petle": [
+        "Pal\u0119dzie Dworzec Kolejowy", 
+        "Dopiewiec Polarna"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
     }, 
     {
       "name": "801", 
@@ -1712,6 +1800,28 @@
       "petle": [
         "Rokietnica W\u0119ze\u0142 Przesiadkowy", 
         "Tarnowo Pdg Ostatnia"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "886", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Tarnowo Pdg Centrum", 
+        "Piersko Rolna"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "889", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Prze\u017amierowo Ko\u015bcielna", 
+        "Wielkie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

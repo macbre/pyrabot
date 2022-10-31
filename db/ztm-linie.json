@@ -153,34 +153,25 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18",
     "typ":"tram"
   },
-  "41":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Junikowo"
-    ],
-    "typ":"tram"
-  },
-  "42":{
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Po\u0142abska"
-    ],
-    "typ":"tram"
-  },
   "98":{
     "agency":"MPK",
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "petle":[
       "Plac Ratajskiego",
-      "Mi\u0142ostowo"
+      "Zawady"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98",
     "typ":"tram"
+  },
+  "121":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Meissnera",
+      "Ogrody"
+    ],
+    "typ":"bus"
   },
   "124":{
     "kolor1":"#525252",
@@ -188,15 +179,6 @@
     "petle":[
       "Safony",
       "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "typ":"bus"
-  },
-  "133":{
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
     ],
     "typ":"bus"
   },
@@ -512,6 +494,15 @@
     "petle":[
       "Kiekrz",
       "Ogrody"
+    ],
+    "typ":"bus"
+  },
+  "188":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Radojewo",
+      "Osiedle Sobieskiego"
     ],
     "typ":"bus"
   },
@@ -958,6 +949,15 @@
     ],
     "typ":"bus"
   },
+  "406":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Jasin Centrum Handlowe Etc"
+    ],
+    "typ":"bus"
+  },
   "407":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1057,6 +1057,15 @@
     ],
     "typ":"bus"
   },
+  "490":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
+      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "typ":"bus"
+  },
   "491":{
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1090,6 +1099,15 @@
     "petle":[
       "Garby Ma\u0142e P\u0119tla",
       "Kobylnica Stacja"
+    ],
+    "typ":"bus"
+  },
+  "497":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Zalasewo Osiedle Le\u015bne",
+      "Kruszewnia P\u0119tla"
     ],
     "typ":"bus"
   },
@@ -1244,6 +1262,17 @@
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614",
     "typ":"bus"
   },
+  "616":{
+    "agency":"MPK",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Lubo\u0144 \u017babikowo",
+      "G\u00f3rczyn Pkm"
+    ],
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616",
+    "typ":"bus"
+  },
   "651":{
     "agency":"TRANSLUB",
     "kolor1":"#525252",
@@ -1370,6 +1399,51 @@
       "Ogrody"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729",
+    "typ":"bus"
+  },
+  "791":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Trzcielin P\u0119tla",
+      "Dopiewo Dworzec Kolejowy"
+    ],
+    "typ":"bus"
+  },
+  "792":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Wi\u0119ckowice Szko\u0142a",
+      "Dopiewo Dworzec Kolejowy"
+    ],
+    "typ":"bus"
+  },
+  "797":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Malwowa",
+      "Dopiewo Dworzec Kolejowy"
+    ],
+    "typ":"bus"
+  },
+  "798":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Sk\u00f3rzewo Wiosenna",
+      "Malwowa"
+    ],
+    "typ":"bus"
+  },
+  "799":{
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "petle":[
+      "Pal\u0119dzie Dworzec Kolejowy",
+      "Dopiewiec Polarna"
+    ],
     "typ":"bus"
   },
   "801":{
@@ -1513,6 +1587,24 @@
       "Tarnowo Pdg Ostatnia"
     ],
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882",
+    "typ":"bus"
+  },
+  "886":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "typ":"bus"
+  },
+  "889":{
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
     "typ":"bus"
   },
   "891":{
