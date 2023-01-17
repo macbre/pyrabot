@@ -30,10 +30,14 @@ jobs:
       - name: Update GTFS data
         run: |
           cd ./sources/scripts
-          ls -lh
           set -x
           docker build . -t pyrabot
-          docker run --rm pyrabot python gtfs_ztm.py
+          docker run \
+            --rm \
+            --volume $(pwd)/../ztm-routes.json:/tmp/ztm-routes.json \
+            pyrabot python gtfs_ztm.py
+
+          cd .. && git diff
 
       - name: Update JSON file
         run: |
