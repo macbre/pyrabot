@@ -77,7 +77,10 @@ for i, route in routes.iterrows():
 
 # print(lines)
 
-logging.info('Gotowe')
+output = '/tmp/ztm-routes.json'
+logging.info('Wyniki w %s', output)
 
-with open("ztm-routes.json", "wt") as f:
+with open(output, "wt") as f:
     json.dump({'lines': lines}, fp=f, indent=2)
+
+logging.info('Gotowe')
