@@ -27,19 +27,12 @@ jobs:
         with:
           python-version: 3.11
 
-      - name: Install pip dependencies
-        run: |
-          pip install --upgrade pip
-          pip install wheel
-          pip install -r sources/scripts/requirements.txt
-
       - name: Update GTFS data
         run: |
           cd ./sources
-          echo "> Pobieram dane GTFS od ZTM..."
           set -x
-          curl --verbose "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile" -H "user-agent: pyrabot (https://github.com/macbre/pyrabot)" > gtfs_ztm.zip
-          ./scripts/gtfs_ztm.py
+          docker build . -t pyrabot
+          docker run --rm pyrabot python gtfs_ztm.py
 
       - name: Update JSON file
         run: |
