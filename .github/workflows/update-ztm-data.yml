@@ -30,6 +30,7 @@ jobs:
       - name: Update GTFS data
         run: |
           cd ./sources/scripts
+          ls -lh
           set -x
           docker build . -t pyrabot
           docker run --rm pyrabot python gtfs_ztm.py
