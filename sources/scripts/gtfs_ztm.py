@@ -8,8 +8,17 @@ Skrypt generujący plik JSON z listą linii tramwajowych i autobusowych na bazie
 """
 import json
 import logging
+import requests
 
 from collections import OrderedDict
+
+def download_file(url, local_filename):
+    # NOTE the stream=True parameter below
+    with requests.get(url, stream=True) as r:
+        r.raise_for_status()
+        with open(local_filename, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192): 
+                f.write(chunk)
 
 # @see https://github.com/google/transitfeed/wiki/TransitFeed
 import partridge
@@ -18,7 +27,12 @@ import partridge
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('gfts-ztm')
 
-path = 'gtfs_ztm.zip'
+# pobierz plik gtfs
+url = 'https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile'
+path = '/tmp/gtfs_ztm.zip'
+
+logging.info('Pobieram %s ...', url)
+download_file(url, local_filename=path)
 
 logging.info('Odczyt pliku GTFS %s...', path)
 feed = partridge.raw_feed(path)
@@ -63,7 +77,10 @@ for i, route in routes.iterrows():
 
 # print(lines)
 
-logging.info('Gotowe')
+output = '/tmp/ztm-routes.json'
+logging.info('Wyniki w %s', output)
 
-with open("ztm-routes.json", "wt") as f:
+with open(output, "wt") as f:
     json.dump({'lines': lines}, fp=f, indent=2)
+
+logging.info('Gotowe')

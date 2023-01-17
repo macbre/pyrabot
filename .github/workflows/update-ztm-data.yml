@@ -25,21 +25,19 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 2.7
-
-      - name: Install pip dependencies
-        run: |
-          pip install --upgrade pip
-          pip install wheel
-          pip install -r sources/scripts/requirements.txt
+          python-version: 3.11
 
       - name: Update GTFS data
         run: |
-          cd ./sources
-          echo "> Pobieram dane GTFS od ZTM..."
+          cd ./sources/scripts
           set -x
-          curl --verbose "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile" -H "user-agent: pyrabot (https://github.com/macbre/pyrabot)" > gtfs_ztm.zip
-          ./scripts/gtfs_ztm.py
+          docker build . -t pyrabot
+          docker run \
+            --rm \
+            --volume $(pwd)/../ztm-routes.json:/tmp/ztm-routes.json \
+            pyrabot python gtfs_ztm.py
+
+          cd .. && git diff
 
       - name: Update JSON file
         run: |
