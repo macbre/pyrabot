@@ -33,8 +33,8 @@ jobs:
           set -x
           docker build . -t pyrabot
 
-          # make sure we can write to /tmp/ztm-routes.json from within the container
-          chmod 666 ../ztm-routes.json && ls -lh ..
+          # make sure we can write to /tmp/ztm-routes.json from within the container (it's run a user nobody, #65534)
+          sudo chown nobody:nogroup ../ztm-routes.json && ls -lh ..
           docker run \
             --rm \
             --volume $(pwd)/../ztm-routes.json:/tmp/ztm-routes.json \
