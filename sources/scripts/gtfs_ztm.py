@@ -20,6 +20,8 @@ def download_file(url, local_filename):
             for chunk in r.iter_content(chunk_size=8192): 
                 f.write(chunk)
 
+        return r
+
 # @see https://github.com/google/transitfeed/wiki/TransitFeed
 import partridge
 
@@ -32,7 +34,8 @@ url = 'https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile'
 path = '/tmp/gtfs_ztm.zip'
 
 logging.info('Pobieram %s ...', url)
-download_file(url, local_filename=path)
+resp = download_file(url, local_filename=path)
+logging.info('Response: %r', resp.headers)
 
 logging.info('Odczyt pliku GTFS %s...', path)
 feed = partridge.raw_feed(path)
