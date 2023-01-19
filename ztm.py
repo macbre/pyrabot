@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 
 import logging
 logging.basicConfig(level=logging.INFO)
@@ -70,7 +69,8 @@ stops = {}
 
 for line in routes['lines']:
     try:
-        line['name'] = int(line['name'])
+        # wspieraj numery liczbowe i ze znakami, np.: T12 / 1
+        line['name'] = str(int(line['name']))
     except:
         pass
 
@@ -107,11 +107,6 @@ with open("db/ztm-stops.lua", "w") as lua:
 
 # typ / operator linii + rozkład jazdy
 for line in operators['lines']:
-    try:
-        line['name'] = int(line['name'])
-    except:
-        pass
-
     if line['name'] in lines:
         if line['night'] is True:
             lines[line['name']]['night'] = True
@@ -128,7 +123,8 @@ for line in operators['lines']:
 
 # generuj plik JSON
 with open("db/ztm-linie.json", "w") as out:
-    json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=True)
+    # https://docs.python.org/3/library/json.html#json.dump
+    json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=False)
 
 """
 # generuj dane o ulicach
