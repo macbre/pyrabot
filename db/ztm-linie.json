@@ -193,15 +193,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "124":{
-    "typ":"bus",
-    "petle":[
-      "Safony",
-      "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "145":{
     "typ":"bus",
     "petle":[
@@ -1526,8 +1517,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1544,15 +1535,6 @@
     "kolor2":"#FFFFFF",
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821"
-  },
-  "825":{
-    "typ":"bus",
-    "petle":[
-      "Jankowice P\u0119tla",
-      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
   },
   "832":{
     "typ":"bus",
@@ -1624,24 +1606,6 @@
     "kolor2":"#FFFFFF",
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882"
-  },
-  "886":{
-    "typ":"bus",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Piersko Rolna"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "889":{
-    "typ":"bus",
-    "petle":[
-      "Prze\u017amierowo Ko\u015bcielna",
-      "Wielkie"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
   },
   "891":{
     "typ":"bus",
