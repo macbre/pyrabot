@@ -511,7 +511,7 @@
   "188":{
     "typ":"bus",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Radojewo",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
@@ -592,8 +592,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Kacza",
-      "Szwajcarska Szpital"
+      "Szwajcarska Szpital",
+      "Kacza"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -610,7 +610,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Rondo Kaponiera",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -673,8 +673,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Mogile\u0144ska"
+      "Mogile\u0144ska",
+      "Port Lotniczy \u0141awica"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -693,6 +693,15 @@
     "petle":[
       "Junikowo Pkm",
       "Boranta"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "226":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -717,6 +726,54 @@
     "night":true,
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
+  },
+  "250":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "G\u0142uchowo Stawna"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "252":{
+    "typ":"bus",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "M. Go\u015blina Okr\u0119\u017cna"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
+  },
+  "253":{
+    "typ":"bus",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "257":{
+    "typ":"bus",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Junikowo"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "258":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
   },
   "312":{
     "typ":"bus",
@@ -777,7 +834,7 @@
     "typ":"bus",
     "petle":[
       "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
+      "M. Go\u015blina Okr\u0119\u017cna"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -788,7 +845,7 @@
     "typ":"bus",
     "petle":[
       "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
+      "M. Go\u015blina Okr\u0119\u017cna"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -798,7 +855,7 @@
   "348":{
     "typ":"bus",
     "petle":[
-      "Przeb\u0119dowo P\u0119tla",
+      "M. Go\u015blina Okr\u0119\u017cna",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
@@ -1466,8 +1523,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
