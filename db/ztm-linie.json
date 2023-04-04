@@ -193,15 +193,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "124":{
-    "typ":"bus",
-    "petle":[
-      "Safony",
-      "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "145":{
     "typ":"bus",
     "petle":[
@@ -511,7 +502,7 @@
   "188":{
     "typ":"bus",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Radojewo",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
@@ -578,6 +569,15 @@
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "203":{
+    "typ":"tram",
+    "petle":[
+      "Franowo",
+      "B\u0142a\u017ceja"
+    ],
+    "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
   "211":{
@@ -1612,24 +1612,6 @@
     "kolor2":"#FFFFFF",
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882"
-  },
-  "886":{
-    "typ":"bus",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Piersko Rolna"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "889":{
-    "typ":"bus",
-    "petle":[
-      "Prze\u017amierowo Ko\u015bcielna",
-      "Wielkie"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
   },
   "891":{
     "typ":"bus",

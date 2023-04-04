@@ -199,17 +199,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "124", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Safony", 
-        "Instytut Technologiczno-Przyrodniczy"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "145", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -588,7 +577,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Sobieskiego", 
+        "Radojewo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -669,6 +658,17 @@
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "203", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Franowo", 
+        "B\u0142a\u017ceja"
+      ], 
+      "color1": "000000", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1822,28 +1822,6 @@
       "petle": [
         "Rokietnica W\u0119ze\u0142 Przesiadkowy", 
         "Tarnowo Pdg Ostatnia"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "886", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Tarnowo Pdg Centrum", 
-        "Piersko Rolna"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "889", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Prze\u017amierowo Ko\u015bcielna", 
-        "Wielkie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
