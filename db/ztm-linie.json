@@ -571,15 +571,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "203":{
-    "typ":"tram",
-    "petle":[
-      "Franowo",
-      "B\u0142a\u017ceja"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "211":{
     "typ":"bus",
     "petle":[
@@ -592,8 +583,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Szwajcarska Szpital",
-      "Kacza"
+      "Kacza",
+      "Szwajcarska Szpital"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -610,8 +601,8 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
-      "Radojewo"
+      "Radojewo",
+      "Junikowo Pkm"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -673,8 +664,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Mogile\u0144ska",
-      "Port Lotniczy \u0141awica"
+      "Port Lotniczy \u0141awica",
+      "Mogile\u0144ska"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -700,7 +691,7 @@
   "226":{
     "typ":"bus",
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Puszkina",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
@@ -726,54 +717,6 @@
     "night":true,
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
-  },
-  "250":{
-    "typ":"bus",
-    "petle":[
-      "G\u00f3rczyn Pkm",
-      "G\u0142uchowo Stawna"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "252":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
-  },
-  "253":{
-    "typ":"bus",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "257":{
-    "typ":"bus",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "258":{
-    "typ":"bus",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
   },
   "312":{
     "typ":"bus",
