@@ -1,6 +1,17 @@
 {
   "lines": [
     {
+      "name": "T1", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "G\u0142ogowska/Hetma\u0144ska", 
+        "G\u0142ogowska/Hetma\u0144ska"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "T12", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -186,6 +197,28 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
+    }, 
+    {
+      "name": "100", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Nowe Zoo", 
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ], 
+      "color1": "E31E24", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "102", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Muzeum Broni Pancernej", 
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ], 
+      "color1": "E31E24", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "121", 
