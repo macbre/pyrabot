@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "T1", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "G\u0142ogowska/Hetma\u0144ska", 
-        "G\u0142ogowska/Hetma\u0144ska"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "T12", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -188,12 +177,23 @@
       "color2": "000000"
     }, 
     {
+      "name": "53", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Dworzec Zachodni", 
+        "S\u0142owia\u0144ska"
+      ], 
+      "color1": "8E364C", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "98", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Plac Wielkopolski", 
-        "Zawady"
+        "Ma\u0142e Garbary", 
+        "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
@@ -1744,7 +1744,7 @@
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
         "Ogrody", 
-        "Lus\u00f3wko P\u0119tla"
+        "Lus\u00f3wko Ko\u015bci\u00f3\u0142 "
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

@@ -1,13 +1,4 @@
 {
-  "T1":{
-    "typ":"bus",
-    "petle":[
-      "G\u0142ogowska/Hetma\u0144ska",
-      "G\u0142ogowska/Hetma\u0144ska"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "T12":{
     "typ":"bus",
     "petle":[
@@ -182,11 +173,20 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "53":{
+    "typ":"tram",
+    "petle":[
+      "Dworzec Zachodni",
+      "S\u0142owia\u0144ska"
+    ],
+    "kolor1":"#8E364C",
+    "kolor2":"#FFFFFF"
+  },
   "98":{
     "typ":"tram",
     "petle":[
-      "Plac Wielkopolski",
-      "Zawady"
+      "Ma\u0142e Garbary",
+      "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
@@ -1529,7 +1529,7 @@
     "typ":"bus",
     "petle":[
       "Ogrody",
-      "Lus\u00f3wko P\u0119tla"
+      "Lus\u00f3wko Ko\u015bci\u00f3\u0142 "
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
