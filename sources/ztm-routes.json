@@ -1,14 +1,14 @@
 {
   "lines": [
     {
-      "name": "T12", 
-      "typ": "bus", 
+      "name": "0", 
+      "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Osiedle Sobieskiego", 
-        "Osiedle Sobieskiego"
+        "Stare Zoo", 
+        "Stare Zoo"
       ], 
-      "color1": "000000", 
+      "color1": "0D7B49", 
       "color2": "FFFFFF"
     }, 
     {
@@ -38,7 +38,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "S\u0142owia\u0144ska", 
+        "Budziszy\u0144ska", 
         "B\u0142a\u017ceja"
       ], 
       "color1": "8E364C", 
@@ -71,7 +71,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "Po\u0142abska", 
         "Ogrody"
       ], 
       "color1": "003594", 
@@ -83,7 +83,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "G\u00f3rczyn Pkm", 
-        "Ogrody"
+        "Mi\u0142ostowo"
       ], 
       "color1": "DA291C", 
       "color2": "FFFFFF"
@@ -127,7 +127,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Staro\u0142\u0119ka Pkm", 
-        "Po\u0142abska"
+        "Osiedle Sobieskiego"
       ], 
       "color1": "CBA3D8", 
       "color2": "000000"
@@ -148,7 +148,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Pi\u0105tkowska", 
+        "Osiedle Sobieskiego", 
         "G\u00f3rczyn Pkm"
       ], 
       "color1": "946037", 
@@ -159,11 +159,33 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
-        "Po\u0142abska"
+        "Budziszy\u0144ska", 
+        "Osiedle Sobieskiego"
       ], 
       "color1": "A2AAAD", 
       "color2": "000000"
+    }, 
+    {
+      "name": "16", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Aleje Marcinkowskiego", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "440099", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "17", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Zawady", 
+        "Ogrody"
+      ], 
+      "color1": "004F71", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "18", 
@@ -177,15 +199,15 @@
       "color2": "000000"
     }, 
     {
-      "name": "98", 
+      "name": "20", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Ma\u0142e Garbary", 
-        "Rondo \u015ar\u00f3dka"
+        "Stare Zoo", 
+        "Stare Zoo"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "595FA7", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "100", 
@@ -368,7 +390,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo \u015ar\u00f3dka", 
+        "Garbary Pkm", 
         "G\u00f3rczyn Pkm"
       ], 
       "color1": "525252", 
@@ -694,6 +716,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "201", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Zawady", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "211", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -864,7 +897,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Unii Lubelskiej", 
-        "Osiedle Sobieskiego"
+        "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -938,7 +971,7 @@
     {
       "name": "320", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kozieg\u0142owy Zak\u0142ady Drobiarskie", 
         "Rondo \u015ar\u00f3dka"
@@ -949,7 +982,7 @@
     {
       "name": "321", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kicin P\u0119tla", 
         "Rondo \u015ar\u00f3dka"
