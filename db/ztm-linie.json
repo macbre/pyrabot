@@ -897,6 +897,55 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/348"
   },
+  "388":{
+    "typ":"bus",
+    "petle":[
+      "D\u0119bog\u00f3ra D\u0105br\u00f3wki",
+      "Czerwonak Pkm"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "392":{
+    "typ":"bus",
+    "petle":[
+      "Owi\u0144ska Pkm",
+      "Potasze Jod\u0142owa"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "394":{
+    "typ":"bus",
+    "petle":[
+      "Kozieg\u0142owy Piaskowa Szko\u0142a",
+      "Mi\u0119kowo Stokrotkowa"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "396":{
+    "typ":"bus",
+    "petle":[
+      "Kozieg\u0142owy Piaskowa Szko\u0142a",
+      "Potasze Jod\u0142owa"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "agency":"TRANSKOM",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/396"
+  },
+  "397":{
+    "typ":"bus",
+    "petle":[
+      "Trzaskowo Wie\u015b",
+      "Biedrusko Park"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "agency":"TRANSKOM",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397"
+  },
   "400":{
     "typ":"bus",
     "petle":[
