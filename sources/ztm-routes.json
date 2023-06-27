@@ -170,7 +170,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zamek", 
+        "Aleje Marcinkowskiego", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "440099", 
@@ -217,7 +217,7 @@
         "Pi\u0105tkowska", 
         "Plac Wielkopolski"
       ], 
-      "color1": "DA291C", 
+      "color1": "FFFFFF", 
       "color2": "FFFFFF"
     }, 
     {
@@ -240,17 +240,6 @@
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "E31E24", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "109", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Tor Pozna\u0144", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "525252", 
       "color2": "FFFFFF"
     }, 
     {
@@ -1589,8 +1578,8 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "Rosn\u00f3wko Pkm", 
-        "G\u00f3rczyn Pkm"
+        "G\u00f3rczyn Pkm", 
+        "Rosn\u00f3wko Pkm"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
