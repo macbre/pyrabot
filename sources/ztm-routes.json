@@ -199,17 +199,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "20", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Stare Zoo", 
-        "Stare Zoo"
-      ], 
-      "color1": "595FA7", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -226,17 +215,6 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Nowe Zoo", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "E31E24", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "102", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Muzeum Broni Pancernej", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "E31E24", 
@@ -775,7 +753,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Malwowa", 
         "Radojewo"
       ], 
       "color1": "000000", 
