@@ -193,19 +193,39 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "20":{
+    "typ":"tram",
+    "petle":[
+      "Stare Zoo",
+      "Stare Zoo"
+    ],
+    "kolor1":"#595FA7",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
+  },
   "99":{
     "typ":"tram",
     "petle":[
       "Pi\u0105tkowska",
       "Plac Wielkopolski"
     ],
-    "kolor1":"#FFFFFF",
+    "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
   "100":{
     "typ":"bus",
     "petle":[
       "Nowe Zoo",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF"
+  },
+  "102":{
+    "typ":"bus",
+    "petle":[
+      "Muzeum Broni Pancernej",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#E31E24",
@@ -649,7 +669,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
