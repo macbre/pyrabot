@@ -8,6 +8,15 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
+  "0":{
+    "typ":"tram",
+    "petle":[
+      "Stare Zoo",
+      "Stare Zoo"
+    ],
+    "kolor1":"#0D7B49",
+    "kolor2":"#FFFFFF"
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -184,6 +193,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "20":{
+    "typ":"tram",
+    "petle":[
+      "Stare Zoo",
+      "Stare Zoo"
+    ],
+    "kolor1":"#595FA7",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
+  },
   "99":{
     "typ":"tram",
     "petle":[
@@ -191,6 +211,24 @@
       "Plac Wielkopolski"
     ],
     "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF"
+  },
+  "100":{
+    "typ":"bus",
+    "petle":[
+      "Nowe Zoo",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF"
+  },
+  "102":{
+    "typ":"bus",
+    "petle":[
+      "Muzeum Broni Pancernej",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "kolor1":"#E31E24",
     "kolor2":"#FFFFFF"
   },
   "121":{
@@ -589,6 +627,18 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
+  "201":{
+    "typ":"tram",
+    "petle":[
+      "Zawady",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
+  },
   "211":{
     "typ":"bus",
     "petle":[
@@ -601,8 +651,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Kacza",
-      "Szwajcarska Szpital"
+      "Szwajcarska Szpital",
+      "Kacza"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -619,7 +669,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -682,8 +732,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Mogile\u0144ska"
+      "Mogile\u0144ska",
+      "Port Lotniczy \u0141awica"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -702,6 +752,15 @@
     "petle":[
       "Junikowo Pkm",
       "Boranta"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "226":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -726,6 +785,54 @@
     "night":true,
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
+  },
+  "250":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "G\u0142uchowo Stawna"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "252":{
+    "typ":"bus",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
+  },
+  "253":{
+    "typ":"bus",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "257":{
+    "typ":"bus",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Junikowo"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "258":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
   },
   "312":{
     "typ":"bus",
@@ -1270,6 +1377,15 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
+  "707":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3rczyn Pkm",
+      "Rosn\u00f3wko Pkm"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "710":{
     "typ":"bus",
     "petle":[
@@ -1446,8 +1562,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
