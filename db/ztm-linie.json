@@ -204,6 +204,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
   },
+  "98":{
+    "typ":"tram",
+    "petle":[
+      "Plac Wielkopolski",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98"
+  },
   "99":{
     "typ":"tram",
     "petle":[
@@ -627,17 +638,23 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "201":{
+  "202":{
     "typ":"tram",
     "petle":[
-      "Zawady",
+      "Franowo",
+      "Zawady"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "203":{
+    "typ":"tram",
+    "petle":[
+      "Dworzec Zachodni",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
+    "kolor2":"#FFFFFF"
   },
   "211":{
     "typ":"bus",
@@ -669,7 +686,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -1253,8 +1270,8 @@
       "D\u0119biec Pkm",
       "\u0141\u0119czyca Dworcowa"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"TRANSLUB",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/602"
   },
@@ -1264,8 +1281,8 @@
       "Garbary Pkm",
       "\u0141\u0119czyca Dworcowa"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"TRANSLUB",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/603"
   },
@@ -1275,8 +1292,8 @@
       "D\u0119biec Pkm",
       "G\u00f3rczyn Pkm"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"TRANSLUB",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/610"
   },
@@ -1286,8 +1303,8 @@
       "D\u0119biec Pkm",
       "Lubo\u0144 \u017babikowo"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"TRANSLUB",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/611"
   },
@@ -1297,8 +1314,8 @@
       "G\u00f3rczyn Pkm",
       "Lubo\u0144 Kr\u0119ta"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"TRANSLUB",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/614"
   },
@@ -1308,8 +1325,8 @@
       "Lubo\u0144 \u017babikowo",
       "G\u00f3rczyn Pkm"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/616"
   },
@@ -1319,8 +1336,8 @@
       "D\u0119biec Pkm",
       "Mosina Dworzec Kolejowy"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"TRANSLUB",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TRANSLUB/linia/651"
   },
@@ -1680,8 +1697,8 @@
       "Osiedle Sobieskiego",
       "Z\u0142otniki Osiedle"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"ZKP",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/901"
   },
@@ -1702,8 +1719,8 @@
       "Osiedle Sobieskiego",
       "Z\u0142otniki Wie\u015b"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"ZKP",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/904"
   },
@@ -1713,8 +1730,8 @@
       "Osiedle Sobieskiego",
       "Chludowo Szko\u0142a"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"ZKP",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/905"
   },
@@ -1724,8 +1741,8 @@
       "Osiedle Sobieskiego",
       "Chludowo Szko\u0142a"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"ZKP",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ZKP/linia/907"
   },

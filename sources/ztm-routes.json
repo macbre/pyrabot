@@ -210,6 +210,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "98", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Wielkopolski", 
+        "Rondo \u015ar\u00f3dka"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -727,11 +738,22 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "201", 
+      "name": "202", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "Franowo", 
+        "Zawady"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "203", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Dworzec Zachodni", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -775,7 +797,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Malwowa", 
         "Radojewo"
       ], 
       "color1": "000000", 
@@ -1449,8 +1471,8 @@
         "D\u0119biec Pkm", 
         "\u0141\u0119czyca Dworcowa"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "603", 
@@ -1460,8 +1482,8 @@
         "Garbary Pkm", 
         "\u0141\u0119czyca Dworcowa"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "610", 
@@ -1471,8 +1493,8 @@
         "D\u0119biec Pkm", 
         "G\u00f3rczyn Pkm"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "611", 
@@ -1482,8 +1504,8 @@
         "D\u0119biec Pkm", 
         "Lubo\u0144 \u017babikowo"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "614", 
@@ -1493,8 +1515,8 @@
         "G\u00f3rczyn Pkm", 
         "Lubo\u0144 Kr\u0119ta"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "616", 
@@ -1504,8 +1526,8 @@
         "Lubo\u0144 \u017babikowo", 
         "G\u00f3rczyn Pkm"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "651", 
@@ -1515,8 +1537,8 @@
         "D\u0119biec Pkm", 
         "Mosina Dworzec Kolejowy"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "701", 
@@ -1900,8 +1922,8 @@
         "Osiedle Sobieskiego", 
         "Z\u0142otniki Osiedle"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "902", 
@@ -1922,8 +1944,8 @@
         "Osiedle Sobieskiego", 
         "Z\u0142otniki Wie\u015b"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "905", 
@@ -1933,8 +1955,8 @@
         "Osiedle Sobieskiego", 
         "Chludowo Szko\u0142a"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "907", 
@@ -1944,8 +1966,8 @@
         "Osiedle Sobieskiego", 
         "Chludowo Szko\u0142a"
       ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
+      "color1": "525252", 
+      "color2": "FFFFFF"
     }, 
     {
       "name": "911", 
