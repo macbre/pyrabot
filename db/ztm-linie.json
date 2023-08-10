@@ -362,7 +362,7 @@
   "163":{
     "typ":"bus",
     "petle":[
-      "Garbary Pkm",
+      "Rondo \u015ar\u00f3dka",
       "G\u00f3rczyn Pkm"
     ],
     "kolor1":"#525252",
@@ -686,7 +686,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -790,18 +790,6 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
-  },
-  "231":{
-    "typ":"bus",
-    "petle":[
-      "Unii Lubelskiej",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
   },
   "250":{
     "typ":"bus",
@@ -1347,8 +1335,8 @@
       "G\u00f3rczyn Pkm",
       "Komorniki Jeziorna"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/701"
   },
@@ -1358,8 +1346,8 @@
       "Komorniki Osiedle Zielone Wzg\u00f3rze ",
       "G\u00f3rczyn Pkm"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/702"
   },
@@ -1380,8 +1368,8 @@
       "G\u00f3rczyn Pkm",
       "G\u0142uchowo Stawna"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/704"
   },
@@ -1409,8 +1397,8 @@
       "G\u00f3rczyn Pkm",
       "Komorniki Kolumba"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/710"
   },
@@ -1420,8 +1408,8 @@
       "Junikowo",
       "G\u0142uchowo Stawna"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/716"
   },
@@ -1442,8 +1430,8 @@
       "Dopiewo Dworzec Kolejowy",
       "Ogrody"
     ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729"
   },
