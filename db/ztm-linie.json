@@ -163,7 +163,7 @@
   "16":{
     "typ":"tram",
     "petle":[
-      "Zamek",
+      "Aleje Marcinkowskiego",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#440099",
@@ -229,24 +229,6 @@
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF"
-  },
-  "106":{
-    "typ":"bus",
-    "petle":[
-      "Ogrody",
-      "Ogrody"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "109":{
-    "typ":"bus",
-    "petle":[
-      "Tor Pozna\u0144",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
   "121":{
@@ -1580,8 +1562,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
