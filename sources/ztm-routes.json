@@ -56,6 +56,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "5", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Unii Lubelskiej", 
+        "G\u00f3rczyn Pkm"
+      ], 
+      "color1": "6CC24A", 
+      "color2": "000000"
+    }, 
+    {
       "name": "6", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -249,6 +260,39 @@
       "petle": [
         "Meissnera", 
         "Ogrody"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "122", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Junikowo"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "123", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Krzesiny", 
+        "Staro\u0142\u0119ka Pkm"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "124", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Safony", 
+        "Instytut Technologiczno-Przyrodniczy"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -731,8 +775,19 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "Franowo", 
         "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "210", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Garbary Pkm", 
+        "Garbary Pkm"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -775,7 +830,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Malwowa", 
+        "Junikowo", 
         "Radojewo"
       ], 
       "color1": "000000", 
@@ -1266,6 +1321,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "489", 
+      "typ": "bus", 
+      "agency": "Zak\u0142ad Komunalny w Kleszczewie Sp. z o.o.", 
+      "petle": [
+        "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy", 
+        "Kleszczewo Park"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "490", 
       "typ": "bus", 
       "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
@@ -1519,6 +1585,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "690", 
+      "typ": "bus", 
+      "agency": "Przedsi\u0119biorstwo Transportowe Translub Sp. z o.o.", 
+      "petle": [
+        "Lubo\u0144 \u017babikowo", 
+        "\u0141\u0119czyca Dworcowa"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "701", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
@@ -1578,8 +1655,8 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "Rosn\u00f3wko Pkm", 
-        "G\u00f3rczyn Pkm"
+        "G\u00f3rczyn Pkm", 
+        "Rosn\u00f3wko Pkm"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1866,6 +1943,28 @@
       "petle": [
         "Rokietnica W\u0119ze\u0142 Przesiadkowy", 
         "Tarnowo Pdg Ostatnia"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "886", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Tarnowo Pdg Centrum", 
+        "Piersko Rolna"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "889", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Prze\u017amierowo Ko\u015bcielna", 
+        "Wielkie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
