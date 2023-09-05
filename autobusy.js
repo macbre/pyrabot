@@ -9,7 +9,7 @@ var fs = require('fs'),
 var SUMMARY = 'Automatyczne tworzenie stron o liniach autobusowych';
 
 var db = JSON.parse(fs.readFileSync('db/ztm-linie.json')),
-	year = 2021,
+	year = 2023,
 	text = '';
 
 /**
@@ -19,14 +19,17 @@ text = 'linia włączona w system transportu Poznania [[1 sierpnia]] [[2019]] ro
 '== Źródła ==\n<references />';
 **/
 
-text = '\n\n== Źródła ==\n<references />';
+// minibusy
+text = 'linia minibusowa uruchomiona [[4 września]] [[2023]] roku<ref>[https://www.ztm.poznan.pl/pl/komunikaty/dwa-nowe-polaczenia-minibusowe-od-4-wrzesnia-linia-nr-122-na-junikowie-a-linia-nr-123-na-starolece-garaszewie-i-w-krzesinach ztm.poznan.pl - Dwa nowe połączenia minibusowe od 4 września. Linia nr 122 na Junikowie, a linia nr 123 na Starołęce, Garaszewie i w Krzesinach]</ref>.';
+
+text += '\n\n== Źródła ==\n<references />';
 
 client.logIn(function(err, data) {
 
 	for (var line in db) {
 		if (line == 201) continue;
 
-		if (! ['124', '133'].includes(line) ) continue;
+		if (! ['122', '123'].includes(line) ) continue;
 
 		// if (line < 500 || line > 570)  continue;
 
