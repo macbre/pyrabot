@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "T5", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Kaponiera", 
-        "G\u00f3rczyn Pkm"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "0", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -93,7 +82,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Unii Lubelskiej", 
+        "G\u00f3rczyn Pkm", 
         "Mi\u0142ostowo"
       ], 
       "color1": "DA291C", 
@@ -160,7 +149,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Osiedle Sobieskiego", 
-        "D\u0119biec Pkm"
+        "G\u00f3rczyn Pkm"
       ], 
       "color1": "946037", 
       "color2": "FFFFFF"
@@ -589,7 +578,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "D\u0119biec Pkm", 
-        "G\u00f3rczyn Pkm"
+        "Kacza"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -676,7 +665,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Radojewo", 
+        "Umultowo Szko\u0142a", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "525252", 
@@ -738,17 +727,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "195", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ogrody", 
-        "Strzeszynek"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "196", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -775,19 +753,8 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Franowo", 
+        "Zawady", 
         "Osiedle Sobieskiego"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "210", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Garbary Pkm", 
-        "Garbary Pkm"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"

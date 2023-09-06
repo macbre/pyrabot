@@ -1,13 +1,4 @@
 {
-  "T5":{
-    "typ":"bus",
-    "petle":[
-      "Rondo Kaponiera",
-      "G\u00f3rczyn Pkm"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "0":{
     "typ":"tram",
     "petle":[
@@ -86,7 +77,7 @@
   "8":{
     "typ":"tram",
     "petle":[
-      "Unii Lubelskiej",
+      "G\u00f3rczyn Pkm",
       "Mi\u0142ostowo"
     ],
     "kolor1":"#DA291C",
@@ -153,7 +144,7 @@
     "typ":"tram",
     "petle":[
       "Osiedle Sobieskiego",
-      "D\u0119biec Pkm"
+      "G\u00f3rczyn Pkm"
     ],
     "kolor1":"#946037",
     "kolor2":"#FFFFFF",
@@ -516,7 +507,7 @@
     "typ":"bus",
     "petle":[
       "D\u0119biec Pkm",
-      "G\u00f3rczyn Pkm"
+      "Kacza"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -587,7 +578,7 @@
   "188":{
     "typ":"bus",
     "petle":[
-      "Radojewo",
+      "Umultowo Szko\u0142a",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
@@ -638,15 +629,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "195":{
-    "typ":"bus",
-    "petle":[
-      "Ogrody",
-      "Strzeszynek"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "196":{
     "typ":"bus",
     "petle":[
@@ -668,7 +650,7 @@
   "201":{
     "typ":"tram",
     "petle":[
-      "Franowo",
+      "Zawady",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
@@ -676,15 +658,6 @@
     "night":true,
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
-  },
-  "210":{
-    "typ":"bus",
-    "petle":[
-      "Garbary Pkm",
-      "Garbary Pkm"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
   },
   "211":{
     "typ":"bus",
