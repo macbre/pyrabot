@@ -8,7 +8,6 @@ Katalog ten zawiera pliki źródłowe służące pyrabotowi do generowania plik�
 * ``dos2unix``
 * ``xls2csv`` do konwersji plików Excel do CSV
 * ``phantomjs``
-* ``jsonlint``
 * python
 
 ```
