@@ -63,6 +63,7 @@ for i, route in routes.iterrows():
     trasa = trasa.replace('Os. ', 'Osiedle ')
     trasa = trasa.replace('Pl. ', 'Plac ')
     trasa = trasa.replace('Uam ', 'UAM ')
+    trasa = trasa.replace(' Pkm', ' PKM')
 
     petle = trasa.split(' - ')
 
