@@ -11,8 +11,7 @@
     "snyk": "^1.1225.0"
   },
   "devDependencies": {
-    "jshint": "^2.13.6",
-    "jsonlint": "^1.6.3"
+    "jshint": "^2.13.6"
   },
   "scripts": {
     "lint": "jshint --verbose *.js",
