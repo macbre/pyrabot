@@ -210,6 +210,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "90", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "D\u0119biec PKM", 
+        "Traugutta"
+      ], 
+      "color1": "FF671F", 
+      "color2": "000000"
+    }, 
+    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -218,7 +229,7 @@
         "Plac Wielkopolski"
       ], 
       "color1": "FFFFFF", 
-      "color2": "000000"
+      "color2": "FFFFFF"
     }, 
     {
       "name": "100", 
@@ -236,7 +247,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Tor Pozna\u0144", 
+        "Muzeum Broni Pancernej", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "E31E24", 
@@ -1004,7 +1015,7 @@
     {
       "name": "320", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Kozieg\u0142owy Zak\u0142ady Drobiarskie", 
         "Rondo \u015ar\u00f3dka"
@@ -1015,7 +1026,7 @@
     {
       "name": "321", 
       "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
       "petle": [
         "Kicin P\u0119tla", 
         "Rondo \u015ar\u00f3dka"
@@ -1836,6 +1847,28 @@
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
+    }, 
+    {
+      "name": "825", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Jankowice P\u0119tla", 
+        "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "826", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Sady Wiadukt", 
+        "Lusowo Szko\u0142a"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
     }, 
     {
       "name": "832", 
