@@ -1,11 +1,11 @@
 {
-  "0":{
-    "typ":"tram",
+  "T":{
+    "typ":"bus",
     "petle":[
-      "Stare Zoo",
-      "Stare Zoo"
+      "Rondo Rataje",
+      "Rondo \u015ar\u00f3dka"
     ],
-    "kolor1":"#0D7B49",
+    "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
   "1":{
@@ -195,28 +195,6 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
-  "20":{
-    "typ":"tram",
-    "petle":[
-      "Stare Zoo",
-      "Stare Zoo"
-    ],
-    "kolor1":"#595FA7",
-    "kolor2":"#FFFFFF",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
-  },
-  "90":{
-    "typ":"tram",
-    "petle":[
-      "D\u0119biec PKM",
-      "Traugutta"
-    ],
-    "kolor1":"#FF671F",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/90"
-  },
   "99":{
     "typ":"tram",
     "petle":[
@@ -230,15 +208,6 @@
     "typ":"bus",
     "petle":[
       "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF"
-  },
-  "102":{
-    "typ":"bus",
-    "petle":[
-      "Muzeum Broni Pancernej",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#E31E24",
@@ -661,7 +630,7 @@
   "201":{
     "typ":"tram",
     "petle":[
-      "Zawady",
+      "Franowo",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
@@ -691,8 +660,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Szwajcarska Szpital",
-      "Kacza"
+      "Kacza",
+      "Szwajcarska Szpital"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -772,8 +741,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Mogile\u0144ska",
-      "Port Lotniczy \u0141awica"
+      "Port Lotniczy \u0141awica",
+      "Mogile\u0144ska"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -799,7 +768,7 @@
   "226":{
     "typ":"bus",
     "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
+      "Puszkina",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
@@ -813,18 +782,6 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
-  },
-  "231":{
-    "typ":"bus",
-    "petle":[
-      "Unii Lubelskiej",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
   },
   "250":{
     "typ":"bus",
@@ -1064,6 +1021,15 @@
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
+  },
+  "416":{
+    "typ":"bus",
+    "petle":[
+      "Gruszczyn Katarzy\u0144ska",
+      "Mogile\u0144ska"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
   },
   "425":{
     "typ":"bus",
