@@ -8,6 +8,15 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
+  "0":{
+    "typ":"tram",
+    "petle":[
+      "Stare Zoo",
+      "Stare Zoo"
+    ],
+    "kolor1":"#0D7B49",
+    "kolor2":"#FFFFFF"
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -630,7 +639,7 @@
   "201":{
     "typ":"tram",
     "petle":[
-      "Franowo",
+      "Zawady",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
