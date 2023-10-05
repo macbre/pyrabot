@@ -20,16 +20,18 @@ text = 'linia włączona w system transportu Poznania [[1 sierpnia]] [[2019]] ro
 **/
 
 // minibusy
-text = 'linia minibusowa uruchomiona [[4 września]] [[2023]] roku<ref>[https://www.ztm.poznan.pl/pl/komunikaty/dwa-nowe-polaczenia-minibusowe-od-4-wrzesnia-linia-nr-122-na-junikowie-a-linia-nr-123-na-starolece-garaszewie-i-w-krzesinach ztm.poznan.pl - Dwa nowe połączenia minibusowe od 4 września. Linia nr 122 na Junikowie, a linia nr 123 na Starołęce, Garaszewie i w Krzesinach]</ref>.';
+text = 'linia minibusowa uruchomiona [[2 października]] [[2023]] roku pomiędzy rejonem ulicy Warszawskiej w Poznaniu, [[Zieliniec|Zielińcem]] oraz znajdującym się na terenie gminy Swarzędz [[Gruszczyn]]em<ref>[https://www.ztm.poznan.pl/pl/komunikaty/poniedzialek-2-pazdziernika-start-nowej-linii-minibusowej-nr-416 ztm.poznan.pl - Poniedziałek, 2 października: start nowej linii minibusowej nr 416]</ref>.';
 
 text += '\n\n== Źródła ==\n<references />';
+
+text += '\n\n[[Kategoria:Linie minibusowe]]';
 
 client.logIn(function(err, data) {
 
 	for (var line in db) {
 		if (line == 201) continue;
 
-		if (! ['122', '123'].includes(line) ) continue;
+		if (! ['416'].includes(line) ) continue;
 
 		// if (line < 500 || line > 570)  continue;
 
