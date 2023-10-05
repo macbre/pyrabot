@@ -14,7 +14,7 @@ function updateLine(pageTitle) {
 
 	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
 		stops = db[line] && db[line].petle,
-		rozklad = db[line] && db[line].rozklad,
+		rozklad = (db[line] && db[line].rozklad) || `https://www.ztm.poznan.pl/pl/rozklad-jazdy/${line}`,
 		przystanki = db[line] && db[line].przystanki;;
  
 	console.log("\n" + page.title + ' (#' + line + ')');
