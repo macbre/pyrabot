@@ -1,28 +1,6 @@
 {
   "lines": [
     {
-      "name": "T", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Rataje", 
-        "Rondo \u015ar\u00f3dka"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "0", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Stare Zoo", 
-        "Stare Zoo"
-      ], 
-      "color1": "0D7B49", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -218,17 +196,6 @@
         "Plac Wielkopolski"
       ], 
       "color1": "FFFFFF", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "100", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Nowe Zoo", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "E31E24", 
       "color2": "FFFFFF"
     }, 
     {
@@ -742,7 +709,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "Franowo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -775,8 +742,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Kacza", 
-        "Szwajcarska Szpital"
+        "Szwajcarska Szpital", 
+        "Kacza"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -874,8 +841,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Port Lotniczy \u0141awica", 
-        "Mogile\u0144ska"
+        "Mogile\u0144ska", 
+        "Port Lotniczy \u0141awica"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -907,7 +874,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Puszkina", 
+        "Pozna\u0144 G\u0142\u00f3wny", 
         "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
@@ -993,7 +960,7 @@
     {
       "name": "320", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kozieg\u0142owy Zak\u0142ady Drobiarskie", 
         "Rondo \u015ar\u00f3dka"
@@ -1004,7 +971,7 @@
     {
       "name": "321", 
       "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kicin P\u0119tla", 
         "Rondo \u015ar\u00f3dka"

@@ -1,22 +1,4 @@
 {
-  "T":{
-    "typ":"bus",
-    "petle":[
-      "Rondo Rataje",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "0":{
-    "typ":"tram",
-    "petle":[
-      "Stare Zoo",
-      "Stare Zoo"
-    ],
-    "kolor1":"#0D7B49",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -211,15 +193,6 @@
       "Plac Wielkopolski"
     ],
     "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF"
-  },
-  "100":{
-    "typ":"bus",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#E31E24",
     "kolor2":"#FFFFFF"
   },
   "121":{
@@ -639,7 +612,7 @@
   "201":{
     "typ":"tram",
     "petle":[
-      "Zawady",
+      "Franowo",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
@@ -669,8 +642,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Kacza",
-      "Szwajcarska Szpital"
+      "Szwajcarska Szpital",
+      "Kacza"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -750,8 +723,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Mogile\u0144ska"
+      "Mogile\u0144ska",
+      "Port Lotniczy \u0141awica"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -777,7 +750,7 @@
   "226":{
     "typ":"bus",
     "petle":[
-      "Puszkina",
+      "Pozna\u0144 G\u0142\u00f3wny",
       "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
