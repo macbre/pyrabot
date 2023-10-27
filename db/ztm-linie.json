@@ -186,6 +186,33 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "41":{
+    "typ":"tram",
+    "petle":[
+      "Junikowo",
+      "Mi\u0142ostowo"
+    ],
+    "kolor1":"#004F71",
+    "kolor2":"#FFFFFF"
+  },
+  "42":{
+    "typ":"tram",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Mi\u0142ostowo"
+    ],
+    "kolor1":"#004F71",
+    "kolor2":"#FFFFFF"
+  },
+  "43":{
+    "typ":"tram",
+    "petle":[
+      "Junikowo",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#004F71",
+    "kolor2":"#FFFFFF"
+  },
   "99":{
     "typ":"tram",
     "petle":[
@@ -193,7 +220,7 @@
       "Plac Wielkopolski"
     ],
     "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF"
+    "kolor2":"#000000"
   },
   "121":{
     "typ":"bus",
@@ -660,7 +687,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",

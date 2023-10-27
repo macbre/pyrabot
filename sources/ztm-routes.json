@@ -188,6 +188,39 @@
       "color2": "000000"
     }, 
     {
+      "name": "41", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Mi\u0142ostowo"
+      ], 
+      "color1": "004F71", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "42", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Osiedle Sobieskiego", 
+        "Mi\u0142ostowo"
+      ], 
+      "color1": "004F71", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "43", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Junikowo", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "004F71", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -196,7 +229,7 @@
         "Plac Wielkopolski"
       ], 
       "color1": "FFFFFF", 
-      "color2": "FFFFFF"
+      "color2": "000000"
     }, 
     {
       "name": "121", 
@@ -764,7 +797,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Malwowa", 
         "Radojewo"
       ], 
       "color1": "000000", 
