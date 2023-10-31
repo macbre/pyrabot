@@ -188,39 +188,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "41", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Junikowo", 
-        "Mi\u0142ostowo"
-      ], 
-      "color1": "004F71", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "42", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Osiedle Sobieskiego", 
-        "Mi\u0142ostowo"
-      ], 
-      "color1": "004F71", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "43", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Junikowo", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "004F71", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -271,17 +238,6 @@
       "petle": [
         "Safony", 
         "Instytut Technologiczno-Przyrodniczy"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "133", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -797,7 +753,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Malwowa", 
+        "Junikowo", 
         "Radojewo"
       ], 
       "color1": "000000", 

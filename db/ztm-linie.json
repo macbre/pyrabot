@@ -186,33 +186,6 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
-  "41":{
-    "typ":"tram",
-    "petle":[
-      "Junikowo",
-      "Mi\u0142ostowo"
-    ],
-    "kolor1":"#004F71",
-    "kolor2":"#FFFFFF"
-  },
-  "42":{
-    "typ":"tram",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Mi\u0142ostowo"
-    ],
-    "kolor1":"#004F71",
-    "kolor2":"#FFFFFF"
-  },
-  "43":{
-    "typ":"tram",
-    "petle":[
-      "Junikowo",
-      "Osiedle Sobieskiego"
-    ],
-    "kolor1":"#004F71",
-    "kolor2":"#FFFFFF"
-  },
   "99":{
     "typ":"tram",
     "petle":[
@@ -254,15 +227,6 @@
     "petle":[
       "Safony",
       "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "133":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -687,7 +651,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
