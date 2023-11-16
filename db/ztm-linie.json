@@ -186,6 +186,15 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "24":{
+    "typ":"tram",
+    "petle":[
+      "Aleje Marcinkowskiego",
+      "G\u00f3rczyn PKM"
+    ],
+    "kolor1":"#FEDB00",
+    "kolor2":"#000000"
+  },
   "99":{
     "typ":"tram",
     "petle":[
