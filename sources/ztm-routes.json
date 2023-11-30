@@ -60,7 +60,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Po\u0142abska", 
+        "Zawady", 
         "Ogrody"
       ], 
       "color1": "003594", 
@@ -170,7 +170,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Zawady", 
+        "Po\u0142abska", 
         "Ogrody"
       ], 
       "color1": "004F71", 
@@ -199,12 +199,34 @@
       "color2": "000000"
     }, 
     {
+      "name": "93", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Bernardy\u0144ski", 
+        "K\u00f3rnicka"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "98", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Plac Wielkopolski"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "99", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Pi\u0105tkowska", 
-        "Plac Wielkopolski"
+        "Pi\u0105tkowska"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"

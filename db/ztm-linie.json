@@ -57,7 +57,7 @@
   "7":{
     "typ":"tram",
     "petle":[
-      "Po\u0142abska",
+      "Zawady",
       "Ogrody"
     ],
     "kolor1":"#003594",
@@ -167,7 +167,7 @@
   "17":{
     "typ":"tram",
     "petle":[
-      "Zawady",
+      "Po\u0142abska",
       "Ogrody"
     ],
     "kolor1":"#004F71",
@@ -195,11 +195,33 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000"
   },
+  "93":{
+    "typ":"tram",
+    "petle":[
+      "Plac Bernardy\u0144ski",
+      "K\u00f3rnicka"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93"
+  },
+  "98":{
+    "typ":"tram",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Plac Wielkopolski"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98"
+  },
   "99":{
     "typ":"tram",
     "petle":[
       "Pi\u0105tkowska",
-      "Plac Wielkopolski"
+      "Pi\u0105tkowska"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
