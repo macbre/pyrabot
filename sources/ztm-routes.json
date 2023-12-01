@@ -126,7 +126,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Aleje Marcinkowskiego", 
+        "D\u0119biec PKM", 
         "Staro\u0142\u0119ka PKM"
       ], 
       "color1": "AD841F", 
@@ -159,7 +159,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Aleje Marcinkowskiego", 
+        "Osiedle Sobieskiego", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "440099", 
@@ -207,6 +207,17 @@
         "K\u00f3rnicka"
       ], 
       "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "96", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Ratajskiego", 
+        "Wroc\u0142awska"
+      ], 
+      "color1": "FEDB00", 
       "color2": "000000"
     }, 
     {
@@ -390,7 +401,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Garbary PKM", 
+        "Rondo \u015ar\u00f3dka", 
         "Stary Strzeszyn"
       ], 
       "color1": "525252", 
@@ -412,7 +423,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Garbary PKM", 
+        "Rondo \u015ar\u00f3dka", 
         "G\u00f3rczyn PKM"
       ], 
       "color1": "525252", 
@@ -446,7 +457,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Radojewo", 
-        "Rondo \u015ar\u00f3dka"
+        "Rondo Rataje"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -909,6 +920,17 @@
       "petle": [
         "Kozieg\u0142owy Osiedle Le\u015bne", 
         "Rondo Rataje"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "231", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo Kaponiera", 
+        "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -2007,7 +2029,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Rondo \u015ar\u00f3dka", 
+        "Rondo Rataje", 
         "Biedrusko Park"
       ], 
       "color1": "525252", 

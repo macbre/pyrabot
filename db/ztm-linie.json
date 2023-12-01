@@ -123,7 +123,7 @@
   "13":{
     "typ":"tram",
     "petle":[
-      "Aleje Marcinkowskiego",
+      "D\u0119biec PKM",
       "Staro\u0142\u0119ka PKM"
     ],
     "kolor1":"#AD841F",
@@ -156,7 +156,7 @@
   "16":{
     "typ":"tram",
     "petle":[
-      "Aleje Marcinkowskiego",
+      "Osiedle Sobieskiego",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#440099",
@@ -205,6 +205,17 @@
     "kolor2":"#000000",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93"
+  },
+  "96":{
+    "typ":"tram",
+    "petle":[
+      "Plac Ratajskiego",
+      "Wroc\u0142awska"
+    ],
+    "kolor1":"#FEDB00",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96"
   },
   "98":{
     "typ":"tram",
@@ -355,7 +366,7 @@
   "160":{
     "typ":"bus",
     "petle":[
-      "Garbary PKM",
+      "Rondo \u015ar\u00f3dka",
       "Stary Strzeszyn"
     ],
     "kolor1":"#525252",
@@ -373,7 +384,7 @@
   "163":{
     "typ":"bus",
     "petle":[
-      "Garbary PKM",
+      "Rondo \u015ar\u00f3dka",
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#525252",
@@ -401,7 +412,7 @@
     "typ":"bus",
     "petle":[
       "Radojewo",
-      "Rondo \u015ar\u00f3dka"
+      "Rondo Rataje"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -786,6 +797,18 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
+  },
+  "231":{
+    "typ":"bus",
+    "petle":[
+      "Rondo Kaponiera",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
   },
   "250":{
     "typ":"bus",
@@ -1780,7 +1803,7 @@
   "911":{
     "typ":"bus",
     "petle":[
-      "Rondo \u015ar\u00f3dka",
+      "Rondo Rataje",
       "Biedrusko Park"
     ],
     "kolor1":"#525252",
