@@ -78,17 +78,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "9", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "D\u0119biec PKM", 
-        "Aleje Marcinkowskiego"
-      ], 
-      "color1": "FF671F", 
-      "color2": "000000"
-    }, 
-    {
       "name": "10", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -192,19 +181,8 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Aleje Marcinkowskiego", 
+        "G\u00f3rczyn PKM", 
         "G\u00f3rczyn PKM"
-      ], 
-      "color1": "FEDB00", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "93", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Plac Bernardy\u0144ski", 
-        "K\u00f3rnicka"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
@@ -216,17 +194,6 @@
       "petle": [
         "Plac Ratajskiego", 
         "Wroc\u0142awska"
-      ], 
-      "color1": "FEDB00", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "98", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Plac Wielkopolski"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
