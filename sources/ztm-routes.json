@@ -188,12 +188,34 @@
       "color2": "000000"
     }, 
     {
+      "name": "93", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Bernardy\u0144ski", 
+        "K\u00f3rnicka"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "96", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Plac Ratajskiego", 
         "Wroc\u0142awska"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "98", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Plac Wielkopolski"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
@@ -207,7 +229,7 @@
         "Pi\u0105tkowska"
       ], 
       "color1": "FFFFFF", 
-      "color2": "000000"
+      "color2": "FFFFFF"
     }, 
     {
       "name": "121", 
@@ -1732,8 +1754,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ogrody", 
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

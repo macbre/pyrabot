@@ -184,6 +184,17 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
   },
+  "93":{
+    "typ":"tram",
+    "petle":[
+      "Plac Bernardy\u0144ski",
+      "K\u00f3rnicka"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93"
+  },
   "96":{
     "typ":"tram",
     "petle":[
@@ -195,6 +206,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96"
   },
+  "98":{
+    "typ":"tram",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Plac Wielkopolski"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98"
+  },
   "99":{
     "typ":"tram",
     "petle":[
@@ -202,7 +224,7 @@
       "Pi\u0105tkowska"
     ],
     "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
+    "kolor2":"#FFFFFF"
   },
   "121":{
     "typ":"bus",
@@ -1522,8 +1544,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
