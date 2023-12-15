@@ -24,7 +24,7 @@
   "3":{
     "typ":"tram",
     "petle":[
-      "Budziszy\u0144ska",
+      "Unii Lubelskiej",
       "B\u0142a\u017ceja"
     ],
     "kolor1":"#8E364C",
@@ -35,7 +35,7 @@
   "5":{
     "typ":"tram",
     "petle":[
-      "Unii Lubelskiej",
+      "Zawady",
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#6CC24A",
@@ -47,7 +47,7 @@
     "typ":"tram",
     "petle":[
       "Mi\u0142ostowo",
-      "Junikowo"
+      "Budziszy\u0144ska"
     ],
     "kolor1":"#009639",
     "kolor2":"#FFFFFF",
@@ -57,7 +57,7 @@
   "7":{
     "typ":"tram",
     "petle":[
-      "Zawady",
+      "Po\u0142abska",
       "Ogrody"
     ],
     "kolor1":"#003594",
@@ -68,13 +68,24 @@
   "8":{
     "typ":"tram",
     "petle":[
-      "G\u00f3rczyn PKM",
+      "Ogrody",
       "Mi\u0142ostowo"
     ],
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/8"
+  },
+  "9":{
+    "typ":"tram",
+    "petle":[
+      "D\u0119biec PKM",
+      "Pi\u0105tkowska"
+    ],
+    "kolor1":"#FF671F",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/9"
   },
   "10":{
     "typ":"tram",
@@ -112,7 +123,7 @@
   "13":{
     "typ":"tram",
     "petle":[
-      "D\u0119biec PKM",
+      "Junikowo",
       "Staro\u0142\u0119ka PKM"
     ],
     "kolor1":"#AD841F",
@@ -145,7 +156,7 @@
   "16":{
     "typ":"tram",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Franowo",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#440099",
@@ -156,8 +167,8 @@
   "17":{
     "typ":"tram",
     "petle":[
-      "Po\u0142abska",
-      "Ogrody"
+      "Staro\u0142\u0119ka PKM",
+      "G\u00f3rczyn PKM"
     ],
     "kolor1":"#004F71",
     "kolor2":"#FFFFFF",
@@ -175,6 +186,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "19":{
+    "typ":"tram",
+    "petle":[
+      "D\u0119biec PKM",
+      "Po\u0142abska"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#42B6AE",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
+  },
   "24":{
     "typ":"tram",
     "petle":[
@@ -183,48 +205,6 @@
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
-  },
-  "93":{
-    "typ":"tram",
-    "petle":[
-      "Plac Bernardy\u0144ski",
-      "K\u00f3rnicka"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93"
-  },
-  "96":{
-    "typ":"tram",
-    "petle":[
-      "Plac Ratajskiego",
-      "Wroc\u0142awska"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/96"
-  },
-  "98":{
-    "typ":"tram",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Plac Wielkopolski"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/98"
-  },
-  "99":{
-    "typ":"tram",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Pi\u0105tkowska"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF"
   },
   "121":{
     "typ":"bus",
@@ -355,7 +335,7 @@
   "160":{
     "typ":"bus",
     "petle":[
-      "Rondo \u015ar\u00f3dka",
+      "Garbary PKM",
       "Stary Strzeszyn"
     ],
     "kolor1":"#525252",
@@ -373,7 +353,7 @@
   "163":{
     "typ":"bus",
     "petle":[
-      "Rondo \u015ar\u00f3dka",
+      "Garbary PKM",
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#525252",
@@ -401,7 +381,7 @@
     "typ":"bus",
     "petle":[
       "Radojewo",
-      "Rondo Rataje"
+      "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -589,7 +569,7 @@
   "190":{
     "typ":"bus",
     "petle":[
-      "Bobrza\u0144ska",
+      "Rondo Rataje",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
@@ -643,7 +623,7 @@
   "201":{
     "typ":"tram",
     "petle":[
-      "Franowo",
+      "Unii Lubelskiej",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
@@ -651,6 +631,15 @@
     "night":true,
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
+  },
+  "202":{
+    "typ":"tram",
+    "petle":[
+      "Franowo",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
   },
   "211":{
     "typ":"bus",
@@ -783,6 +772,54 @@
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "250":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3rczyn PKM",
+      "G\u0142uchowo Stawna"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "252":{
+    "typ":"bus",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
+  },
+  "253":{
+    "typ":"bus",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "257":{
+    "typ":"bus",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Junikowo"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "258":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -1544,8 +1581,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1732,7 +1769,7 @@
   "911":{
     "typ":"bus",
     "petle":[
-      "Rondo Rataje",
+      "Rondo \u015ar\u00f3dka",
       "Biedrusko Park"
     ],
     "kolor1":"#525252",
