@@ -186,29 +186,11 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
-  "24":{
-    "typ":"tram",
-    "petle":[
-      "G\u00f3rczyn PKM",
-      "G\u00f3rczyn PKM"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "122":{
     "typ":"bus",
     "petle":[
       "Junikowo",
       "Junikowo"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "145":{
-    "typ":"bus",
-    "petle":[
-      "Dworzec Zachodni",
-      "Kacza"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -226,16 +208,7 @@
     "typ":"bus",
     "petle":[
       "\u0141awica",
-      "Rondo Kaponiera"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "149":{
-    "typ":"bus",
-    "petle":[
-      "G\u00f3rczyn PKM",
-      "D\u0119biec PKM"
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -267,29 +240,11 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "157":{
-    "typ":"bus",
-    "petle":[
-      "Mogile\u0144ska",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "158":{
     "typ":"bus",
     "petle":[
       "Sypniewo",
       "Staro\u0142\u0119ka PKM"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "159":{
-    "typ":"bus",
-    "petle":[
-      "Port Lotniczy \u0141awica",
-      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -366,15 +321,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "170":{
-    "typ":"bus",
-    "petle":[
-      "Rondo Solidarno\u015bci",
-      "Puszkina"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "171":{
     "typ":"bus",
     "petle":[
@@ -438,29 +384,11 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "179":{
-    "typ":"bus",
-    "petle":[
-      "D\u0119biec PKM",
-      "Kacza"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "180":{
     "typ":"bus",
     "petle":[
       "Sycowska Centrum Handlowe",
       "G\u00f3rczyn PKM"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "181":{
-    "typ":"bus",
-    "petle":[
-      "Krzywoustego",
-      "Rondo Rataje"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -474,20 +402,11 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "183":{
-    "typ":"bus",
-    "petle":[
-      "Szarych Szereg\u00f3w",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "184":{
     "typ":"bus",
     "petle":[
       "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Nowe Zoo"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -555,15 +474,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "196":{
-    "typ":"bus",
-    "petle":[
-      "Rondo Rataje",
-      "Rondo Rataje"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "198":{
     "typ":"bus",
     "petle":[
@@ -606,7 +516,7 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Szwajcarska Szpital",
+      "Franowo",
       "Kacza"
     ],
     "kolor1":"#000000",
@@ -624,7 +534,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -725,54 +635,6 @@
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "250":{
-    "typ":"bus",
-    "petle":[
-      "G\u00f3rczyn PKM",
-      "G\u0142uchowo Stawna"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "252":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
-  },
-  "253":{
-    "typ":"bus",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "257":{
-    "typ":"bus",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "258":{
-    "typ":"bus",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -881,15 +743,6 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
   },
-  "407":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Rabowicka P\u0119tla"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "412":{
     "typ":"bus",
     "petle":[
@@ -935,15 +788,6 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
   },
-  "485":{
-    "typ":"bus",
-    "petle":[
-      "Pobiedziska Dworzec",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "486":{
     "typ":"bus",
     "petle":[
@@ -956,7 +800,7 @@
   "488":{
     "typ":"bus",
     "petle":[
-      "Krerowo Ko\u015bci\u00f3\u0142",
+      "Krerowo Pa\u0142ac",
       "Kleszczewo Park"
     ],
     "kolor1":"#525252",
@@ -1205,33 +1049,6 @@
     "kolor2":"#FFFFFF",
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729"
-  },
-  "791":{
-    "typ":"bus",
-    "petle":[
-      "Trzcielin P\u0119tla",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "792":{
-    "typ":"bus",
-    "petle":[
-      "Wi\u0119ckowice Szko\u0142a",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "797":{
-    "typ":"bus",
-    "petle":[
-      "Malwowa",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
   },
   "802":{
     "typ":"bus",
