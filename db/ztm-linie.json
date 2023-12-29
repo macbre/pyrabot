@@ -215,6 +215,24 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
+  "123":{
+    "typ":"bus",
+    "petle":[
+      "Krzesiny",
+      "Staro\u0142\u0119ka PKM"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "124":{
+    "typ":"bus",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "145":{
     "typ":"bus",
     "petle":[
@@ -237,7 +255,7 @@
     "typ":"bus",
     "petle":[
       "\u0141awica",
-      "Rondo Kaponiera"
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -524,7 +542,7 @@
   "188":{
     "typ":"bus",
     "petle":[
-      "Radojewo",
+      "Umultowo Szko\u0142a",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
@@ -743,7 +761,7 @@
   "227":{
     "typ":"bus",
     "petle":[
-      "G\u0142\u00f3wna",
+      "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
     ],
     "kolor1":"#000000",
@@ -906,7 +924,7 @@
   "394":{
     "typ":"bus",
     "petle":[
-      "Kozieg\u0142owy Piaskowa Szko\u0142a",
+      "Kozieg\u0142owy Szko\u0142a",
       "Mi\u0119kowo Stokrotkowa"
     ],
     "kolor1":"#525252",
@@ -915,7 +933,7 @@
   "396":{
     "typ":"bus",
     "petle":[
-      "Kozieg\u0142owy Piaskowa Szko\u0142a",
+      "Kozieg\u0142owy Szko\u0142a",
       "Potasze Jod\u0142owa"
     ],
     "kolor1":"#525252",
@@ -1276,7 +1294,7 @@
     "typ":"bus",
     "petle":[
       "G\u00f3rczyn PKM",
-      "Lubo\u0144 Kr\u0119ta"
+      "\u0141\u0119czyca Dworcowa"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1353,7 +1371,7 @@
     "typ":"bus",
     "petle":[
       "G\u00f3rczyn PKM",
-      "G\u0142uchowo Stawna"
+      "Komorniki Topolowa"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1643,6 +1661,24 @@
     "kolor2":"#FFFFFF",
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882"
+  },
+  "886":{
+    "typ":"bus",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "889":{
+    "typ":"bus",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
   },
   "891":{
     "typ":"bus",
