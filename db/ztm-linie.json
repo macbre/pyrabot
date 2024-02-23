@@ -1591,6 +1591,24 @@
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/821"
   },
+  "825":{
+    "typ":"bus",
+    "petle":[
+      "Jankowice P\u0119tla",
+      "Tarnowo Pdg Pozna\u0144ska Szko\u0142a"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000"
+  },
+  "826":{
+    "typ":"bus",
+    "petle":[
+      "Sady Wiadukt",
+      "Lusowo Szko\u0142a"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000"
+  },
   "832":{
     "typ":"bus",
     "petle":[
