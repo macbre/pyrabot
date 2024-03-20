@@ -199,6 +199,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "91", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Cmentarna", 
+        "Budziszy\u0144ska"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
       "name": "121", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -214,8 +225,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
-        "Junikowo"
+        "Budziszy\u0144ska", 
+        "Budziszy\u0144ska"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -511,7 +522,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Budziszy\u0144ska", 
         "Rondo Kaponiera"
       ], 
       "color1": "525252", 
@@ -764,7 +775,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo", 
+        "Malwowa", 
         "Radojewo"
       ], 
       "color1": "000000", 
@@ -930,7 +941,18 @@
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
         "Dopiewo Dworzec Kolejowy", 
-        "Junikowo"
+        "Budziszy\u0144ska"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "258", 
+      "typ": "bus", 
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
+      "petle": [
+        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Tarnowo Pdg Centrum"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1612,7 +1634,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Pal\u0119dzie Dworzec Kolejowy", 
-        "Junikowo"
+        "Budziszy\u0144ska"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -1776,8 +1798,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ogrody", 
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

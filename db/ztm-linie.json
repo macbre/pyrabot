@@ -197,6 +197,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
   },
+  "91":{
+    "typ":"tram",
+    "petle":[
+      "Cmentarna",
+      "Budziszy\u0144ska"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91"
+  },
   "121":{
     "typ":"bus",
     "petle":[
@@ -209,8 +220,8 @@
   "122":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
-      "Junikowo"
+      "Budziszy\u0144ska",
+      "Budziszy\u0144ska"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -452,7 +463,7 @@
   "177":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Budziszy\u0144ska",
       "Rondo Kaponiera"
     ],
     "kolor1":"#525252",
@@ -662,7 +673,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -801,7 +812,16 @@
     "typ":"bus",
     "petle":[
       "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
+      "Budziszy\u0144ska"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "258":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -1413,7 +1433,7 @@
     "typ":"bus",
     "petle":[
       "Pal\u0119dzie Dworzec Kolejowy",
-      "Junikowo"
+      "Budziszy\u0144ska"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1563,8 +1583,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
