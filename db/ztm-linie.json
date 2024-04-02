@@ -200,7 +200,7 @@
   "91":{
     "typ":"tram",
     "petle":[
-      "Cmentarna",
+      "Junikowo",
       "Budziszy\u0144ska"
     ],
     "kolor1":"#FFFFFF",
@@ -226,11 +226,29 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
+  "123":{
+    "typ":"bus",
+    "petle":[
+      "Krzesiny",
+      "Staro\u0142\u0119ka PKM"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "124":{
+    "typ":"bus",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "145":{
     "typ":"bus",
     "petle":[
       "Dworzec Zachodni",
-      "Kacza"
+      "Kacza Zajezdnia"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -347,7 +365,7 @@
     "typ":"bus",
     "petle":[
       "Puszkina",
-      "Kacza"
+      "Kacza Zajezdnia"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -464,7 +482,7 @@
     "typ":"bus",
     "petle":[
       "D\u0119biec PKM",
-      "Kacza"
+      "Kacza Zajezdnia"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -616,6 +634,15 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
   },
+  "202":{
+    "typ":"tram",
+    "petle":[
+      "Franowo",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
   "211":{
     "typ":"bus",
     "petle":[
@@ -646,7 +673,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo PKM",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -709,8 +736,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Mogile\u0144ska"
+      "Mogile\u0144ska",
+      "Port Lotniczy \u0141awica"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -718,7 +745,7 @@
   "223":{
     "typ":"bus",
     "petle":[
-      "Kacza",
+      "Kacza Zajezdnia",
       "Mogile\u0144ska"
     ],
     "kolor1":"#000000",
@@ -756,6 +783,45 @@
     "petle":[
       "G\u00f3rczyn PKM",
       "G\u0142uchowo Stawna"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "252":{
+    "typ":"bus",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
+  },
+  "253":{
+    "typ":"bus",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "257":{
+    "typ":"bus",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Budziszy\u0144ska"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "258":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -1517,8 +1583,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1606,6 +1672,24 @@
     "kolor2":"#FFFFFF",
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882"
+  },
+  "886":{
+    "typ":"bus",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Piersko Rolna"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "889":{
+    "typ":"bus",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
   },
   "891":{
     "typ":"bus",
