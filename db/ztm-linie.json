@@ -778,6 +778,18 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
+  "231":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/231"
+  },
   "250":{
     "typ":"bus",
     "petle":[
@@ -1583,8 +1595,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",

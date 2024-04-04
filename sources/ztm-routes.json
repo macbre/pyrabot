@@ -903,6 +903,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "231", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "250", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
@@ -1798,8 +1809,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ka\u017amierz Rynek", 
-        "Ogrody"
+        "Ogrody", 
+        "Ka\u017amierz Rynek"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
