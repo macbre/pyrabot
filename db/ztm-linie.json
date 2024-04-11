@@ -197,50 +197,6 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
   },
-  "52":{
-    "typ":"tram",
-    "petle":[
-      "D\u0119biec PKM",
-      "Traugutta"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/52"
-  },
-  "55":{
-    "typ":"tram",
-    "petle":[
-      "Krauthofera",
-      "G\u00f3rczyn PKM"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/55"
-  },
-  "58":{
-    "typ":"tram",
-    "petle":[
-      "Ma\u0142e Garbary",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/58"
-  },
-  "59":{
-    "typ":"tram",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Wielkopolska"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/59"
-  },
   "91":{
     "typ":"tram",
     "petle":[
@@ -682,6 +638,15 @@
     "typ":"tram",
     "petle":[
       "Franowo",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "203":{
+    "typ":"tram",
+    "petle":[
+      "Dworzec Zachodni",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
