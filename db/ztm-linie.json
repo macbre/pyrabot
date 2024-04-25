@@ -1,4 +1,13 @@
 {
+  "T1":{
+    "typ":"tram",
+    "petle":[
+      "G\u0142ogowska/Hetma\u0144ska",
+      "G\u0142ogowska/Hetma\u0144ska"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -58,7 +67,7 @@
     "typ":"tram",
     "petle":[
       "Po\u0142abska",
-      "Ogrody"
+      "Staro\u0142\u0119ka Ma\u0142a"
     ],
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
@@ -197,6 +206,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
   },
+  "20":{
+    "typ":"tram",
+    "petle":[
+      "Plac Wielkopolski",
+      "Plac Wielkopolski"
+    ],
+    "kolor1":"#595FA7",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
+  },
   "91":{
     "typ":"tram",
     "petle":[
@@ -207,6 +227,33 @@
     "kolor2":"#000000",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91"
+  },
+  "97":{
+    "typ":"tram",
+    "petle":[
+      "G\u0142ogowska/Hetma\u0144ska",
+      "Ogrody"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000"
+  },
+  "100":{
+    "typ":"bus",
+    "petle":[
+      "Nowe Zoo",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF"
+  },
+  "102":{
+    "typ":"bus",
+    "petle":[
+      "Muzeum Broni Pancernej",
+      "Pozna\u0144 G\u0142\u00f3wny"
+    ],
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF"
   },
   "121":{
     "typ":"bus",
@@ -774,6 +821,54 @@
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "250":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3rczyn PKM",
+      "G\u0142uchowo Stawna"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "252":{
+    "typ":"bus",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Przeb\u0119dowo P\u0119tla"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "night":true,
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
+  },
+  "253":{
+    "typ":"bus",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Chludowo Szko\u0142a"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "257":{
+    "typ":"bus",
+    "petle":[
+      "Dopiewo Dworzec Kolejowy",
+      "Budziszy\u0144ska"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "258":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Tarnowo Pdg Centrum"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
