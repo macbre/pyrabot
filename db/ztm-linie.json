@@ -195,17 +195,6 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
-  "19":{
-    "typ":"tram",
-    "petle":[
-      "D\u0119biec PKM",
-      "Po\u0142abska"
-    ],
-    "kolor1":"#40BDB0",
-    "kolor2":"#FFFFFF",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
-  },
   "20":{
     "typ":"tram",
     "petle":[
@@ -246,13 +235,13 @@
     "kolor1":"#E31E24",
     "kolor2":"#FFFFFF"
   },
-  "121":{
+  "102":{
     "typ":"bus",
     "petle":[
-      "Meissnera",
-      "Ogrody"
+      "Muzeum Broni Pancernej",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
-    "kolor1":"#525252",
+    "kolor1":"#E31E24",
     "kolor2":"#FFFFFF"
   },
   "122":{
@@ -260,24 +249,6 @@
     "petle":[
       "Budziszy\u0144ska",
       "Budziszy\u0144ska"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "123":{
-    "typ":"bus",
-    "petle":[
-      "Krzesiny",
-      "Staro\u0142\u0119ka PKM"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "124":{
-    "typ":"bus",
-    "petle":[
-      "Safony",
-      "Instytut Technologiczno-Przyrodniczy"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -584,15 +555,6 @@
     "petle":[
       "Kiekrz",
       "Ogrody"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "188":{
-    "typ":"bus",
-    "petle":[
-      "Umultowo Szko\u0142a",
-      "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -1028,15 +990,6 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
   },
-  "406":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Centrum Handlowe Etc"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "407":{
     "typ":"bus",
     "petle":[
@@ -1054,15 +1007,6 @@
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
-  },
-  "416":{
-    "typ":"bus",
-    "petle":[
-      "Gruszczyn Katarzy\u0144ska",
-      "Mogile\u0144ska"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
   },
   "425":{
     "typ":"bus",
@@ -1145,15 +1089,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "490":{
-    "typ":"bus",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "491":{
     "typ":"bus",
     "petle":[
@@ -1186,15 +1121,6 @@
     "petle":[
       "Garby Ma\u0142e P\u0119tla",
       "Kobylnica Stacja"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "497":{
-    "typ":"bus",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Kruszewnia P\u0119tla"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
@@ -1710,24 +1636,6 @@
     "kolor2":"#FFFFFF",
     "agency":"TPBUS",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882"
-  },
-  "886":{
-    "typ":"bus",
-    "petle":[
-      "Tarnowo Pdg Centrum",
-      "Piersko Rolna"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "889":{
-    "typ":"bus",
-    "petle":[
-      "Prze\u017amierowo Ko\u015bcielna",
-      "Wielkie"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
   },
   "891":{
     "typ":"bus",
