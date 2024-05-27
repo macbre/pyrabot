@@ -627,7 +627,7 @@
   "191":{
     "typ":"bus",
     "petle":[
-      "Nad Wierzbakiem",
+      "Osiedle Sobieskiego",
       "Osiedle Kopernika"
     ],
     "kolor1":"#525252",
@@ -690,15 +690,6 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
-  "205":{
-    "typ":"tram",
-    "petle":[
-      "Franowo",
-      "Osiedle Sobieskiego"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "211":{
     "typ":"bus",
     "petle":[
@@ -729,7 +720,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo PKM",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -812,15 +803,6 @@
     "petle":[
       "Junikowo PKM",
       "Boranta"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "225":{
-    "typ":"bus",
-    "petle":[
-      "Rondo Staro\u0142\u0119ka",
-      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
