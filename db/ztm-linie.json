@@ -1,4 +1,13 @@
 {
+  "T13":{
+    "typ":"tram",
+    "petle":[
+      "Rondo Rataje",
+      "Rondo Rataje"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "0":{
     "typ":"tram",
     "petle":[
@@ -216,6 +225,17 @@
     "kolor2":"#FFFFFF",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
+  },
+  "56":{
+    "typ":"tram",
+    "petle":[
+      "Budziszy\u0144ska",
+      "Budziszy\u0144ska"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56"
   },
   "91":{
     "typ":"tram",
@@ -690,15 +710,6 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
-  "203":{
-    "typ":"tram",
-    "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Sobieskiego"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "211":{
     "typ":"bus",
     "petle":[
@@ -729,7 +740,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo PKM",
       "Radojewo"
     ],
     "kolor1":"#000000",
