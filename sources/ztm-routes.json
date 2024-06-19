@@ -721,6 +721,17 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Unii Lubelskiej", 
+        "G\u0142ogowska/Hetma\u0144ska"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "202", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Franowo", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
@@ -742,8 +753,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Kacza", 
-        "Szwajcarska Szpital"
+        "Szwajcarska Szpital", 
+        "Kacza"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -764,7 +775,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Malwowa", 
+        "Junikowo PKM", 
         "Radojewo"
       ], 
       "color1": "000000", 
@@ -841,8 +852,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Port Lotniczy \u0141awica", 
-        "Mogile\u0144ska"
+        "Mogile\u0144ska", 
+        "Port Lotniczy \u0141awica"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -865,6 +876,17 @@
       "petle": [
         "Junikowo PKM", 
         "Boranta"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "226", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pozna\u0144 G\u0142\u00f3wny", 
+        "Pozna\u0144 G\u0142\u00f3wny"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"

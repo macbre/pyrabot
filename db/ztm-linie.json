@@ -626,13 +626,22 @@
     "typ":"tram",
     "petle":[
       "Unii Lubelskiej",
-      "Osiedle Sobieskiego"
+      "G\u0142ogowska/Hetma\u0144ska"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "night":true,
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
+  },
+  "202":{
+    "typ":"tram",
+    "petle":[
+      "Franowo",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
   },
   "211":{
     "typ":"bus",
@@ -646,8 +655,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Kacza",
-      "Szwajcarska Szpital"
+      "Szwajcarska Szpital",
+      "Kacza"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -664,7 +673,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo PKM",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -727,8 +736,8 @@
   "222":{
     "typ":"bus",
     "petle":[
-      "Port Lotniczy \u0141awica",
-      "Mogile\u0144ska"
+      "Mogile\u0144ska",
+      "Port Lotniczy \u0141awica"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -747,6 +756,15 @@
     "petle":[
       "Junikowo PKM",
       "Boranta"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "226":{
+    "typ":"bus",
+    "petle":[
+      "Pozna\u0144 G\u0142\u00f3wny",
+      "Pozna\u0144 G\u0142\u00f3wny"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
