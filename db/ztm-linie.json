@@ -1,13 +1,4 @@
 {
-  "0":{
-    "typ":"tram",
-    "petle":[
-      "Ratajczaka",
-      "27 Grudnia"
-    ],
-    "kolor1":"#0D7B49",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -1406,8 +1397,8 @@
   "707":{
     "typ":"bus",
     "petle":[
-      "G\u00f3rczyn PKM",
-      "Rosn\u00f3wko PKM"
+      "Rosn\u00f3wko PKM",
+      "G\u00f3rczyn PKM"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -1556,7 +1547,7 @@
     "typ":"bus",
     "petle":[
       "Ogrody",
-      "Lus\u00f3wko Ko\u015bci\u00f3\u0142 "
+      "Lus\u00f3wko P\u0119tla"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
@@ -1577,8 +1568,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
