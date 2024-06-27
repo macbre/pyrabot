@@ -1,4 +1,22 @@
 {
+  "T11":{
+    "typ":"tram",
+    "petle":[
+      "Most Teatralny",
+      "Pi\u0105tkowska"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "0":{
+    "typ":"tram",
+    "petle":[
+      "Ratajczaka",
+      "27 Grudnia"
+    ],
+    "kolor1":"#0D7B49",
+    "kolor2":"#FFFFFF"
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -1568,8 +1586,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
