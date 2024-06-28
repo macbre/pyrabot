@@ -1,13 +1,4 @@
 {
-  "T11":{
-    "typ":"tram",
-    "petle":[
-      "Most Teatralny",
-      "Pi\u0105tkowska"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "0":{
     "typ":"tram",
     "petle":[
@@ -707,7 +698,7 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo PKM",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
@@ -1415,8 +1406,8 @@
   "707":{
     "typ":"bus",
     "petle":[
-      "Rosn\u00f3wko PKM",
-      "G\u00f3rczyn PKM"
+      "G\u00f3rczyn PKM",
+      "Rosn\u00f3wko PKM"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"

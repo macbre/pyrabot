@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "T11", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Most Teatralny", 
-        "Pi\u0105tkowska"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "0", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -819,7 +808,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo PKM", 
+        "Malwowa", 
         "Radojewo"
       ], 
       "color1": "000000", 
@@ -1622,8 +1611,8 @@
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
       "petle": [
-        "Rosn\u00f3wko PKM", 
-        "G\u00f3rczyn PKM"
+        "G\u00f3rczyn PKM", 
+        "Rosn\u00f3wko PKM"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
