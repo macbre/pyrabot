@@ -1,28 +1,6 @@
 {
   "lines": [
     {
-      "name": "T11", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Most Teatralny", 
-        "Pi\u0105tkowska"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "0", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ratajczaka", 
-        "27 Grudnia"
-      ], 
-      "color1": "0D7B49", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -122,12 +100,34 @@
       "color2": "000000"
     }, 
     {
+      "name": "11", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Pi\u0105tkowska", 
+        "Unii Lubelskiej"
+      ], 
+      "color1": "3CDBC0", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "12", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Staro\u0142\u0119ka PKM", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "CBA3D8", 
+      "color2": "000000"
+    }, 
+    {
       "name": "13", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Budziszy\u0144ska", 
-        "Unii Lubelskiej"
+        "Staro\u0142\u0119ka PKM"
       ], 
       "color1": "AD841F", 
       "color2": "FFFFFF"
@@ -166,6 +166,17 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "17", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Staro\u0142\u0119ka PKM", 
+        "G\u00f3rczyn PKM"
+      ], 
+      "color1": "004F71", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "18", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -177,17 +188,6 @@
       "color2": "000000"
     }, 
     {
-      "name": "20", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ratajczaka", 
-        "27 Grudnia"
-      ], 
-      "color1": "595FA7", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "91", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -197,61 +197,6 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
-    }, 
-    {
-      "name": "92", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Plac Wielkopolski", 
-        "Unii Lubelskiej"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "93", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Staro\u0142\u0119ka", 
-        "Staro\u0142\u0119ka PKM"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "97", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Osiedle Sobieskiego", 
-        "Pi\u0105tkowska"
-      ], 
-      "color1": "FFFFFF", 
-      "color2": "000000"
-    }, 
-    {
-      "name": "100", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Nowe Zoo", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "E31E24", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "102", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Muzeum Broni Pancernej", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "E31E24", 
-      "color2": "FFFFFF"
     }, 
     {
       "name": "121", 
@@ -771,17 +716,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "202", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Franowo", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "211", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -797,8 +731,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Szwajcarska Szpital", 
-        "Kacza"
+        "Kacza", 
+        "Szwajcarska Szpital"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -819,7 +753,7 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Junikowo PKM", 
+        "Malwowa", 
         "Radojewo"
       ], 
       "color1": "000000", 
@@ -896,8 +830,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Mogile\u0144ska", 
-        "Port Lotniczy \u0141awica"
+        "Port Lotniczy \u0141awica", 
+        "Mogile\u0144ska"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -925,78 +859,12 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "226", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "227", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Kozieg\u0142owy Osiedle Le\u015bne", 
         "Rondo Rataje"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "250", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
-      "petle": [
-        "G\u00f3rczyn PKM", 
-        "G\u0142uchowo Stawna"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "252", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Przeb\u0119dowo P\u0119tla"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "253", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Komunikacji Publicznej Suchy Las Sp. z o.o.", 
-      "petle": [
-        "Osiedle Sobieskiego", 
-        "Chludowo Szko\u0142a"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "257", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
-      "petle": [
-        "Dopiewo Dworzec Kolejowy", 
-        "Budziszy\u0144ska"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "258", 
-      "typ": "bus", 
-      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
-      "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny", 
-        "Tarnowo Pdg Centrum"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1618,17 +1486,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "707", 
-      "typ": "bus", 
-      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
-      "petle": [
-        "G\u00f3rczyn PKM", 
-        "Rosn\u00f3wko PKM"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "710", 
       "typ": "bus", 
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.", 
@@ -1809,8 +1666,8 @@
       "typ": "bus", 
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.", 
       "petle": [
-        "Ogrody", 
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek", 
+        "Ogrody"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
