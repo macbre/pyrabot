@@ -651,15 +651,6 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
-  "195":{
-    "typ":"bus",
-    "petle":[
-      "Ogrody",
-      "Strzeszynek"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "196":{
     "typ":"bus",
     "petle":[
@@ -695,6 +686,15 @@
     "petle":[
       "Franowo",
       "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "208":{
+    "typ":"tram",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Mi\u0142ostowo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
