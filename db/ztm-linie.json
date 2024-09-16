@@ -1,11 +1,11 @@
 {
-  "0":{
+  "T3":{
     "typ":"tram",
     "petle":[
-      "Ratajczaka",
-      "27 Grudnia"
+      "Pi\u0105tkowska",
+      "Ma\u0142e Garbary"
     ],
-    "kolor1":"#0D7B49",
+    "kolor1":"#525252",
     "kolor2":"#FFFFFF"
   },
   "1":{
@@ -34,7 +34,7 @@
     "typ":"tram",
     "petle":[
       "Unii Lubelskiej",
-      "B\u0142a\u017ceja"
+      "Unii Lubelskiej"
     ],
     "kolor1":"#8E364C",
     "kolor2":"#FFFFFF",
@@ -66,7 +66,7 @@
   "7":{
     "typ":"tram",
     "petle":[
-      "Po\u0142abska",
+      "Ogrody",
       "Ogrody"
     ],
     "kolor1":"#003594",
@@ -89,7 +89,7 @@
     "typ":"tram",
     "petle":[
       "D\u0119biec PKM",
-      "Pi\u0105tkowska"
+      "D\u0119biec PKM"
     ],
     "kolor1":"#FF671F",
     "kolor2":"#000000",
@@ -99,7 +99,7 @@
   "10":{
     "typ":"tram",
     "petle":[
-      "B\u0142a\u017ceja",
+      "Osiedle Sobieskiego",
       "D\u0119biec PKM"
     ],
     "kolor1":"#F1B434",
@@ -110,7 +110,7 @@
   "11":{
     "typ":"tram",
     "petle":[
-      "Pi\u0105tkowska",
+      "Osiedle Sobieskiego",
       "Unii Lubelskiej"
     ],
     "kolor1":"#3CDBC0",
@@ -195,28 +195,6 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
-  "19":{
-    "typ":"tram",
-    "petle":[
-      "D\u0119biec PKM",
-      "Po\u0142abska"
-    ],
-    "kolor1":"#40BDB0",
-    "kolor2":"#FFFFFF",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
-  },
-  "20":{
-    "typ":"tram",
-    "petle":[
-      "Ratajczaka",
-      "27 Grudnia"
-    ],
-    "kolor1":"#595FA7",
-    "kolor2":"#FFFFFF",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
-  },
   "91":{
     "typ":"tram",
     "petle":[
@@ -228,23 +206,16 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/91"
   },
-  "100":{
-    "typ":"bus",
+  "93":{
+    "typ":"tram",
     "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
+      "Wilczak",
+      "B\u0142a\u017ceja"
     ],
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF"
-  },
-  "102":{
-    "typ":"bus",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF"
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93"
   },
   "121":{
     "typ":"bus",
@@ -690,15 +661,6 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
-  "208":{
-    "typ":"tram",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Mi\u0142ostowo"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "211":{
     "typ":"bus",
     "petle":[
@@ -830,54 +792,6 @@
     "petle":[
       "Kozieg\u0142owy Osiedle Le\u015bne",
       "Rondo Rataje"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "250":{
-    "typ":"bus",
-    "petle":[
-      "G\u00f3rczyn PKM",
-      "G\u0142uchowo Stawna"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "252":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
-  },
-  "253":{
-    "typ":"bus",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "257":{
-    "typ":"bus",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Budziszy\u0144ska"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "258":{
-    "typ":"bus",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -1648,8 +1562,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
