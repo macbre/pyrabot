@@ -1,13 +1,4 @@
 {
-  "T3":{
-    "typ":"tram",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Pi\u0105tkowska"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "0":{
     "typ":"tram",
     "petle":[
@@ -43,7 +34,7 @@
     "typ":"tram",
     "petle":[
       "Unii Lubelskiej",
-      "Unii Lubelskiej"
+      "B\u0142a\u017ceja"
     ],
     "kolor1":"#8E364C",
     "kolor2":"#FFFFFF",
@@ -75,7 +66,7 @@
   "7":{
     "typ":"tram",
     "petle":[
-      "Ogrody",
+      "Po\u0142abska",
       "Ogrody"
     ],
     "kolor1":"#003594",
@@ -98,7 +89,7 @@
     "typ":"tram",
     "petle":[
       "D\u0119biec PKM",
-      "D\u0119biec PKM"
+      "Pi\u0105tkowska"
     ],
     "kolor1":"#FF671F",
     "kolor2":"#000000",
@@ -108,7 +99,7 @@
   "10":{
     "typ":"tram",
     "petle":[
-      "Osiedle Sobieskiego",
+      "B\u0142a\u017ceja",
       "D\u0119biec PKM"
     ],
     "kolor1":"#F1B434",
@@ -119,7 +110,7 @@
   "11":{
     "typ":"tram",
     "petle":[
-      "Osiedle Sobieskiego",
+      "Pi\u0105tkowska",
       "Unii Lubelskiej"
     ],
     "kolor1":"#3CDBC0",
@@ -204,6 +195,17 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/18"
   },
+  "19":{
+    "typ":"tram",
+    "petle":[
+      "D\u0119biec PKM",
+      "Po\u0142abska"
+    ],
+    "kolor1":"#40BDB0",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
+  },
   "20":{
     "typ":"tram",
     "petle":[
@@ -214,17 +216,6 @@
     "kolor2":"#FFFFFF",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
-  },
-  "93":{
-    "typ":"tram",
-    "petle":[
-      "Wilczak",
-      "B\u0142a\u017ceja"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/93"
   },
   "100":{
     "typ":"bus",
@@ -683,15 +674,6 @@
     "typ":"tram",
     "petle":[
       "Franowo",
-      "Osiedle Sobieskiego"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "203":{
-    "typ":"tram",
-    "petle":[
-      "Dworzec Zachodni",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",
