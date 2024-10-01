@@ -1,13 +1,4 @@
 {
-  "0":{
-    "typ":"tram",
-    "petle":[
-      "Ratajczaka",
-      "27 Grudnia"
-    ],
-    "kolor1":"#0D7B49",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -205,35 +196,6 @@
     "kolor2":"#FFFFFF",
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
-  },
-  "20":{
-    "typ":"tram",
-    "petle":[
-      "Ratajczaka",
-      "27 Grudnia"
-    ],
-    "kolor1":"#595FA7",
-    "kolor2":"#FFFFFF",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/20"
-  },
-  "100":{
-    "typ":"bus",
-    "petle":[
-      "Nowe Zoo",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF"
-  },
-  "102":{
-    "typ":"bus",
-    "petle":[
-      "Muzeum Broni Pancernej",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF"
   },
   "121":{
     "typ":"bus",
@@ -674,6 +636,15 @@
     "typ":"tram",
     "petle":[
       "Franowo",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "203":{
+    "typ":"tram",
+    "petle":[
+      "Dworzec Zachodni",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#000000",

@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "0", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ratajczaka", 
-        "27 Grudnia"
-      ], 
-      "color1": "0D7B49", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -207,39 +196,6 @@
         "Po\u0142abska"
       ], 
       "color1": "40BDB0", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "20", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ratajczaka", 
-        "27 Grudnia"
-      ], 
-      "color1": "595FA7", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "100", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Nowe Zoo", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "E31E24", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "102", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Muzeum Broni Pancernej", 
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ], 
-      "color1": "E31E24", 
       "color2": "FFFFFF"
     }, 
     {
@@ -776,6 +732,17 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Franowo", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "203", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Dworzec Zachodni", 
         "Osiedle Sobieskiego"
       ], 
       "color1": "000000", 
