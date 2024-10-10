@@ -1,13 +1,4 @@
 {
-  "T2":{
-    "typ":"tram",
-    "petle":[
-      "D\u0119biec PKM",
-      "D\u0119biec PKM"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -22,7 +13,7 @@
   "2":{
     "typ":"tram",
     "petle":[
-      "Ogrody",
+      "D\u0119biec PKM",
       "Ogrody"
     ],
     "kolor1":"#72C4E7",
@@ -785,54 +776,6 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
   },
-  "250":{
-    "typ":"bus",
-    "petle":[
-      "G\u00f3rczyn PKM",
-      "G\u0142uchowo Stawna"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "252":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Przeb\u0119dowo P\u0119tla"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/252"
-  },
-  "253":{
-    "typ":"bus",
-    "petle":[
-      "Osiedle Sobieskiego",
-      "Chludowo Szko\u0142a"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "257":{
-    "typ":"bus",
-    "petle":[
-      "Dopiewo Dworzec Kolejowy",
-      "Junikowo"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
-  "258":{
-    "typ":"bus",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Tarnowo Pdg Centrum"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "312":{
     "typ":"bus",
     "petle":[
@@ -970,60 +913,6 @@
     "agency":"TRANSKOM",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/TRANSKOM/linia/397"
   },
-  "400":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Osiedle Raczy\u0144skiego"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "401":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "405":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz Rynek"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "406":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Centrum Handlowe Etc"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "407":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Jasin Rabowicka P\u0119tla"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "412":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "416":{
     "typ":"bus",
     "petle":[
@@ -1065,123 +954,6 @@
     "petle":[
       "Gowarzewo Czere\u015bniowa",
       "Rondo Rataje"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "484":{
-    "typ":"bus",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Zalasewo Osiedle Le\u015bne"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "485":{
-    "typ":"bus",
-    "petle":[
-      "Pobiedziska Dworzec",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "486":{
-    "typ":"bus",
-    "petle":[
-      "Siekierki Wielkie Ko\u015bci\u00f3\u0142",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "488":{
-    "typ":"bus",
-    "petle":[
-      "Markowice Centrum",
-      "Kleszczewo Park"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "489":{
-    "typ":"bus",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Kleszczewo Park"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "490":{
-    "typ":"bus",
-    "petle":[
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "491":{
-    "typ":"bus",
-    "petle":[
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "492":{
-    "typ":"bus",
-    "petle":[
-      "Uzarzewo P\u0119tla (Pa\u0142ac)",
-      "Kobylnica W\u0119ze\u0142"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "493":{
-    "typ":"bus",
-    "petle":[
-      "Kar\u0142owice P\u0119tla",
-      "Kobylnica W\u0119ze\u0142"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "494":{
-    "typ":"bus",
-    "petle":[
-      "Garby Ma\u0142e P\u0119tla",
-      "Kobylnica Stacja"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "497":{
-    "typ":"bus",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Kruszewnia P\u0119tla"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "498":{
-    "typ":"bus",
-    "petle":[
-      "Kruszewnia P\u0119tla",
-      "Swarz\u0119dz W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "499":{
-    "typ":"bus",
-    "petle":[
-      "Zalasewo Osiedle Le\u015bne",
-      "Swarz\u0119dz Osiedle Ko\u015bciuszkowc\u00f3w"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
@@ -1467,78 +1239,6 @@
     "agency":"PUK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/PUK/linia/729"
   },
-  "790":{
-    "typ":"bus",
-    "petle":[
-      "Tarnowo Pdg Termy",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "791":{
-    "typ":"bus",
-    "petle":[
-      "Trzcielin P\u0119tla",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "792":{
-    "typ":"bus",
-    "petle":[
-      "Wi\u0119ckowice Szko\u0142a",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "795":{
-    "typ":"bus",
-    "petle":[
-      "Go\u0142uski Starowiejska",
-      "Pal\u0119dzie Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "796":{
-    "typ":"bus",
-    "petle":[
-      "D\u0105browa Kr\u00f3tka",
-      "D\u0105br\u00f3wka Szko\u0142a"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "797":{
-    "typ":"bus",
-    "petle":[
-      "Malwowa",
-      "Dopiewo Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "798":{
-    "typ":"bus",
-    "petle":[
-      "Malwowa",
-      "Sk\u00f3rzewo Wiosenna"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
-  "799":{
-    "typ":"bus",
-    "petle":[
-      "Dopiewiec Polarna",
-      "Pal\u0119dzie Dworzec Kolejowy"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000"
-  },
   "801":{
     "typ":"bus",
     "petle":[
@@ -1608,8 +1308,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
