@@ -1,6 +1,17 @@
 {
   "lines": [
     {
+      "name": "T2", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "D\u0119biec PKM", 
+        "D\u0119biec PKM"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -196,94 +207,6 @@
         "Po\u0142abska"
       ], 
       "color1": "40BDB0", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "51", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Unii Lubelskiej", 
-        "Franowo"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "52", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Traugutta", 
-        "D\u0119biec PKM"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "53", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Staro\u0142\u0119ka", 
-        "Staro\u0142\u0119ka PKM"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "55", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Krauthofera", 
-        "G\u00f3rczyn PKM"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "56", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Mi\u0142ostowo"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "58", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ma\u0142e Garbary", 
-        "Rondo \u015ar\u00f3dka"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "59", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "So\u0142acz", 
-        "Pi\u0105tkowska"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "63", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Wilczak", 
-        "B\u0142a\u017ceja"
-      ], 
-      "color1": "D0006F", 
       "color2": "FFFFFF"
     }, 
     {
@@ -688,7 +611,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Rataje", 
-        "Nowe Zoo"
+        "Termy Malta\u0144skie"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
