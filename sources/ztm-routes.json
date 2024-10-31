@@ -199,39 +199,6 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "41", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Junikowo"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "42", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Osiedle Sobieskiego"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "43", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Mi\u0142ostowo", 
-        "Junikowo"
-      ], 
-      "color1": "D0006F", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "121", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -733,6 +700,17 @@
       "petle": [
         "Unii Lubelskiej", 
         "Staro\u0142\u0119ka PKM"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "195", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Ogrody", 
+        "Strzeszynek"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
