@@ -1,13 +1,4 @@
 {
-  "T2":{
-    "typ":"tram",
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Kaponiera"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -238,15 +229,6 @@
     "petle":[
       "Safony",
       "Instytut Technologiczno-Przyrodniczy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "133":{
-    "typ":"bus",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -616,15 +598,6 @@
     "petle":[
       "Unii Lubelskiej",
       "Staro\u0142\u0119ka PKM"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
-  "195":{
-    "typ":"bus",
-    "petle":[
-      "Ogrody",
-      "Strzeszynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
