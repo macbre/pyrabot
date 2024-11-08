@@ -199,6 +199,94 @@
       "color2": "FFFFFF"
     }, 
     {
+      "name": "51", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Wielkopolski", 
+        "B\u0142a\u017ceja"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "52", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Aleje Marcinkowskiego", 
+        "D\u0119biec PKM"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "53", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Aleje Marcinkowskiego", 
+        "Staro\u0142\u0119ka PKM"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "54", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Plac Wielkopolski", 
+        "Osiedle Sobieskiego"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "55", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Grotkowska", 
+        "Rondo Nowaka-Jeziora\u0144skiego"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "56", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Aleje Marcinkowskiego", 
+        "Franowo"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "112", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "G\u00f3rczyn PKM", 
+        "G\u00f3rczyn PKM"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "113", 
+      "typ": "bus", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Osiedle Kopernika", 
+        "G\u00f3rczyn PKM"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "121", 
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -1699,7 +1787,7 @@
       "typ": "bus", 
       "agency": "Urz\u0105d Gminy Dopiewo", 
       "petle": [
-        "Go\u0142uski Starowiejska", 
+        "Go\u0142uski P\u0119tla", 
         "Pal\u0119dzie Dworzec Kolejowy"
       ], 
       "color1": "FFFFFF", 

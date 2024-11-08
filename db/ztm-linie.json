@@ -197,6 +197,88 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/19"
   },
+  "51":{
+    "typ":"tram",
+    "petle":[
+      "Plac Wielkopolski",
+      "B\u0142a\u017ceja"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/51"
+  },
+  "52":{
+    "typ":"tram",
+    "petle":[
+      "Aleje Marcinkowskiego",
+      "D\u0119biec PKM"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/52"
+  },
+  "53":{
+    "typ":"tram",
+    "petle":[
+      "Aleje Marcinkowskiego",
+      "Staro\u0142\u0119ka PKM"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF"
+  },
+  "54":{
+    "typ":"tram",
+    "petle":[
+      "Plac Wielkopolski",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/54"
+  },
+  "55":{
+    "typ":"tram",
+    "petle":[
+      "Grotkowska",
+      "Rondo Nowaka-Jeziora\u0144skiego"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/55"
+  },
+  "56":{
+    "typ":"tram",
+    "petle":[
+      "Aleje Marcinkowskiego",
+      "Franowo"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "agency":"MPK",
+    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/56"
+  },
+  "112":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3rczyn PKM",
+      "G\u00f3rczyn PKM"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
+  "113":{
+    "typ":"bus",
+    "petle":[
+      "Osiedle Kopernika",
+      "G\u00f3rczyn PKM"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "121":{
     "typ":"bus",
     "petle":[
@@ -1488,7 +1570,7 @@
   "795":{
     "typ":"bus",
     "petle":[
-      "Go\u0142uski Starowiejska",
+      "Go\u0142uski P\u0119tla",
       "Pal\u0119dzie Dworzec Kolejowy"
     ],
     "kolor1":"#FFFFFF",
