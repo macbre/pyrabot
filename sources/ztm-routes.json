@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "T8", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo \u015ar\u00f3dka", 
-        "Rondo \u015ar\u00f3dka"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -219,17 +208,6 @@
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"
-    }, 
-    {
-      "name": "68", 
-      "typ": "tram", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Ogrody", 
-        "Budziszy\u0144ska"
-      ], 
-      "color1": "009639", 
-      "color2": "FFFFFF"
     }, 
     {
       "name": "121", 
@@ -1358,8 +1336,19 @@
       "typ": "bus", 
       "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
       "petle": [
-        "Garby Ma\u0142e P\u0119tla", 
-        "Kobylnica Stacja"
+        "Kobylnica Stacja", 
+        "Garby Ma\u0142e P\u0119tla"
+      ], 
+      "color1": "FFFFFF", 
+      "color2": "000000"
+    }, 
+    {
+      "name": "495", 
+      "typ": "bus", 
+      "agency": "Swarz\u0119dzkie Przedsi\u0119biorstwo Komunalne Sp. z o.o.", 
+      "petle": [
+        "Rabowice Sk\u0142adowisko", 
+        "Swarz\u0119dz Osiedle Raczy\u0144skiego"
       ], 
       "color1": "FFFFFF", 
       "color2": "000000"

@@ -1,13 +1,4 @@
 {
-  "T8":{
-    "typ":"tram",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -214,17 +205,6 @@
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
-  },
-  "68":{
-    "typ":"tram",
-    "petle":[
-      "Ogrody",
-      "Budziszy\u0144ska"
-    ],
-    "kolor1":"#009639",
-    "kolor2":"#FFFFFF",
-    "agency":"MPK",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/68"
   },
   "121":{
     "typ":"bus",
@@ -1173,8 +1153,17 @@
   "494":{
     "typ":"bus",
     "petle":[
-      "Garby Ma\u0142e P\u0119tla",
-      "Kobylnica Stacja"
+      "Kobylnica Stacja",
+      "Garby Ma\u0142e P\u0119tla"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000"
+  },
+  "495":{
+    "typ":"bus",
+    "petle":[
+      "Rabowice Sk\u0142adowisko",
+      "Swarz\u0119dz Osiedle Raczy\u0144skiego"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000"
