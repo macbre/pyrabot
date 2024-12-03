@@ -1,17 +1,6 @@
 {
   "lines": [
     {
-      "name": "T5", 
-      "typ": "bus", 
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
-      "petle": [
-        "Rondo Rataje", 
-        "Rondo Rataje"
-      ], 
-      "color1": "000000", 
-      "color2": "FFFFFF"
-    }, 
-    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -49,7 +38,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Staro\u0142\u0119ka PKM", 
+        "Zawady", 
         "G\u00f3rczyn PKM"
       ], 
       "color1": "6CC24A", 
@@ -60,7 +49,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Ogrody", 
+        "Mi\u0142ostowo", 
         "Budziszy\u0144ska"
       ], 
       "color1": "009639", 
@@ -72,7 +61,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Po\u0142abska", 
-        "Zawady"
+        "Ogrody"
       ], 
       "color1": "003594", 
       "color2": "FFFFFF"
@@ -181,7 +170,7 @@
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Mi\u0142ostowo", 
+        "Staro\u0142\u0119ka PKM", 
         "G\u00f3rczyn PKM"
       ], 
       "color1": "004F71", 

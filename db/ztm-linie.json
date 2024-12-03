@@ -1,13 +1,4 @@
 {
-  "T5":{
-    "typ":"bus",
-    "petle":[
-      "Rondo Rataje",
-      "Rondo Rataje"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -44,7 +35,7 @@
   "5":{
     "typ":"tram",
     "petle":[
-      "Staro\u0142\u0119ka PKM",
+      "Zawady",
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#6CC24A",
@@ -55,7 +46,7 @@
   "6":{
     "typ":"tram",
     "petle":[
-      "Ogrody",
+      "Mi\u0142ostowo",
       "Budziszy\u0144ska"
     ],
     "kolor1":"#009639",
@@ -67,7 +58,7 @@
     "typ":"tram",
     "petle":[
       "Po\u0142abska",
-      "Zawady"
+      "Ogrody"
     ],
     "kolor1":"#003594",
     "kolor2":"#FFFFFF",
@@ -176,7 +167,7 @@
   "17":{
     "typ":"tram",
     "petle":[
-      "Mi\u0142ostowo",
+      "Staro\u0142\u0119ka PKM",
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#004F71",
