@@ -1,6 +1,17 @@
 {
   "lines": [
     {
+      "name": "T8", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Rondo \u015ar\u00f3dka", 
+        "Rondo \u015ar\u00f3dka"
+      ], 
+      "color1": "525252", 
+      "color2": "FFFFFF"
+    }, 
+    {
       "name": "1", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
@@ -764,8 +775,8 @@
       "typ": "bus", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Szwajcarska Szpital", 
-        "Kacza"
+        "Kacza", 
+        "Szwajcarska Szpital"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"

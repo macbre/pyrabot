@@ -1,4 +1,13 @@
 {
+  "T8":{
+    "typ":"tram",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF"
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -662,8 +671,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Szwajcarska Szpital",
-      "Kacza"
+      "Kacza",
+      "Szwajcarska Szpital"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
