@@ -1,13 +1,4 @@
 {
-  "T8":{
-    "typ":"tram",
-    "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Rondo \u015ar\u00f3dka"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF"
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -671,8 +662,8 @@
   "212":{
     "typ":"bus",
     "petle":[
-      "Kacza",
-      "Szwajcarska Szpital"
+      "Szwajcarska Szpital",
+      "Kacza"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -1626,8 +1617,8 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
