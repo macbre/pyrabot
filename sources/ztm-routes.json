@@ -207,7 +207,7 @@
         "G\u00f3rczyn PKM"
       ], 
       "color1": "FFFFFF", 
-      "color2": "FFFFFF"
+      "color2": "000000"
     }, 
     {
       "name": "121", 
@@ -589,7 +589,7 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
         "Rondo Rataje", 
-        "Termy Malta\u0144skie"
+        "Rondo \u015ar\u00f3dka"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"
@@ -716,12 +716,23 @@
       "color2": "FFFFFF"
     }, 
     {
-      "name": "202", 
+      "name": "204", 
       "typ": "tram", 
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
       "petle": [
-        "Franowo", 
-        "Osiedle Sobieskiego"
+        "B\u0142a\u017ceja", 
+        "B\u0142a\u017ceja"
+      ], 
+      "color1": "000000", 
+      "color2": "FFFFFF"
+    }, 
+    {
+      "name": "208", 
+      "typ": "tram", 
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu", 
+      "petle": [
+        "Zawady", 
+        "Budziszy\u0144ska"
       ], 
       "color1": "000000", 
       "color2": "FFFFFF"
@@ -1899,39 +1910,6 @@
       "petle": [
         "Ogrody", 
         "Paw\u0142owice P\u0119tla"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "882", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
-      "petle": [
-        "Rokietnica W\u0119ze\u0142 Przesiadkowy", 
-        "Tarnowo Pdg Termy"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "891", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
-      "petle": [
-        "Rokietnica W\u0119ze\u0142 Przesiadkowy", 
-        "Mrowino Szko\u0142a"
-      ], 
-      "color1": "525252", 
-      "color2": "FFFFFF"
-    }, 
-    {
-      "name": "893", 
-      "typ": "bus", 
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.", 
-      "petle": [
-        "\u017bydowo P\u0119tla", 
-        "Rokietnica W\u0119ze\u0142 Przesiadkowy"
       ], 
       "color1": "525252", 
       "color2": "FFFFFF"

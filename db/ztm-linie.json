@@ -204,7 +204,7 @@
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF"
+    "kolor2":"#000000"
   },
   "121":{
     "typ":"bus",
@@ -516,7 +516,7 @@
     "typ":"bus",
     "petle":[
       "Rondo Rataje",
-      "Termy Malta\u0144skie"
+      "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
@@ -623,11 +623,20 @@
     "agency":"MPK",
     "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_MPK/linia/201"
   },
-  "202":{
+  "204":{
     "typ":"tram",
     "petle":[
-      "Franowo",
-      "Osiedle Sobieskiego"
+      "B\u0142a\u017ceja",
+      "B\u0142a\u017ceja"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF"
+  },
+  "208":{
+    "typ":"tram",
+    "petle":[
+      "Zawady",
+      "Budziszy\u0144ska"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF"
@@ -1677,39 +1686,6 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF"
-  },
-  "882":{
-    "typ":"bus",
-    "petle":[
-      "Rokietnica W\u0119ze\u0142 Przesiadkowy",
-      "Tarnowo Pdg Termy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "agency":"TPBUS",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_TPBUS/linia/882"
-  },
-  "891":{
-    "typ":"bus",
-    "petle":[
-      "Rokietnica W\u0119ze\u0142 Przesiadkowy",
-      "Mrowino Szko\u0142a"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "agency":"ROKBUS",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/891"
-  },
-  "893":{
-    "typ":"bus",
-    "petle":[
-      "\u017bydowo P\u0119tla",
-      "Rokietnica W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "agency":"ROKBUS",
-    "rozklad":"http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/ZTM_ROKBUS/linia/893"
   },
   "901":{
     "typ":"bus",
