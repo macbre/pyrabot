@@ -3,6 +3,7 @@
  * Skrypt importujący wybrane zdjęcie z portalu Cyryl
  *
  * @see http://www.cyryl.poznan.pl/katalog.php?pdgObRozsz=1&id_obiektu=21369
+ * @see https://cyryl.poznan.pl/items/search?key=CYRYL_19_1_19_0006
  */
 var bot = require('nodemw'),
 	client = new bot('config.js'),
