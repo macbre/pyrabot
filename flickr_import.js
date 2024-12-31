@@ -35,7 +35,7 @@ client.logIn(function() {
 			return;
 		}
 
-		var imageUrl = photo.urls.large1600,
+		var imageUrl = photo.urls.original,
 			authorName = photo.owner.name,
 			tags = photo.tags.map(function(tag) {
 				if (!authorName) {
@@ -46,9 +46,10 @@ client.logIn(function() {
 			});
 
 		// @see https://github.com/npm-flickr/flickr-photo-info#usage
-		client.log('Info:   ', JSON.stringify(photo));
-		client.log('Author: ', authorName);
-		client.log('Tags:   ', tags);
+		client.log('Info:   ' + JSON.stringify(photo));
+		client.log('Image:  ' + imageUrl);
+		client.log('Author: ' + authorName);
+		client.log('Tags:   ' + tags);
 
 		// szablon Flickr
 		var text = '{{MediaWiki:Flickr5|1=$1|2=$2|3=$3|4=$4}}'.replace('$1', photo.id).replace('$2', photo.owner.id).replace('$3', authorName).replace('$4', photo.owner.id);
