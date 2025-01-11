@@ -126,11 +126,10 @@ client.logIn(function(err) {
 		throw err;	
 	}
 
-	/**
 	// aktualizuj Moduł:Przystanki-linie
-	var lua = fs.readFileSync('db/ztm-stops.lua').toString();
+	const lua = fs.readFileSync('db/ztm-stops.lua').toString();
 
-	client.edit('Module:Przystanki-linie', lua, 'Aktualizacja listy przystanków', function(err, data) {
+	client.edit('Module:Przystanki-linie', lua, 'Aktualizacja listy przystanków', function(err, _) {
 		if (err) {
 			console.error('Error: Module:Przystanki-linie');
 			console.error(err);
@@ -138,26 +137,25 @@ client.logIn(function(err) {
 		}
 
 		console.log('\n\n> Moduł:Przystanki-linie zaktualizowany!');
+	});
 
-		/**/
-		client.getPagesByPrefix('Linia tramwajowa nr', function(err, pages) {
-			pages && pages.forEach(function(page) {
-				if (page.ns != 0) {
-					return;
-				}
+	client.getPagesByPrefix('Linia tramwajowa nr', function(err, pages) {
+		pages && pages.forEach(function(page) {
+			if (page.ns != 0) {
+				return;
+			}
 
-				updateLine(page.title);
-			});
+			updateLine(page.title);
 		});
-		/**/
-		client.getPagesByPrefix('Linia autobusowa nr', function(err, pages) {
-			pages && pages.forEach(function(page) {
-				if (page.ns != 0) {
-					return;
-				}
+	});
+	/**/
+	client.getPagesByPrefix('Linia autobusowa nr', function(err, pages) {
+		pages && pages.forEach(function(page) {
+			if (page.ns != 0) {
+				return;
+			}
 
-				updateLine(page.title);
-			});
+			updateLine(page.title);
 		});
-	//});
+	});
 });
