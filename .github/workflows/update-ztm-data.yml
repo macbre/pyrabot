@@ -42,9 +42,9 @@ jobs:
 
           cd .. && git diff
 
-      - name: Update JSON file
+      - name: Update LUA file with stops to lines mapping
         run: |
-          ./ztm.py
+          ./ztm_lua.py
 
       # https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
       - name: Set up git
