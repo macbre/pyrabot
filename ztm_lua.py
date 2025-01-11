@@ -49,11 +49,19 @@ for line in routes['lines']:
 with open("db/ztm-stops.lua", "wt") as lua:
     lua.write('local database = {\n')
 
+    first_row = True
+
     for stop in sorted(stops.keys()):
         lines = map(str, sorted(stops[stop]))
         lines_list = '{ "%s" }' % '", "'.join(lines)
-        lua.write(f'    ["{stop}"] = {lines_list}\n')
 
-    lua.write('}\n\nreturn database\n')
+        # add the previous row with comma
+        if not first_row:
+            lua.write(',\n')
+
+        lua.write(f'    ["{stop}"] = {lines_list}')
+        first_row = False
+
+    lua.write('\n}\n\nreturn database\n')
 
 logging.info(f"Gotowe")
