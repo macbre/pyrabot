@@ -1,16 +1,15 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
+#!/usr/bin/env python3
 """
 Skrypt importujący dane o lokalizacji przystanków
 
-@see http://www.rozkladzik.pl/poznan/data.txt
+@see https://www.rozkladzik.pl/poznan/data.txt
 """
 
 import json
 import logging
 
-import unicodecsv
+import csv
+import requests
 from geojson import FeatureCollection, Point, Feature
 
 logging.basicConfig(level=logging.INFO)
@@ -20,8 +19,11 @@ from utils import ReverseGeo
 stops = []
 
 # czytaj plik z rozkladzik.pl
-with open('rozkladzik.txt') as f:
-    content = f.readline()
+resp = requests.get('https://www.rozkladzik.pl/poznan/data.txt', headers={'user-agent': 'pyrabot'})
+resp.raise_for_status()
+logging.info(f'HTTP: {resp.url} got {resp.status_code}')
+
+content = resp.text
 
 # rozdziel po #SEP# a następnie po średniku
 parts = content.split("#SEP#")
@@ -69,8 +71,8 @@ print("Znalezionych przystanków: %d" % (len(stops)))
 # print json.dumps(stops, indent=True)
 
 # zapisz jak TSV
-with open('ztm-stops.tsv', 'wb') as out:
-    writer = unicodecsv.writer(out, delimiter='\t')
+with open('ztm-stops.tsv', 'wt') as out:
+    writer = csv.writer(out, delimiter='\t')
 
     for stop in stops:
         writer.writerow([
