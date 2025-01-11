@@ -90,10 +90,10 @@ class ReverseGeo(NominatimApi):
             else:
                 return None
 
-            self._logger.info('Place: %s (%s)', place, data['address']['county'])
+            self._logger.info('Place: %s (%s)', place, details['city'])
 
             return {
-                "city": data['address']['county'],
+                "city": details['city'],
                 "place": place,
             }
 

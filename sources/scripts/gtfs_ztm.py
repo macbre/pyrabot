@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
+#!/usr/bin/env python3
 """
 Skrypt generujący plik JSON z listą linii tramwajowych i autobusowych na bazie danych GTFS
 
@@ -38,7 +36,7 @@ resp = download_file(url, local_filename=path)
 logging.info('Response: %r', resp.headers)
 
 logging.info('Odczyt pliku GTFS %s...', path)
-feed = partridge.raw_feed(path)
+feed = partridge.load_raw_feed(path)
 
 logging.info('Pobieram dane o liniach...')
 
