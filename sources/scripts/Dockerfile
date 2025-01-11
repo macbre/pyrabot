@@ -11,5 +11,7 @@ WORKDIR /opt/pyrabot/scripts
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt && pip list
 
+ENV ROUTERS_PATH '/tmp/ztm-routes.json'
+
 COPY gtfs_ztm.py .
 VOLUME /tmp/ztm-routes.json

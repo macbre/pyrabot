@@ -9,6 +9,7 @@ import logging
 import requests
 
 from collections import OrderedDict
+from os import getenv
 
 def download_file(url, local_filename):
     # NOTE the stream=True parameter below
@@ -28,6 +29,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('gfts-ztm')
 
 # pobierz plik gtfs
+# https://developers.google.com/transit/gtfs/reference
 url = 'https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile'
 path = '/tmp/gtfs_ztm.zip'
 
@@ -40,6 +42,7 @@ feed = partridge.load_raw_feed(path)
 
 logging.info('Pobieram dane o liniach...')
 
+# https://partridge.readthedocs.io/en/stable/
 routes = feed.routes
 agency = feed.agency
 
@@ -53,8 +56,6 @@ logging.info('Znalezionych linii: %d', len(routes))
 
 lines = []
 for i, route in routes.iterrows():
-    # print(route)
-
     # Dopiewo Dworzec Kolejowy - Ogrody
     trasa = route['route_long_name'].split('|')[0].lower().title()
 
@@ -65,21 +66,25 @@ for i, route in routes.iterrows():
 
     petle = trasa.split(' - ')
 
+    # Linia 12: STAROŁĘKA PKM - Starołęcka - Zamenhofa - Krzywoustego - Królowej Jadwigi - Matyi - Głogowska - Trasa PST - OS. SOBIESKIEGO
+    przebieg = str(route['route_desc']).split('|')[0].split('^')[0]
+
     entry = OrderedDict()
     entry['name'] = route['route_id']
     entry['typ'] = 'tram' if route['route_type'] == '0' else 'bus'
     entry['agency'] = agencies.get(route['agency_id'], '')
     entry['petle'] = petle
+    entry['przebieg'] = przebieg
     entry['color1'] = route['route_color']
     entry['color2'] = route['route_text_color']
 
     lines.append(entry)
 
-    logger.info('%s: %s', route['route_id'], ' - '.join(entry['petle']))
+    logger.info(f"Linia {route['route_id']}: {' - '.join(entry['petle'])} / {entry['przebieg']}")
 
 # print(lines)
 
-output = '/tmp/ztm-routes.json'
+output = getenv('ROUTES_PATH', '../ztm-routes.json')
 logging.info('Wyniki w %s', output)
 
 with open(output, "wt") as f:
