@@ -1,40 +1,7 @@
 #!/usr/bin/env python3
-
-import logging
-logging.basicConfig(level=logging.INFO)
-
 """
 Skrypt generujący dane dla skryptów aktualizujących
 dane o liniach tramwajowych i autobusowych
-
-db/ztm-linie.json:
-
-  "1": {
-    "petle": [
-      "Junikowo",
-      "Franowo"
-    ],
-    "strefy": [
-      "A"
-    ],
-    "przystanki": 31,
-    "czas": 41,
-    "agency": "ZTM MPK"
-  }
-
-db/ztm-ulice.json:
-
-    "Żegrze": [
-        1,
-        4,
-        5,
-        13,
-        17,
-        55,
-        66,
-        201,
-        245
-    ]
 
 db/ztm-stops.lua:
 
@@ -49,115 +16,44 @@ local database = {
 return database
 
 """
-
-import csv
 import json
+import logging
+
+from collections import defaultdict
+
+logging.basicConfig(level=logging.INFO)
+
 
 # czytaj ze źródeł
-with open("sources/ztm-routes.json") as f:
+with open("sources/ztm-routes.json", 'rt') as f:
     routes = json.load(f)
 
-with open("sources/ztm-operators.json") as f:
-    try:
-        operators = json.load(f)
-    except ValueError:
-        operators = {'lines': []}
-
 # generuj dane o liniach i przystankach
-lines = {}
-stops = {}
+stops = defaultdict(set)
 
 for line in routes['lines']:
     try:
         # wspieraj numery liczbowe i ze znakami, np.: T12 / 1
-        line['name'] = str(int(line['name']))
+        line['name'] = int(line['name'])
     except:
         pass
 
-    # rejestruj linię
-    lines[line['name']] = {
-        "typ": line['typ'],
-        "petle": line['petle'],
-        "kolor1": '#' + line['color1'],
-        "kolor2": '#' + line['color2'],
-        # "przystanki": line['przystanki'],
-    }
+    logging.info(f"Linia {line['name']} ...")
 
-    logging.info("Line %s: %r %s" % (line['name'], line['petle'], line['typ']))
-
-    """
     # rejestruj linię zatrzymujące się na poszczególnych przystankach
-    for stop in line['przystankiSymbole'].split(','):
-        if stop not in stops:
-            stops[stop] = []
+    for stop in line['przystankiSymbole']:
+        stops[stop].add(line['name'])
 
-	line_name = str(line['name'])
 
-	if line_name not in stops[stop]:
-	        stops[stop].append(line_name)
-     """
-
-"""
 # generuj dane o przystankach (format dla skryptów LUA)
-with open("db/ztm-stops.lua", "w") as lua:
-    lua_lines = ['    ["%s"] = { "%s" }' % (stop, '", "'.join(stops[stop])) for stop in sorted(stops.keys())]
+with open("db/ztm-stops.lua", "wt") as lua:
+    lua.write('local database = {\n')
 
-    lua.write('local database = {\n%s}\n\nreturn database\n' % ',\n'.join(lua_lines))
-"""
+    for stop in sorted(stops.keys()):
+        lines = map(str, sorted(stops[stop]))
+        lines_list = '{ "%s" }' % '", "'.join(lines)
+        lua.write(f'    ["{stop}"] = {lines_list}\n')
 
-# typ / operator linii + rozkład jazdy
-for line in operators['lines']:
-    if line['name'] in lines:
-        if line['night'] is True:
-            lines[line['name']]['night'] = True
+    lua.write('}\n\nreturn database\n')
 
-        # operator
-        lines[line['name']]['agency'] = line['operator'].replace('ZTM_', '')
-
-        # link do rozkładu jazdy
-        lines[line['name']]['rozklad'] = \
-            'http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/%s/linia/%s' % (line['operator'], line['name'])
-
-# TODO: inni operatorzy
-# * Kombus - http://www.kombus.pl/komunikacja
-
-# generuj plik JSON
-with open("db/ztm-linie.json", "w") as out:
-    # https://docs.python.org/3/library/json.html#json.dump
-    json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=False)
-
-"""
-# generuj dane o ulicach
-stops_to_street = {}
-streets = {}
-
-with open("sources/ztm-stops.tsv", "r") as f:
-    stops = csv.reader(f, delimiter="\t")
-
-    for stop in stops:
-        # tylko przystanki w Poznaniu
-        if stop[4] != 'Poznań':
-            continue
-
-        # ID przystanku -> ulica / lokalizacja
-        stops_to_street[stop[0]] = stop[5]
-
-for line in routes['lines']:
-    entry = []
-    stops = line['przystankiSymbole'].split(',')
-
-    for stop in stops:
-        if stop in stops_to_street:
-            street = stops_to_street[stop]
-
-            if street not in streets:
-                streets[street] = set()
-
-            streets[street].add(line['name'])
-
-for street in streets:
-    streets[street] = sorted(list(streets[street]))
-
-with open("db/ztm-ulice.json", "w") as out:
-    json.dump(streets, out, indent=2, separators=(',', ': '), sort_keys=True)
-"""
+logging.info(f"Gotowe")
