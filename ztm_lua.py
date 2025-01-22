@@ -76,8 +76,8 @@ with open("sources/ztm-operators.json") as f:
                 lines[line['name']]['agency'] = line['operator'].replace('ZTM_', '')
 
                 # link do rozkładu jazdy
-                lines[line['name']]['rozklad'] = \
-                    f'http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/{line['operator']}/linia/{line['name']}'
+                # https://www.ztm.poznan.pl/rozklad-jazdy/?linia=5
+                lines[line['name']]['rozklad'] = f'https://www.ztm.poznan.pl/rozklad-jazdy/?linia={line['name']}'
 
     except ValueError:
         logging.error('Failed reading operators data', exc_info=True)
