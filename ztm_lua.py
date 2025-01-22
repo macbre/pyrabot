@@ -52,7 +52,11 @@ with open("db/ztm-stops.lua", "wt") as lua:
     first_row = True
 
     for stop in sorted(stops.keys()):
-        lines = map(str, sorted(stops[stop]))
+        try:
+            lines = map(str, sorted(stops[stop]))
+        except TypeError:  # '<' not supported between instances of 'str' and 'int'
+            lines = map(str, stops[stop])
+
         lines_list = '{ "%s" }' % '", "'.join(lines)
 
         # add the previous row with comma
