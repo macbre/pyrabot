@@ -20,15 +20,17 @@ import json
 import logging
 
 from collections import defaultdict
+from math import ceil
 
 logging.basicConfig(level=logging.INFO)
 
 
 # czytaj ze źródeł
 with open("sources/ztm-routes.json", 'rt') as f:
-    routes = json.load(f)
+    routes: dict = json.load(f)
 
 # generuj dane o liniach i przystankach
+lines = defaultdict(dict)
 stops = defaultdict(set)
 
 for line in routes['lines']:
@@ -43,6 +45,48 @@ for line in routes['lines']:
     # rejestruj linię zatrzymujące się na poszczególnych przystankach
     for stop in line['przystankiSymbole']:
         stops[stop].add(line['name'])
+
+    # rejestruj linię
+    lines[str(line['name'])] = {
+        "typ": line['typ'],
+        "petle": line['petle'],
+        "kolor1": '#' + line['color1'],
+        "kolor2": '#' + line['color2'],
+        # przystanki uwzględniają te końcowe + w obie strony, liczba przystanków (pętla liczona jako zero): ceil((len - 2) / 2)
+        "przystanki": ceil( (len(line['przystankiSymbole'])-2) / 2),
+        "przebieg": line.get('przebieg'),
+    }
+
+
+# czytaj dane o operatorachj
+with open("sources/ztm-operators.json") as f:
+    try:
+        operators: dict = json.load(f)
+        logger = logging.getLogger('operators')
+
+        for line in operators['lines']:
+            logger.info(f'Line #{line['name']}: ' + repr(line))
+
+            if line['name'] in lines:
+                # rozszerz dane
+                if line['night'] is True:
+                    lines[line['name']]['night'] = True
+                
+                # operator
+                lines[line['name']]['agency'] = line['operator'].replace('ZTM_', '')
+
+                # link do rozkładu jazdy
+                lines[line['name']]['rozklad'] = \
+                    f'http://ztm.poznan.pl/komunikacja/rozklad/#/kierunki/{line['operator']}/linia/{line['name']}'
+
+    except ValueError:
+        logging.error('Failed reading operators data', exc_info=True)
+
+
+# generuj plik JSON z danymi o liniach ZTM
+# plik wykorzystuje następnie skrypt "petle_linia_ztm" aktualizując artykuły na wiki
+with open("db/ztm-linie.json", "w") as out:
+    json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=False)
 
 
 # generuj dane o przystankach (format dla skryptów LUA)
