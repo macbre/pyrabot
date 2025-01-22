@@ -15,7 +15,8 @@ function updateLine(pageTitle) {
 	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
 		stops = db[line] && db[line].petle,
 		rozklad = (db[line] && db[line].rozklad) || `https://www.ztm.poznan.pl/pl/rozklad-jazdy/${line}`,
-		przystanki = db[line] && db[line].przystanki;;
+		przystanki = db[line] && db[line].przystanki,
+		przebieg = db[line] && db[line].przebieg;
  
 	console.log("\n" + page.title + ' (#' + line + ')');
 
@@ -69,12 +70,21 @@ function updateLine(pageTitle) {
 		}
 
 		if (rozklad) {
-			// dodaj parametr do wukitekstu
+			// dodaj parametr do wikitekstu
 			if (content.indexOf('|rozkład') < 0) {
 				content = content.replace(/\|przystanki=/, '|rozkład=\n|przystanki=');
 			}
 
 			content = content.replace(/\|rozkład\s?=[^|]+/, "|rozkład=" + rozklad + "\n");
+		}
+
+		if (przebieg) {
+			// dodaj przebieg do wikitekstu
+			if (content.indexOf('|przebieg') < 0) {
+				content = content.replace(/\|rozkład=/, '|przebieg=\n|rozkład=');
+			}
+
+			content = content.replace(/\|przebieg\s?=[^|]+/, "|przebieg=" + przebieg + "\n");
 		}
 
 		// kolory
