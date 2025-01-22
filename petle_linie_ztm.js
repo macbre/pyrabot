@@ -59,16 +59,14 @@ function updateLine(pageTitle) {
 		content = content.replace(/\|pętla1\s?=[^|]+/, "|pętla1=" + stops[0] + "\n");
 		content = content.replace(/\|pętla2\s?=[^|]+/, "|pętla2=" + stops[1] + "\n");
 
-/**
 		if (przystanki > 0) {
-			// dodaj parametr do wukitekstu
+			// dodaj parametr do wikitekstu
 			if (content.indexOf('|przystanki') < 0) {
 				content = content.replace(/\|dlugosc=/, '|przystanki=\n|dlugosc=');
 			}
 
 			content = content.replace(/\|przystanki\s?=[^|]+/, "|przystanki=" + przystanki + "\n");
 		}
-**/
 
 		if (rozklad) {
 			// dodaj parametr do wukitekstu
