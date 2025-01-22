@@ -38,6 +38,7 @@ jobs:
           docker run \
             --rm \
             --volume $(pwd)/../ztm-routes.json:/tmp/ztm-routes.json \
+            --env ROUTES_PATH=/tmp/ztm-routes.json \
             pyrabot python gtfs_ztm.py
 
           cd .. && git diff
