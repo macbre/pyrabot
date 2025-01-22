@@ -45,7 +45,7 @@ jobs:
 
       - name: Update LUA file with stops to lines mapping
         run: |
-          ./ztm_lua.py || true
+          ./ztm_lua.py
 
       # https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
       - name: Set up git
