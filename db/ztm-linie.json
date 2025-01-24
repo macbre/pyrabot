@@ -1,15 +1,4 @@
 {
-  "T3":{
-    "typ":"tram",
-    "petle":[
-      "Wilczak",
-      "Wilczak"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":9,
-    "przebieg":"WILCZAK - S\u0142owia\u0144ska - Murawa - Winogrady - Nowowiejskiego - al. Niepodleg\u0142o\u015bci - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - Serbska - Naramowicka - S\u0142owia\u0144ska - WILCZAK"
-  },
   "T9":{
     "typ":"tram",
     "petle":[
@@ -60,6 +49,19 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=3"
   },
+  "4":{
+    "typ":"tram",
+    "petle":[
+      "Ogrody",
+      "Ogrody"
+    ],
+    "kolor1":"#2E6A4C",
+    "kolor2":"#FFFFFF",
+    "przystanki":13,
+    "przebieg":"OGRODY - D\u0105browskiego - Roosevelta - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - D\u0105browskiego - OGRODY",
+    "agency":"MPK",
+    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=4"
+  },
   "5":{
     "typ":"tram",
     "petle":[
@@ -77,12 +79,12 @@
     "typ":"tram",
     "petle":[
       "Mi\u0142ostowo",
-      "Junikowo"
+      "Budziszy\u0144ska"
     ],
     "kolor1":"#009639",
     "kolor2":"#FFFFFF",
     "przystanki":29,
-    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - JUNIKOWO",
+    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=6"
   },
@@ -115,13 +117,13 @@
   "10":{
     "typ":"tram",
     "petle":[
-      "Osiedle Sobieskiego",
+      "B\u0142a\u017ceja",
       "D\u0119biec PKM"
     ],
     "kolor1":"#F1B434",
     "kolor2":"#000000",
     "przystanki":27,
-    "przebieg":"OS. SOBIESKIEGO - Trasa PST - G\u0142ogowska - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+    "przebieg":"B\u0141A\u017bEJA - al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=10"
   },
@@ -134,7 +136,7 @@
     "kolor1":"#3CDBC0",
     "kolor2":"#000000",
     "przystanki":22,
-    "przebieg":"OS. SOBIESKIEGO - Trasa PST - G\u0142ogowska - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
+    "przebieg":"OS. SOBIESKIEGO - Trasa PST - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=11"
   },
@@ -186,7 +188,7 @@
     "kolor1":"#A2AAAD",
     "kolor2":"#000000",
     "przystanki":21,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Bukowska - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+    "przebieg":"JUNIKOWO - Grunwaldzka - Bukowska - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=15"
   },
@@ -199,7 +201,7 @@
     "kolor1":"#440099",
     "kolor2":"#FFFFFF",
     "przystanki":24,
-    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
   },
@@ -241,19 +243,6 @@
     "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
-  },
-  "90":{
-    "typ":"tram",
-    "petle":[
-      "Wilczak",
-      "B\u0142a\u017ceja"
-    ],
-    "kolor1":"#F1B434",
-    "kolor2":"#000000",
-    "przystanki":7,
-    "przebieg":"WILCZAK - Prze\u0142ajowa - Naramowicka - al. Praw Kobiet - B\u0141A\u017bEJA",
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=90"
   },
   "121":{
     "typ":"bus",
@@ -772,8 +761,8 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":29,
-    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO"
+    "przystanki":24,
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO"
   },
   "211":{
     "typ":"bus",
@@ -1940,13 +1929,13 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":29,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
+    "przystanki":14,
+    "przebieg":"KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=813"
   },
