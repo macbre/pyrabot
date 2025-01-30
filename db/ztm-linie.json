@@ -1,4 +1,15 @@
 {
+  "T1":{
+    "typ":"tram",
+    "petle":[
+      "Szwedzka",
+      "Unii Lubelskiej"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":10,
+    "przebieg":"SZWEDZKA - Szwajcarska - Kurlandzka - Pia\u015bnicka - Chartowo - \u017begrze - Unii Lubelskiej - UNII LUBELSKIEJ"
+  },
   "T9":{
     "typ":"tram",
     "petle":[
@@ -48,19 +59,6 @@
     "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - al. Praw Kobiet - B\u0141A\u017bEJA",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=3"
-  },
-  "4":{
-    "typ":"tram",
-    "petle":[
-      "Ogrody",
-      "Ogrody"
-    ],
-    "kolor1":"#2E6A4C",
-    "kolor2":"#FFFFFF",
-    "przystanki":13,
-    "przebieg":"OGRODY - D\u0105browskiego - Roosevelta - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - D\u0105browskiego - OGRODY",
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=4"
   },
   "5":{
     "typ":"tram",
@@ -221,13 +219,13 @@
   "18":{
     "typ":"tram",
     "petle":[
-      "Franowo",
+      "Zawady",
       "Ogrody"
     ],
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "przystanki":24,
-    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
+    "przebieg":"ZAWADY - Podwale - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=18"
   },
@@ -243,6 +241,19 @@
     "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
+  },
+  "93":{
+    "typ":"tram",
+    "petle":[
+      "Osiedle Tysi\u0105clecia",
+      "K\u00f3rnicka"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "przystanki":3,
+    "przebieg":"OS. TYSI\u0104CLECIA - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00d3RNICKA",
+    "agency":"MPK",
+    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=93"
   },
   "121":{
     "typ":"bus",
@@ -1760,6 +1771,17 @@
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=729"
   },
+  "789":{
+    "typ":"bus",
+    "petle":[
+      "G\u0142uchowo Stawna",
+      "\u0141\u0119czyca Sosnowa"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":35,
+    "przebieg":"G\u0141UCHOWO STAWNA - G\u0142uchowo/Stawna - Chom\u0119cice/Pozna\u0144ska - Rosnowo/Sadowa - Walerianowo/Bukowa - Rosn\u00f3wko/Bukowa - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Pozna\u0144ska - Rosn\u00f3wko/Dworcowa - Rosn\u00f3wko/Pozna\u0144ska - Szreniawa/ - Szreniawa/Pozna\u0144ska - Komorniki/Jeziorna - Komorniki/Zak\u0142adowa - Komorniki/M\u0142y\u0144ska - Komorniki/ - Komorniki/Komornicka - Wiry/Komornicka - Wiry/\u0141\u0119czycka - Wiry/Laskowska - \u0141\u0119czyca/ - \u0141\u0119czyca/Pozna\u0144ska - \u0141\u0119czyca/ - Wiry/ - \u0141\u0119czyca/ - \u0141\u0118CZYCA SOSNOWA"
+  },
   "790":{
     "typ":"bus",
     "petle":[
@@ -1929,13 +1951,13 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":14,
-    "przebieg":"KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+    "przystanki":29,
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=813"
   },
@@ -1951,6 +1973,28 @@
     "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/Szamotulska - Chyby/Szamotulska - Wielkie - Kobylniki/Szamotulska - Napachanie/Pozna\u0144ska - Napachanie/Tarnowska - Tarnowo Pdg/Rokietnicka - Tarnowo Pdg/Pozna\u0144ska - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Admiralska - Lus\u00f3wko/Tarnowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Dopiewska - LUS\u00d3WKO ROZALIN P\u0118TLA",
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=821"
+  },
+  "825":{
+    "typ":"bus",
+    "petle":[
+      "G\u00f3ra P\u0119tla",
+      "Tarnowo Pdg Liceum"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":12,
+    "przebieg":"G\u00d3RA P\u0118TLA - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/D\u0142uga - Kokoszczyn/Lipowa - Kokoszczyn/Dworcowa - Kokoszczyn/Lipowa - G\u00f3ra/D\u0142uga - G\u00f3ra/ - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/ - Tarnowo Pdg/Szkolna - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG LICEUM"
+  },
+  "826":{
+    "typ":"bus",
+    "petle":[
+      "Lusowo Szko\u0142a",
+      "Lusowo Szko\u0142a"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":4,
+    "przebieg":"LUSOWO SZKO\u0141A - Lusowo/Nowa - Sady/Lusowska - Sady/Lipowa - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Sady/Lusowska - Lusowo/Nowa - LUSOWO SZKO\u0141A"
   },
   "832":{
     "typ":"bus",
@@ -2024,6 +2068,17 @@
     "przystanki":25,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Poszwi\u0144skiego - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Paw\u0142owicka - Kiekrz/Czysta - Paw\u0142owice/Paw\u0142owicka - Paw\u0142owice/Szkolna - PAW\u0141OWICE P\u0118TLA"
   },
+  "881":{
+    "typ":"bus",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "Tarnowo Pdg Centrum"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":4,
+    "przebieg":"TARNOWO PDG CENTRUM - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/Nowa - Tarnowo Pdg/ - Tarnowo Pdg/Szkolna - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM"
+  },
   "882":{
     "typ":"bus",
     "petle":[
@@ -2037,6 +2092,28 @@
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=882"
   },
+  "886":{
+    "typ":"bus",
+    "petle":[
+      "Tarnowo Pdg Centrum",
+      "P\u00f3lko"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":13,
+    "przebieg":"TARNOWO PDG CENTRUM - Tarnowo Pdg/Pozna\u0144ska - Rumianek/Nowa - Rumianek/Szkolna - Gaj Wielki/Pozna\u0144ska - M\u0142odasko/Pozna\u0144ska - Witkowice/ - Byty\u0144/Pozna\u0144ska - Byty\u0144/ - Byty\u0144/Piersko - Piersko/Piersko - P\u00f3lko/ - P\u00d3LKO"
+  },
+  "889":{
+    "typ":"bus",
+    "petle":[
+      "Prze\u017amierowo Ko\u015bcielna",
+      "Wielkie"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":11,
+    "przebieg":"PRZE\u0179MIEROWO KO\u015aCIELNA - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Ko\u015bcielna - Baranowo/Ametystowa - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/ - Baranowo/Szamotulska - Chyby/Szamotulska - Wielkie - WIELKIE"
+  },
   "891":{
     "typ":"bus",
     "petle":[
@@ -2046,7 +2123,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":8,
-    "przebieg":"ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY - Rokietnica/Szamotulska - Rokietnica/Szkolna - Rokietnica/Trakt Napoleo\u0144ski - Rokietnica/Szamotulska - Mrowino/Dworcowa - Mrowino/Kopernika - Mrowino/Pozna\u0144ska - MROWINO SZKO\u0141A",
+    "przebieg":"ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY - Rokietnica/Dworcowa - Rokietnica/Szamotulska - Rokietnica/Szkolna - Rokietnica/Trakt Napoleo\u0144ski - Rokietnica/Szamotulska - Mrowino/Dworcowa - Mrowino/Kopernika - Mrowino/Pozna\u0144ska - MROWINO SZKO\u0141A",
     "agency":"ROKBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=891"
   },
