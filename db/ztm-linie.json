@@ -1,15 +1,4 @@
 {
-  "T1":{
-    "typ":"tram",
-    "petle":[
-      "Szwedzka",
-      "Unii Lubelskiej"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":10,
-    "przebieg":"SZWEDZKA - Szwajcarska - Kurlandzka - Pia\u015bnicka - Chartowo - \u017begrze - Unii Lubelskiej - UNII LUBELSKIEJ"
-  },
   "T9":{
     "typ":"tram",
     "petle":[
@@ -77,12 +66,12 @@
     "typ":"tram",
     "petle":[
       "Mi\u0142ostowo",
-      "Budziszy\u0144ska"
+      "Junikowo"
     ],
     "kolor1":"#009639",
     "kolor2":"#FFFFFF",
     "przystanki":29,
-    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - JUNIKOWO",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=6"
   },
@@ -219,13 +208,13 @@
   "18":{
     "typ":"tram",
     "petle":[
-      "Zawady",
+      "Franowo",
       "Ogrody"
     ],
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "przystanki":24,
-    "przebieg":"ZAWADY - Podwale - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=18"
   },
@@ -241,19 +230,6 @@
     "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
-  },
-  "93":{
-    "typ":"tram",
-    "petle":[
-      "Osiedle Tysi\u0105clecia",
-      "K\u00f3rnicka"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF",
-    "przystanki":3,
-    "przebieg":"OS. TYSI\u0104CLECIA - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00d3RNICKA",
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=93"
   },
   "121":{
     "typ":"bus",
@@ -276,6 +252,28 @@
     "kolor2":"#FFFFFF",
     "przystanki":7,
     "przebieg":"JUNIKOWO - Grunwaldzka - Wieruszowska - Zi\u0119bicka - Grunwaldzka - Smoluchowskiego - Kamiennog\u00f3rska - Dziewi\u0144ska - \u015acinawska - Grunwaldzka - Cmentarna - Grunwaldzka - JUNIKOWO"
+  },
+  "123":{
+    "typ":"bus",
+    "petle":[
+      "Krzesiny",
+      "Staro\u0142\u0119ka PKM"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":9,
+    "przebieg":"KRZESINY - Pabianicka - Garaszewo - Sandomierska - O\u015bwi\u0119cimska - \u017beglarska - Staro\u0142\u0119cka - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM"
+  },
+  "124":{
+    "typ":"bus",
+    "petle":[
+      "Safony",
+      "Instytut Technologiczno-Przyrodniczy"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":7,
+    "przebieg":"SAFONY - Safony - Literacka - Poszwi\u0144skiego - Koszali\u0144ska - Biskupi\u0144ska - INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY"
   },
   "145":{
     "typ":"bus",
@@ -594,7 +592,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":15,
-    "przebieg":"SYCOWSKA CENTRUM HANDLOWE - Op\u0142otki - Marii Lange  - Sycowska - Wo\u0142owska - Krzepicka - Wo\u0142owska - Fabianowo - Lerczak\u00f3wny - Kowalewicka - Modlibowskiej - Fabianowo - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM"
+    "przebieg":"SYCOWSKA CENTRUM HANDLOWE - Op\u0142otki - Marii Lange  - Sycowska - Wo\u0142owska - Krzepicka - Wo\u0142owska - Fabianowo - Lerczak\u00f3wny - Kowalewicka - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM"
   },
   "181":{
     "typ":"bus",
@@ -637,7 +635,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":28,
+    "przystanki":27,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - TERMY MALTA\u0143SKIE"
   },
   "185":{
@@ -665,13 +663,13 @@
   "188":{
     "typ":"bus",
     "petle":[
-      "Radojewo",
+      "Umultowo Szko\u0142a",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":-1,
-    "przebieg":"RADOJEWO - Pio\u0142unowa - Radojewo - Ja\u015bkowiaka - Morasko - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO"
+    "przystanki":20,
+    "przebieg":"UMULTOWO SZKO\u0141A - Zagajnikowa - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Ja\u015bkowiaka - Morasko - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO"
   },
   "189":{
     "typ":"bus",
@@ -849,7 +847,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":45,
+    "przystanki":46,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - FRANOWO"
   },
   "219":{
@@ -1565,7 +1563,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":27,
-    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - Lubo\u0144/D\u0119biecka - Lubo\u0144/Powsta\u0144c\u00f3w Wlkp. - Lubo\u0144/Streicha - Lubo\u0144/Dworcowa - Lubo\u0144/Fabryczna - Lubo\u0144/Wojska Polskiego - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - Fabianowo - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - Lubo\u0144/D\u0119biecka - Lubo\u0144/Powsta\u0144c\u00f3w Wlkp. - Lubo\u0144/Streicha - Lubo\u0144/Dworcowa - Lubo\u0144/Fabryczna - Lubo\u0144/Wojska Polskiego - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=610"
   },
@@ -1604,7 +1602,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":11,
-    "przebieg":"LUBO\u0143 \u017bABIKOWO - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - Fabianowo - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"LUBO\u0143 \u017bABIKOWO - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=616"
   },
@@ -1656,7 +1654,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":23,
-    "przebieg":"KOMORNIKI OS. ZIELONE WZG\u00d3RZE  - Komorniki/Sadowa - Komorniki/M\u0142y\u0144ska - Komorniki/Zak\u0142adowa - Komorniki/Nizinna - Komorniki/Komornicka - Komorniki/\u017babikowska - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - Fabianowo - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"KOMORNIKI OS. ZIELONE WZG\u00d3RZE  - Komorniki/Sadowa - Komorniki/M\u0142y\u0144ska - Komorniki/Zak\u0142adowa - Komorniki/Nizinna - Komorniki/Komornicka - Komorniki/\u017babikowska - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=702"
   },
