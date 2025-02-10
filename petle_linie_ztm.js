@@ -57,8 +57,8 @@ function updateLine(pageTitle) {
 		var orig = content;
 
 		// aktualizuj infobox
-		content = content.replace(/\|pętla1\s?=[^|]+/, "|pętla1=" + stops[0] + "\n");
-		content = content.replace(/\|pętla2\s?=[^|]+/, "|pętla2=" + stops[1] + "\n");
+		content = content.replace(/\|pętla1\s?=[^|}]+/, "|pętla1=" + stops[0] + "\n");
+		content = content.replace(/\|pętla2\s?=[^|}]+/, "|pętla2=" + stops[1] + "\n");
 
 		if (przystanki > 0) {
 			// dodaj parametr do wikitekstu
@@ -66,7 +66,7 @@ function updateLine(pageTitle) {
 				content = content.replace(/\|dlugosc=/, '|przystanki=\n|dlugosc=');
 			}
 
-			content = content.replace(/\|przystanki\s?=[^|]+/, "|przystanki=" + przystanki + "\n");
+			content = content.replace(/\|przystanki\s?=[^|}]+/, "|przystanki=" + przystanki + "\n");
 		}
 
 		if (rozklad) {
@@ -75,7 +75,7 @@ function updateLine(pageTitle) {
 				content = content.replace(/\|przystanki=/, '|rozkład=\n|przystanki=');
 			}
 
-			content = content.replace(/\|rozkład\s?=[^|]+/, "|rozkład=" + rozklad + "\n");
+			content = content.replace(/\|rozkład\s?=[^|}]+/, "|rozkład=" + rozklad + "\n");
 		}
 
 		if (przebieg) {
@@ -84,7 +84,7 @@ function updateLine(pageTitle) {
 				content = content.replace(/\|rozkład=/, '|przebieg=\n|rozkład=');
 			}
 
-			content = content.replace(/\|przebieg\s?=[^|]+/, "|przebieg=" + przebieg + "\n");
+			content = content.replace(/\|przebieg\s?=[^|}]+/, "|przebieg=" + przebieg + "\n");
 		}
 
 		// kolory
@@ -92,8 +92,8 @@ function updateLine(pageTitle) {
 			content = content.replace(/\|rozkład=/, '|kolor1=\n|kolor2=\n|rozkład=');
 		}
 
-		content = content.replace(/\|kolor1\s?=[^|]+/, "|kolor1=" + db[line]['kolor1'] + "\n");
-		content = content.replace(/\|kolor2\s?=[^|]+/, "|kolor2=" + db[line]['kolor2'] + "\n");
+		content = content.replace(/\|kolor1\s?=[^|}]+/, "|kolor1=" + db[line]['kolor1'] + "\n");
+		content = content.replace(/\|kolor2\s?=[^|}]+/, "|kolor2=" + db[line]['kolor2'] + "\n");
 
 		// usuń stare parametry
 		// |przejazd=82
