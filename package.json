@@ -12,6 +12,9 @@
   "overrides": {
     "get-json": {
       "request": "npm:@cypress/request@^3.0.7"
+    },
+    "flickr-client": {
+      "debug": "3.x"
     }
   },
   "devDependencies": {
