@@ -10,6 +10,11 @@
     "nodemw": "^0.24.0",
     "snyk": "^1.1295.3"
   },
+  "overrides": {
+    "get-json": {
+      "request": "npm:@cypress/request@^3.0.7"
+    }
+  },
   "devDependencies": {
     "jshint": "^2.13.6"
   },
