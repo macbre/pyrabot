@@ -7,8 +7,7 @@
     "flickr-client": "^0.0.4",
     "flickr-photo-info": "^0.0.1",
     "jsdom": "^26.0.0",
-    "nodemw": "^0.24.0",
-    "snyk": "^1.1295.3"
+    "nodemw": "^0.24.0"
   },
   "overrides": {
     "get-json": {
@@ -16,11 +15,12 @@
     }
   },
   "devDependencies": {
+    "@snyk/protect": "^1.1295.3",
     "jshint": "^2.13.6"
   },
   "scripts": {
     "lint": "jshint --verbose *.js",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepare": "npm run snyk-protect"
   },
   "snyk": true
