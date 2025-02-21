@@ -28,6 +28,10 @@ import partridge
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('gfts-ztm')
 
+# TODO: pobierz dane o długości linii
+# https://czynaczas.pl/poznan/rozklad-jazdy-brygady
+# $ chrome -H 'user-agent: mozilla' -s 'https://czynaczas.pl/api/poznan/brigades-timetable?date=2025-02-21' | jq . | less
+
 # pobierz plik gtfs
 # https://www.ztm.poznan.pl/wp-content/uploads/2024/07/Specyfikacja-GTFS-04.02.2022.pdf
 url = 'https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile'
@@ -47,20 +51,34 @@ logging.info('Pobieram dane o przystankach na trasach...')
 # trasy w obie strony per linia
 trips_per_line = defaultdict(dict)  # e.g. '5': {'here': '1_8739366', 'there': '1_8739365'}
 
+# lista brygad na linii
+brigades_per_line: dict[str, set[str]] = defaultdict(lambda: set())
+
 #       route_id service_id       trip_id   trip_headsign direction_id shape_id wheelchair_accessible brigade
 # 0            1          1  1_8737446^N+         Franowo            0  1188316                     1       1
-
 for _, trip in feed.trips.iterrows():
     # 1_11376703^N,G:2:8+
     # + Oznaczenie kursu jako wariantu głównego
     is_main = str(trip['trip_id']).endswith('+')
 
+    route_id: str = str(trip['route_id'])
+    direction_name: str = 'there' if str(trip['direction_id']) == '1' else 'here'
+
+    # if route_id not in ['1', '5', '7', '13']: continue  # DEBUG
+
     # ignorujemy wyjazdy i zjazdy do zajezdni
     if not is_main:
         continue
 
-    route_id: str = str(trip['route_id'])
-    direction_name: str = 'there' if str(trip['direction_id']) == '1' else 'here'
+    # rejestruj wszystkie brygady na linii
+    #
+    # trips.txt
+    # Zawiera opis kursów
+    # direction_id 1 Kierunek 0-tam, 1-powrót
+    # brigade 3 Numer brygady
+    # if str(trip['direction_id']) == '0':
+    brigades_per_line[route_id].add(trip['brigade'])
+    # logger.info([route_id, brigades_per_line[route_id]])
 
     # 1_11376703^N,G:2:8+
     trip_id: str = str(trip['trip_id']).split('^')[0]
@@ -107,13 +125,14 @@ for i, route in routes.iterrows():
     trasa = route['route_long_name'].split('|')[0].lower().title()
 
     trasa = trasa.replace('Os. ', 'Osiedle ')
+    trasa = trasa.replace('OS. ', 'OSIEDLE ')  # OSIEDLE SOBIESKIEGO
     trasa = trasa.replace('Pl. ', 'Plac ')
     trasa = trasa.replace('Uam ', 'UAM ')
     trasa = trasa.replace(' Pkm', ' PKM')
 
     petle = trasa.split(' - ')
 
-    # Linia 12: STAROŁĘKA PKM - Starołęcka - Zamenhofa - Krzywoustego - Królowej Jadwigi - Matyi - Głogowska - Trasa PST - OS. SOBIESKIEGO
+    # Linia 12: STAROŁĘKA PKM - Starołęcka - Zamenhofa - Krzywoustego - Królowej Jadwigi - Matyi - Głogowska - Trasa PST - OSIEDLE SOBIESKIEGO
     przebieg = str(route['route_desc']).split('|')[0].split('^')[0]
 
     entry = OrderedDict()
@@ -128,6 +147,7 @@ for i, route in routes.iterrows():
         trips_per_line[route['route_id']].get('here', []) +
         trips_per_line[route['route_id']].get('there', [])
     ))
+    entry['brygady'] = len(brigades_per_line[route['route_id']])  # liczba brygad na linii
 
     lines.append(entry)
 
