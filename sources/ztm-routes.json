@@ -34,7 +34,8 @@
         "WIWI02",
         "WOPO01",
         "WOPO04"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "1",
@@ -111,7 +112,8 @@
         "Z II42",
         "ZIII41",
         "ZIII42"
-      ]
+      ],
+      "brygady": 17
     },
     {
       "name": "2",
@@ -170,7 +172,8 @@
         "ZAME72",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "3",
@@ -257,7 +260,8 @@
         "ZIII42",
         "ZNIW42",
         "ZNIW71"
-      ]
+      ],
+      "brygady": 16
     },
     {
       "name": "5",
@@ -314,7 +318,8 @@
         "ZAME71",
         "ZAME72",
         "ZAWA42"
-      ]
+      ],
+      "brygady": 30
     },
     {
       "name": "6",
@@ -388,7 +393,8 @@
         "WIER41",
         "WIER42",
         "WOJS41"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "7",
@@ -477,7 +483,8 @@
         "ZERO72",
         "ZNIW42",
         "ZNIW71"
-      ]
+      ],
+      "brygady": 20
     },
     {
       "name": "8",
@@ -527,7 +534,8 @@
         "TERM42",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "10",
@@ -597,7 +605,8 @@
         "WSPO42",
         "ZNIW42",
         "ZNIW71"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "11",
@@ -657,7 +666,8 @@
         "TRAU44",
         "UNLU41",
         "UNLU42"
-      ]
+      ],
+      "brygady": 13
     },
     {
       "name": "12",
@@ -721,7 +731,8 @@
         "WIER42",
         "WIOS71",
         "WIOS72"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "13",
@@ -803,7 +814,8 @@
         "WROC72",
         "ZAME71",
         "ZAME72"
-      ]
+      ],
+      "brygady": 18
     },
     {
       "name": "14",
@@ -847,7 +859,8 @@
         "SOB42",
         "SZYM41",
         "SZYM42"
-      ]
+      ],
+      "brygady": 24
     },
     {
       "name": "15",
@@ -905,7 +918,8 @@
         "WEGO41",
         "WEGO42",
         "WOJS41"
-      ]
+      ],
+      "brygady": 24
     },
     {
       "name": "16",
@@ -969,7 +983,8 @@
         "SZYM42",
         "WROC71",
         "WROC72"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "17",
@@ -1054,7 +1069,8 @@
         "ZAME72",
         "ZIII41",
         "ZIII42"
-      ]
+      ],
+      "brygady": 31
     },
     {
       "name": "18",
@@ -1118,7 +1134,8 @@
         "WIER42",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 16
     },
     {
       "name": "19",
@@ -1183,7 +1200,8 @@
         "WSPO42",
         "ZNIW42",
         "ZNIW71"
-      ]
+      ],
+      "brygady": 13
     },
     {
       "name": "121",
@@ -1202,7 +1220,8 @@
         "OGDY12",
         "PINA02",
         "PONZ01"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "122",
@@ -1232,7 +1251,8 @@
         "WSKA01",
         "ZIEB02",
         "ZIEK02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "123",
@@ -1265,7 +1285,8 @@
         "SWAN02",
         "ZEGL02",
         "ZEGL03"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "124",
@@ -1295,7 +1316,8 @@
         "WIEN92",
         "ZOWY91",
         "ZOWY92"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "145",
@@ -1336,7 +1358,8 @@
         "SZAM02",
         "ULAN01",
         "ULAN02"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "146",
@@ -1398,7 +1421,8 @@
         "SZYM01",
         "SZYM02",
         "WIED01"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "148",
@@ -1444,7 +1468,8 @@
         "WIEC01",
         "WIEC02",
         "ZLOT01"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "149",
@@ -1497,7 +1522,8 @@
         "SJNZ02",
         "WROB01",
         "WROB02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "152",
@@ -1554,7 +1580,8 @@
         "SZII02",
         "ZELA01",
         "ZELA02"
-      ]
+      ],
+      "brygady": 25
     },
     {
       "name": "153",
@@ -1612,7 +1639,8 @@
         "WARO02",
         "ZAKL01",
         "ZAKL02"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "154",
@@ -1655,7 +1683,8 @@
         "WIAT03",
         "WIEP01",
         "WIEP02"
-      ]
+      ],
+      "brygady": 23
     },
     {
       "name": "156",
@@ -1694,7 +1723,8 @@
         "SMOC02",
         "TATR01",
         "TATR02"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "157",
@@ -1742,7 +1772,8 @@
         "ZELA02",
         "ZIEM01",
         "ZIEM02"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "158",
@@ -1788,7 +1819,8 @@
         "TARN02",
         "ZEGL01",
         "ZEGL02"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "159",
@@ -1834,7 +1866,8 @@
         "ZGOR02",
         "ZLOT01",
         "ZLOT02"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "160",
@@ -1900,7 +1933,8 @@
         "WOPO06",
         "WOPO08",
         "WRSZ02"
-      ]
+      ],
+      "brygady": 14
     },
     {
       "name": "162",
@@ -1950,7 +1984,8 @@
         "URSZ01",
         "WIAT03",
         "WIAT04"
-      ]
+      ],
+      "brygady": 21
     },
     {
       "name": "163",
@@ -2007,7 +2042,8 @@
         "URWO01",
         "ZAME01",
         "ZAME02"
-      ]
+      ],
+      "brygady": 22
     },
     {
       "name": "164",
@@ -2080,7 +2116,8 @@
         "WOPO08",
         "WYSP01",
         "WYSP02"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "166",
@@ -2142,7 +2179,8 @@
         "ZIEL01",
         "ZIEM01",
         "ZIEM02"
-      ]
+      ],
+      "brygady": 26
     },
     {
       "name": "167",
@@ -2205,7 +2243,8 @@
         "WILC02",
         "WLOD01",
         "WLOD02"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "168",
@@ -2263,7 +2302,8 @@
         "WYLO02",
         "ZAME01",
         "ZAME02"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "169",
@@ -2355,7 +2395,8 @@
         "WRTV02",
         "ZAME01",
         "ZAME02"
-      ]
+      ],
+      "brygady": 22
     },
     {
       "name": "170",
@@ -2399,7 +2440,8 @@
         "WOPO05",
         "WOPO06",
         "WRSZ02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "171",
@@ -2472,7 +2514,8 @@
         "ZAME02",
         "ZNTK01",
         "ZNTK02"
-      ]
+      ],
+      "brygady": 13
     },
     {
       "name": "173",
@@ -2514,7 +2557,8 @@
         "URWI02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "174",
@@ -2602,7 +2646,8 @@
         "WIOS71",
         "WIOS72",
         "WOJT01"
-      ]
+      ],
+      "brygady": 16
     },
     {
       "name": "175",
@@ -2642,7 +2687,8 @@
         "SMIE02",
         "SWIE01",
         "SWIE02"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "176",
@@ -2691,7 +2737,8 @@
         "WIEL01",
         "ZEKA01",
         "ZEKA02"
-      ]
+      ],
+      "brygady": 13
     },
     {
       "name": "177",
@@ -2752,7 +2799,8 @@
         "ZLDZ02",
         "ZONK01",
         "ZONK02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "178",
@@ -2811,7 +2859,8 @@
         "WORD02",
         "ZAWA02",
         "ZAWA03"
-      ]
+      ],
+      "brygady": 20
     },
     {
       "name": "179",
@@ -2860,7 +2909,8 @@
         "TARC02",
         "TREB01",
         "TREB02"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "180",
@@ -2905,7 +2955,8 @@
         "WOLO01",
         "WOLO02",
         "WYKO01"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "181",
@@ -2953,7 +3004,8 @@
         "SZWE01",
         "WIAT03",
         "WIAT04"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "182",
@@ -3020,7 +3072,8 @@
         "ZERO02",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 18
     },
     {
       "name": "183",
@@ -3089,7 +3142,8 @@
         "WRSZ02",
         "ZAWA02",
         "ZAWA03"
-      ]
+      ],
+      "brygady": 18
     },
     {
       "name": "184",
@@ -3159,7 +3213,8 @@
         "WIOS72",
         "WOLK01",
         "WOLK02"
-      ]
+      ],
+      "brygady": 26
     },
     {
       "name": "185",
@@ -3228,7 +3283,8 @@
         "WRTV02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 20
     },
     {
       "name": "186",
@@ -3286,7 +3342,8 @@
         "TATR02",
         "WIMO01",
         "WIMO02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "188",
@@ -3342,7 +3399,8 @@
         "WIED01",
         "WIET01",
         "WIET02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "189",
@@ -3382,7 +3440,8 @@
         "UNLU02",
         "WARO01",
         "WARO02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "190",
@@ -3456,7 +3515,8 @@
         "WOJT01",
         "WRTV01",
         "WRTV02"
-      ]
+      ],
+      "brygady": 11
     },
     {
       "name": "191",
@@ -3537,7 +3597,8 @@
         "ZERO02",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 23
     },
     {
       "name": "193",
@@ -3621,7 +3682,8 @@
         "ZERO02",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 20
     },
     {
       "name": "194",
@@ -3673,7 +3735,8 @@
         "ZAKL02",
         "ZEGL01",
         "ZEGL02"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "196",
@@ -3724,7 +3787,8 @@
         "URSZ02",
         "WIAT03",
         "WIAT04"
-      ]
+      ],
+      "brygady": 17
     },
     {
       "name": "198",
@@ -3753,7 +3817,8 @@
         "UAMG01",
         "UAMG02",
         "UAMK02"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "201",
@@ -3831,7 +3896,8 @@
         "ZAME72",
         "ZIII41",
         "ZIII42"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "202",
@@ -3895,7 +3961,8 @@
         "SZYM42",
         "WROC71",
         "WROC72"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "211",
@@ -3955,7 +4022,8 @@
         "WIEL01",
         "WIOS71",
         "WIOS72"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "212",
@@ -4037,7 +4105,8 @@
         "WIAT04",
         "ZAME01",
         "ZAME02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "213",
@@ -4108,7 +4177,8 @@
         "TERM01",
         "TERM02",
         "URWO01"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "214",
@@ -4213,7 +4283,8 @@
         "WLOD01",
         "WLOD02",
         "ZONK01"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "215",
@@ -4306,7 +4377,8 @@
         "WRTV02",
         "WYLO01",
         "WYLO02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "216",
@@ -4376,7 +4448,8 @@
         "WOPO04",
         "WOPO08",
         "ZOWY92"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "218",
@@ -4483,7 +4556,8 @@
         "URBA02",
         "WIKA01",
         "WIKA02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "219",
@@ -4536,7 +4610,8 @@
         "WICH02",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "220",
@@ -4598,7 +4673,8 @@
         "WIAT04",
         "WIEL01",
         "WIEP01"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "221",
@@ -4678,7 +4754,8 @@
         "WIOS72",
         "ZEGL01",
         "ZEGL02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "222",
@@ -4796,7 +4873,8 @@
         "ZIEM01",
         "ZIEM02",
         "ZLOT01"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "223",
@@ -4857,7 +4935,8 @@
         "TREB01",
         "TREB02",
         "URWO01"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "224",
@@ -4940,7 +5019,8 @@
         "WISE04",
         "WORD02",
         "ZONK02"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "226",
@@ -5011,7 +5091,8 @@
         "WOPO03",
         "WOPO04",
         "ZOWY91"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "227",
@@ -5058,7 +5139,8 @@
         "STUD02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "250",
@@ -5145,7 +5227,8 @@
         "WABUK01",
         "WABUK02",
         "WYKO01"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "252",
@@ -5239,7 +5322,8 @@
         "SMNA02",
         "ZAWA02",
         "ZAWA03"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "253",
@@ -5328,7 +5412,8 @@
         "ZOWIE02",
         "ZOZYT01",
         "ZOZYT02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "257",
@@ -5398,7 +5483,8 @@
         "ZKZAC02",
         "ZONK01",
         "ZONK02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "258",
@@ -5500,7 +5586,8 @@
         "WYZBO02",
         "ZERO71",
         "ZERO72"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "312",
@@ -5583,7 +5670,8 @@
         "STUD02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "320",
@@ -5628,7 +5716,8 @@
         "STUD02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "321",
@@ -5672,7 +5761,8 @@
         "SMNA02",
         "ZAWA02",
         "ZAWA03"
-      ]
+      ],
+      "brygady": 11
     },
     {
       "name": "322",
@@ -5723,7 +5813,8 @@
         "TROJ02",
         "WISE01",
         "WISE02"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "323",
@@ -5806,7 +5897,8 @@
         "WESZK02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "341",
@@ -5896,7 +5988,8 @@
         "STUD02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "342",
@@ -5990,7 +6083,8 @@
         "STUD02",
         "ZAWA01",
         "ZAWA02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "348",
@@ -6074,7 +6168,8 @@
         "UMTA02",
         "WDNZ01",
         "WDNZ02"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "388",
@@ -6134,7 +6229,8 @@
         "WEJWO02",
         "WEPET01",
         "WESZK02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "392",
@@ -6167,7 +6263,8 @@
         "PTKOG02",
         "PTWIE01",
         "PTWIE02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "394",
@@ -6206,7 +6303,8 @@
         "MWOGR01",
         "MWOGR02",
         "MWSTO01"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "396",
@@ -6270,7 +6368,8 @@
         "PTKOG02",
         "PTWIE01",
         "PTWIE02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "397",
@@ -6304,7 +6403,8 @@
         "PRSOS02",
         "PRSWI02",
         "TZWIE02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "400",
@@ -6351,7 +6451,8 @@
         "WZMEH02",
         "XOSTA01",
         "XOSTA02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "401",
@@ -6392,7 +6493,8 @@
         "SOSN02",
         "TERM01",
         "TERM02"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "405",
@@ -6432,7 +6534,8 @@
         "SOSN02",
         "TERM01",
         "TERM02"
-      ]
+      ],
+      "brygady": 15
     },
     {
       "name": "406",
@@ -6475,7 +6578,8 @@
         "SOSN02",
         "TERM01",
         "TERM02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "407",
@@ -6520,7 +6624,8 @@
         "SOSN02",
         "TERM01",
         "TERM02"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "412",
@@ -6567,7 +6672,8 @@
         "XOPKP01",
         "XOSTA01",
         "XOSTA02"
-      ]
+      ],
+      "brygady": 19
     },
     {
       "name": "416",
@@ -6608,7 +6714,8 @@
         "WARP01",
         "WARP02",
         "ZIEL01"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "425",
@@ -6656,7 +6763,8 @@
         "ZAOZA02",
         "ZATRA01",
         "ZATRA02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "431",
@@ -6722,7 +6830,8 @@
         "TUZDB02",
         "WIEP01",
         "WIEP02"
-      ]
+      ],
+      "brygady": 13
     },
     {
       "name": "432",
@@ -6793,7 +6902,8 @@
         "TUZDB02",
         "WIEP01",
         "WIEP02"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "433",
@@ -6848,7 +6958,8 @@
         "TUZDB02",
         "WIEP01",
         "WIEP02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "484",
@@ -6875,7 +6986,8 @@
         "ZARAD02",
         "ZASPA02",
         "ZATRA03"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "485",
@@ -6924,7 +7036,8 @@
         "SDSPR02",
         "SDWPR01",
         "SDWPR02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "486",
@@ -6977,7 +7090,8 @@
         "SEMIO01",
         "SEMIO02",
         "SEPET01"
-      ]
+      ],
+      "brygady": 17
     },
     {
       "name": "488",
@@ -7025,7 +7139,8 @@
         "ZNOSP01",
         "ZNOSP02",
         "ZNSZK02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "489",
@@ -7078,7 +7193,8 @@
         "ZAOLS01",
         "ZAOLS02",
         "ZAOSE01"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "490",
@@ -7101,7 +7217,8 @@
         "SDSTW01",
         "SDWPR01",
         "SDWPR02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "491",
@@ -7132,7 +7249,8 @@
         "SDRYN01",
         "SDWPR01",
         "SDWPR02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "492",
@@ -7158,7 +7276,8 @@
         "XOSTA02",
         "XOSZK01",
         "XOSZK02"
-      ]
+      ],
+      "brygady": 11
     },
     {
       "name": "493",
@@ -7190,7 +7309,8 @@
         "WZKOS02",
         "XOSTA01",
         "XOSTA02"
-      ]
+      ],
+      "brygady": 13
     },
     {
       "name": "494",
@@ -7244,7 +7364,8 @@
         "ZARAD04",
         "ZASPA01",
         "ZASPA02"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "495",
@@ -7286,7 +7407,8 @@
         "ZASPA02",
         "ZATRA01",
         "ZATRA02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "497",
@@ -7335,7 +7457,8 @@
         "ZAOZA02",
         "ZATRA01",
         "ZATRA02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "498",
@@ -7373,7 +7496,8 @@
         "XRZLO01",
         "ZAOLS01",
         "ZAOSE01"
-      ]
+      ],
+      "brygady": 16
     },
     {
       "name": "499",
@@ -7422,7 +7546,8 @@
         "ZAOZA02",
         "ZATRA01",
         "ZATRA02"
-      ]
+      ],
+      "brygady": 12
     },
     {
       "name": "501",
@@ -7468,7 +7593,8 @@
         "SWKI02",
         "SYJEZ01",
         "SYJEZ02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "502",
@@ -7545,7 +7671,8 @@
         "SCTRZ02",
         "SWKI01",
         "SWKI02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "503",
@@ -7593,7 +7720,8 @@
         "SCTRZ02",
         "SWKI01",
         "SWKI02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "511",
@@ -7679,7 +7807,8 @@
         "TORW03",
         "URSZ01",
         "URSZ02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "512",
@@ -7768,7 +7897,8 @@
         "ZEFPP02",
         "ZSNZ01",
         "ZSNZ02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "527",
@@ -7838,7 +7968,8 @@
         "WRPOD02",
         "ZEGL01",
         "ZEGL02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "560",
@@ -7909,7 +8040,8 @@
         "ZMKOS02",
         "ZMRYN01",
         "ZMRYN02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "561",
@@ -7948,7 +8080,8 @@
         "SYJEZ01",
         "ZMKOS02",
         "ZMRYN01"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "602",
@@ -7982,7 +8115,8 @@
         "LUZSK02",
         "OSDE01",
         "OSDE02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "603",
@@ -8040,7 +8174,8 @@
         "PINZ02",
         "PLBE02",
         "WIEL01"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "610",
@@ -8109,7 +8244,8 @@
         "URAD01",
         "URAD02",
         "WYKO01"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "611",
@@ -8147,7 +8283,8 @@
         "SJNZ02",
         "SWIE02",
         "SWIE03"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "614",
@@ -8215,7 +8352,8 @@
         "SJNZ02",
         "SWIE02",
         "SWIE03"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "616",
@@ -8252,7 +8390,8 @@
         "URAD01",
         "URAD02",
         "WYKO01"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "651",
@@ -8318,7 +8457,8 @@
         "PUWIO02",
         "PUZRO01",
         "PUZRO02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "690",
@@ -8392,7 +8532,8 @@
         "LUZAB02",
         "LUZSK03",
         "LUZSK04"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "701",
@@ -8472,7 +8613,8 @@
         "WIPLD02",
         "WIWIR01",
         "WIWIR02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "702",
@@ -8533,7 +8675,8 @@
         "URAD01",
         "URAD02",
         "WYKO01"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "703",
@@ -8584,7 +8727,8 @@
         "SZDWO01",
         "SZDWO03",
         "TYNZ02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "704",
@@ -8636,7 +8780,8 @@
         "OSIA02",
         "SYCH02",
         "TYNZ02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "705",
@@ -8698,7 +8843,8 @@
         "WABRZ02",
         "WABUK01",
         "WABUK02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "707",
@@ -8749,7 +8895,8 @@
         "WABRZ02",
         "WABUK01",
         "WABUK02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "710",
@@ -8804,7 +8951,8 @@
         "SYPR02",
         "TRZE03",
         "TRZE04"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "715",
@@ -8857,7 +9005,8 @@
         "TWAR02",
         "WOLC01",
         "WOLC02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "716",
@@ -8901,7 +9050,8 @@
         "PLWOL02",
         "TWAR01",
         "TWAR02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "727",
@@ -8949,7 +9099,8 @@
         "SKSZA02",
         "ZONK01",
         "ZONK02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "729",
@@ -9035,7 +9186,8 @@
         "ZLDZ01",
         "ZLDZ02",
         "ZLOT02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "789",
@@ -9121,7 +9273,8 @@
         "WIPOD02",
         "WIWIR01",
         "WIWIR02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "790",
@@ -9179,7 +9332,8 @@
         "WKGRO02",
         "WKSZK01",
         "WKSZK02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "791",
@@ -9210,7 +9364,8 @@
         "KNSEZ01",
         "KNSEZ02",
         "TLPET01"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "792",
@@ -9241,7 +9396,8 @@
         "WKGRO02",
         "WKSZK01",
         "WKSZK02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "795",
@@ -9263,7 +9419,8 @@
         "PANOW02",
         "PAPAL01",
         "PAPAL02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "796",
@@ -9298,7 +9455,8 @@
         "ZKSWI02",
         "ZKZAC01",
         "ZKZAC02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "797",
@@ -9346,7 +9504,8 @@
         "SKOSM02",
         "SKSZA01",
         "SKSZA02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "798",
@@ -9371,7 +9530,8 @@
         "SKWIO02",
         "SKWRZ01",
         "SKWRZ02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "799",
@@ -9390,7 +9550,8 @@
         "PADWR01",
         "PAWRZ01",
         "PAWRZ02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "801",
@@ -9425,7 +9586,8 @@
         "TATR02",
         "WICH01",
         "WICH02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "802",
@@ -9507,7 +9669,8 @@
         "WICH02",
         "WYZBO01",
         "WYZBO02"
-      ]
+      ],
+      "brygady": 14
     },
     {
       "name": "803",
@@ -9577,7 +9740,8 @@
         "WYWIE94",
         "ZONK01",
         "ZONK02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "804",
@@ -9655,7 +9819,8 @@
         "ZKINS02",
         "ZKZAK01",
         "ZKZAK02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "811",
@@ -9727,7 +9892,8 @@
         "TPROL02",
         "WICH01",
         "WICH02"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "812",
@@ -9808,7 +9974,8 @@
         "TPROL02",
         "WICH01",
         "WICH02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "813",
@@ -9881,7 +10048,8 @@
         "TPZIE02",
         "WICH01",
         "WICH02"
-      ]
+      ],
+      "brygady": 5
     },
     {
       "name": "821",
@@ -9968,7 +10136,8 @@
         "WICH02",
         "WLKE01",
         "WLKE02"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "825",
@@ -10008,7 +10177,8 @@
         "TPSZK01",
         "TPTUR01",
         "TPZIE01"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "826",
@@ -10031,7 +10201,8 @@
         "SWKLA01",
         "SWKLA02",
         "SWWIA01"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "832",
@@ -10111,7 +10282,8 @@
         "ZOLIP02",
         "ZOZYT01",
         "ZOZYT02"
-      ]
+      ],
+      "brygady": 4
     },
     {
       "name": "833",
@@ -10188,7 +10360,8 @@
         "WICH02",
         "WIMO01",
         "WIMO02"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "834",
@@ -10274,7 +10447,8 @@
         "ZYPET03",
         "ZYSWI01",
         "ZYSWI02"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "835",
@@ -10333,7 +10507,8 @@
         "ZERO72",
         "ZOWY91",
         "ZOWY92"
-      ]
+      ],
+      "brygady": 10
     },
     {
       "name": "836",
@@ -10409,7 +10584,8 @@
         "ZERO72",
         "ZOWY91",
         "ZOWY92"
-      ]
+      ],
+      "brygady": 9
     },
     {
       "name": "837",
@@ -10474,7 +10650,8 @@
         "ZERO72",
         "ZOWY91",
         "ZOWY92"
-      ]
+      ],
+      "brygady": 8
     },
     {
       "name": "881",
@@ -10497,7 +10674,8 @@
         "TPSZK01",
         "TPTER02",
         "TPTUR01"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "882",
@@ -10542,7 +10720,8 @@
         "TPPIA02",
         "TPTER01",
         "TPTER02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "886",
@@ -10584,7 +10763,8 @@
         "WITWI02",
         "WTWIT01",
         "WTWIT02"
-      ]
+      ],
+      "brygady": 1
     },
     {
       "name": "889",
@@ -10621,7 +10801,8 @@
         "PMWIA03",
         "WLKE01",
         "WLKE02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "891",
@@ -10653,7 +10834,8 @@
         "RKSZK02",
         "RKTRA01",
         "RKTRA02"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "893",
@@ -10686,7 +10868,8 @@
         "ZYPET03",
         "ZYSWI01",
         "ZYSWI02"
-      ]
+      ],
+      "brygady": 6
     },
     {
       "name": "901",
@@ -10740,7 +10923,8 @@
         "ZLOSI02",
         "ZLPNL01",
         "ZLZLO03"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "902",
@@ -10783,7 +10967,8 @@
         "WIED01",
         "WIET01",
         "WIET02"
-      ]
+      ],
+      "brygady": 2
     },
     {
       "name": "904",
@@ -10834,7 +11019,8 @@
         "ZLZLO01",
         "ZLZLO02",
         "ZLZLO03"
-      ]
+      ],
+      "brygady": 3
     },
     {
       "name": "905",
@@ -10923,7 +11109,8 @@
         "ZOWIE02",
         "ZOZYT01",
         "ZOZYT02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "907",
@@ -11001,7 +11188,8 @@
         "ZOWIE02",
         "ZOZYT01",
         "ZOZYT02"
-      ]
+      ],
+      "brygady": 7
     },
     {
       "name": "911",
@@ -11073,7 +11261,8 @@
         "WILC02",
         "WLOD01",
         "WLOD02"
-      ]
+      ],
+      "brygady": 16
     }
   ]
 }
