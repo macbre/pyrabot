@@ -96,7 +96,7 @@
     ],
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
-    "przystanki":17,
+    "przystanki":20,
     "przebieg":"OGRODY - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=8"
@@ -234,13 +234,13 @@
   "121":{
     "typ":"bus",
     "petle":[
-      "Meissnera",
+      "Ogrody",
       "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":2,
-    "przebieg":"MEISSNERA - Meissnera - Nowina - Szpitalna - OGRODY"
+    "przebieg":"OGRODY - Szpitalna - Nowina - Sk\u0105pskiego - Nowina - Szpitalna - OGRODY"
   },
   "122":{
     "typ":"bus",
