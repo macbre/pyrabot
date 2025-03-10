@@ -97,7 +97,7 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "przystanki":20,
-    "przebieg":"OGRODY - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
+    "przebieg":"OGRODY - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Roosevelta - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=8"
   },
@@ -214,7 +214,7 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "przystanki":24,
-    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=18"
   },
@@ -1632,6 +1632,72 @@
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=690"
   },
+  "691":{
+    "typ":"bus",
+    "petle":[
+      "Borkowice P\u0119tla",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":11,
+    "przebieg":"BORKOWICE P\u0118TLA - Borkowice/Borkowice - Dru\u017cyna/Dru\u017cyna - Krosno/G\u0142\u00f3wna - Krosno/Piaskowa - Krosno/Strzelecka - Mosina/Strzelecka - Mosina/Krasickiego - Mosina/Leszczy\u0144ska - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY"
+  },
+  "692":{
+    "typ":"bus",
+    "petle":[
+      "Dymaczewo Nowe Klub",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":7,
+    "przebieg":"DYMACZEWO NOWE KLUB - Dymaczewo Nowe/Dymaczewo Nowe - Dymaczewo Stare/Szkolna - Krosinko/Wiejska - Ludwikowo/Ludwikowska - Krosinko/Ludwikowska - Mosina/Konopnickiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY"
+  },
+  "693":{
+    "typ":"bus",
+    "petle":[
+      "Krajkowo Ii",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":4,
+    "przebieg":"KRAJKOWO II - Krajkowo/Krajkowo - Baranowo./Baranowo - Sowinki/Sowiniecka - Sowiniec/Sowiniecka - Mosina/Sowiniecka - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY"
+  },
+  "694":{
+    "typ":"bus",
+    "petle":[
+      "Mosina Dworzec Kolejowy",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":5,
+    "przebieg":"MOSINA DWORZEC KOLEJOWY - Mosina/Dworcowa - Mosina/Leszczy\u0144ska - Krosno/Le\u015bna - Krosno/Krosi\u0144ska - Mosina/Krosi\u0144ska - Mosina/\u015aremska - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY"
+  },
+  "698":{
+    "typ":"bus",
+    "petle":[
+      "Radzewice Ii",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":9,
+    "przebieg":"RADZEWICE II - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Mostowa - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY"
+  },
+  "699":{
+    "typ":"bus",
+    "petle":[
+      "K\u00f3rnik Szko\u0142a Nr 1",
+      "Mosina Dworzec Kolejowy"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":13,
+    "przebieg":"K\u00d3RNIK SZKO\u0141A NR 1 - K\u00f3rnik/Dworcowa - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Czo\u0142owo/Czo\u0142owo - Mieczewo/Szeroka - \u015awi\u0105tniki/\u015aremska - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Pozna\u0144ska - Sasinowo/Pozna\u0144ska - Rogalinek/Mostowa - Puszczykowo/Kraszewskiego - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY"
+  },
   "701":{
     "typ":"bus",
     "petle":[
@@ -1821,7 +1887,7 @@
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
-    "przystanki":3,
+    "przystanki":5,
     "przebieg":"GO\u0141USKI P\u0118TLA - Go\u0142uski/Szkolna - Go\u0142uski/Dopiewska - Pal\u0119dzie/Pocztowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY"
   },
   "796":{

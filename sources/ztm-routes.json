@@ -494,7 +494,7 @@
         "Ogrody",
         "Mi\u0142ostowo"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
+      "przebieg": "OGRODY - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Roosevelta - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
       "color1": "DA291C",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -1086,7 +1086,7 @@
         "Franowo",
         "Ogrody"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
       "color1": "FEDB00",
       "color2": "000000",
       "przystankiSymbole": [
@@ -1992,7 +1992,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 21
+      "brygady": 20
     },
     {
       "name": "163",
@@ -3825,7 +3825,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "201",
@@ -5062,7 +5062,7 @@
         "LUTY02",
         "MT02",
         "MT72",
-        "NADW01",
+        "NADW93",
         "NADW94",
         "POGL01",
         "POGL02",
@@ -5099,7 +5099,7 @@
         "WOPO04",
         "ZOWY91"
       ],
-      "brygady": 2
+      "brygady": 4
     },
     {
       "name": "227",
@@ -5821,7 +5821,7 @@
         "WISE01",
         "WISE02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "323",
@@ -8547,6 +8547,202 @@
       "brygady": 2
     },
     {
+      "name": "691",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
+      "petle": [
+        "Borkowice P\u0119tla",
+        "Mosina Dworzec Kolejowy"
+      ],
+      "przebieg": "BORKOWICE P\u0118TLA - Borkowice/Borkowice - Dru\u017cyna/Dru\u017cyna - Krosno/G\u0142\u00f3wna - Krosno/Piaskowa - Krosno/Strzelecka - Mosina/Strzelecka - Mosina/Krasickiego - Mosina/Leszczy\u0144ska - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "BKPET02",
+        "DRCIA01",
+        "DRCIA02",
+        "DRPRZ01",
+        "DRPRZ02",
+        "KRPIA01",
+        "KRPIA02",
+        "KRPOL01",
+        "KRPOL02",
+        "KRPOS01",
+        "KRPOS02",
+        "KRPOS03",
+        "KRSZK01",
+        "KRSZK02",
+        "MOCIS02",
+        "MODEB01",
+        "MODEB02",
+        "MODLU01",
+        "MODLU02",
+        "MODWK01",
+        "MOKRA01",
+        "MOKRA02",
+        "MOSZK01",
+        "MOSZK02"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "692",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
+      "petle": [
+        "Dymaczewo Nowe Klub",
+        "Mosina Dworzec Kolejowy"
+      ],
+      "przebieg": "DYMACZEWO NOWE KLUB - Dymaczewo Nowe/Dymaczewo Nowe - Dymaczewo Stare/Szkolna - Krosinko/Wiejska - Ludwikowo/Ludwikowska - Krosinko/Ludwikowska - Mosina/Konopnickiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "DNDYM02",
+        "DNKLU02",
+        "DSBAJ01",
+        "KKGRZ01",
+        "KKGRZ02",
+        "KKKRO01",
+        "KKKRO02",
+        "KKLUD01",
+        "KKLUD02",
+        "LDSZP01",
+        "MODWK01",
+        "MOJEZ01",
+        "MORON01",
+        "MORON02",
+        "MOSTA01",
+        "MOSTA02"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "693",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
+      "petle": [
+        "Krajkowo Ii",
+        "Mosina Dworzec Kolejowy"
+      ],
+      "przebieg": "KRAJKOWO II - Krajkowo/Krajkowo - Baranowo./Baranowo - Sowinki/Sowiniecka - Sowiniec/Sowiniecka - Mosina/Sowiniecka - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "BABAR01",
+        "BABAR02",
+        "KJKII01",
+        "KJKJI01",
+        "MODWK01",
+        "MODWK02",
+        "MOSSZ01",
+        "SPPAL01",
+        "XSPET01"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "694",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
+      "petle": [
+        "Mosina Dworzec Kolejowy",
+        "Mosina Dworzec Kolejowy"
+      ],
+      "przebieg": "MOSINA DWORZEC KOLEJOWY - Mosina/Dworcowa - Mosina/Leszczy\u0144ska - Krosno/Le\u015bna - Krosno/Krosi\u0144ska - Mosina/Krosi\u0144ska - Mosina/\u015aremska - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "KRKRI01",
+        "KRKRN01",
+        "KRLES01",
+        "MODEB01",
+        "MODLU01",
+        "MODWK02",
+        "MOJAS01",
+        "MOKRS01",
+        "MOLOG01",
+        "MOSGS01",
+        "MOSLE01"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "698",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
+      "petle": [
+        "Radzewice Ii",
+        "Mosina Dworzec Kolejowy"
+      ],
+      "przebieg": "RADZEWICE II - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Mostowa - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "MODWK02",
+        "MORON01",
+        "MORON02",
+        "MORZM02",
+        "MORZM03",
+        "REMOS01",
+        "REMOS02",
+        "RIMUZ01",
+        "RIMUZ02",
+        "RZRII01",
+        "RZRZI01",
+        "RZRZI02",
+        "SFIII02",
+        "SFSII01",
+        "SFSII02",
+        "SFSWI03",
+        "SFSWI04",
+        "SNSAS02",
+        "WRPET02"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "699",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
+      "petle": [
+        "K\u00f3rnik Szko\u0142a Nr 1",
+        "Mosina Dworzec Kolejowy"
+      ],
+      "przebieg": "K\u00d3RNIK SZKO\u0141A NR 1 - K\u00f3rnik/Dworcowa - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Czo\u0142owo/Czo\u0142owo - Mieczewo/Szeroka - \u015awi\u0105tniki/\u015aremska - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Pozna\u0144ska - Sasinowo/Pozna\u0144ska - Rogalinek/Mostowa - Puszczykowo/Kraszewskiego - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "CLWIE01",
+        "KDNIE01",
+        "KDNIE02",
+        "KDPOP01",
+        "KDPOP02",
+        "KDSZK01",
+        "MIMIE02",
+        "MODWK02",
+        "MORON01",
+        "MORON02",
+        "MORZM02",
+        "MORZM03",
+        "PUNIW02",
+        "REMOS01",
+        "REMOS02",
+        "RESKR01",
+        "RIMUZ01",
+        "RIMUZ02",
+        "RZRII01",
+        "RZRZI01",
+        "RZRZI02",
+        "SFIII02",
+        "SFSII01",
+        "SFSII02",
+        "SFSWI03",
+        "SFSWI04",
+        "SNSAS02"
+      ],
+      "brygady": 2
+    },
+    {
       "name": "701",
       "typ": "bus",
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.",
@@ -9422,9 +9618,13 @@
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
+        "GSPAM01",
+        "GSPAM02",
         "GSPET01",
         "GSWSP01",
         "GSWSP02",
+        "PABUR01",
+        "PABUR02",
         "PADWR01",
         "PANOW01",
         "PANOW02",
