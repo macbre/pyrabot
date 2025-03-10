@@ -121,6 +121,9 @@ logging.info('Znalezionych linii: %d', len(routes))
 
 lines = []
 for i, route in routes.iterrows():
+    if route['route_id'] in ['PKS']:
+        continue
+
     # Dopiewo Dworzec Kolejowy - Ogrody
     trasa = route['route_long_name'].split('|')[0].lower().title()
 
