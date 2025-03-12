@@ -231,6 +231,30 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
+  "53":{
+    "typ":"tram",
+    "petle":[
+      "Osiedle Lecha",
+      "K\u00f3rnicka"
+    ],
+    "kolor1":"#8E364C",
+    "kolor2":"#FFFFFF",
+    "przystanki":4,
+    "przebieg":"OS. LECHA - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00d3RNICKA"
+  },
+  "56":{
+    "typ":"tram",
+    "petle":[
+      "Rondo \u015ar\u00f3dka",
+      "Rondo Rataje"
+    ],
+    "kolor1":"#009639",
+    "kolor2":"#FFFFFF",
+    "przystanki":4,
+    "przebieg":"RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - RONDO RATAJE",
+    "agency":"MPK",
+    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=56"
+  },
   "121":{
     "typ":"bus",
     "petle":[
@@ -1888,7 +1912,7 @@
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "przystanki":5,
-    "przebieg":"GO\u0141USKI P\u0118TLA - Go\u0142uski/Szkolna - Go\u0142uski/Dopiewska - Pal\u0119dzie/Pocztowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY"
+    "przebieg":"GO\u0141USKI P\u0118TLA - Go\u0142uski/Szkolna - Go\u0142uski/Dopiewska - Pal\u0119dzie/\u017belazka - Pal\u0119dzie/Pocztowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY"
   },
   "796":{
     "typ":"bus",

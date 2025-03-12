@@ -17,7 +17,7 @@
         "KLIN02",
         "LIBE02",
         "MT01",
-        "NADW93",
+        "NADW01",
         "NADW94",
         "NOGO02",
         "PIAT04",
@@ -1210,6 +1210,55 @@
       "brygady": 13
     },
     {
+      "name": "53",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Osiedle Lecha",
+        "K\u00f3rnicka"
+      ],
+      "przebieg": "OS. LECHA - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00d3RNICKA",
+      "color1": "8E364C",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "KORN43",
+        "KORN44",
+        "LACI41",
+        "LACI42",
+        "OSLE41",
+        "OSLE42",
+        "OSTY41",
+        "OSTY42",
+        "POKA41",
+        "POKA42"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "56",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Rondo \u015ar\u00f3dka",
+        "Rondo Rataje"
+      ],
+      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - RONDO RATAJE",
+      "color1": "009639",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BAKA41",
+        "BAKA42",
+        "KORN41",
+        "KORN42",
+        "KORN45",
+        "ROSR43",
+        "ROSR44",
+        "RRAT73",
+        "RRAT74"
+      ],
+      "brygady": 2
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1913,7 +1962,7 @@
         "LUTY02",
         "MAGA01",
         "MAGA04",
-        "NADW93",
+        "NADW01",
         "NADW94",
         "NOGO01",
         "NOGO02",
@@ -1992,7 +2041,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 20
+      "brygady": 21
     },
     {
       "name": "163",
@@ -2091,7 +2140,7 @@
         "MATE02",
         "MRAG01",
         "MRAG02",
-        "NADW93",
+        "NADW01",
         "NADW94",
         "OSKO01",
         "OSKO02",
@@ -3550,7 +3599,7 @@
         "MACZ02",
         "MARS01",
         "MARS02",
-        "NADW93",
+        "NADW01",
         "NADW94",
         "NIES03",
         "NIES04",
@@ -4421,7 +4470,7 @@
         "LUTY01",
         "MT02",
         "MT72",
-        "NADW93",
+        "NADW01",
         "NADW94",
         "POGL01",
         "POGL02",
@@ -5821,7 +5870,7 @@
         "WISE01",
         "WISE02"
       ],
-      "brygady": 9
+      "brygady": 7
     },
     {
       "name": "323",
@@ -9614,7 +9663,7 @@
         "Go\u0142uski P\u0119tla",
         "Pal\u0119dzie Dworzec Kolejowy"
       ],
-      "przebieg": "GO\u0141USKI P\u0118TLA - Go\u0142uski/Szkolna - Go\u0142uski/Dopiewska - Pal\u0119dzie/Pocztowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY",
+      "przebieg": "GO\u0141USKI P\u0118TLA - Go\u0142uski/Szkolna - Go\u0142uski/Dopiewska - Pal\u0119dzie/\u017belazka - Pal\u0119dzie/Pocztowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
