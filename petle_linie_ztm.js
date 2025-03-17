@@ -16,6 +16,7 @@ function updateLine(pageTitle) {
 		stops = db[line] && db[line].petle,
 		rozklad = (db[line] && db[line].rozklad) || `https://www.ztm.poznan.pl/pl/rozklad-jazdy/${line}`,
 		przystanki = db[line] && db[line].przystanki,
+                brygady = db[line] && db[line].brygady,
 		przebieg = db[line] && db[line].przebieg;
  
 	console.log("\n" + page.title + ' (#' + line + ')');
@@ -67,6 +68,15 @@ function updateLine(pageTitle) {
 			}
 
 			content = content.replace(/\|przystanki\s?=[^|}]+/, "|przystanki=" + przystanki + "\n");
+		}
+
+		if (brygady > 0) {
+			// dodaj parametr do wikitekstu
+			if (content.indexOf('|brygady') < 0) {
+				content = content.replace(/\|przystanki=/, '|brygady=\n|przystanki=');
+			}
+
+			content = content.replace(/\|brygady\s?=[^|}]+/, "|brygady=" + brygady + "\n");
 		}
 
 		if (przebieg) {

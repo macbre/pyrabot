@@ -55,7 +55,8 @@ for line in routes['lines']:
         # przystanki uwzględniają te końcowe + w obie strony, liczba przystanków (pętla liczona jako zero): ceil((len - 2) / 2)
         "przystanki": ceil( (len(line['przystankiSymbole'])-2) / 2),
         "przebieg": line.get('przebieg'),
-    }
+        "brygady": line.get('brygady'),
+   }
 
 
 # czytaj dane o operatorachj
