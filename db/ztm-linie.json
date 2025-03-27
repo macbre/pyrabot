@@ -1,4 +1,16 @@
 {
+  "T3":{
+    "typ":"tram",
+    "petle":[
+      "Wilczak",
+      "Wilczak"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":9,
+    "przebieg":"WILCZAK - S\u0142owia\u0144ska - Murawa - Winogrady - Nowowiejskiego - al. Niepodleg\u0142o\u015bci - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - Serbska - Naramowicka - S\u0142owia\u0144ska - WILCZAK",
+    "brygady":4
+  },
   "T9":{
     "typ":"tram",
     "petle":[
@@ -103,8 +115,8 @@
     ],
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
-    "przystanki":20,
-    "przebieg":"OGRODY - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Roosevelta - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
+    "przystanki":17,
+    "przebieg":"OGRODY - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
     "brygady":10,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=8"
@@ -112,13 +124,13 @@
   "10":{
     "typ":"tram",
     "petle":[
-      "B\u0142a\u017ceja",
+      "Osiedle Sobieskiego",
       "D\u0119biec PKM"
     ],
     "kolor1":"#F1B434",
     "kolor2":"#000000",
     "przystanki":27,
-    "przebieg":"B\u0141A\u017bEJA - al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+    "przebieg":"OS. SOBIESKIEGO - Trasa PST - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
     "brygady":12,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=10"
@@ -230,7 +242,7 @@
     "kolor1":"#FEDB00",
     "kolor2":"#000000",
     "przystanki":24,
-    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
     "brygady":16,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=18"
@@ -248,6 +260,20 @@
     "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
+  },
+  "93":{
+    "typ":"tram",
+    "petle":[
+      "Wilczak",
+      "B\u0142a\u017ceja"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "przystanki":7,
+    "przebieg":"WILCZAK - Prze\u0142ajowa - Naramowicka - al. Praw Kobiet - B\u0141A\u017bEJA",
+    "brygady":3,
+    "agency":"MPK",
+    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=93"
   },
   "121":{
     "typ":"bus",
@@ -293,7 +319,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":7,
+    "przystanki":6,
     "przebieg":"SAFONY - Safony - Literacka - Poszwi\u0144skiego - Koszali\u0144ska - Biskupi\u0144ska - INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY",
     "brygady":4
   },
@@ -689,7 +715,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":26,
+    "przystanki":27,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - TERMY MALTA\u0143SKIE",
     "brygady":26
   },
@@ -994,7 +1020,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":34,
     "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
-    "brygady":5
+    "brygady":4
   },
   "226":{
     "typ":"bus",
@@ -2287,7 +2313,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":22,
+    "przystanki":20,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Poszwi\u0144skiego - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - KIEKRZ",
     "brygady":10
   },
@@ -2299,7 +2325,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":30,
+    "przystanki":29,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Poszwi\u0144skiego - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Podjazdowa - Kobylniki/Podjazdowa - Kobylniki/Szamotulska - Napachanie/Kobylnicka - Kobylniki/Szkolna - Kobylniki/Kobylnicka - KOBYLNIKI TARNOWSKA",
     "brygady":9
   },
@@ -2311,7 +2337,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":25,
+    "przystanki":23,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Poszwi\u0144skiego - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Paw\u0142owicka - Kiekrz/Czysta - Paw\u0142owice/Paw\u0142owicka - Paw\u0142owice/Szkolna - PAW\u0141OWICE P\u0118TLA",
     "brygady":8
   },
