@@ -858,7 +858,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "14",
@@ -1027,7 +1027,7 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "17",
@@ -1245,221 +1245,6 @@
         "ZNIW71"
       ],
       "brygady": 12
-    },
-    {
-      "name": "51",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Junikowo",
-        "Cmentarna"
-      ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - CMENTARNA",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "CMNA41",
-        "JUNI41",
-        "JUNI43"
-      ],
-      "brygady": 1
-    },
-    {
-      "name": "52",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Traugutta",
-        "D\u0119biec PKM"
-      ],
-      "przebieg": "TRAUGUTTA - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "DEEC41",
-        "DEEC42",
-        "HCP41",
-        "HCP42",
-        "TRAU41",
-        "TRAU42",
-        "WSPO41",
-        "WSPO42"
-      ],
-      "brygady": 1
-    },
-    {
-      "name": "53",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo Rataje",
-        "Awf"
-      ],
-      "przebieg": "RONDO RATAJE - Krzywoustego - Kr\u00f3lowej Jadwigi - AWF",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "AWF41",
-        "AWF73",
-        "RRAT75",
-        "RRAT76",
-        "SERA71",
-        "SERA72"
-      ],
-      "brygady": 1
-    },
-    {
-      "name": "55",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Krauthofera",
-        "G\u00f3rczyn PKM"
-      ],
-      "przebieg": "KRAUTHOFERA - G\u0142ogowska - G\u00d3RCZYN PKM",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "GORC41",
-        "GORC42",
-        "KRAU71",
-        "KRAU72",
-        "SIEL71",
-        "SIEL72"
-      ],
-      "brygady": 3
-    },
-    {
-      "name": "57",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "\u017beromskiego",
-        "Rondo Nowaka-Jeziora\u0144skiego"
-      ],
-      "przebieg": "\u017bEROMSKIEGO - Przybyszewskiego - RONDO NOWAKA-JEZIORA\u0143SKIEGO",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BUKO41",
-        "RONJ73",
-        "ZERO45"
-      ],
-      "brygady": 1
-    },
-    {
-      "name": "58",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Ma\u0142e Garbary",
-        "Rondo \u015ar\u00f3dka"
-      ],
-      "przebieg": "MA\u0141E GARBARY - Ma\u0142e Garbary - Wyszy\u0144skiego - RONDO \u015aR\u00d3DKA",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "KATE41",
-        "KATE42",
-        "MAGA41",
-        "MAGA42",
-        "ROSR41",
-        "ROSR42"
-      ],
-      "brygady": 2
-    },
-    {
-      "name": "59",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Pi\u0105tkowska",
-        "Wielkopolska"
-      ],
-      "przebieg": "PI\u0104TKOWSKA - Bronowa - Witosa - os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - al. Wielkopolska - Pu\u0142askiego - WIELKOPOLSKA",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BONN41",
-        "BONN42",
-        "KLIN41",
-        "KLIN42",
-        "LUSZ41",
-        "LUSZ42",
-        "NADW41",
-        "NADW42",
-        "PIAT41",
-        "PIAT42",
-        "SOLA41",
-        "SOLA42",
-        "SWLE41",
-        "SWLE42",
-        "UP41",
-        "UP42",
-        "WIKA41",
-        "WIKA42",
-        "WINI41",
-        "WINI42"
-      ],
-      "brygady": 1
-    },
-    {
-      "name": "111",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Dworzec Zachodni",
-        "Dworzec Zachodni"
-      ],
-      "przebieg": "DWORZEC ZACHODNI - Zachodnia - al. Kr\u00f3la Przemys\u0142a II - Przemys\u0142owa - Robocza - 28 Czerwca 1956 r. - Robocza - Przemys\u0142owa - al. Kr\u00f3la Przemys\u0142a II - Zachodnia - DWORZEC ZACHODNI",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BERG01",
-        "BERG02",
-        "DWZA02",
-        "KOSI92",
-        "NIED01",
-        "NIED02",
-        "POGL05",
-        "POGL06",
-        "ROBO01",
-        "ROBO02",
-        "ZNTK01",
-        "ZNTK02"
-      ],
-      "brygady": 2
-    },
-    {
-      "name": "114",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Dworzec Zachodni",
-        "Dworzec Zachodni"
-      ],
-      "przebieg": "DWORZEC ZACHODNI - Berwi\u0144skiego - Matejki - Kasprzaka - Chociszewskiego - Arciszewskiego - Palacza - Grunwaldzka - Grochowska - Chociszewskiego - Kasprzaka - Matejki - Wyspia\u0144skiego - Zachodnia - DWORZEC ZACHODNI",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ARCI01",
-        "ARCI91",
-        "CHOC01",
-        "CHOC02",
-        "DRZE02",
-        "DWZA02",
-        "PALA91",
-        "PAWI01",
-        "PAWI02",
-        "PROM01",
-        "SOEJ01",
-        "SOEJ02",
-        "SSKA01",
-        "SSKA02",
-        "WYSP01",
-        "WYSP02"
-      ],
-      "brygady": 2
     },
     {
       "name": "121",
@@ -1951,21 +1736,24 @@
         "Krzy\u017cowniki",
         "Ogrody"
       ],
-      "przebieg": "KRZY\u017bOWNIKI - S\u0142upska - D\u0105browskiego - OGRODY",
+      "przebieg": "KRZY\u017bOWNIKI - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "BRAN32",
+        "BRAN01",
+        "BRAN02",
         "BUZA01",
         "BUZA02",
+        "CZKA01",
+        "CZKA02",
         "KOLO01",
         "KOLO02",
         "KRZY04",
-        "LEKA02",
-        "LEKA91",
         "LUPO01",
+        "LUPO02",
         "MIED01",
         "MIED02",
+        "MIED03",
         "OGDY01",
         "OGDY04",
         "PILO01",
@@ -1976,9 +1764,7 @@
         "SMOC01",
         "SMOC02",
         "TATR01",
-        "TATR02",
-        "WICH01",
-        "WICH02"
+        "TATR02"
       ],
       "brygady": 10
     },
@@ -3546,17 +3332,20 @@
         "Kiekrz",
         "Ogrody"
       ],
-      "przebieg": "KIEKRZ - Wilk\u00f3w Morskich - Chojnicka - S\u0142upska - D\u0105browskiego - OGRODY",
+      "przebieg": "KIEKRZ - Wilk\u00f3w Morskich - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ADMI01",
         "ADMI02",
-        "BRAN32",
+        "BRAN01",
+        "BRAN02",
         "BUZA01",
         "BUZA02",
         "CHKA01",
         "CHKA02",
+        "CZKA01",
+        "CZKA02",
         "KIDW01",
         "KIDW02",
         "KIEK02",
@@ -3565,11 +3354,11 @@
         "KOLO02",
         "KRZY01",
         "KRZY02",
-        "LEKA02",
-        "LEKA91",
         "LUPO01",
+        "LUPO02",
         "MIED01",
         "MIED02",
+        "MIED03",
         "NJEZ01",
         "NJEZ02",
         "OGDY01",
@@ -3589,8 +3378,6 @@
         "STOB02",
         "TATR01",
         "TATR02",
-        "WICH01",
-        "WICH02",
         "WIMO01",
         "WIMO02"
       ],
@@ -3859,7 +3646,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4148,72 +3935,40 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 9
+      "brygady": 11
     },
     {
-      "name": "202",
+      "name": "203",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Franowo",
+        "Dworzec Zachodni",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ALSO41",
         "ALSO42",
-        "FRRY41",
-        "FRRY42",
-        "FRWO41",
-        "FRWO42",
-        "GRUD72",
-        "GWAR71",
-        "KORN43",
-        "KORN44",
-        "KORN78",
+        "DWZA41",
+        "DWZA42",
         "KURP41",
         "KURP42",
-        "LACI41",
-        "LACI42",
         "LECH41",
         "LECH42",
-        "MORO71",
-        "MORO72",
-        "MRCI71",
-        "MRCI72",
-        "MT44",
-        "MT73",
-        "OSLE41",
-        "OSLE42",
-        "OSTY41",
-        "OSTY42",
-        "PIAR41",
-        "PIAR42",
-        "PK41",
-        "PK42",
-        "PLBE71",
-        "PLBE72",
-        "POKA41",
-        "POKA42",
-        "PP71",
-        "PP72",
+        "MT45",
+        "MT46",
+        "RKAP45",
+        "RKAP46",
         "SLKA41",
         "SLKA42",
         "SOB41",
         "SOB42",
-        "SWMN71",
-        "SZWA41",
-        "SZWA42",
-        "SZWE41",
-        "SZWE42",
         "SZYM41",
-        "SZYM42",
-        "WROC71",
-        "WROC72"
+        "SZYM42"
       ],
-      "brygady": 7
+      "brygady": 2
     },
     {
       "name": "211",
@@ -4436,10 +4191,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4712,13 +4467,9 @@
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ARPO01",
-        "CZ I01",
-        "CZ I02",
         "DWZA71",
         "DWZA72",
         "DYMK03",
-        "DZIA01",
-        "DZIA02",
         "FRWO01",
         "FRWO02",
         "GLHE71",
@@ -4729,9 +4480,6 @@
         "KOLE02",
         "KULY01",
         "KULY02",
-        "KUWI01",
-        "KUWI02",
-        "LUBU02",
         "LUCK01",
         "MODW71",
         "MODW72",
@@ -4741,12 +4489,10 @@
         "NARA72",
         "OAK01",
         "OAK02",
-        "OB I01",
-        "OB I02",
-        "OBII01",
-        "OBII02",
         "OBOH01",
         "OBOH02",
+        "OCZ71",
+        "OCZ72",
         "OKOS01",
         "OKOS02",
         "OLOK01",
@@ -4761,14 +4507,18 @@
         "OSBA04",
         "OSBP01",
         "OSBP02",
+        "OSLE03",
+        "OSLE04",
         "OWW01",
         "OWW02",
         "OZIM01",
         "OZIM02",
         "PAWI71",
         "PAWI72",
-        "PK01",
-        "PK02",
+        "PIAR01",
+        "PIAR02",
+        "PK03",
+        "PK94",
         "PRNZ02",
         "RKAP71",
         "RKAP72",
@@ -4803,7 +4553,13 @@
         "TRAU02",
         "URBA02",
         "WIKA01",
-        "WIKA02"
+        "WIKA02",
+        "Z I01",
+        "Z I02",
+        "Z II01",
+        "Z II02",
+        "ZIII01",
+        "ZIII02"
       ],
       "brygady": 6
     },
@@ -10869,7 +10625,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 7
+      "brygady": 8
     },
     {
       "name": "812",
@@ -10958,45 +10714,74 @@
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
       "petle": [
-        "Ka\u017amierz Rynek",
-        "Ogrody"
+        "Ogrody",
+        "Ka\u017amierz Rynek"
       ],
-      "przebieg": "KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
+        "BNPRZ01",
         "BNPRZ02",
+        "BUZA01",
         "BUZA02",
+        "BZZNO01",
         "BZZNO02",
+        "GRCIE01",
         "GRCIE02",
+        "GRKRE01",
         "GRKRE02",
+        "GRPET01",
         "GRPET02",
+        "GRSZK01",
         "GRSZK02",
         "KMRYN01",
+        "KMSTO01",
         "KMSTO02",
+        "KOLO01",
         "KOLO02",
+        "LEKA01",
         "LEKA02",
+        "OGDY02",
         "OGDY12",
+        "PILO01",
         "PILO02",
         "PINA02",
+        "PLOT01",
         "PLOT02",
+        "PMWIA01",
         "PMWIA02",
+        "PMWYS01",
         "PMWYS02",
         "PONZ02",
+        "SAWIA01",
         "SAWIA02",
+        "SMOC01",
         "SMOC02",
+        "SWKLA01",
         "SWKLA02",
+        "SWWIA01",
         "SWWIA02",
+        "TATR01",
         "TATR02",
+        "TPCEN01",
         "TPCEN02",
+        "TPDZI01",
         "TPDZI02",
+        "TPGRU01",
+        "TPKRO01",
+        "TPMAR01",
         "TPMAR02",
+        "TPOKR01",
         "TPOKR02",
+        "TPROL01",
         "TPROL02",
+        "TPZIE01",
         "TPZIE02",
+        "WICH01",
         "WICH02"
       ],
-      "brygady": 3
+      "brygady": 5
     },
     {
       "name": "821",
