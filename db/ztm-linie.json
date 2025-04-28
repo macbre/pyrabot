@@ -289,6 +289,18 @@
     "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":1
   },
+  "104":{
+    "typ":"bus",
+    "petle":[
+      "Nowe Zoo",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF",
+    "przystanki":4,
+    "przebieg":"NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+    "brygady":1
+  },
   "121":{
     "typ":"bus",
     "petle":[

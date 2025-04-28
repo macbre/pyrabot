@@ -1328,6 +1328,30 @@
       "brygady": 1
     },
     {
+      "name": "104",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Nowe Zoo",
+        "Rondo \u015ar\u00f3dka"
+      ],
+      "przebieg": "NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "color1": "E31E24",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "ROSR01",
+        "ROSR04",
+        "ROSR30",
+        "TEMA01",
+        "TERM03",
+        "TERM04",
+        "TORM01",
+        "TORM02",
+        "ZOO02"
+      ],
+      "brygady": 1
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
