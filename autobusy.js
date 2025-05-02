@@ -20,20 +20,22 @@ text = 'linia włączona w system transportu Poznania [[1 sierpnia]] [[2019]] ro
 **/
 
 // minibusy
-text = 'linia minibusowa uruchomiona [[2 października]] [[2023]] roku pomiędzy rejonem ulicy Warszawskiej w Poznaniu, [[Zieliniec|Zielińcem]] oraz znajdującym się na terenie gminy Swarzędz [[Gruszczyn]]em<ref>[https://www.ztm.poznan.pl/pl/komunikaty/poniedzialek-2-pazdziernika-start-nowej-linii-minibusowej-nr-416 ztm.poznan.pl - Poniedziałek, 2 października: start nowej linii minibusowej nr 416]</ref>.';
+text = 'linia podmiejska biegnąca po trasie {trasa}.';
 
 text += '\n\n== Źródła ==\n<references />';
 
-text += '\n\n[[Kategoria:Linie minibusowe]]';
+// text += '\n\n[[Kategoria:Linie minibusowe]]';
 
 client.logIn(function(err, data) {
 
 	for (var line in db) {
 		if (line == 201) continue;
 
-		if (! ['416'].includes(line) ) continue;
+		// if (! ['416'].includes(line) ) continue;
 
 		// if (line < 500 || line > 570)  continue;
+
+		if (line < 300 || line > 999) continue;
 
 		// tylko linie autobusowe
 		if (line > 40 || line === 'L') {
@@ -72,12 +74,16 @@ client.logIn(function(err, data) {
 						"|foto=",
 						"|pętla1=" + petle[0],
 						"|pętla2=" + petle[1],
+						"|brygady=" + (data.brygady || ''),
 						"|przystanki=" + (data.przystanki || ''),
+						"|przebieg=" + (data.przebieg || ''),
 						"|dlugosc=",
-						"|uruchomiona=" + year,
+						"|uruchomiona=",
+						// "|uruchomiona=" + year,
 						"|zlikwidowana=",
 						"|wydział=",
-						"|historia=[[" + year + "]]: " + petle[0] + '-' + petle[1],
+						"|historia=",
+						// "|historia=[[" + year + "]]: " + petle[0] + '-' + petle[1],
 						"}}",
 						"{{Szkic}}",
 					].join("\n");
@@ -85,7 +91,7 @@ client.logIn(function(err, data) {
 					// dodatkowy tekst
 					if (text !== '') {
 						content += "\n\n";
-						content += "'''" + title + "''' - " + text;
+						content += "'''" + title + "''' - " + text.replace('{trasa}', `${petle[0]} - ${petle[1]}`);
 
 						content = content.trim();
 					}
