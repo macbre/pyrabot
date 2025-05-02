@@ -1,10 +1,28 @@
+/**
+ * Performs the OSM geo search
+ * 
+ * @see https://nominatim.org/release-docs/develop/api/Search/
+ * @see https://nominatim.org/release-docs/develop/api/Search/#examples
+ *
+ * @typedef { import('nodemw') } nodemw
+ * 
+ * @param {nodemw} client 
+ * @param {string} query 
+ * @param {function} callback 
+ * @return {object}
+ */
 function osmSearch(client, query, callback) {
-	client.log('osmSearch: query', query);
 	query = query.replace(/^Ulica\s/, '');
 
-	// @see http://wiki.openstreetmap.org/wiki/Nominatim#Alternatives_.2F_Third-party_providers
 	// e.g. https://nominatim.openstreetmap.org/search.php?q=Tony+Halika%2C+Pozna%C5%84&format=json&addressdetails=1
-	const url = 'https://nominatim.openstreetmap.org/search.php?format=json&q=' + encodeURIComponent(query);
+	const email = `${client.getConfig('username')}@nodemw.local`;
+	const url = 'https://nominatim.openstreetmap.org' +
+		'/search.php?addressdetails=1&namedetails=1&format=jsonv2' +
+		`&email=${email}` +
+		`&q=${encodeURIComponent(query)}`;
+
+	client.log(`osmSeach: "${query}" <${url}> ...`);
+
 
 	client.fetchUrl(url, (err, res) => {
 		if (err) {

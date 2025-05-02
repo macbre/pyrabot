@@ -2,12 +2,11 @@
 /**
  * Skrypt tworzący szkice stron o ulicach
  */
-var fs = require('fs'),
-	bot = require('nodemw'),
+const bot = require('nodemw'),
 	client = new bot('config.js'),
 	utils = require('./utils');
 
-var SUMMARY = 'Szkic strony',
+const SUMMARY = 'Szkic strony',
 	YEAR = '2018',
 	ULICA = process.argv[2] || '';
 
@@ -38,9 +37,9 @@ client.logIn((err, data) => {
 			}
 
 			var place = data[0];
-			client.log(place);
-
 			place.address = place.address || {};
+
+			console.dir(place);
 
 			place.address.postcode = place.address.postcode || '';
 			place.address.suburb = place.address.suburb || '';
@@ -77,9 +76,11 @@ client.logIn((err, data) => {
 |width=300
 |height=250
 }}
+
+https://www.openstreetmap.org/way/776814487
 **/
 
-			var content = `{{Ulica infobox
+			let content = `{{Ulica infobox
 |nazwa_ulicy=${ULICA}
 |mapa_ulica={{Place|lat=${place.lat}|lon=${place.lon}|width=300}}
 |patron=
@@ -89,9 +90,10 @@ client.logIn((err, data) => {
 |rok=
 |numery=
 |najwyższy_budynek=
-|kody=${place.address.postcode}
+|kody=${place.address.postcode ?? ''}
 |przystanki_autobusowe=
 |przystanki_tramwajowe=
+|osm_id=${place.osm_id ?? ''}
 }}
 '''${ULICA}'''
 
