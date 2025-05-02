@@ -70,14 +70,23 @@ client.logIn((err, data) => {
 			     country_code: 'pl' } }
 			**/
 
+/**
+|mapa_ulica={{Place
+|lat=52.416359
+|lon=16.870773
+|width=300
+|height=250
+}}
+**/
+
 			var content = `{{Ulica infobox
 |nazwa_ulicy=${ULICA}
-|mapa_ulica=<place lat="${place.lat}" lon="${place.lon}" width="300" zoom=14 />
+|mapa_ulica={{Place|lat=${place.lat}|lon=${place.lon}|width=300}}
 |patron=
 |patron_wikipedia=
 |długość=
 |dzielnice=${place.address.neighbourhood}, ${place.address.suburb}
-|rok=[[${YEAR}]]
+|rok=
 |numery=
 |najwyższy_budynek=
 |kody=${place.address.postcode}
@@ -97,7 +106,7 @@ client.logIn((err, data) => {
 			content = content.replace(/=\s?,\s?/g, '=');
 			//content = content.replace(/, ?\n*/g, '\n');
 
-			client.log(content);
+			console.log(content);
 
 			// edytuj
 			client.edit(ULICA, content, SUMMARY, (err) => {
