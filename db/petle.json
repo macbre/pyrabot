@@ -1,5 +1,30 @@
 [
   {
+    "name": "Pętla Luboń/Kręta",
+    "from": false,
+    "to": false
+  },
+  {
+    "name": "Pętla Mogileńska",
+    "from": false,
+    "to": false
+  },
+  {
+    "name": "Pętla Poznań Główny",
+    "from": false,
+    "to": false
+  },
+  {
+    "name": "Pętla Port Lotniczy Ławica",
+    "from": false,
+    "to": false
+  },
+  {
+    "name": "Pętla Łęczyca Dworcowa",
+    "from": false,
+    "to": false
+  },
+  {
     "name": "Pętla Stary Rynek",
     "from": 1880,
     "to": 1955
@@ -35,7 +60,7 @@
     "to": 1959
   },
   {
-    "name": "Pętla Górczyn",
+    "name": "Pętla Górczyn PKM",
     "from": 1928,
     "to": false
   },
@@ -50,7 +75,7 @@
     "to": 1980
   },
   {
-    "name": "Pętla Dębiec",
+    "name": "Pętla Dębiec PKM",
     "from": 1948,
     "to": false
   },
@@ -65,6 +90,11 @@
     "to": false
   },
   {
+    "name": "Pętla Rataje",
+    "from": 1952,
+    "to": 1959
+  },
+  {
     "name": "Pętla Bolkowicka",
     "from": 1955,
     "to": 1975
@@ -72,12 +102,7 @@
   {
     "name": "Pętla Stomil",
     "from": 1955,
-    "to": false
-  },
-  {
-    "name": "Pętla Zawady",
-    "from": 1959,
-    "to": false
+    "to": 2020
   },
   {
     "name": "Pętla Osiedle Warszawskie",
@@ -85,12 +110,17 @@
     "to": 1974
   },
   {
-    "name": "Pętla Wilczak",
-    "from": 1964,
+    "name": "Pętla Zawady",
+    "from": 1959,
     "to": false
   },
   {
-    "name": "Pętla Starołęka",
+    "name": "Pętla Wilczak",
+    "from": 1964,
+    "to": 2018
+  },
+  {
+    "name": "Pętla Starołęka PKM",
     "from": 1967,
     "to": false
   },
@@ -110,14 +140,24 @@
     "to": false
   },
   {
+    "name": "Pętla Garbary PKM",
+    "from": 1978,
+    "to": false
+  },
+  {
+    "name": "Pętla Rondo Rataje",
+    "from": 1979,
+    "to": false
+  },
+  {
+    "name": "Pętla Starołęka Dworzec",
+    "from": 1979,
+    "to": false
+  },
+  {
     "name": "Pętla Osiedle Lecha",
     "from": 1979,
     "to": 2011
-  },
-  {
-    "name": "Pętla Rataje Dworzec",
-    "from": 1979,
-    "to": false
   },
   {
     "name": "Pętla Piątkowska",
@@ -125,7 +165,17 @@
     "to": false
   },
   {
-    "name": "Pętla Jana III Sobieskiego",
+    "name": "Pętla Rondo Śródka",
+    "from": 1987,
+    "to": false
+  },
+  {
+    "name": "Pętla Osiedle Stefana Batorego",
+    "from": 1988,
+    "to": 2007
+  },
+  {
+    "name": "Pętla Osiedle Sobieskiego",
     "from": 1997,
     "to": false
   },
@@ -137,6 +187,21 @@
   {
     "name": "Pętla Dworzec Zachodni",
     "from": 2013,
+    "to": false
+  },
+  {
+    "name": "Pętla Słowiańska",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "name": "Pętla Unii Lubelskiej",
+    "from": 2020,
+    "to": false
+  },
+  {
+    "name": "Pętla Błażeja",
+    "from": 2022,
     "to": false
   }
 ]
