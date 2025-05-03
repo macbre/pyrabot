@@ -1,4 +1,4 @@
-var fs = require('fs'),
+const fs = require('fs'),
 	//data = JSON.parse(fs.readFileSync('osoby.json'));
 	//data = JSON.parse(fs.readFileSync('db/tramwaj.json'));
 	//data = JSON.parse(fs.readFileSync('bramy_festung.json'));
@@ -8,7 +8,7 @@ var fs = require('fs'),
 
 // ................................
 //var since = 1820, to = 1860;
-var since = 1880, to = 2014;
+const since = 1880, to = 2025;
 // ................................
 
 var items = [];
@@ -60,8 +60,9 @@ var height = 20 * items.length + 75;
 
 var timeline = "<timeline>\n\
 # generated at " + new Date().toUTCString() + " by timeline.js\n\
+# https://github.com/macbre/pyrabot\n\
 ImageSize = width:660 height:" + height + "\n\
-PlotArea = left:150 bottom:20 top:20 right:20\n\
+PlotArea = left:250 bottom:20 top:20 right:20\n\
 Alignbars = justify\n\
 DateFormat  = yyyy\n\
 Period = from:" + min + " till:" + max + "\n\
