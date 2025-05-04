@@ -132,6 +132,9 @@ for i, route in routes.iterrows():
     trasa = trasa.replace('Pl. ', 'Plac ')
     trasa = trasa.replace('Uam ', 'UAM ')
     trasa = trasa.replace(' Pkm', ' PKM')
+    trasa = trasa.replace('Tarnowo Pdg ', 'Tarnowo Podgórne ')
+    trasa = trasa.replace(' Ii', ' II')  # Krajkowo Ii
+    trasa = trasa.replace(' Pks', ' PKS')  # Środa Wielkopolska Dworzec Pks
 
     petle = trasa.split(' - ')
 
