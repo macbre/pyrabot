@@ -70,7 +70,8 @@ client.logIn(function() {
 
 		// dodaj zdjęcie
 		client.uploadByUrl(DEST, imageUrl, params, function(err, res) {
-			console.log('Import zakończony');
+			if (err) throw err;
+			console.log('Import zakończony', res.filename);
 		});
 	});
 });
