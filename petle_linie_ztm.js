@@ -1,22 +1,26 @@
 #!/usr/bin/env node
-var fs = require('fs'),
+const fs = require('node:fs'),
 	bot = require('nodemw'),
 	client = new bot('config.js');
 
-var SUMMARY = 'Zaktualizowano dane o liniach ZTM',
-	SKIP = '<!-- pyrabot skip -->';
+const SKIP = '<!-- pyrabot skip -->';
 
 // odczytaj bazę pętli
-var db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
+const db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
 
+/**
+ * @param {string} pageTitle 
+ * @returns {void}
+ */
 function updateLine(pageTitle) {
-	var page = {title: pageTitle};
+	const page = {title: pageTitle};
 
-	var line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
+	const line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
+		lineNumeric = parseInt(line, 10),
 		stops = db[line] && db[line].petle,
 		rozklad = (db[line] && db[line].rozklad) || `https://www.ztm.poznan.pl/pl/rozklad-jazdy/${line}`,
 		przystanki = db[line] && db[line].przystanki,
-                brygady = db[line] && db[line].brygady,
+		brygady = db[line] && db[line].brygady,
 		przebieg = db[line] && db[line].przebieg;
  
 	console.log("\n" + page.title + ' (#' + line + ')');
@@ -104,6 +108,53 @@ function updateLine(pageTitle) {
 
 		content = content.replace(/\|kolor1\s?=[^|}]+/, "|kolor1=" + db[line]['kolor1'] + "\n");
 		content = content.replace(/\|kolor2\s?=[^|}]+/, "|kolor2=" + db[line]['kolor2'] + "\n");
+
+		// operatorzy linii podmiejskich
+		if (lineNumeric >= 300) {
+			let operator = '';
+
+			// Czerwonak
+			if (lineNumeric >= 300 && lineNumeric <= 399) {
+				operator = 'TRANSKOM';
+			}
+
+			// Swarzędz
+			if (lineNumeric >= 400 && lineNumeric <= 499) {
+				operator = 'Swarzędzkie Przedsiębiorstwo Komunalne';
+			}
+
+			// Kórnik
+			if (lineNumeric >= 500 && lineNumeric <= 599) {
+				operator = 'KPA KOMBUS';
+			}
+
+			// Luboń
+			if (lineNumeric >= 600 && lineNumeric <= 699) {
+				operator = 'Translub';
+			}
+
+			// Komorniki
+			if (lineNumeric >= 700 && lineNumeric <= 799) {
+				operator = 'PUK';
+			}
+
+			// Tarnowo Podgórne
+			if (lineNumeric >= 800 && lineNumeric <= 899) {
+				operator = 'TPBUS';
+			}
+
+			// Suchy Las
+			if (lineNumeric >= 900 && lineNumeric <= 999) {
+				operator = 'ZKP Suchy Las';
+			}
+
+			// dodaj parametr do wikitekstu
+			if (content.indexOf('|operator') < 0) {
+				content = content.replace(/\|pętla1=/, '|operator=\n|pętla1=');
+			}
+
+			content = content.replace(/\|operator\s?=[^|}]+/, "|operator=" + operator + "\n");
+		}
 
 		// usuń stare parametry
 		// |przejazd=82
