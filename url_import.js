@@ -29,6 +29,7 @@ client.logIn(function(err) {
 	};
 
 	client.uploadByUrl(DEST, IMAGE, params, function(err, res) {
-		console.log('Upload ' + DEST + ' zakończony');
+		if (err) throw err;
+		console.log('Upload ' + DEST + ' zakończony', res.filename);
 	});
 });
