@@ -329,16 +329,15 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Mi\u0142ostowo",
+        "Budziszy\u0144ska",
         "Budziszy\u0144ska"
       ],
-      "przebieg": "MI\u0141OSTOWO - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+      "przebieg": "BUDZISZY\u0143SKA - Grunwaldzka - Bukowska - Roosevelta - Matyi - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
       "color1": "009639",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "AWF41",
         "AWF42",
-        "BAKA41",
         "BALT42",
         "BALT71",
         "BUDZ41",
@@ -351,17 +350,12 @@
         "GROC42",
         "GRUD72",
         "GWAR71",
-        "KORN41",
-        "KRAN42",
         "LAKO41",
         "LAKO42",
-        "LOMZ42",
         "MATE42",
         "MATE71",
-        "MILO42",
         "MODW71",
         "MODW72",
-        "MOGI42",
         "MRCI71",
         "MRCI72",
         "OSTR41",
@@ -376,16 +370,9 @@
         "RONJ42",
         "ROSK41",
         "ROSK42",
-        "ROSR43",
-        "ROSR46",
-        "RRAT73",
-        "RRAT76",
-        "SERA72",
         "STMI41",
         "STMI42",
-        "SWMI42",
         "SWMN71",
-        "TERM42",
         "WEGO41",
         "WEGO42",
         "WIER41",
@@ -755,7 +742,7 @@
         "Staro\u0142\u0119ka PKM",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
       "color1": "CBA3D8",
       "color2": "000000",
       "przystankiSymbole": [
@@ -1169,21 +1156,17 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Franowo",
+        "Ogrody",
         "Ogrody"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
+      "przebieg": "OGRODY - D\u0105browskiego - Roosevelta - Matyi - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - D\u0105browskiego - OGRODY",
       "color1": "FEDB00",
       "color2": "000000",
       "przystankiSymbole": [
         "AWF41",
         "AWF42",
-        "FRWO42",
         "GRUD72",
         "GWAR71",
-        "KORN41",
-        "KORN44",
-        "LACI42",
         "LAKO41",
         "LAKO42",
         "MODW71",
@@ -1194,15 +1177,10 @@
         "MT72",
         "OGDY41",
         "OGDY42",
-        "OSLE42",
-        "OSTY42",
-        "PIAR42",
-        "PK42",
         "PLWL41",
         "PLWL42",
         "POGL41",
         "POGL42",
-        "POKA42",
         "POLW41",
         "POLW42",
         "PONA71",
@@ -1211,12 +1189,7 @@
         "RJEZ74",
         "RKAP71",
         "RKAP72",
-        "RRAT73",
-        "RRAT76",
-        "SERA72",
         "SWMN71",
-        "SZWA42",
-        "SZWE42",
         "WIER41",
         "WIER42",
         "ZERO71",
@@ -1442,114 +1415,6 @@
       "brygady": 1
     },
     {
-      "name": "104",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Nowe Zoo",
-        "Rondo \u015ar\u00f3dka"
-      ],
-      "przebieg": "NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-      "color1": "E31E24",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ROSR01",
-        "ROSR04",
-        "ROSR30",
-        "TEMA01",
-        "TERM03",
-        "TERM04",
-        "TORM01",
-        "TORM02",
-        "ZOO02"
-      ],
-      "brygady": 1
-    },
-    {
-      "name": "113",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Kacza",
-        "G\u00f3rczyn PKM"
-      ],
-      "przebieg": "KACZA - Kacza - Mr\u0105gowska - Promienista - Jugos\u0142owia\u0144ska - Taczanowskiego - Promienista - Arciszewskiego - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "CZNZ01",
-        "CZNZ02",
-        "GORC21",
-        "GORC30",
-        "JUGO01",
-        "JUGO02",
-        "KACZ01",
-        "KACZ02",
-        "KORD02",
-        "KORD04",
-        "MRAG01",
-        "MRAG02",
-        "OSKO01",
-        "OSKO02",
-        "PALA01",
-        "SCIE02",
-        "SCIE03",
-        "TACZ01",
-        "TACZ02"
-      ],
-      "brygady": 5
-    },
-    {
-      "name": "114",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Dworzec Zachodni",
-        "Dworzec Zachodni"
-      ],
-      "przebieg": "DWORZEC ZACHODNI - Zachodnia - G\u0142ogowska - Kasprzaka - Chociszewskiego - Reymonta - Wyspia\u0144skiego - Zachodnia - DWORZEC ZACHODNI",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "AREN91",
-        "CHOC01",
-        "DWZA02",
-        "DWZA71",
-        "PAWI01",
-        "PAWI71",
-        "RYLA71",
-        "SSKA01",
-        "ULAN01"
-      ],
-      "brygady": 3
-    },
-    {
-      "name": "117",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Junikowo",
-        "Junikowo"
-      ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Malwowa - Grunwaldzka - JUNIKOWO",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "GERB01",
-        "GERB02",
-        "JUNI30",
-        "KWIA02",
-        "MALW01",
-        "MANZ01",
-        "MANZ02",
-        "NAWA01",
-        "NAWA02",
-        "ZONK01",
-        "ZONK02"
-      ],
-      "brygady": 1
-    },
-    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1704,7 +1569,7 @@
         "ULAN01",
         "ULAN02"
       ],
-      "brygady": 12
+      "brygady": 13
     },
     {
       "name": "146",
@@ -4498,10 +4363,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
