@@ -162,7 +162,7 @@
     "kolor2":"#000000",
     "przystanki":31,
     "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":31,
+    "brygady":34,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=12"
   },
@@ -176,7 +176,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":33,
     "przebieg":"JUNIKOWO - Grunwaldzka - Bukowska - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Zamenhofa - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
-    "brygady":16,
+    "brygady":17,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=13"
   },
@@ -218,7 +218,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":14,
+    "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
   },
@@ -271,7 +271,7 @@
       "27 Grudnia",
       "Teatr Polski"
     ],
-    "kolor1":"#595FA7",
+    "kolor1":"#008000",
     "kolor2":"#FFFFFF",
     "przystanki":7,
     "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - 28 Czerwca 1956 r. - zajezdnia Madali\u0144skiego - Hetma\u0144ska - Przybyszewskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
@@ -842,7 +842,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":20
   },
   "194":{
@@ -869,6 +869,18 @@
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Ostrowska - Tarnowska - Pabianicka - Pokrzywno - Torowa - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
     "brygady":18
   },
+  "198":{
+    "typ":"bus",
+    "petle":[
+      "UAM Osiedle R\u00f3\u017cany Potok",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":7,
+    "przebieg":"UAM OS. R\u00d3\u017bANY POTOK - Krygowskiego - Uniwersytetu Pozna\u0144skiego - Umultowska - Opie\u0144skiego - Szymanowskiego - Smole\u0144ska - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+    "brygady":14
+  },
   "201":{
     "typ":"tram",
     "petle":[
@@ -879,7 +891,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":31,
     "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":9,
+    "brygady":8,
     "night":true,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=201"
@@ -894,7 +906,19 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":7
+    "brygady":5
+  },
+  "203":{
+    "typ":"tram",
+    "petle":[
+      "Dworzec Zachodni",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "przystanki":8,
+    "przebieg":"DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
+    "brygady":6
   },
   "211":{
     "typ":"bus",
@@ -1014,7 +1038,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":32,
     "przebieg":"SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
-    "brygady":3
+    "brygady":4
   },
   "222":{
     "typ":"bus",
@@ -1247,7 +1271,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":32,
     "przebieg":"PRZEB\u0118DOWO P\u0118TLA - Przeb\u0119dowo/ - M. Go\u015blina/Rogozi\u0144ska - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - Szlach\u0119cin/ - Bolechowo-Os./Obornicka - Promnice/Wojska Polskiego - Biedrusko/Zjednoczenia - Biedrusko/Pozna\u0144ska - Radojewo - Ja\u015bkowiaka - Morasko - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":7,
+    "brygady":8,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=348"
   },
@@ -2672,7 +2696,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":29,
-    "przebieg":"RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Wyszy\u0144skiego - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Biedrusko/Pozna\u0144ska - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
+    "przebieg":"RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Wyszy\u0144skiego - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Biedrusko/Pozna\u0144ska - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
     "brygady":16,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=911"

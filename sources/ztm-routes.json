@@ -811,7 +811,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 31
+      "brygady": 34
     },
     {
       "name": "13",
@@ -894,7 +894,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 16
+      "brygady": 17
     },
     {
       "name": "14",
@@ -1063,7 +1063,7 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "17",
@@ -1273,7 +1273,7 @@
         "Teatr Polski"
       ],
       "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - 28 Czerwca 1956 r. - zajezdnia Madali\u0144skiego - Hetma\u0144ska - Przybyszewskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-      "color1": "595FA7",
+      "color1": "008000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "BIUN72",
@@ -3816,7 +3816,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3999,6 +3999,36 @@
       "brygady": 18
     },
     {
+      "name": "198",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "UAM Osiedle R\u00f3\u017cany Potok",
+        "Osiedle Sobieskiego"
+      ],
+      "przebieg": "UAM OS. R\u00d3\u017bANY POTOK - Krygowskiego - Uniwersytetu Pozna\u0144skiego - Umultowska - Opie\u0144skiego - Szymanowskiego - Smole\u0144ska - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "OPIE01",
+        "OPIE02",
+        "ORP02",
+        "OSBA01",
+        "OSBA02",
+        "OSBA03",
+        "OSBA04",
+        "SOB01",
+        "SOB26",
+        "SOB30",
+        "SZYM01",
+        "SZYM02",
+        "UAMG01",
+        "UAMG02",
+        "UAMK02"
+      ],
+      "brygady": 14
+    },
+    {
       "name": "201",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -4075,7 +4105,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "202",
@@ -4140,7 +4170,39 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 7
+      "brygady": 5
+    },
+    {
+      "name": "203",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Dworzec Zachodni",
+        "Osiedle Sobieskiego"
+      ],
+      "przebieg": "DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "ALSO41",
+        "ALSO42",
+        "DWZA41",
+        "DWZA42",
+        "KURP41",
+        "KURP42",
+        "LECH41",
+        "LECH42",
+        "MT46",
+        "RKAP45",
+        "RKAP46",
+        "SLKA41",
+        "SLKA42",
+        "SOB41",
+        "SOB42",
+        "SZYM41",
+        "SZYM42"
+      ],
+      "brygady": 6
     },
     {
       "name": "211",
@@ -4930,7 +4992,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "222",
@@ -6335,7 +6397,7 @@
         "WIET01",
         "WIET02"
       ],
-      "brygady": 7
+      "brygady": 8
     },
     {
       "name": "388",
@@ -12088,7 +12150,7 @@
         "Rondo \u015ar\u00f3dka",
         "Biedrusko Park"
       ],
-      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Wyszy\u0144skiego - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Biedrusko/Pozna\u0144ska - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
+      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Wyszy\u0144skiego - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Biedrusko/Pozna\u0144ska - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
