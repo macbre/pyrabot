@@ -732,7 +732,7 @@
         "WINI41",
         "WINI42"
       ],
-      "brygady": 15
+      "brygady": 16
     },
     {
       "name": "12",
@@ -811,7 +811,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 30
+      "brygady": 31
     },
     {
       "name": "13",
@@ -1063,7 +1063,7 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 13
+      "brygady": 14
     },
     {
       "name": "17",
@@ -1293,42 +1293,6 @@
         "ZAME72"
       ],
       "brygady": 1
-    },
-    {
-      "name": "38",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Zawady",
-        "Zawady"
-      ],
-      "przebieg": "ZAWADY - Podwale - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - \u015awi\u0119ty Marcin - Gwarna - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Podwale - ZAWADY",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "GWAR42",
-        "GWAR71",
-        "KATE41",
-        "KATE42",
-        "MAGA41",
-        "MAGA42",
-        "MODW72",
-        "PLRA41",
-        "PLRA42",
-        "PLWI41",
-        "PLWI42",
-        "POGL41",
-        "POGL73",
-        "RKAP73",
-        "ROSR41",
-        "ROSR42",
-        "ROSR47",
-        "UE71",
-        "ZAME71",
-        "ZAME72",
-        "ZAWA42"
-      ],
-      "brygady": 6
     },
     {
       "name": "98",
@@ -1605,7 +1569,7 @@
         "ULAN01",
         "ULAN02"
       ],
-      "brygady": 12
+      "brygady": 13
     },
     {
       "name": "146",
@@ -1668,7 +1632,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 8
+      "brygady": 10
     },
     {
       "name": "148",
@@ -1970,7 +1934,7 @@
         "TATR01",
         "TATR02"
       ],
-      "brygady": 8
+      "brygady": 10
     },
     {
       "name": "157",
@@ -2019,7 +1983,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 11
+      "brygady": 12
     },
     {
       "name": "158",
@@ -2180,7 +2144,7 @@
         "WOPO08",
         "WRSZ02"
       ],
-      "brygady": 12
+      "brygady": 14
     },
     {
       "name": "162",
@@ -2289,7 +2253,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 21
+      "brygady": 22
     },
     {
       "name": "164",
@@ -2363,7 +2327,7 @@
         "WYSP01",
         "WYSP02"
       ],
-      "brygady": 14
+      "brygady": 15
     },
     {
       "name": "166",
@@ -2549,7 +2513,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 15
+      "brygady": 17
     },
     {
       "name": "169",
@@ -2642,7 +2606,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 21
+      "brygady": 22
     },
     {
       "name": "170",
@@ -2893,7 +2857,7 @@
         "WIOS72",
         "WOJT01"
       ],
-      "brygady": 15
+      "brygady": 16
     },
     {
       "name": "175",
@@ -2984,7 +2948,7 @@
         "ZEKA01",
         "ZEKA02"
       ],
-      "brygady": 12
+      "brygady": 13
     },
     {
       "name": "177",
@@ -3046,7 +3010,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "178",
@@ -3106,7 +3070,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 18
+      "brygady": 20
     },
     {
       "name": "179",
@@ -3152,7 +3116,7 @@
         "TREB01",
         "TREB02"
       ],
-      "brygady": 10
+      "brygady": 11
     },
     {
       "name": "180",
@@ -3315,7 +3279,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 16
+      "brygady": 18
     },
     {
       "name": "183",
@@ -3380,7 +3344,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 17
+      "brygady": 18
     },
     {
       "name": "184",
@@ -3585,7 +3549,7 @@
         "WIMO01",
         "WIMO02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "188",
@@ -3846,7 +3810,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 22
+      "brygady": 23
     },
     {
       "name": "193",
@@ -7009,7 +6973,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "431",
