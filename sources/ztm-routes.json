@@ -319,7 +319,7 @@
         "ZAME72",
         "ZAWA42"
       ],
-      "brygady": 30
+      "brygady": 31
     },
     {
       "name": "6",
@@ -535,7 +535,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 10
+      "brygady": 12
     },
     {
       "name": "9",
@@ -812,7 +812,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 15
+      "brygady": 16
     },
     {
       "name": "13",
@@ -940,7 +940,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 24
+      "brygady": 23
     },
     {
       "name": "15",
@@ -999,7 +999,7 @@
         "WEGO42",
         "WOJS41"
       ],
-      "brygady": 24
+      "brygady": 23
     },
     {
       "name": "16",
@@ -1064,7 +1064,7 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "17",
@@ -4129,70 +4129,128 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 9
+      "brygady": 6
     },
     {
       "name": "202",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Franowo",
+        "Unii Lubelskiej",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "UNII LUBELSKIEJ - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ALSO41",
         "ALSO42",
+        "BAKA41",
+        "BAKA42",
         "FRRY41",
         "FRRY42",
-        "FRWO41",
-        "FRWO42",
-        "GRUD72",
-        "GWAR71",
+        "KATE41",
+        "KATE42",
         "KORN43",
         "KORN44",
-        "KORN78",
+        "KORN45",
         "KURP41",
         "KURP42",
         "LACI41",
         "LACI42",
         "LECH41",
         "LECH42",
-        "MORO71",
-        "MORO72",
-        "MRCI71",
-        "MRCI72",
+        "MAGA41",
+        "MAGA42",
         "MT44",
         "MT73",
+        "OCZ71",
+        "OCZ72",
         "OSLE41",
         "OSLE42",
         "OSTY41",
         "OSTY42",
-        "PIAR41",
-        "PIAR42",
-        "PK41",
-        "PK42",
-        "PLBE71",
-        "PLBE72",
+        "PLRA41",
+        "PLRA42",
+        "PLWI41",
+        "PLWI42",
         "POKA41",
         "POKA42",
-        "PP71",
-        "PP72",
+        "ROSR41",
+        "ROSR42",
+        "ROSR43",
+        "ROSR44",
+        "RZEG43",
+        "RZEG44",
         "SLKA41",
         "SLKA42",
         "SOB41",
         "SOB42",
-        "SWMN71",
-        "SZWA41",
-        "SZWA42",
-        "SZWE41",
-        "SZWE42",
         "SZYM41",
         "SZYM42",
-        "WROC71",
-        "WROC72"
+        "TADE41",
+        "TADE42",
+        "UNLU41",
+        "UNLU42",
+        "Z I41",
+        "Z I42",
+        "Z II41",
+        "Z II42",
+        "ZIII41",
+        "ZIII42"
+      ],
+      "brygady": 10
+    },
+    {
+      "name": "203",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Mi\u0142ostowo",
+        "Mi\u0142ostowo"
+      ],
+      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "AWF73",
+        "BAKA41",
+        "BAKA42",
+        "GRUD72",
+        "GWAR71",
+        "KORN42",
+        "KORN45",
+        "KORN78",
+        "KRAN41",
+        "KRAN42",
+        "LOMZ41",
+        "LOMZ42",
+        "MILO41",
+        "MILO42",
+        "MODW71",
+        "MOGI41",
+        "MOGI42",
+        "MORO72",
+        "MRCI72",
+        "PLBE72",
+        "POGL42",
+        "POLW42",
+        "PP72",
+        "RKAP74",
+        "ROSR43",
+        "ROSR44",
+        "ROSR45",
+        "ROSR46",
+        "RRAT74",
+        "RRAT75",
+        "SERA71",
+        "SWMI41",
+        "SWMI42",
+        "TERM41",
+        "TERM42",
+        "WIER42",
+        "WROC72",
+        "ZAME72"
       ],
       "brygady": 7
     },
@@ -4255,7 +4313,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "212",
@@ -4515,7 +4573,7 @@
         "WLOD02",
         "ZONK01"
       ],
-      "brygady": 5
+      "brygady": 7
     },
     {
       "name": "215",
@@ -4902,7 +4960,7 @@
         "WIEL01",
         "WIEP01"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "221",
