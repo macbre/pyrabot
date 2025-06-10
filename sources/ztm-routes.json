@@ -1,6 +1,32 @@
 {
   "lines": [
     {
+      "name": "T8",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Rondo \u015ar\u00f3dka",
+        "Rondo \u015ar\u00f3dka"
+      ],
+      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Warszawska - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BONY01",
+        "LOMZ01",
+        "LOMZ02",
+        "MILO01",
+        "MILO02",
+        "PUST01",
+        "PUST02",
+        "ROSR01",
+        "ROSR04",
+        "ROSR30",
+        "TERM02"
+      ],
+      "brygady": 6
+    },
+    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -319,7 +345,7 @@
         "ZAME72",
         "ZAWA42"
       ],
-      "brygady": 31
+      "brygady": 30
     },
     {
       "name": "6",
@@ -394,7 +420,7 @@
         "WIER42",
         "WOJS41"
       ],
-      "brygady": 15
+      "brygady": 16
     },
     {
       "name": "7",
@@ -535,7 +561,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 12
+      "brygady": 10
     },
     {
       "name": "9",
@@ -1215,7 +1241,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 16
+      "brygady": 17
     },
     {
       "name": "19",
@@ -1393,6 +1419,52 @@
       "brygady": 1
     },
     {
+      "name": "105",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Strzeszynek",
+        "Rondo Kaponiera"
+      ],
+      "przebieg": "STRZESZYNEK - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Niestachowska - \u017beromskiego - Przybyszewskiego - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+      "color1": "E31E24",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BALT71",
+        "BUKO01",
+        "GOKA91",
+        "GOKA92",
+        "GOLE01",
+        "GOLE02",
+        "KONT01",
+        "KONT02",
+        "KRAJ01",
+        "KRAJ02",
+        "LITA01",
+        "LITA02",
+        "NIES01",
+        "NIES02",
+        "POLN01",
+        "POLN02",
+        "RKAP02",
+        "STEK01",
+        "STEK02",
+        "STST01",
+        "STST02",
+        "SZYL01",
+        "SZYL02",
+        "WOPO02",
+        "WOPO03",
+        "WOPO08",
+        "ZERO01",
+        "ZERO02",
+        "ZERO06",
+        "ZOWY01",
+        "ZOWY02"
+      ],
+      "brygady": 8
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1524,7 +1596,6 @@
         "BULG02",
         "DWZA02",
         "JUGO01",
-        "JUGO02",
         "KACZ01",
         "KACZ02",
         "MARC01",
@@ -1543,8 +1614,11 @@
         "RONJ74",
         "RYCE02",
         "RYCE04",
+        "SCIE03",
         "SZAM01",
         "SZAM02",
+        "TACZ01",
+        "TREB02",
         "ULAN01",
         "ULAN02"
       ],
@@ -1873,7 +1947,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 23
+      "brygady": 22
     },
     {
       "name": "156",
@@ -3528,7 +3602,7 @@
         "WIMO01",
         "WIMO02"
       ],
-      "brygady": 9
+      "brygady": 10
     },
     {
       "name": "188",
@@ -3721,7 +3795,6 @@
         "BULG02",
         "BUPO02",
         "JUGO01",
-        "JUGO02",
         "KORA01",
         "KORA02",
         "KOTU01",
@@ -3757,6 +3830,7 @@
         "RYCE02",
         "SARM01",
         "SARM02",
+        "SCIE03",
         "SOB01",
         "SOB26",
         "SOB30",
@@ -3773,6 +3847,8 @@
         "SZPI02",
         "SZYM01",
         "SZYM02",
+        "TACZ01",
+        "TREB02",
         "UMUL01",
         "UMUL02",
         "UMUL05",
@@ -3962,7 +4038,7 @@
         "ZOWY01",
         "ZOWY02"
       ],
-      "brygady": 3
+      "brygady": 5
     },
     {
       "name": "196",
@@ -4123,130 +4199,72 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 6
+      "brygady": 12
     },
     {
       "name": "202",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Unii Lubelskiej",
+        "Franowo",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "UNII LUBELSKIEJ - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ALSO41",
         "ALSO42",
-        "BAKA41",
-        "BAKA42",
         "FRRY41",
         "FRRY42",
-        "KATE41",
-        "KATE42",
+        "FRWO41",
+        "FRWO42",
+        "GRUD72",
+        "GWAR71",
         "KORN43",
         "KORN44",
-        "KORN45",
+        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
         "LACI42",
         "LECH41",
         "LECH42",
-        "MAGA41",
-        "MAGA42",
+        "MORO71",
+        "MORO72",
+        "MRCI71",
+        "MRCI72",
         "MT44",
         "MT73",
-        "OCZ71",
-        "OCZ72",
         "OSLE41",
         "OSLE42",
         "OSTY41",
         "OSTY42",
-        "PLRA41",
-        "PLRA42",
-        "PLWI41",
-        "PLWI42",
+        "PIAR41",
+        "PIAR42",
+        "PK41",
+        "PK42",
+        "PLBE71",
+        "PLBE72",
         "POKA41",
         "POKA42",
-        "ROSR41",
-        "ROSR42",
-        "ROSR43",
-        "ROSR44",
-        "RZEG43",
-        "RZEG44",
+        "PP71",
+        "PP72",
         "SLKA41",
         "SLKA42",
         "SOB41",
         "SOB42",
+        "SWMN71",
+        "SZWA41",
+        "SZWA42",
+        "SZWE41",
+        "SZWE42",
         "SZYM41",
         "SZYM42",
-        "TADE41",
-        "TADE42",
-        "UNLU41",
-        "UNLU42",
-        "Z I41",
-        "Z I42",
-        "Z II41",
-        "Z II42",
-        "ZIII41",
-        "ZIII42"
+        "WROC71",
+        "WROC72"
       ],
-      "brygady": 10
-    },
-    {
-      "name": "203",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Mi\u0142ostowo",
-        "Mi\u0142ostowo"
-      ],
-      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
-      "color1": "000000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "AWF73",
-        "BAKA41",
-        "BAKA42",
-        "GRUD72",
-        "GWAR71",
-        "KORN42",
-        "KORN45",
-        "KORN78",
-        "KRAN41",
-        "KRAN42",
-        "LOMZ41",
-        "LOMZ42",
-        "MILO41",
-        "MILO42",
-        "MODW71",
-        "MOGI41",
-        "MOGI42",
-        "MORO72",
-        "MRCI72",
-        "PLBE72",
-        "POGL42",
-        "POLW42",
-        "PP72",
-        "RKAP74",
-        "ROSR43",
-        "ROSR44",
-        "ROSR45",
-        "ROSR46",
-        "RRAT74",
-        "RRAT75",
-        "SERA71",
-        "SWMI41",
-        "SWMI42",
-        "TERM41",
-        "TERM42",
-        "WIER42",
-        "WROC72",
-        "ZAME72"
-      ],
-      "brygady": 7
+      "brygady": 3
     },
     {
       "name": "211",
@@ -4307,7 +4325,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "212",
@@ -4334,7 +4352,6 @@
         "INFL01",
         "INFL02",
         "JUGO01",
-        "JUGO02",
         "KACZ01",
         "KURL01",
         "KURL02",
@@ -4376,6 +4393,7 @@
         "RRAT76",
         "RYCE02",
         "RYCE04",
+        "SCIE03",
         "SERA71",
         "SERA72",
         "SSZP04",
@@ -4383,6 +4401,8 @@
         "SZPI04",
         "SZYL01",
         "SZYL02",
+        "TACZ01",
+        "TREB02",
         "UE01",
         "UE71",
         "WIAT03",
@@ -4468,10 +4488,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4567,7 +4587,7 @@
         "WLOD02",
         "ZONK01"
       ],
-      "brygady": 7
+      "brygady": 5
     },
     {
       "name": "215",
@@ -4954,7 +4974,7 @@
         "WIEL01",
         "WIEP01"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "221",
@@ -5035,7 +5055,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "222",
@@ -11876,7 +11896,7 @@
         "Osiedle Sobieskiego",
         "Z\u0142otniki Osiedle"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Mateckiego - Obornicka - Suchy Las/Sprzeczna - Suchy Las/Le\u015bna - Suchy Las/Bogus\u0142awskiego - Suchy Las/Powsta\u0144c\u00f3w Wlkp. - Z\u0142otniki/Sosnowa - Z\u0142otniki/Muchomorowa - Z\u0142otniki/Dworcowa - Z\u0142otniki/Krzemowa - Z\u0142otniki/Czo\u0142gowa - Z\u0142otniki/Jelonkowa - Z\u0141OTNIKI OSIEDLE",
+      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Morasko - Suchy Las/Meteorytowa - Suchy Las/Le\u015bna - Suchy Las/Bogus\u0142awskiego - Suchy Las/Powsta\u0144c\u00f3w Wlkp. - Z\u0142otniki/Sosnowa - Z\u0142otniki/Muchomorowa - Z\u0142otniki/Dworcowa - Z\u0142otniki/Krzemowa - Z\u0142otniki/Czo\u0142gowa - Z\u0142otniki/Jelonkowa - Z\u0141OTNIKI OSIEDLE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -11931,7 +11951,7 @@
         "Osiedle Sobieskiego",
         "Suchy Las Teren Aktywnej Edukacji I Sportu"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Mateckiego - Obornicka - Suchy Las/Sprzeczna - Suchy Las/Meteorytowa - Morasko - Meteorytowa - Suchy Las/Alejowa - Suchy Las/Bogus\u0142awskiego - SUCHY LAS TEREN AKTYWNEJ EDUKACJI I SPORTU",
+      "przebieg": "OS. SOBIESKIEGO - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Morasko - Meteorytowa - Suchy Las/Alejowa - Suchy Las/Bogus\u0142awskiego - SUCHY LAS TEREN AKTYWNEJ EDUKACJI I SPORTU",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -11975,7 +11995,7 @@
         "Osiedle Sobieskiego",
         "Z\u0142otniki Wie\u015b"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Mateckiego - Obornicka - Suchy Las/Obornicka - Jelonek/Obornicka - Z\u0142otniki/Czo\u0142gowa - Z\u0142otniki/Jelonkowa - Z\u0142otniki/Obornicka - Z\u0142otniki/\u0141agiewnicka - Z\u0141OTNIKI WIE\u015a",
+      "przebieg": "OS. SOBIESKIEGO - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Morasko - Suchy Las/Meteorytowa - Suchy Las/Le\u015bna - Suchy Las/Obornicka - Jelonek/Obornicka - Z\u0142otniki/Czo\u0142gowa - Z\u0142otniki/Jelonkowa - Z\u0142otniki/Obornicka - Z\u0142otniki/\u0141agiewnicka - Z\u0141OTNIKI WIE\u015a",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -12027,7 +12047,7 @@
         "Osiedle Sobieskiego",
         "Chludowo Szko\u0142a"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Mateckiego - Obornicka - Suchy Las/Obornicka - Jelonek/Obornicka - Z\u0142otniki/Obornicka - Z\u0142otniki/Paw\u0142owicka - Z\u0142otniki/Dworcowa - Z\u0142otniki/\u0141agiewnicka - Z\u0142otkowo/Obornicka - Z\u0142otkowo/Lipowa - Z\u0142otkowo/Z\u0142ota - Z\u0142otkowo/Sobocka - Gol\u0119czewo/Dworcowa - Ziel\u0105tkowo/Dworcowa - Ziel\u0105tkowo/Le\u015bna - Ziel\u0105tkowo/Dworcowa - Chludowo/Dworcowa - Chludowo/Pozna\u0144ska - CHLUDOWO SZKO\u0141A",
+      "przebieg": "OS. SOBIESKIEGO - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Morasko - Suchy Las/Meteorytowa - Suchy Las/Le\u015bna - Suchy Las/Obornicka - Jelonek/Obornicka - Z\u0142otniki/Obornicka - Z\u0142otniki/Paw\u0142owicka - Z\u0142otniki/Dworcowa - Z\u0142otniki/\u0141agiewnicka - Z\u0142otkowo/Obornicka - Z\u0142otkowo/Lipowa - Z\u0142otkowo/Z\u0142ota - Z\u0142otkowo/Sobocka - Gol\u0119czewo/Dworcowa - Ziel\u0105tkowo/Dworcowa - Ziel\u0105tkowo/Le\u015bna - Ziel\u0105tkowo/Dworcowa - Chludowo/Dworcowa - Chludowo/Pozna\u0144ska - CHLUDOWO SZKO\u0141A",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
