@@ -1,33 +1,6 @@
 {
   "lines": [
     {
-      "name": "T11",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo Kaponiera",
-        "Rondo Kaponiera"
-      ],
-      "przebieg": "RONDO KAPONIERA - Zwierzyniecka - Roosevelta - G\u0142ogowska - Roosevelta - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BALT71",
-        "DWZA71",
-        "DWZA94",
-        "GLHE71",
-        "GLHE72",
-        "MODW72",
-        "MODW93",
-        "PAWI71",
-        "PAWI72",
-        "RKAP02",
-        "RYLA71",
-        "RYLA72"
-      ],
-      "brygady": 4
-    },
-    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1025,7 +998,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 8
+      "brygady": 7
     },
     {
       "name": "17",
@@ -1649,7 +1622,7 @@
         "ZELA01",
         "ZELA02"
       ],
-      "brygady": 23
+      "brygady": 24
     },
     {
       "name": "153",
@@ -2113,7 +2086,7 @@
         "Puszkina",
         "Kacza"
       ],
-      "przebieg": "PUSZKINA - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - Kraszewskiego - Matejki - Kasprzaka - Chociszewskiego - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "PUSZKINA - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - Kraszewskiego - Grunwaldzka - Reymonta - Wyspia\u0144skiego - Kasprzaka - Chociszewskiego - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2131,7 +2104,6 @@
         "JEZY02",
         "KACZ01",
         "KACZ02",
-        "KONZ02",
         "KORD01",
         "KORD04",
         "KOSC01",
@@ -2140,8 +2112,8 @@
         "KRAS02",
         "LITA02",
         "LITA03",
-        "MATE01",
         "MATE02",
+        "MATE91",
         "MRAG01",
         "MRAG02",
         "NADW01",
@@ -2150,11 +2122,11 @@
         "OSKO02",
         "PALA01",
         "PALA02",
-        "PALM01",
-        "PALM02",
         "PUSA21",
         "RJEZ71",
         "RJEZ72",
+        "RONJ02",
+        "RONJ04",
         "SCIE01",
         "SCIE04",
         "SLAS01",
@@ -2169,13 +2141,16 @@
         "TOLT02",
         "TREB01",
         "TREB02",
+        "ULAN01",
+        "ULAN02",
         "UP01",
         "UP02",
+        "WOJS01",
         "WOPO03",
         "WOPO04",
         "WOPO08",
-        "WYSP01",
-        "WYSP02"
+        "WYSP02",
+        "WYSP93"
       ],
       "brygady": 15
     },
@@ -3848,7 +3823,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 17
+      "brygady": 18
     },
     {
       "name": "198",
@@ -4258,10 +4233,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -6638,7 +6613,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 6
+      "brygady": 5
     },
     {
       "name": "407",
@@ -6684,7 +6659,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 8
+      "brygady": 6
     },
     {
       "name": "412",
@@ -9280,34 +9255,50 @@
       "typ": "bus",
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.",
       "petle": [
-        "Rosn\u00f3wko PKM",
-        "G\u00f3rczyn PKM"
+        "G\u00f3rczyn PKM",
+        "Rosn\u00f3wko PKM"
       ],
-      "przebieg": "ROSN\u00d3WKO PKM - Rosn\u00f3wko/Dworcowa - Rosn\u00f3wko/Pozna\u0144ska - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Bukowa - Walerianowo/Bukowa - Rosnowo/Bukowa - Szreniawa/Pozna\u0144ska - Komorniki/Pozna\u0144ska - Modlibowskiej - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "G\u00d3RCZYN PKM - G\u0142ogowska - Komorniki/Pozna\u0144ska - Szreniawa/Sadowa - Rosnowo/Sadowa - Walerianowo/Bukowa - Rosn\u00f3wko/Bukowa - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Pozna\u0144ska - Rosn\u00f3wko/Dworcowa - ROSN\u00d3WKO PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
+        "BOJA01",
         "BOJA02",
         "GLIN02",
         "GORC21",
+        "GORC30",
         "KMNZ02",
         "KOCEN01",
+        "KOCEN02",
         "KOJEZ01",
+        "KOJEZ02",
         "KOMAG01",
+        "KOMAG02",
         "KONOW01",
+        "KONOW02",
         "KOTO02",
+        "KOWI03",
         "MODL02",
+        "OSIA01",
         "OSIA02",
         "RODKU01",
+        "RODKU02",
         "RODWO01",
+        "RODWO02",
         "ROPKM01",
         "ROSTW01",
+        "ROSTW02",
         "ROWIC01",
+        "ROWIC02",
+        "RSROS01",
         "RSROS03",
         "SZDWO01",
+        "SZDWO03",
         "TYNZ02",
         "WABRZ01",
-        "WABUK01"
+        "WABRZ02",
+        "WABUK01",
+        "WABUK02"
       ],
       "brygady": 1
     },
@@ -9375,7 +9366,7 @@
         "Junikowo",
         "Komorniki Urz\u0105d Gminy"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Wo\u0142czy\u0144ska - Plewiska/Zak\u0142adowa - Plewiska/Po\u0142udniowa - Plewiska/Skryta - Plewiska/Grunwaldzka - Plewiska/Mi\u0119towa - Plewiska/Stra\u017cewicza - Plewiska/Mi\u0119towa - Plewiska/Grunwaldzka - Plewiska/Szkolna - Komorniki/Ks. Malinowskiego - Komorniki/Zak\u0142adowa - KOMORNIKI URZ\u0104D GMINY",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Wo\u0142czy\u0144ska - Plewiska/Zak\u0142adowa - Plewiska/Po\u0142udniowa - Plewiska/Skryta - Plewiska/Grunwaldzka - Plewiska/Mi\u0119towa - Plewiska/Stra\u017cewicza - Plewiska/Kolejowa - Plewiska/Grunwaldzka - Plewiska/Szkolna - Komorniki/Ks. Malinowskiego - Komorniki/Zak\u0142adowa - KOMORNIKI URZ\u0104D GMINY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -9399,8 +9390,6 @@
         "PLPII02",
         "PLPOD01",
         "PLPOD02",
-        "PLRYN01",
-        "PLRYN02",
         "PLSKO01",
         "PLSKO02",
         "PLSKR01",
@@ -9408,6 +9397,9 @@
         "PLSTP01",
         "PLSTP02",
         "PLSTS01",
+        "PLSTS02",
+        "PLSZA01",
+        "PLSZA02",
         "PLSZK01",
         "PLSZK02",
         "PLZAK01",
@@ -10278,7 +10270,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 7
+      "brygady": 8
     },
     {
       "name": "812",
@@ -10367,45 +10359,74 @@
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
       "petle": [
-        "Ka\u017amierz Rynek",
-        "Ogrody"
+        "Ogrody",
+        "Ka\u017amierz Rynek"
       ],
-      "przebieg": "KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
+        "BNPRZ01",
         "BNPRZ02",
+        "BUZA01",
         "BUZA02",
+        "BZZNO01",
         "BZZNO02",
+        "GRCIE01",
         "GRCIE02",
+        "GRKRE01",
         "GRKRE02",
+        "GRPET01",
         "GRPET02",
+        "GRSZK01",
         "GRSZK02",
         "KMRYN01",
+        "KMSTO01",
         "KMSTO02",
+        "KOLO01",
         "KOLO02",
+        "LEKA01",
         "LEKA02",
+        "OGDY02",
         "OGDY12",
+        "PILO01",
         "PILO02",
         "PINA02",
+        "PLOT01",
         "PLOT02",
+        "PMWIA01",
         "PMWIA02",
+        "PMWYS01",
         "PMWYS02",
         "PONZ02",
+        "SAWIA01",
         "SAWIA02",
+        "SMOC01",
         "SMOC02",
+        "SWKLA01",
         "SWKLA02",
+        "SWWIA01",
         "SWWIA02",
+        "TATR01",
         "TATR02",
+        "TPCEN01",
         "TPCEN02",
+        "TPDZI01",
         "TPDZI02",
+        "TPGRU01",
+        "TPKRO01",
+        "TPMAR01",
         "TPMAR02",
+        "TPOKR01",
         "TPOKR02",
+        "TPROL01",
         "TPROL02",
+        "TPZIE01",
         "TPZIE02",
+        "WICH01",
         "WICH02"
       ],
-      "brygady": 3
+      "brygady": 5
     },
     {
       "name": "821",
@@ -11373,10 +11394,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Rondo \u015ar\u00f3dka",
-        "Biedrusko Park"
+        "Biedrusko Park",
+        "Rondo \u015ar\u00f3dka"
       ],
-      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Wyszy\u0144skiego - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Biedrusko/Pozna\u0144ska - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
+      "przebieg": "BIEDRUSKO PARK - Biedrusko/Zjednoczenia - Biedrusko/Pozna\u0144ska - Radojewo - Naramowicka - al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [

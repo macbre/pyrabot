@@ -1,16 +1,4 @@
 {
-  "T11":{
-    "typ":"tram",
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Kaponiera"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":5,
-    "przebieg":"RONDO KAPONIERA - Zwierzyniecka - Roosevelta - G\u0142ogowska - Roosevelta - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":4
-  },
   "0":{
     "typ":"tram",
     "petle":[
@@ -216,7 +204,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":25,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":8,
+    "brygady":7,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
   },
@@ -383,7 +371,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":21,
     "przebieg":"DARZYB\u00d3R - Bor\u00f3wki - Kobylepole - Piwna - Abpa Dymka - Szwajcarska - Kurlandzka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":23
+    "brygady":24
   },
   "153":{
     "typ":"bus",
@@ -501,8 +489,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":29,
-    "przebieg":"PUSZKINA - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - Kraszewskiego - Matejki - Kasprzaka - Chociszewskiego - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
+    "przystanki":30,
+    "przebieg":"PUSZKINA - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - Kraszewskiego - Grunwaldzka - Reymonta - Wyspia\u0144skiego - Kasprzaka - Chociszewskiego - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":15
   },
   "166":{
@@ -839,7 +827,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Ostrowska - Tarnowska - Pabianicka - Pokrzywno - Torowa - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":17
+    "brygady":18
   },
   "198":{
     "typ":"bus",
@@ -919,13 +907,13 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":45,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
   "215":{
@@ -1345,7 +1333,7 @@
     "kolor2":"#000000",
     "przystanki":14,
     "przebieg":"RONDO \u015aR\u00d3DKA - Warszawska - Swarz\u0119dz/Graniczna - Swarz\u0119dz/Tysi\u0105clecia - Swarz\u0119dz/\u015aredzka - Jasin/Pozna\u0144ska - JASIN CENTRUM HANDLOWE ETC",
-    "brygady":6
+    "brygady":5
   },
   "407":{
     "typ":"bus",
@@ -1357,7 +1345,7 @@
     "kolor2":"#000000",
     "przystanki":15,
     "przebieg":"RONDO \u015aR\u00d3DKA - Warszawska - Swarz\u0119dz/Graniczna - Swarz\u0119dz/Tysi\u0105clecia - Swarz\u0119dz/\u015aredzka - Swarz\u0119dz/Rabowicka - Jasin/Rabowicka - JASIN RABOWICKA P\u0118TLA",
-    "brygady":8
+    "brygady":6
   },
   "412":{
     "typ":"bus",
@@ -2026,13 +2014,13 @@
   "707":{
     "typ":"bus",
     "petle":[
-      "Rosn\u00f3wko PKM",
-      "G\u00f3rczyn PKM"
+      "G\u00f3rczyn PKM",
+      "Rosn\u00f3wko PKM"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":10,
-    "przebieg":"ROSN\u00d3WKO PKM - Rosn\u00f3wko/Dworcowa - Rosn\u00f3wko/Pozna\u0144ska - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Bukowa - Walerianowo/Bukowa - Rosnowo/Bukowa - Szreniawa/Pozna\u0144ska - Komorniki/Pozna\u0144ska - Modlibowskiej - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przystanki":18,
+    "przebieg":"G\u00d3RCZYN PKM - G\u0142ogowska - Komorniki/Pozna\u0144ska - Szreniawa/Sadowa - Rosnowo/Sadowa - Walerianowo/Bukowa - Rosn\u00f3wko/Bukowa - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Pozna\u0144ska - Rosn\u00f3wko/Dworcowa - ROSN\u00d3WKO PKM",
     "brygady":1
   },
   "710":{
@@ -2058,7 +2046,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":19,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Wo\u0142czy\u0144ska - Plewiska/Zak\u0142adowa - Plewiska/Po\u0142udniowa - Plewiska/Skryta - Plewiska/Grunwaldzka - Plewiska/Mi\u0119towa - Plewiska/Stra\u017cewicza - Plewiska/Mi\u0119towa - Plewiska/Grunwaldzka - Plewiska/Szkolna - Komorniki/Ks. Malinowskiego - Komorniki/Zak\u0142adowa - KOMORNIKI URZ\u0104D GMINY",
+    "przebieg":"JUNIKOWO - Grunwaldzka - Wo\u0142czy\u0144ska - Plewiska/Zak\u0142adowa - Plewiska/Po\u0142udniowa - Plewiska/Skryta - Plewiska/Grunwaldzka - Plewiska/Mi\u0119towa - Plewiska/Stra\u017cewicza - Plewiska/Kolejowa - Plewiska/Grunwaldzka - Plewiska/Szkolna - Komorniki/Ks. Malinowskiego - Komorniki/Zak\u0142adowa - KOMORNIKI URZ\u0104D GMINY",
     "brygady":1
   },
   "716":{
@@ -2263,7 +2251,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":28,
     "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Rumianek/Nowa - Rumianek/Szkolna - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Jankowicka - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Otowska - LUS\u00d3WKO P\u0118TLA",
-    "brygady":7,
+    "brygady":8,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=811"
   },
@@ -2284,14 +2272,14 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":14,
-    "przebieg":"KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
-    "brygady":3,
+    "przystanki":29,
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
+    "brygady":5,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=813"
   },
@@ -2502,13 +2490,13 @@
   "911":{
     "typ":"bus",
     "petle":[
-      "Rondo \u015ar\u00f3dka",
-      "Biedrusko Park"
+      "Biedrusko Park",
+      "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":28,
-    "przebieg":"RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Wyszy\u0144skiego - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - Biedrusko/Pozna\u0144ska - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
+    "przebieg":"BIEDRUSKO PARK - Biedrusko/Zjednoczenia - Biedrusko/Pozna\u0144ska - Radojewo - Naramowicka - al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":16,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=911"
