@@ -1,16 +1,4 @@
 {
-  "T1":{
-    "typ":"tram",
-    "petle":[
-      "Franowo",
-      "Franowo"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":8,
-    "przebieg":"FRANOWO - Szwajcarska - Kurlandzka - Pia\u015bnicka - Chartowo - Wiatraczna - Inflancka - Pia\u015bnicka - Kurlandzka - Szwajcarska - FRANOWO",
-    "brygady":4
-  },
   "0":{
     "typ":"tram",
     "petle":[
@@ -334,7 +322,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":13,
-    "przebieg":"DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Wyspia\u0144skiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Taczanowskiego - Promienista - Mr\u0105gowska - Kacza - KACZA",
+    "przebieg":"DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Wyspia\u0144skiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":13
   },
   "146":{
@@ -501,7 +489,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":30,
+    "przystanki":28,
     "przebieg":"PUSZKINA - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - Kraszewskiego - Grunwaldzka - Reymonta - Wyspia\u0144skiego - Kasprzaka - Chociszewskiego - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":15
   },
@@ -525,7 +513,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":24,
+    "przystanki":27,
     "przebieg":"RADOJEWO - Pio\u0142unowa - Radojewo - Naramowicka - al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":12
   },
@@ -647,7 +635,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":22,
     "przebieg":"SZARYCH SZEREG\u00d3W - Szarych Szereg\u00f3w - Obornicka - Pi\u0105tkowska - Aleje Solidarno\u015bci - Murawa - Lechicka - Wilczak - Serbska - Prymasa Hlonda - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":20
+    "brygady":22
   },
   "179":{
     "typ":"bus",
@@ -705,9 +693,9 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":25,
+    "przystanki":28,
     "przebieg":"SZARYCH SZEREG\u00d3W - Szarych Szereg\u00f3w - Strzeszy\u0144ska - Druskienicka - Podola\u0144ska - Wojska Polskiego - Dojazd - Aleje Solidarno\u015bci - Serbska - Prymasa Hlonda - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":18
+    "brygady":19
   },
   "184":{
     "typ":"bus",
@@ -790,7 +778,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":33,
-    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Pi\u0105tkowska - Maczka - Nad Wierzbakiem - \u015bw. Wawrzy\u0144ca - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Taczanowskiego - Promienista - OS. KOPERNIKA",
+    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Pi\u0105tkowska - Maczka - Nad Wierzbakiem - \u015bw. Wawrzy\u0144ca - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - OS. KOPERNIKA",
     "brygady":23
   },
   "193":{
@@ -919,13 +907,13 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":45,
-    "przebieg":"MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przystanki":47,
+    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
   "215":{
@@ -2507,7 +2495,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":28,
+    "przystanki":32,
     "przebieg":"BIEDRUSKO PARK - Biedrusko/Zjednoczenia - Biedrusko/Pozna\u0144ska - Radojewo - Naramowicka - al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":16,
     "agency":"MPK",
