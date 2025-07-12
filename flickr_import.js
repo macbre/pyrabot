@@ -31,8 +31,7 @@ function getFlickrInfo(photoId, callback) {
 client.logIn(function() {
 	getFlickrInfo(PHOTO_ID, function(err, photo) {
 		if (err) {
-			client.error(err);
-			return;
+			throw err;
 		}
 
 		var imageUrl = photo.urls.original,
