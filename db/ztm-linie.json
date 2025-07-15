@@ -204,7 +204,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":25,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":7,
+    "brygady":8,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
   },
@@ -513,7 +513,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":28,
+    "przystanki":27,
     "przebieg":"IMBIROWA - Radojewo - Naramowicka - Krygowskiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":11
   },
@@ -912,7 +912,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":48,
+    "przystanki":47,
     "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - IMBIROWA",
     "brygady":6
   },
@@ -949,7 +949,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":46,
-    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - FRANOWO",
+    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - al. Niepodleg\u0142o\u015bci - Nowowiejskiego - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - FRANOWO",
     "brygady":11
   },
   "219":{
@@ -1583,7 +1583,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":17,
+    "przystanki":15,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - Koninko/Magazynowa - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00d3RNIK BNIN OSIEDLE",
     "brygady":9
   },
@@ -1595,9 +1595,9 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":15,
+    "przystanki":31,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - Koninko/Magazynowa - G\u0105dki/Zbo\u017cowa - Robakowo/Pozna\u0144ska - Dachowa/Pozna\u0144ska - Dachowa/Okr\u0119\u017cna - Dachowa/Pozna\u0144ska - Szczodrzykowo/Pozna\u0144ska - Szczodrzykowo/Dworcowa - Dzie\u0107mierowo/Dworcowa - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Parkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00d3RNIK BNIN OSIEDLE",
-    "brygady":1
+    "brygady":2
   },
   "503":{
     "typ":"bus",
@@ -1649,7 +1649,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":27,
     "przebieg":"KAMIONKI P\u0118TLA - Kamionki/Pozna\u0144ska - Daszewice/Pozna\u0144ska - Daszewice/Le\u015bna - Babki/Babki - Czapury/Gromadzka - Czapury/Pozna\u0144ska - Wi\u00f3rek/Pozna\u0144ska - Wi\u00f3rek/Podle\u015bna - Wi\u00f3rek/Pozna\u0144ska - Czapury/Pozna\u0144ska - Staro\u0142\u0119cka - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
-    "brygady":3,
+    "brygady":4,
     "agency":"KOMBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=527"
   },
@@ -1661,7 +1661,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":29,
+    "przystanki":28,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - Koninko/Magazynowa - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00f3rnik/Zwierzyniecka - K\u00f3rnik/B\u0142a\u017cejewska - B\u0142a\u017cejewo/Zaniemyska - B\u0142a\u017cejewko/Zaniemyska - B\u0142a\u017cejewko/Sportowa - Jeziory Wielkie/Sportowa - Jeziory Wielkie/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - \u0141\u0119kno/K\u00f3rnicka - Zaniemy\u015bl/Pozna\u0144ska - Zaniemy\u015bl/Raczy\u0144skiego - ZANIEMY\u015aL KO\u015aCI\u00d3\u0141",
     "brygady":4
   },
@@ -1674,7 +1674,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":14,
-    "przebieg":"ZANIEMY\u015aL KO\u015aCI\u00d3\u0141 - Zaniemy\u015bl/Raczy\u0144skiego - Zaniemy\u015bl/Pozna\u0144ska - \u0141\u0119kno/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - Jeziory Wielkie/K\u00f3rnicka - Jeziory Wielkie/Sportowa - Prusinowo/Prusinowo - Biernatki/G\u0142\u00f3wna - K\u00f3rnik/Biernacka - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/Zamkowa - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - G\u0105dki/Pozna\u0144ska - Krzywoustego - RONDO RATAJE",
+    "przebieg":"ZANIEMY\u015aL KO\u015aCI\u00d3\u0141 - Zaniemy\u015bl/Raczy\u0144skiego - Zaniemy\u015bl/Pozna\u0144ska - \u0141\u0119kno/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - Jeziory Wielkie/K\u00f3rnicka - Jeziory Wielkie/Sportowa - B\u0142a\u017cejewko/Sportowa - B\u0142a\u017cejewko/Zaniemyska - B\u0142a\u017cejewo/Zaniemyska - K\u00f3rnik/B\u0142a\u017cejewska - K\u00f3rnik/\u015aremska - K\u00f3rnik/Rynek - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/Zamkowa - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - G\u0105dki/Pozna\u0144ska - Krzywoustego - RONDO RATAJE",
     "brygady":1
   },
   "580":{
