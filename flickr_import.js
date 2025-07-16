@@ -34,7 +34,7 @@ client.logIn(function() {
 			throw err;
 		}
 
-		const imageUrl = photo.urls.original,
+		const imageUrl = photo.urls.large,
 			authorName = photo.owner.name,
 			tags = photo.tags.map(function(tag) {
 				if (!authorName) {
