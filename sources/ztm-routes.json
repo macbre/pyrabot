@@ -9,11 +9,11 @@
         "27 Grudnia",
         "Teatr Polski"
       ],
-      "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - Strzelecka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
+      "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - Kr\u00f3lowej Jadwigi - Towarowa - \u015awi\u0119ty Marcin - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
       "color1": "0D7B49",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "AWF42",
+        "AWF41",
         "BAKA41",
         "BIUN72",
         "FRRY41",
@@ -25,13 +25,15 @@
         "MT73",
         "PLRA41",
         "PLWI41",
-        "PLWL42",
+        "POGL74",
+        "POLW41",
         "RJEZ71",
         "RJEZ74",
         "RKAP74",
         "ROSR43",
         "RRAT73",
         "SZOO71",
+        "ZAME71",
         "ZAME72"
       ],
       "brygady": 1
@@ -1226,6 +1228,60 @@
       "brygady": 12
     },
     {
+      "name": "93",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Staro\u0142\u0119ka PKM",
+        "Staro\u0142\u0119ka PKM"
+      ],
+      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Towarowa - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Zamenhofa - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
+      "color1": "FFFFFF",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "AWF41",
+        "AWF73",
+        "BYST41",
+        "BYST42",
+        "GRUD72",
+        "GWAR71",
+        "MRCI71",
+        "MRCI72",
+        "OPIA41",
+        "OPIA42",
+        "ORZE41",
+        "ORZE42",
+        "POGL73",
+        "POGL74",
+        "POLW41",
+        "POLW42",
+        "RRAT71",
+        "RRAT72",
+        "RRAT75",
+        "RRAT76",
+        "RSTA41",
+        "RSTA42",
+        "RSTA45",
+        "RSTA46",
+        "SERA71",
+        "SERA72",
+        "STAR41",
+        "STAR42",
+        "STMA41",
+        "STMA42",
+        "SWMN71",
+        "UE42",
+        "UE71",
+        "WIER41",
+        "WIER42",
+        "WIOS71",
+        "WIOS72",
+        "ZAME71",
+        "ZAME72"
+      ],
+      "brygady": 5
+    },
+    {
       "name": "100",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1396,7 +1452,7 @@
         "ULAN01",
         "ULAN02"
       ],
-      "brygady": 12
+      "brygady": 13
     },
     {
       "name": "146",
@@ -4005,7 +4061,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 10
+      "brygady": 3
     },
     {
       "name": "211",
@@ -4227,10 +4283,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Imbirowa"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - IMBIROWA",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - Radojewo - IMBIROWA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4425,7 +4481,7 @@
         "WYLO01",
         "WYLO02"
       ],
-      "brygady": 10
+      "brygady": 6
     },
     {
       "name": "216",
@@ -4500,7 +4556,7 @@
         "Osiedle Sobieskiego",
         "Franowo"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - al. Niepodleg\u0142o\u015bci - Nowowiejskiego - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - FRANOWO",
+      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - FRANOWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4598,7 +4654,7 @@
         "WIKA01",
         "WIKA02"
       ],
-      "brygady": 11
+      "brygady": 6
     },
     {
       "name": "219",
@@ -7587,71 +7643,39 @@
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "BJPRZ01",
         "DHKLO01",
         "DHKLO03",
-        "DHKLO04",
         "DHKRE01",
-        "DHKRE02",
         "DHOKE01",
-        "DHOKE02",
-        "DHTEC02",
         "DHWIA01",
-        "DHWIA02",
-        "DZLES01",
         "DZLES02",
-        "DZPOL01",
         "DZPOL02",
-        "DZSLO01",
         "DZSLO02",
         "GDSPE01",
-        "GDSPE02",
-        "GDWEZ01",
-        "KDBIE01",
         "KDBIE02",
         "KDBOS02",
-        "KDBRY01",
         "KDBRY02",
-        "KDBWI01",
         "KDBWI02",
-        "KDINS01",
         "KDINS02",
-        "KDMOD01",
         "KDMOD02",
         "KDNIE01",
-        "KDNIE02",
         "KDPOP01",
-        "KDPOP02",
         "KDREJ01",
-        "KDREJ02",
-        "KDSZK01",
         "KDZAM02",
         "KXMAG01",
         "KXWEZ01",
         "LI01",
-        "LI02",
         "OJAG01",
-        "OJAG02",
         "RBSKO01",
-        "RBSKO02",
-        "RBSKO04",
         "RBSZE01",
-        "RBSZE02",
-        "RRAT06",
         "RRAT30",
         "RRAT73",
-        "SCOGR01",
         "SCOGR02",
-        "SCPKM01",
         "SCPKM02",
-        "SCSZK01",
-        "SCSZK02",
         "SCTRZ01",
-        "SCTRZ02",
-        "SWKI01",
-        "SWKI02"
+        "SWKI01"
       ],
-      "brygady": 2
+      "brygady": 1
     },
     {
       "name": "503",
@@ -7952,7 +7976,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "560",
@@ -8034,7 +8058,7 @@
         "Zaniemy\u015bl Ko\u015bci\u00f3\u0142",
         "Rondo Rataje"
       ],
-      "przebieg": "ZANIEMY\u015aL KO\u015aCI\u00d3\u0141 - Zaniemy\u015bl/Raczy\u0144skiego - Zaniemy\u015bl/Pozna\u0144ska - \u0141\u0119kno/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - Jeziory Wielkie/K\u00f3rnicka - Jeziory Wielkie/Sportowa - B\u0142a\u017cejewko/Sportowa - B\u0142a\u017cejewko/Zaniemyska - B\u0142a\u017cejewo/Zaniemyska - K\u00f3rnik/B\u0142a\u017cejewska - K\u00f3rnik/\u015aremska - K\u00f3rnik/Rynek - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/Zamkowa - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - G\u0105dki/Pozna\u0144ska - Krzywoustego - RONDO RATAJE",
+      "przebieg": "ZANIEMY\u015aL KO\u015aCI\u00d3\u0141 - Zaniemy\u015bl/Raczy\u0144skiego - Zaniemy\u015bl/Pozna\u0144ska - \u0141\u0119kno/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - Jeziory Wielkie/K\u00f3rnicka - Jeziory Wielkie/Sportowa - B\u0142a\u017cejewko/Sportowa - B\u0142a\u017cejewko/Zaniemyska - B\u0142a\u017cejewo/Zaniemyska - K\u00f3rnik/B\u0142a\u017cejewska - K\u00f3rnik/Rynek - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/Zamkowa - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - G\u0105dki/Pozna\u0144ska - Krzywoustego - RONDO RATAJE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -8049,10 +8073,7 @@
         "JWWIE02",
         "KDBIE01",
         "KDBLA01",
-        "KDBOS02",
         "KDBRY01",
-        "KDBWI01",
-        "KDBWI02",
         "KDNIE02",
         "KDPOP02",
         "KDPRO01",
