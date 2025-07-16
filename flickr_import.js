@@ -34,7 +34,7 @@ client.logIn(function() {
 			throw err;
 		}
 
-		var imageUrl = photo.urls.original,
+		const imageUrl = photo.urls.original,
 			authorName = photo.owner.name,
 			tags = photo.tags.map(function(tag) {
 				if (!authorName) {
@@ -45,7 +45,8 @@ client.logIn(function() {
 			});
 
 		// @see https://github.com/npm-flickr/flickr-photo-info#usage
-		client.log('Info:   ' + JSON.stringify(photo));
+		client.log('Info:');
+		client.log(photo);
 		client.log('Image:  ' + imageUrl);
 		client.log('Author: ' + authorName);
 		client.log('Tags:   ' + tags);
@@ -57,6 +58,13 @@ client.logIn(function() {
 		text += tags.map(function(tag) {
 				return '\n[[Category:' + tag + ']]';
 			}).join('');
+
+		// szablon autorstwa (Macbre)
+		// "username":"macbre"
+		if (photo.owner.username === 'macbre') {
+			client.log('Found macbre\'s photo');
+			text += "\n{{Fotografie użytkownika Macbre}}";
+		}
 
 		// upload
 		var params = {
