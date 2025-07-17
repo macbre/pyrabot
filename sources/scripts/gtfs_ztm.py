@@ -57,14 +57,20 @@ brigades_per_line: dict[str, set[str]] = defaultdict(lambda: set())
 #       route_id service_id       trip_id   trip_headsign direction_id shape_id wheelchair_accessible brigade
 # 0            1          1  1_8737446^N+         Franowo            0  1188316                     1       1
 for _, trip in feed.trips.iterrows():
+    route_id: str = str(trip['route_id'])
+    direction_name: str = 'there' if str(trip['direction_id']) == '1' else 'here'
+
     # 1_11376703^N,G:2:8+
     # + Oznaczenie kursu jako wariantu głównego
     is_main = str(trip['trip_id']).endswith('+')
 
-    route_id: str = str(trip['route_id'])
-    direction_name: str = 'there' if str(trip['direction_id']) == '1' else 'here'
+    # 188: 1_3125811
+    # 5_3049876^R
+    if route_id == '188' and not is_main:
+        is_main = not str(trip['trip_id']).endswith('^R')
 
-    # if route_id not in ['1', '5', '7', '13']: continue  # DEBUG
+    # if route_id not in ['1', '174', '188']: continue  # DEBUG
+    # logger.info(f'Trip: {route_id}: {trip['trip_id']}')
 
     # ignorujemy wyjazdy i zjazdy do zajezdni
     if not is_main:
@@ -154,6 +160,10 @@ for i, route in routes.iterrows():
         trips_per_line[route['route_id']].get('there', [])
     ))
     entry['brygady'] = len(brigades_per_line[route['route_id']])  # liczba brygad na linii
+
+    # validate
+    if len(entry['przystankiSymbole']) == 0:
+        logger.warning(f"Linia {route['route_id']} nie posiada przystanków!")
 
     lines.append(entry)
 
