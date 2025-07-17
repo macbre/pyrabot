@@ -3450,8 +3450,26 @@
       "przebieg": "IMBIROWA - Radojewo - Ja\u015bkowiaka - Morasko - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
       "color1": "525252",
       "color2": "FFFFFF",
-      "przystankiSymbole": [],
-      "brygady": 0
+      "przystankiSymbole": [
+        "ARNI02",
+        "DESZ02",
+        "JSNZ01",
+        "MOCM02",
+        "MOKO01",
+        "MOKO02",
+        "MORA02",
+        "OSMA02",
+        "OSZY01",
+        "RADO01",
+        "RADO02",
+        "RDWA03",
+        "SOB21",
+        "SZKL02",
+        "SZLI01",
+        "SZYM08",
+        "WIET02"
+      ],
+      "brygady": 3
     },
     {
       "name": "189",
