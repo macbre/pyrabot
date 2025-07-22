@@ -1,6 +1,35 @@
 {
   "lines": [
     {
+      "name": "T2",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Rondo Rataje",
+        "Rondo Rataje"
+      ],
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - al. Niepodleg\u0142o\u015bci - Kr\u00f3lowej Jadwigi - Krzywoustego - RONDO RATAJE",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "AWF03",
+        "AWF04",
+        "NIEZ02",
+        "POGL74",
+        "POLW01",
+        "POLW02",
+        "RRAT06",
+        "RRAT30",
+        "RRAT73",
+        "RRAT75",
+        "RRAT76",
+        "SERA71",
+        "SERA72",
+        "UE01"
+      ],
+      "brygady": 4
+    },
+    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -9,11 +38,11 @@
         "27 Grudnia",
         "Teatr Polski"
       ],
-      "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - Kr\u00f3lowej Jadwigi - Towarowa - \u015awi\u0119ty Marcin - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
+      "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - Strzelecka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
       "color1": "0D7B49",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "AWF41",
+        "AWF42",
         "BAKA41",
         "BIUN72",
         "FRRY41",
@@ -25,15 +54,13 @@
         "MT73",
         "PLRA41",
         "PLWI41",
-        "POGL74",
-        "POLW41",
+        "PLWL42",
         "RJEZ71",
         "RJEZ74",
         "RKAP74",
         "ROSR43",
         "RRAT73",
         "SZOO71",
-        "ZAME71",
         "ZAME72"
       ],
       "brygady": 1
@@ -116,7 +143,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 9
+      "brygady": 11
     },
     {
       "name": "2",
@@ -737,7 +764,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "13",
@@ -1000,7 +1027,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 8
+      "brygady": 7
     },
     {
       "name": "17",
@@ -1153,7 +1180,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 9
+      "brygady": 10
     },
     {
       "name": "20",
@@ -1225,61 +1252,7 @@
         "UNLU41",
         "UNLU42"
       ],
-      "brygady": 12
-    },
-    {
-      "name": "93",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Staro\u0142\u0119ka PKM",
-        "Staro\u0142\u0119ka PKM"
-      ],
-      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Towarowa - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Zamenhofa - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "AWF41",
-        "AWF73",
-        "BYST41",
-        "BYST42",
-        "GRUD72",
-        "GWAR71",
-        "MRCI71",
-        "MRCI72",
-        "OPIA41",
-        "OPIA42",
-        "ORZE41",
-        "ORZE42",
-        "POGL73",
-        "POGL74",
-        "POLW41",
-        "POLW42",
-        "RRAT71",
-        "RRAT72",
-        "RRAT75",
-        "RRAT76",
-        "RSTA41",
-        "RSTA42",
-        "RSTA45",
-        "RSTA46",
-        "SERA71",
-        "SERA72",
-        "STAR41",
-        "STAR42",
-        "STMA41",
-        "STMA42",
-        "SWMN71",
-        "UE42",
-        "UE71",
-        "WIER41",
-        "WIER42",
-        "WIOS71",
-        "WIOS72",
-        "ZAME71",
-        "ZAME72"
-      ],
-      "brygady": 5
+      "brygady": 13
     },
     {
       "name": "100",
@@ -2345,7 +2318,7 @@
         "Strzeszyn PKM",
         "Pozna\u0144 G\u0142\u00f3wny"
       ],
-      "przebieg": "STRZESZYN PKM - Zakopia\u0144ska - Kosowska - Strzeszy\u0144ska - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+      "przebieg": "STRZESZYN PKM - Zakopia\u0144ska - Kosowska - Strzeszy\u0144ska - Dojazd - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2487,7 +2460,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 22
+      "brygady": 21
     },
     {
       "name": "170",
@@ -3939,7 +3912,7 @@
         "Unii Lubelskiej",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4023,31 +3996,34 @@
         "Franowo",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ALSO41",
         "ALSO42",
-        "BAKA41",
-        "BAKA42",
+        "AWF42",
+        "AWF73",
         "FRRY41",
         "FRRY42",
         "FRWO41",
         "FRWO42",
-        "KATE41",
-        "KATE42",
+        "GRUD72",
+        "GWAR71",
+        "KORN41",
+        "KORN42",
         "KORN43",
         "KORN44",
-        "KORN45",
         "KURP41",
         "KURP42",
         "LACI41",
         "LACI42",
+        "LAKO41",
+        "LAKO42",
         "LECH41",
         "LECH42",
-        "MAGA41",
-        "MAGA42",
+        "MRCI71",
+        "MRCI72",
         "MT44",
         "MT73",
         "OSLE41",
@@ -4058,20 +4034,21 @@
         "PIAR42",
         "PK41",
         "PK42",
-        "PLRA41",
-        "PLRA42",
-        "PLWI41",
-        "PLWI42",
+        "PLWL41",
+        "PLWL42",
         "POKA41",
         "POKA42",
-        "ROSR41",
-        "ROSR42",
-        "ROSR43",
-        "ROSR44",
+        "RRAT73",
+        "RRAT74",
+        "RRAT75",
+        "RRAT76",
+        "SERA71",
+        "SERA72",
         "SLKA41",
         "SLKA42",
         "SOB41",
         "SOB42",
+        "SWMN71",
         "SZWA41",
         "SZWA42",
         "SZWE41",
@@ -4301,10 +4278,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
