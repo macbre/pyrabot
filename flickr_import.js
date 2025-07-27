@@ -47,12 +47,13 @@ client.logIn(function() {
 		// @see https://github.com/npm-flickr/flickr-photo-info#usage
 		client.log('Info:');
 		client.log(photo);
+		client.log('Desc:   ' + photo.title);
 		client.log('Image:  ' + imageUrl);
 		client.log('Author: ' + authorName);
 		client.log('Tags:   ' + tags);
 
 		// szablon Flickr
-		var text = '{{MediaWiki:Flickr5|1=$1|2=$2|3=$3|4=$4}}'.replace('$1', photo.id).replace('$2', photo.owner.id).replace('$3', authorName).replace('$4', photo.owner.id);
+		var text = photo.title + '\n\n{{MediaWiki:Flickr5|1=$1|2=$2|3=$3|4=$4}}'.replace('$1', photo.id).replace('$2', photo.owner.id).replace('$3', authorName).replace('$4', photo.owner.id);
 
 		// dodaj kategorie
 		text += tags.map(function(tag) {
@@ -69,7 +70,7 @@ client.logIn(function() {
 		// upload
 		var params = {
 			comment: 'Import z Flickra',
-			text: text
+			text: text.trim(),
 		};
 
 		client.log('Wrzucam plik <' + imageUrl + '> jako <' + DEST + '>...');
