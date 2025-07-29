@@ -15,7 +15,7 @@ const db = JSON.parse(fs.readFileSync('db/ztm-linie.json'));
 function updateLine(pageTitle) {
 	const page = {title: pageTitle};
 
-	const line = page.title.substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr "
+	const line = page.title.replace(' (turystyczna)', '').substring(20), // usuń prefix "Linia tramwajowa/autobusowa nr " i suffix " (turystyczna)"
 		lineNumeric = parseInt(line, 10),
 		stops = db[line] && db[line].petle,
 		rozklad = (db[line] && db[line].rozklad) || `https://www.ztm.poznan.pl/pl/rozklad-jazdy/${line}`,
