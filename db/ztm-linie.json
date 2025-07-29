@@ -1,15 +1,15 @@
 {
-  "T2":{
+  "T11":{
     "typ":"tram",
     "petle":[
-      "Rondo Rataje",
-      "Rondo Rataje"
+      "Rondo Kaponiera",
+      "Rondo Kaponiera"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":6,
-    "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - al. Niepodleg\u0142o\u015bci - Kr\u00f3lowej Jadwigi - Krzywoustego - RONDO RATAJE",
-    "brygady":4
+    "przystanki":5,
+    "przebieg":"RONDO KAPONIERA - Zwierzyniecka - Roosevelta - G\u0142ogowska - Roosevelta - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+    "brygady":5
   },
   "0":{
     "typ":"tram",
