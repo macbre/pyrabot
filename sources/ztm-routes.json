@@ -1,33 +1,6 @@
 {
   "lines": [
     {
-      "name": "T6",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny",
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ],
-      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Zwierzyniecka - Kraszewskiego - Grunwaldzka - Szylinga - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "KRAS01",
-        "MATE02",
-        "MATE91",
-        "POGL01",
-        "POGL02",
-        "RKAP01",
-        "RKAP02",
-        "RKAP05",
-        "RKAP06",
-        "RONJ02",
-        "SZOO71",
-        "WOJS01"
-      ],
-      "brygady": 5
-    },
-    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -608,10 +581,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Stare Zoo",
+        "Staro\u0142\u0119ka PKM",
         "Staro\u0142\u0119ka PKM"
       ],
-      "przebieg": "STARE ZOO - Zwierzyniecka - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Zamenhofa - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
+      "przebieg": "STARO\u0141\u0118KA PKM - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Zamenhofa - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
       "color1": "AD841F",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -622,10 +595,12 @@
         "KORN41",
         "KORN42",
         "KORN78",
+        "KRAS42",
         "MORO71",
         "MORO72",
         "MRCI71",
         "MRCI72",
+        "MT72",
         "OPIA41",
         "OPIA42",
         "ORZE41",
@@ -634,6 +609,9 @@
         "PLBE72",
         "PP71",
         "PP72",
+        "RJEZ72",
+        "RJEZ73",
+        "RKAP72",
         "RKAP73",
         "RKAP74",
         "RRAT71",
@@ -649,7 +627,6 @@
         "STMA41",
         "STMA42",
         "SWMN71",
-        "SZOO71",
         "SZOO72",
         "WIOS71",
         "WIOS72",
@@ -1013,56 +990,6 @@
       "brygady": 1
     },
     {
-      "name": "53",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Staro\u0142\u0119ka PKM",
-        "Budziszy\u0144ska"
-      ],
-      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Przybyszewskiego - Grunwaldzka - BUDZISZY\u0143SKA",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BUDZ41",
-        "BUDZ43",
-        "BUKO42",
-        "BULG41",
-        "BYST42",
-        "DRZE41",
-        "GROC41",
-        "GRUD72",
-        "GWAR71",
-        "KORN42",
-        "KORN78",
-        "KRAS71",
-        "MORO72",
-        "MRCI72",
-        "OPIA42",
-        "ORZE42",
-        "OSTR41",
-        "PLBE72",
-        "PONA71",
-        "PP72",
-        "RJEZ71",
-        "RKAP74",
-        "RONJ41",
-        "ROSK41",
-        "RRAT72",
-        "RRAT74",
-        "RSTA42",
-        "RSTA46",
-        "STAR42",
-        "STMA42",
-        "SZOO71",
-        "WEGO42",
-        "WIOS72",
-        "WROC72",
-        "ZAME72"
-      ],
-      "brygady": 4
-    },
-    {
       "name": "91",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1326,7 +1253,7 @@
         "WEGO42",
         "WOJS41"
       ],
-      "brygady": 8
+      "brygady": 7
     },
     {
       "name": "100",
@@ -1562,7 +1489,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 10
+      "brygady": 8
     },
     {
       "name": "148",
@@ -2072,7 +1999,7 @@
         "WOPO04",
         "WOPO08"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "162",
@@ -2254,7 +2181,7 @@
         "WYSP01",
         "WYSP02"
       ],
-      "brygady": 14
+      "brygady": 15
     },
     {
       "name": "166",
@@ -4262,7 +4189,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "213",
@@ -4340,10 +4267,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -11179,6 +11106,23 @@
         "ZYPET03",
         "ZYSWI01",
         "ZYSWI02"
+      ],
+      "brygady": 6
+    },
+    {
+      "name": "899",
+      "typ": "bus",
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.",
+      "petle": [
+        "Kiekrz Cosmo",
+        "Rokietnica W\u0119ze\u0142 Przesiadkowy"
+      ],
+      "przebieg": "KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "COS01",
+        "RKPKM03"
       ],
       "brygady": 6
     },
