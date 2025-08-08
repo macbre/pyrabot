@@ -11110,6 +11110,23 @@
       "brygady": 6
     },
     {
+      "name": "899",
+      "typ": "bus",
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.",
+      "petle": [
+        "Kiekrz Cosmo",
+        "Rokietnica W\u0119ze\u0142 Przesiadkowy"
+      ],
+      "przebieg": "KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "COS01",
+        "RKPKM03"
+      ],
+      "brygady": 6
+    },
+    {
       "name": "901",
       "typ": "bus",
       "agency": "Zak\u0142ad Komunikacji Publicznej Suchy Las Sp. z o.o.",
