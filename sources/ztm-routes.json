@@ -29,27 +29,6 @@
       "brygady": 4
     },
     {
-      "name": "T12",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Staro\u0142\u0119ka PKM",
-        "Staro\u0142\u0119ka PKM"
-      ],
-      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BYST01",
-        "BYST02",
-        "RSTA91",
-        "STAR02",
-        "STMA01",
-        "STMA02"
-      ],
-      "brygady": 4
-    },
-    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -94,7 +73,7 @@
         "Junikowo",
         "Franowo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - G\u0142ogowska - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Zamenhofa - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
       "color1": "D0006F",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -162,7 +141,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 10
+      "brygady": 9
     },
     {
       "name": "3",
@@ -260,7 +239,7 @@
         "Po\u0142abska",
         "Ogrody"
       ],
-      "przebieg": "PO\u0141ABSKA - Aleje Solidarno\u015bci - Murawa - Winogrady - Pu\u0142askiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - 28 Czerwca 1956 r. - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
+      "przebieg": "PO\u0141ABSKA - Aleje Solidarno\u015bci - Murawa - Winogrady - Pu\u0142askiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
       "color1": "003594",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -399,9 +378,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "B\u0142a\u017ceja",
-        "G\u00f3rczyn PKM"
+        "D\u0119biec PKM"
       ],
-      "przebieg": "B\u0141A\u017bEJA - al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - \u015awi\u0119ty Marcin - Towarowa - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - Hetma\u0144ska - G\u0142ogowska - G\u00d3RCZYN PKM",
+      "przebieg": "B\u0141A\u017bEJA - al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Hetma\u0144ska - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
       "color1": "F1B434",
       "color2": "000000",
       "przystankiSymbole": [
@@ -477,9 +456,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Pi\u0105tkowska",
-        "D\u0119biec PKM"
+        "Unii Lubelskiej"
       ],
-      "przebieg": "PI\u0104TKOWSKA - Bronowa - Witosa - os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - al. Wielkopolska - Pu\u0142askiego - Roosevelta - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Hetma\u0144ska - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+      "przebieg": "PI\u0104TKOWSKA - Bronowa - Witosa - os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - al. Wielkopolska - Pu\u0142askiego - Roosevelta - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
       "color1": "3CDBC0",
       "color2": "000000",
       "przystankiSymbole": [
@@ -553,10 +532,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Unii Lubelskiej",
+        "Staro\u0142\u0119ka PKM",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - Hetma\u0144ska - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
       "color1": "CBA3D8",
       "color2": "000000",
       "przystankiSymbole": [
@@ -618,10 +597,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Unii Lubelskiej",
-        "Unii Lubelskiej"
+        "Staro\u0142\u0119ka PKM",
+        "Staro\u0142\u0119ka PKM"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - Hetma\u0144ska - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
+      "przebieg": "STARO\u0141\u0118KA PKM - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Zamenhofa - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
       "color1": "AD841F",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -847,10 +826,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Unii Lubelskiej",
+        "Staro\u0142\u0119ka PKM",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - G\u00d3RCZYN PKM",
+      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Hetma\u0144ska - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - G\u00d3RCZYN PKM",
       "color1": "004F71",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -1027,158 +1006,54 @@
       "brygady": 1
     },
     {
-      "name": "30",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Wilczak",
-        "G\u00f3rczyn PKM"
-      ],
-      "przebieg": "WILCZAK - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - G\u00d3RCZYN PKM",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ARPO41",
-        "ARPO42",
-        "DWZA71",
-        "DWZA72",
-        "FRRY41",
-        "FRRY42",
-        "GLHE71",
-        "GLHE72",
-        "GORC41",
-        "GORC42",
-        "GWAR42",
-        "GWAR71",
-        "KMIE42",
-        "KMIE71",
-        "KRAU71",
-        "KRAU72",
-        "MT44",
-        "MT73",
-        "PASI41",
-        "PASI42",
-        "PAWI71",
-        "PAWI72",
-        "POGL41",
-        "POGL42",
-        "POGL73",
-        "POGL74",
-        "POZN41",
-        "POZN42",
-        "PZEL41",
-        "PZEL42",
-        "RYLA71",
-        "RYLA72",
-        "SIEL71",
-        "SIEL72",
-        "UE42",
-        "UE71",
-        "WIKA41",
-        "WIKA42",
-        "WILC41",
-        "WILC44",
-        "ZAME71",
-        "ZAME72",
-        "ZNIW42",
-        "ZNIW71"
-      ],
-      "brygady": 17
-    },
-    {
       "name": "53",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "G\u00f3rczyn PKM",
-        "Unii Lubelskiej"
+        "Staro\u0142\u0119ka PKM",
+        "Budziszy\u0144ska"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - G\u0142ogowska - Matyi - Kr\u00f3lowej Jadwigi - Krzywoustego - Zamenhofa - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
+      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Przybyszewskiego - Grunwaldzka - BUDZISZY\u0143SKA",
       "color1": "FFFFFF",
-      "color2": "FFFFFF",
+      "color2": "000000",
       "przystankiSymbole": [
-        "AWF73",
         "BUDZ41",
         "BUDZ43",
         "BUKO42",
         "BULG41",
+        "BYST42",
         "DRZE41",
-        "DWZA72",
-        "GLHE72",
-        "GORC42",
         "GROC41",
         "GRUD72",
         "GWAR71",
         "KORN42",
         "KORN78",
         "KRAS71",
-        "KRAU72",
         "MORO72",
         "MRCI72",
-        "OPIA41",
         "OPIA42",
-        "ORZE41",
         "ORZE42",
         "OSTR41",
-        "PAWI72",
         "PLBE72",
-        "POGL42",
-        "POLW42",
         "PONA71",
         "PP72",
         "RJEZ71",
         "RKAP74",
         "RONJ41",
         "ROSK41",
-        "RRAT71",
         "RRAT72",
         "RRAT74",
-        "RRAT75",
-        "RSTA41",
         "RSTA42",
-        "RSTA47",
-        "RSTA48",
-        "RYLA72",
-        "RZEG41",
-        "RZEG42",
-        "SERA71",
-        "SIEL72",
+        "RSTA46",
+        "STAR42",
+        "STMA42",
         "SZOO71",
-        "TADE41",
-        "TADE42",
-        "UNLU41",
-        "UNLU42",
         "WEGO42",
-        "WIER42",
-        "WIOS71",
         "WIOS72",
         "WROC72",
         "ZAME72"
       ],
-      "brygady": 4
-    },
-    {
-      "name": "91",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Traugutta",
-        "Rondo Staro\u0142\u0119ka"
-      ],
-      "przebieg": "TRAUGUTTA - Hetma\u0144ska - RONDO STARO\u0141\u0118KA",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "HEWI41",
-        "HEWI42",
-        "ROLN41",
-        "ROLN42",
-        "RSTA43",
-        "RSTA44",
-        "TRAU43",
-        "TRAU97"
-      ],
-      "brygady": 1
+      "brygady": 5
     },
     {
       "name": "92",
@@ -1495,28 +1370,40 @@
       "brygady": 1
     },
     {
-      "name": "104",
+      "name": "106",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Nowe Zoo",
-        "Rondo \u015ar\u00f3dka"
+        "Rondo Kaponiera",
+        "Tatrza\u0144ska"
       ],
-      "przebieg": "NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-      "color1": "E31E24",
+      "przebieg": "RONDO KAPONIERA - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - TATRZA\u0143SKA",
+      "color1": "FFFFFF",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "ROSR01",
-        "ROSR04",
-        "ROSR30",
-        "TEMA01",
-        "TERM03",
-        "TERM04",
-        "TORM01",
-        "TORM02",
-        "ZOO02"
+        "BUZA01",
+        "BUZA02",
+        "KOLO01",
+        "KOLO02",
+        "KRAS71",
+        "OGDY01",
+        "OGDY04",
+        "PILO01",
+        "PILO02",
+        "PLOT01",
+        "PLOT02",
+        "PONA71",
+        "PONZ01",
+        "RJEZ71",
+        "RKAP01",
+        "SMOC01",
+        "SMOC02",
+        "SZOO71",
+        "TATR01",
+        "TATR02",
+        "ZERO71"
       ],
-      "brygady": 1
+      "brygady": 3
     },
     {
       "name": "121",
@@ -2031,7 +1918,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 11
+      "brygady": 12
     },
     {
       "name": "158",
@@ -2078,7 +1965,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 5
+      "brygady": 6
     },
     {
       "name": "159",
@@ -2366,7 +2253,7 @@
         "WYSP01",
         "WYSP02"
       ],
-      "brygady": 14
+      "brygady": 15
     },
     {
       "name": "166",
@@ -3059,7 +2946,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "178",
@@ -4175,31 +4062,31 @@
         "Franowo",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ALSO41",
         "ALSO42",
-        "BAKA41",
-        "BAKA42",
         "FRRY41",
         "FRRY42",
         "FRWO41",
         "FRWO42",
-        "KATE41",
-        "KATE42",
+        "GRUD72",
+        "GWAR71",
         "KORN43",
         "KORN44",
-        "KORN45",
+        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
         "LACI42",
         "LECH41",
         "LECH42",
-        "MAGA41",
-        "MAGA42",
+        "MORO71",
+        "MORO72",
+        "MRCI71",
+        "MRCI72",
         "MT44",
         "MT73",
         "OSLE41",
@@ -4210,28 +4097,75 @@
         "PIAR42",
         "PK41",
         "PK42",
-        "PLRA41",
-        "PLRA42",
-        "PLWI41",
-        "PLWI42",
+        "PLBE71",
+        "PLBE72",
         "POKA41",
         "POKA42",
-        "ROSR41",
-        "ROSR42",
-        "ROSR43",
-        "ROSR44",
+        "PP71",
+        "PP72",
         "SLKA41",
         "SLKA42",
         "SOB41",
         "SOB42",
+        "SWMN71",
         "SZWA41",
         "SZWA42",
         "SZWE41",
         "SZWE42",
         "SZYM41",
-        "SZYM42"
+        "SZYM42",
+        "WROC71",
+        "WROC72"
       ],
-      "brygady": 10
+      "brygady": 7
+    },
+    {
+      "name": "208",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Mi\u0142ostowo",
+        "Mi\u0142ostowo"
+      ],
+      "przebieg": "MI\u0141OSTOWO - Warszawska - Wyszy\u0144skiego - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Gwarna - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "FRRY42",
+        "GWAR42",
+        "KATE41",
+        "KATE42",
+        "KRAN41",
+        "KRAN42",
+        "KRAS42",
+        "LOMZ41",
+        "LOMZ42",
+        "MAGA41",
+        "MAGA42",
+        "MILO41",
+        "MILO42",
+        "MOGI41",
+        "MOGI42",
+        "MT72",
+        "PLRA41",
+        "PLRA42",
+        "PLWI41",
+        "PLWI42",
+        "RJEZ72",
+        "RJEZ73",
+        "RKAP73",
+        "ROSR41",
+        "ROSR42",
+        "ROSR45",
+        "ROSR46",
+        "SWMI41",
+        "SWMI42",
+        "SZOO72",
+        "TERM41",
+        "TERM42",
+        "ZAME71"
+      ],
+      "brygady": 2
     },
     {
       "name": "211",
@@ -4292,7 +4226,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "212",
@@ -4453,10 +4387,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4651,7 +4585,7 @@
         "WYLO01",
         "WYLO02"
       ],
-      "brygady": 10
+      "brygady": 6
     },
     {
       "name": "216",
@@ -4824,7 +4758,7 @@
         "WIKA01",
         "WIKA02"
       ],
-      "brygady": 11
+      "brygady": 6
     },
     {
       "name": "219",
@@ -4941,7 +4875,7 @@
         "WIEL01",
         "WIEP01"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "221",
@@ -4951,7 +4885,7 @@
         "Sypniewo",
         "Garbary PKM"
       ],
-      "przebieg": "SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Forteczna - Obodrzycka - Unii Lubelskiej - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
+      "przebieg": "SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Forteczna - Obodrzycka - Unii Lubelskiej - Inflancka - Pawia - Orla - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
