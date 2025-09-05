@@ -10,7 +10,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":10,
     "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-    "brygady":1
+    "brygady":2
   },
   "1":{
     "typ":"tram",
@@ -279,6 +279,19 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
   },
+  "23":{
+    "typ":"tram",
+    "petle":[
+      "Biblioteka Uniwersytecka",
+      "27 Grudnia",
+      "Teatr Polski"
+    ],
+    "kolor1":"#008000",
+    "kolor2":"#FFFFFF",
+    "przystanki":14,
+    "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Warczyg\u0142owy - Trasa K\u00f3rnicka - Chartowo - \u017begrze - Hetma\u0144ska - Zamenhofa - Krzywoustego - Strzelecka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
+    "brygady":2
+  },
   "100":{
     "typ":"bus",
     "petle":[
@@ -347,7 +360,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":6,
+    "przystanki":7,
     "przebieg":"SAFONY - Safony - Literacka - Koszali\u0144ska - Biskupi\u0144ska - INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY",
     "brygady":4
   },
@@ -974,7 +987,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":24,
+    "przystanki":25,
     "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - Jurasz\u00f3w - Strzeszy\u0144ska - Biskupi\u0144ska - Koszali\u0144ska - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":3
   },
@@ -1070,7 +1083,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":24,
+    "przystanki":25,
     "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Gol\u0119ci\u0144ska - Literacka - Koszali\u0144ska - Biskupi\u0144ska - Strzeszy\u0144ska - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":4
   },
@@ -1908,7 +1921,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":27,
-    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - Lubo\u0144/D\u0119biecka - Lubo\u0144/Powsta\u0144c\u00f3w Wlkp. - Lubo\u0144/Streicha - Lubo\u0144/Dworcowa - Lubo\u0144/Fabryczna - Lubo\u0144/Wojska Polskiego - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Lubo\u0144/Cmentarna - Lubo\u0144/ - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - Lubo\u0144/D\u0119biecka - Lubo\u0144/Powsta\u0144c\u00f3w Wlkp. - Lubo\u0144/Streicha - Lubo\u0144/Dworcowa - Lubo\u0144/Fabryczna - Lubo\u0144/Wojska Polskiego - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "brygady":5,
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=610"
@@ -1917,12 +1930,12 @@
     "typ":"bus",
     "petle":[
       "D\u0119biec PKM",
-      "Sycowska Centrum Handlowe"
+      "Lubo\u0144 \u017babikowo"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":12,
-    "przebieg":"D\u0118BIEC PKM - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Ko\u015bciuszki - Lubo\u0144/Poniatowskiego - Lubo\u0144/ - Op\u0142otki - SYCOWSKA CENTRUM HANDLOWE",
+    "przebieg":"D\u0118BIEC PKM - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Ko\u015bciuszki - Lubo\u0144/Poniatowskiego - LUBO\u0143 \u017bABIKOWO",
     "brygady":5,
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=611"
@@ -1950,7 +1963,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":11,
-    "przebieg":"LUBO\u0143 \u017bABIKOWO - Lubo\u0144/Poniatowskiego - Lubo\u0144/Cmentarna - Lubo\u0144/ - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"LUBO\u0143 \u017bABIKOWO - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "brygady":2,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=616"
@@ -1978,8 +1991,8 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":29,
-    "przebieg":"LUBO\u0143 KR\u0118TA - Lubo\u0144/Kr\u0119ta - Lubo\u0144/Kwiatowa - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Buczka - Lubo\u0144/Poniatowskiego - Lubo\u0144/Cmentarna - Lubo\u0144/ - Lubo\u0144/Poniatowskiego - Lubo\u0144/Ko\u015bciuszki - Lubo\u0144/\u017babikowska - Lubo\u0144/Wschodnia - Lubo\u0144/Jana Paw\u0142a II - Lubo\u0144/Pu\u0142askiego - Lubo\u0144/Cieszkowskiego - Lubo\u0144/Streicha - Lubo\u0144/D\u0105browskiego - Lubo\u0144/3 Maja - Lubo\u0144/Armii Pozna\u0144 - \u0141\u0119czyca/Pozna\u0144ska - \u0141\u0118CZYCA DWORCOWA",
-    "brygady":2,
+    "przebieg":"LUBO\u0143 KR\u0118TA - Lubo\u0144/Kr\u0119ta - Lubo\u0144/Kwiatowa - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Buczka - Lubo\u0144/Poniatowskiego - Lubo\u0144/Ko\u015bciuszki - Lubo\u0144/\u017babikowska - Lubo\u0144/Wschodnia - Lubo\u0144/Jana Paw\u0142a II - Lubo\u0144/Pu\u0142askiego - Lubo\u0144/Cieszkowskiego - Lubo\u0144/Streicha - Lubo\u0144/D\u0105browskiego - Lubo\u0144/3 Maja - Lubo\u0144/Armii Pozna\u0144 - \u0141\u0119czyca/Pozna\u0144ska - \u0141\u0118CZYCA DWORCOWA",
+    "brygady":3,
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=690"
   },
@@ -2078,7 +2091,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":23,
-    "przebieg":"KOMORNIKI OS. ZIELONE WZG\u00d3RZE  - Komorniki/Sadowa - Komorniki/M\u0142y\u0144ska - Komorniki/Zak\u0142adowa - Komorniki/Nizinna - Komorniki/Komornicka - Komorniki/\u017babikowska - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Lubo\u0144/Cmentarna - Lubo\u0144/ - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"KOMORNIKI OS. ZIELONE WZG\u00d3RZE  - Komorniki/Sadowa - Komorniki/M\u0142y\u0144ska - Komorniki/Zak\u0142adowa - Komorniki/Nizinna - Komorniki/Komornicka - Komorniki/\u017babikowska - Lubo\u0144/Pleszewska - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "brygady":3,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=702"
@@ -2493,7 +2506,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":33,
+    "przystanki":34,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Kierska - Kiekrz/Kierska - Rokietnica/Gol\u0119ci\u0144ska - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Szamotulska - Rokietnica/Koszycy - Krzyszkowo/Koszycy - KRZYSZKOWO P\u0118TLA",
     "brygady":12
   },
@@ -2505,7 +2518,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":23,
+    "przystanki":24,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Paw\u0142owicka - Kiekrz/Czysta - Paw\u0142owice/Paw\u0142owicka - Paw\u0142owice/Szkolna - PAW\u0141OWICE P\u0118TLA",
     "brygady":8
   },
