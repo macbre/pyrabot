@@ -35,7 +35,7 @@
         "WROC72",
         "ZAME72"
       ],
-      "brygady": 2
+      "brygady": 1
     },
     {
       "name": "1",
@@ -1315,52 +1315,6 @@
       "brygady": 1
     },
     {
-      "name": "23",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Biblioteka Uniwersytecka",
-        "27 Grudnia",
-        "Teatr Polski"
-      ],
-      "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Warczyg\u0142owy - Trasa K\u00f3rnicka - Chartowo - \u017begrze - Hetma\u0144ska - Zamenhofa - Krzywoustego - Strzelecka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-      "color1": "008000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "AWF42",
-        "BIUN72",
-        "GRUD72",
-        "GWAR71",
-        "KORN43",
-        "LACI41",
-        "MORO71",
-        "MRCI71",
-        "OCZ71",
-        "OPIA42",
-        "ORZE42",
-        "OSLE41",
-        "OSTY41",
-        "PLBE71",
-        "PLWL42",
-        "POKA41",
-        "PP71",
-        "RRAT72",
-        "RRAT76",
-        "RSTA42",
-        "RSTA47",
-        "RZEG41",
-        "RZEG43",
-        "SERA72",
-        "SWMN71",
-        "WIOS72",
-        "WROC71",
-        "Z I41",
-        "Z II41",
-        "ZIII41"
-      ],
-      "brygady": 2
-    },
-    {
       "name": "100",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1405,7 +1359,7 @@
         "ZAME02",
         "ZOO02"
       ],
-      "brygady": 3
+      "brygady": 14
     },
     {
       "name": "102",
@@ -1436,7 +1390,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 1
+      "brygady": 3
     },
     {
       "name": "121",
@@ -4953,13 +4907,12 @@
       "przystankiSymbole": [
         "AWF05",
         "BYST01",
+        "BYST02",
         "CZER02",
         "DASZ01",
         "DASZ02",
         "DZIE01",
         "DZIE02",
-        "FALI02",
-        "FORT02",
         "GABA03",
         "GABA04",
         "GLOS01",
@@ -4978,9 +4931,6 @@
         "MORO71",
         "MORO72",
         "MOST01",
-        "OAK02",
-        "OBOH02",
-        "OKOP02",
         "OPIA01",
         "OPIA02",
         "ORZE01",
@@ -5005,6 +4955,7 @@
         "STAW01",
         "STAW02",
         "STMA01",
+        "STMA02",
         "STRZ01",
         "STRZ02",
         "STWI01",
@@ -5013,12 +4964,8 @@
         "SWAN02",
         "SWAN04",
         "SYPN02",
-        "SZII01",
-        "TADE02",
         "TARN01",
         "TARN02",
-        "UNLU04",
-        "WARO02",
         "WIEL01",
         "WIOS71",
         "WIOS72",
@@ -11669,7 +11616,7 @@
         "TPTUR01",
         "TPTUR02"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "886",
@@ -11774,6 +11721,23 @@
         "ZYSWI02"
       ],
       "brygady": 7
+    },
+    {
+      "name": "899",
+      "typ": "bus",
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.",
+      "petle": [
+        "Kiekrz Cosmo",
+        "Rokietnica W\u0119ze\u0142 Przesiadkowy"
+      ],
+      "przebieg": "KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "COS01",
+        "RKPKM03"
+      ],
+      "brygady": 5
     },
     {
       "name": "901",

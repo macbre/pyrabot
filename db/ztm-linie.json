@@ -10,7 +10,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":10,
     "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Fredry - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - Wyszy\u0144skiego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-    "brygady":2
+    "brygady":1
   },
   "1":{
     "typ":"tram",
@@ -279,19 +279,6 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
   },
-  "23":{
-    "typ":"tram",
-    "petle":[
-      "Biblioteka Uniwersytecka",
-      "27 Grudnia",
-      "Teatr Polski"
-    ],
-    "kolor1":"#008000",
-    "kolor2":"#FFFFFF",
-    "przystanki":14,
-    "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Warczyg\u0142owy - Trasa K\u00f3rnicka - Chartowo - \u017begrze - Hetma\u0144ska - Zamenhofa - Krzywoustego - Strzelecka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-    "brygady":2
-  },
   "100":{
     "typ":"bus",
     "petle":[
@@ -302,7 +289,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":15,
     "przebieg":"NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":3
+    "brygady":14
   },
   "102":{
     "typ":"bus",
@@ -314,7 +301,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":7,
     "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":1
+    "brygady":3
   },
   "121":{
     "typ":"bus",
@@ -1035,7 +1022,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":36,
+    "przystanki":32,
     "przebieg":"SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Forteczna - Obodrzycka - Unii Lubelskiej - Inflancka - Pawia - Orla - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
     "brygady":4
   },
@@ -2544,7 +2531,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY - Rokietnica/Dworcowa - Rokietnica/Szamotulska - Rokietnica/Szkolna - Napachanie/Rakoniewicka - Napachanie/Rokietnicka - Napachanie/Tarnowska - Tarnowo Pdg/Rokietnicka - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Tarnowo Pdg/Nowa - TARNOWO PDG TERMY",
-    "brygady":2,
+    "brygady":3,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=882"
   },
@@ -2573,6 +2560,18 @@
     "brygady":7,
     "agency":"ROKBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=893"
+  },
+  "899":{
+    "typ":"bus",
+    "petle":[
+      "Kiekrz Cosmo",
+      "Rokietnica W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":0,
+    "przebieg":"KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
+    "brygady":5
   },
   "901":{
     "typ":"bus",
