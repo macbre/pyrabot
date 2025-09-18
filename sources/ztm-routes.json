@@ -1,6 +1,41 @@
 {
   "lines": [
     {
+      "name": "T1",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Junikowo",
+        "Junikowo"
+      ],
+      "przebieg": "JUNIKOWO - Grunwaldzka - JUNIKOWO",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BUDZ01",
+        "BUDZ02",
+        "BULG04",
+        "BULG05",
+        "CMNA01",
+        "CMNA02",
+        "DRZE01",
+        "DRZE02",
+        "GROC01",
+        "GROC02",
+        "GROT71",
+        "GROT72",
+        "JUNI30",
+        "OSTR01",
+        "OSTR02",
+        "RONJ01",
+        "ROSK01",
+        "ROSK02",
+        "WEGO01",
+        "WEGO02"
+      ],
+      "brygady": 5
+    },
+    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1359,7 +1394,7 @@
         "ZAME02",
         "ZOO02"
       ],
-      "brygady": 14
+      "brygady": 3
     },
     {
       "name": "102",
@@ -1390,7 +1425,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 3
+      "brygady": 1
     },
     {
       "name": "121",
@@ -1560,7 +1595,7 @@
         "Stary Strzeszyn",
         "Boranta"
       ],
-      "przebieg": "STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+      "przebieg": "STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -1574,8 +1609,6 @@
         "INTP02",
         "KULY01",
         "KULY02",
-        "KURP03",
-        "KURP06",
         "LEGO01",
         "LEGO02",
         "LEWI01",
@@ -1587,10 +1620,14 @@
         "NARA72",
         "OLOK01",
         "OLOK02",
+        "OPIE01",
+        "OPIE02",
+        "OSBA03",
+        "OSBA04",
+        "OSBP01",
+        "OSBP02",
         "OSMA01",
         "OSMA02",
-        "OSSM01",
-        "OSSM02",
         "OSZY01",
         "OSZY02",
         "RUBI01",
@@ -1598,10 +1635,12 @@
         "SLWY01",
         "SS I01",
         "SS I02",
-        "STOI03",
+        "STOI01",
         "STOI04",
         "STRS01",
         "STRS02",
+        "STRU01",
+        "STRU02",
         "STST21",
         "SUCH01",
         "SUCH02",
@@ -2063,7 +2102,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 6
+      "brygady": 5
     },
     {
       "name": "159",
@@ -2125,13 +2164,12 @@
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "BIAL03",
-        "DOZD02",
         "DRUS01",
         "DRUS02",
-        "DZDB01",
-        "DZDB02",
         "GABA03",
         "GABA04",
+        "GOLE01",
+        "GOLE02",
         "GRLA02",
         "INTP01",
         "INTP02",
@@ -2143,16 +2181,14 @@
         "KOSO02",
         "LUBI01",
         "LUBI02",
-        "LUDO01",
-        "LUDO02",
-        "LUTY01",
-        "LUTY02",
         "MAGA01",
         "MAGA04",
         "NADW01",
         "NADW02",
         "NOGO01",
         "NOGO02",
+        "PDNZ01",
+        "PDNZ02",
         "SLAS01",
         "SLAS02",
         "SOLN01",
@@ -2164,8 +2200,6 @@
         "SUCH02",
         "SYPU01",
         "SYPU02",
-        "SZCM01",
-        "SZCM02",
         "SZKA01",
         "SZKA02",
         "TRUS01",
@@ -2174,10 +2208,7 @@
         "UP02",
         "WOPO03",
         "WOPO04",
-        "WOPO05",
-        "WOPO06",
-        "WOPO08",
-        "WRSZ02"
+        "WOPO08"
       ],
       "brygady": 16
     },
@@ -4901,7 +4932,7 @@
         "Sypniewo",
         "Garbary PKM"
       ],
-      "przebieg": "SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Forteczna - Obodrzycka - Unii Lubelskiej - Inflancka - Pawia - Orla - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
+      "przebieg": "SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4972,7 +5003,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "222",
@@ -11721,23 +11752,6 @@
         "ZYSWI02"
       ],
       "brygady": 7
-    },
-    {
-      "name": "899",
-      "typ": "bus",
-      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.",
-      "petle": [
-        "Kiekrz Cosmo",
-        "Rokietnica W\u0119ze\u0142 Przesiadkowy"
-      ],
-      "przebieg": "KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "COS01",
-        "RKPKM03"
-      ],
-      "brygady": 5
     },
     {
       "name": "901",
