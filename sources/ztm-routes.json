@@ -1,41 +1,6 @@
 {
   "lines": [
     {
-      "name": "T1",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Junikowo",
-        "Junikowo"
-      ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - JUNIKOWO",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BUDZ01",
-        "BUDZ02",
-        "BULG04",
-        "BULG05",
-        "CMNA01",
-        "CMNA02",
-        "DRZE01",
-        "DRZE02",
-        "GROC01",
-        "GROC02",
-        "GROT71",
-        "GROT72",
-        "JUNI30",
-        "OSTR01",
-        "OSTR02",
-        "RONJ01",
-        "ROSK01",
-        "ROSK02",
-        "WEGO01",
-        "WEGO02"
-      ],
-      "brygady": 5
-    },
-    {
       "name": "0",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
