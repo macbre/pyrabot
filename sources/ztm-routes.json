@@ -35,7 +35,7 @@
         "WROC72",
         "ZAME72"
       ],
-      "brygady": 1
+      "brygady": 3
     },
     {
       "name": "1",
@@ -1666,7 +1666,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 7
+      "brygady": 8
     },
     {
       "name": "149",
@@ -2020,7 +2020,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 13
+      "brygady": 12
     },
     {
       "name": "158",
@@ -2114,7 +2114,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 15
+      "brygady": 16
     },
     {
       "name": "160",
@@ -2124,7 +2124,7 @@
         "Garbary PKM",
         "Stary Strzeszyn"
       ],
-      "przebieg": "GARBARY PKM - Garbary - Ma\u0142e Garbary - Solna - Nowowiejskiego - al. Wielkopolska - Nad Wierzbakiem - Wojska Polskiego - Dojazd - Lutycka - Szczawnicka - Druskienicka - Zakopia\u0144ska - Kosowska - Strzeszy\u0144ska - Biskupi\u0144ska - STARY STRZESZYN",
+      "przebieg": "GARBARY PKM - Garbary - Ma\u0142e Garbary - Solna - Nowowiejskiego - al. Wielkopolska - Nad Wierzbakiem - Wojska Polskiego - Podola\u0144ska - Szczawnicka - Druskienicka - Zakopia\u0144ska - Kosowska - Strzeszy\u0144ska - Biskupi\u0144ska - STARY STRZESZYN",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2175,7 +2175,7 @@
         "WOPO04",
         "WOPO08"
       ],
-      "brygady": 16
+      "brygady": 15
     },
     {
       "name": "162",
@@ -7785,7 +7785,6 @@
         "KDPRO02",
         "KDREJ01",
         "KDREJ02",
-        "KXMAG01",
         "KXWEZ01",
         "LI01",
         "LI02",
@@ -7853,7 +7852,6 @@
         "KDREJ01",
         "KDREJ02",
         "KDSZK01",
-        "KXMAG01",
         "KXWEZ01",
         "LI01",
         "LI02",
@@ -7909,7 +7907,6 @@
         "GDSPE01",
         "GDSPE02",
         "GDWEZ01",
-        "KXMAG01",
         "KXWEZ01",
         "LI01",
         "LI02",
@@ -8008,7 +8005,6 @@
         "SANT02",
         "SCNWO91",
         "SCNWO92",
-        "SCPET01",
         "SCSAR01",
         "SCSAR02",
         "SCSZC01",
@@ -8065,8 +8061,6 @@
         "KRWI02",
         "KXDZI01",
         "KXDZI02",
-        "KXGRA01",
-        "KXGRA02",
         "KXPIS01",
         "KXPIS02",
         "KXTEL02",
@@ -8088,7 +8082,6 @@
         "SANT02",
         "SCNWO91",
         "SCNWO92",
-        "SCPET01",
         "SCSAR01",
         "SCSAR02",
         "SCSZC01",
@@ -8233,7 +8226,6 @@
         "KDREJ02",
         "KDWIE01",
         "KDWIE02",
-        "KXMAG01",
         "KXWEZ01",
         "LI01",
         "LI02",
