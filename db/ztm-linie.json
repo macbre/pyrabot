@@ -1,4 +1,16 @@
 {
+  "T2":{
+    "typ":"tram",
+    "petle":[
+      "Rondo Kaponiera",
+      "Rondo Kaponiera"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":4,
+    "przebieg":"RONDO KAPONIERA - Zwierzyniecka - Roosevelta - D\u0105browskiego - Szpitalna - D\u0105browskiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
+    "brygady":3
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -251,6 +263,18 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
+  "24":{
+    "typ":"tram",
+    "petle":[
+      "Pi\u0105tkowska",
+      "Pi\u0105tkowska"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "przystanki":15,
+    "przebieg":"PI\u0104TKOWSKA - Bronowa - Witosa - os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - al. Wielkopolska - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
+    "brygady":2
+  },
   "121":{
     "typ":"bus",
     "petle":[
@@ -333,7 +357,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":16,
     "przebieg":"PORT LOTNICZY \u0141AWICA - Bukowska - Perzycka - Z\u0142otowska - Brzechwy - Strzegomska - Marceli\u0144ska - Bu\u0142garska - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":8
+    "brygady":7
   },
   "149":{
     "typ":"bus",
@@ -441,7 +465,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":15,
     "przebieg":"PORT LOTNICZY \u0141AWICA - Bukowska - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":16
+    "brygady":15
   },
   "160":{
     "typ":"bus",
@@ -813,7 +837,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Ostrowska - Tarnowska - Pabianicka - Pokrzywno - Torowa - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":18
+    "brygady":19
   },
   "198":{
     "typ":"bus",
@@ -2508,18 +2532,6 @@
     "brygady":7,
     "agency":"ROKBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=893"
-  },
-  "899":{
-    "typ":"bus",
-    "petle":[
-      "Kiekrz Cosmo",
-      "Rokietnica W\u0119ze\u0142 Przesiadkowy"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":0,
-    "przebieg":"KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
-    "brygady":4
   },
   "901":{
     "typ":"bus",
