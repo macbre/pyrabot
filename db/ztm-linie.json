@@ -1,16 +1,4 @@
 {
-  "T2":{
-    "typ":"tram",
-    "petle":[
-      "Rondo Kaponiera",
-      "Rondo Kaponiera"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":4,
-    "przebieg":"RONDO KAPONIERA - Zwierzyniecka - Roosevelta - D\u0105browskiego - Szpitalna - D\u0105browskiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":3
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -262,18 +250,6 @@
     "brygady":12,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
-  },
-  "24":{
-    "typ":"tram",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Pi\u0105tkowska"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#FFFFFF",
-    "przystanki":15,
-    "przebieg":"PI\u0104TKOWSKA - Bronowa - Witosa - os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - al. Wielkopolska - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
-    "brygady":2
   },
   "121":{
     "typ":"bus",

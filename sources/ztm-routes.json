@@ -1,31 +1,6 @@
 {
   "lines": [
     {
-      "name": "T2",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo Kaponiera",
-        "Rondo Kaponiera"
-      ],
-      "przebieg": "RONDO KAPONIERA - Zwierzyniecka - Roosevelta - D\u0105browskiego - Szpitalna - D\u0105browskiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "MT02",
-        "MT72",
-        "OGDY01",
-        "PONA71",
-        "PONA72",
-        "RJEZ73",
-        "RJEZ74",
-        "RKAP01",
-        "RKAP72",
-        "ZERO71"
-      ],
-      "brygady": 3
-    },
-    {
       "name": "1",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1270,52 +1245,6 @@
         "ZNIW71"
       ],
       "brygady": 12
-    },
-    {
-      "name": "24",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Pi\u0105tkowska",
-        "Pi\u0105tkowska"
-      ],
-      "przebieg": "PI\u0104TKOWSKA - Bronowa - Witosa - os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - al. Wielkopolska - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BONN41",
-        "BONN42",
-        "FRRY41",
-        "FRRY42",
-        "GRUD72",
-        "GWAR71",
-        "KLIN41",
-        "KLIN42",
-        "LUSZ41",
-        "LUSZ42",
-        "MRCI71",
-        "MRCI72",
-        "MT44",
-        "MT73",
-        "NADW41",
-        "NADW42",
-        "PIAT41",
-        "PIAT42",
-        "POZN41",
-        "POZN42",
-        "SOLA41",
-        "SOLA42",
-        "SWLE41",
-        "SWLE42",
-        "SWMN71",
-        "UP41",
-        "UP42",
-        "WIKA41",
-        "WIKA42",
-        "WINI41",
-        "WINI42"
-      ],
-      "brygady": 2
     },
     {
       "name": "121",
