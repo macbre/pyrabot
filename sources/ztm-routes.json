@@ -1437,7 +1437,7 @@
         "Dworzec Zachodni",
         "Kacza"
       ],
-      "przebieg": "DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Wyspia\u0144skiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Matejki - Kasprzaka - Chociszewskiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2471,7 +2471,7 @@
         "\u0141u\u017cycka",
         "Osiedle Kopernika"
       ],
-      "przebieg": "\u0141U\u017bYCKA - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
+      "przebieg": "\u0141U\u017bYCKA - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - Arciszewskiego - \u015aciegiennego - Promienista - OS. KOPERNIKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2480,7 +2480,6 @@
         "BUKO02",
         "GROC03",
         "GROC04",
-        "KORD01",
         "KORD04",
         "KULY01",
         "KULY02",
@@ -2506,7 +2505,6 @@
         "OWW02",
         "OZIM01",
         "OZIM02",
-        "PALA01",
         "POLN01",
         "POLN02",
         "PRNZ04",
@@ -4272,10 +4270,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Malwowa",
+        "Junikowo",
         "Radojewo"
       ],
-      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -5486,12 +5484,8 @@
         "ZLZIE02",
         "ZLZLO01",
         "ZLZLO02",
-        "ZOCED01",
-        "ZOCED02",
-        "ZOSOB01",
-        "ZOSOB02",
-        "ZOWIE01",
-        "ZOWIE02",
+        "ZOLIP01",
+        "ZOLIP02",
         "ZOZYT01",
         "ZOZYT02"
       ],
