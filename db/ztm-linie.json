@@ -251,6 +251,18 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
+  "41":{
+    "typ":"tram",
+    "petle":[
+      "Junikowo",
+      "Mi\u0142ostowo"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":40,
+    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+    "brygady":12
+  },
   "121":{
     "typ":"bus",
     "petle":[
@@ -299,6 +311,18 @@
     "przebieg":"SAFONY - Safony - Literacka - Koszali\u0144ska - Biskupi\u0144ska - INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY",
     "brygady":4
   },
+  "133":{
+    "typ":"bus",
+    "petle":[
+      "Bogucin P\u0119tla",
+      "Rondo \u015ar\u00f3dka"
+    ],
+    "kolor1":"#E31E24",
+    "kolor2":"#FFFFFF",
+    "przystanki":10,
+    "przebieg":"BOGUCIN P\u0118TLA - Bogucin/Gnie\u017anie\u0144ska - Gnie\u017anie\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+    "brygady":2
+  },
   "145":{
     "typ":"bus",
     "petle":[
@@ -307,8 +331,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":14,
-    "przebieg":"DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Matejki - Kasprzaka - Chociszewskiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+    "przystanki":13,
+    "przebieg":"DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Wyspia\u0144skiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":13
   },
   "146":{
@@ -321,7 +345,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":23,
     "przebieg":"STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
-    "brygady":10
+    "brygady":9
   },
   "148":{
     "typ":"bus",
@@ -333,7 +357,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":16,
     "przebieg":"RONDO KAPONIERA - Zwierzyniecka - Bukowska - Bu\u0142garska - Marceli\u0144ska - Strzegomska - Brzechwy - Bukowska - Perzycka - Z\u0142otowska - Brzechwy - Strzegomska - Marceli\u0144ska - Bu\u0142garska - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":7
+    "brygady":5
   },
   "149":{
     "typ":"bus",
@@ -393,7 +417,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"SP\u0141AWIE - Sp\u0142awie - Szczepankowo - Chartowo - Pia\u015bnicka - Milcza\u0144ska - Brne\u0144ska - Krzywoustego - RONDO RATAJE",
-    "brygady":23
+    "brygady":22
   },
   "156":{
     "typ":"bus",
@@ -441,7 +465,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":15,
     "przebieg":"PORT LOTNICZY \u0141AWICA - Bukowska - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":15
+    "brygady":14
   },
   "160":{
     "typ":"bus",
@@ -536,7 +560,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":28,
-    "przebieg":"\u0141U\u017bYCKA - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - Arciszewskiego - \u015aciegiennego - Promienista - OS. KOPERNIKA",
+    "przebieg":"\u0141U\u017bYCKA - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
     "brygady":15
   },
   "170":{
@@ -561,7 +585,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":29,
     "przebieg":"OS. WICHROWE WZG\u00d3RZE - Murawa - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - Towarowa - al. Kr\u00f3la Przemys\u0142a II - Przemys\u0142owa - Robocza - 28 Czerwca 1956 r. - Rolna - Wsp\u00f3lna - Dolna Wilda - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - OS. D\u0118BINA",
-    "brygady":12
+    "brygady":11
   },
   "173":{
     "typ":"bus",
@@ -621,7 +645,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":23,
     "przebieg":"JUNIKOWO - Grunwaldzka - Malwowa - Z\u0142otowska - Brzechwy - Le\u015bnych Skrzat\u00f3w - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":9
+    "brygady":12
   },
   "178":{
     "typ":"bus",
@@ -813,7 +837,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Ostrowska - Tarnowska - Pabianicka - Pokrzywno - Torowa - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":19
+    "brygady":17
   },
   "198":{
     "typ":"bus",
@@ -898,7 +922,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":46,
+    "przystanki":45,
     "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
@@ -1006,7 +1030,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":35,
+    "przystanki":34,
     "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
     "brygady":5
   },
@@ -2378,7 +2402,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":17,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Baranowo/Ametystowa - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
     "brygady":2
   },
   "825":{
@@ -2508,6 +2532,18 @@
     "brygady":7,
     "agency":"ROKBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=893"
+  },
+  "899":{
+    "typ":"bus",
+    "petle":[
+      "Kiekrz Cosmo",
+      "Rokietnica W\u0119ze\u0142 Przesiadkowy"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":0,
+    "przebieg":"KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
+    "brygady":4
   },
   "901":{
     "typ":"bus",

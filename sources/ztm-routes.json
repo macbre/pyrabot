@@ -1247,6 +1247,103 @@
       "brygady": 12
     },
     {
+      "name": "41",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Junikowo",
+        "Mi\u0142ostowo"
+      ],
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "ARCI41",
+        "ARCI42",
+        "AREN41",
+        "AREN42",
+        "BAKA41",
+        "BAKA42",
+        "BUDZ41",
+        "BUDZ42",
+        "BULG41",
+        "BULG42",
+        "CMNA41",
+        "CMNA42",
+        "DRZE41",
+        "DRZE42",
+        "GLHE43",
+        "GLHE44",
+        "GROC41",
+        "GROC42",
+        "GROT71",
+        "GROT72",
+        "HEWI41",
+        "HEWI42",
+        "JUNI41",
+        "JUNI42",
+        "JUNI43",
+        "KOLE41",
+        "KOLE42",
+        "KORN43",
+        "KORN44",
+        "KORN45",
+        "KRAN41",
+        "KRAN42",
+        "LACI41",
+        "LACI42",
+        "LOMZ41",
+        "LOMZ42",
+        "MILO41",
+        "MILO42",
+        "MOGI41",
+        "MOGI42",
+        "OCZ71",
+        "OCZ72",
+        "OSLE41",
+        "OSLE42",
+        "OSTR41",
+        "OSTR42",
+        "OSTY41",
+        "OSTY42",
+        "POKA41",
+        "POKA42",
+        "ROLN41",
+        "ROLN42",
+        "RONJ41",
+        "RONJ74",
+        "ROSK41",
+        "ROSK42",
+        "ROSR43",
+        "ROSR44",
+        "ROSR45",
+        "ROSR46",
+        "RSTA43",
+        "RSTA44",
+        "RSTA47",
+        "RSTA48",
+        "RZEG41",
+        "RZEG42",
+        "RZEG43",
+        "RZEG44",
+        "SWMI41",
+        "SWMI42",
+        "TERM41",
+        "TERM42",
+        "TRAU43",
+        "TRAU44",
+        "WEGO41",
+        "WEGO42",
+        "Z I41",
+        "Z I42",
+        "Z II41",
+        "Z II42",
+        "ZIII41",
+        "ZIII42"
+      ],
+      "brygady": 12
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1365,6 +1462,43 @@
       "brygady": 4
     },
     {
+      "name": "133",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Bogucin P\u0119tla",
+        "Rondo \u015ar\u00f3dka"
+      ],
+      "przebieg": "BOGUCIN P\u0118TLA - Bogucin/Gnie\u017anie\u0144ska - Gnie\u017anie\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "color1": "E31E24",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BGPET02",
+        "BOBA01",
+        "BOBA02",
+        "CMEN01",
+        "CMEN02",
+        "GLOW02",
+        "GLOW03",
+        "GNIE01",
+        "GNIE02",
+        "KORO01",
+        "KORO02",
+        "ROSR03",
+        "ROSR04",
+        "ROSR30",
+        "RWSC01",
+        "RWSC02",
+        "STUD01",
+        "STUD02",
+        "URWI01",
+        "URWI02",
+        "ZAWA01",
+        "ZAWA02"
+      ],
+      "brygady": 2
+    },
+    {
       "name": "145",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1372,13 +1506,12 @@
         "Dworzec Zachodni",
         "Kacza"
       ],
-      "przebieg": "DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Matejki - Kasprzaka - Chociszewskiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "DWORZEC ZACHODNI - Zachodnia - Berwi\u0144skiego - Wyspia\u0144skiego - Przybyszewskiego - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "BULG01",
         "BULG02",
-        "CHOC01",
         "DWZA02",
         "JUGO01",
         "JUGO02",
@@ -1400,12 +1533,10 @@
         "RONJ74",
         "RYCE02",
         "RYCE04",
-        "SOEJ01",
-        "SSKA01",
         "SZAM01",
         "SZAM02",
         "ULAN01",
-        "WYSP01"
+        "ULAN02"
       ],
       "brygady": 13
     },
@@ -1470,7 +1601,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 10
+      "brygady": 9
     },
     {
       "name": "148",
@@ -1518,7 +1649,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 7
+      "brygady": 5
     },
     {
       "name": "149",
@@ -1783,7 +1914,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 23
+      "brygady": 22
     },
     {
       "name": "156",
@@ -1966,7 +2097,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "160",
@@ -2406,7 +2537,7 @@
         "\u0141u\u017cycka",
         "Osiedle Kopernika"
       ],
-      "przebieg": "\u0141U\u017bYCKA - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - Arciszewskiego - \u015aciegiennego - Promienista - OS. KOPERNIKA",
+      "przebieg": "\u0141U\u017bYCKA - \u0141u\u017cycka - al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2588,7 +2719,7 @@
         "ZNTK01",
         "ZNTK02"
       ],
-      "brygady": 12
+      "brygady": 11
     },
     {
       "name": "173",
@@ -2873,7 +3004,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 9
+      "brygady": 12
     },
     {
       "name": "178",
@@ -3854,7 +3985,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 19
+      "brygady": 17
     },
     {
       "name": "198",
@@ -4268,7 +4399,6 @@
         "BULG05",
         "BURY01",
         "BURY02",
-        "CHOC01",
         "CMNA01",
         "CMNA02",
         "DRZE01",
@@ -4331,12 +4461,11 @@
         "SERB01",
         "SERB02",
         "SLWY01",
-        "SOEJ01",
         "SOLN01",
         "SOLN02",
-        "SSKA01",
         "TWAR01",
         "ULAN01",
+        "ULAN02",
         "UMTA01",
         "UMTA02",
         "URWO01",
@@ -4350,7 +4479,6 @@
         "WILC02",
         "WLOD01",
         "WLOD02",
-        "WYSP01",
         "ZONK01"
       ],
       "brygady": 5
@@ -5023,7 +5151,6 @@
         "BUDZ02",
         "BULG04",
         "BULG05",
-        "CHOC01",
         "CMNA01",
         "CMNA02",
         "DRZE01",
@@ -5066,12 +5193,11 @@
         "RUBI01",
         "RUBI02",
         "SLWY01",
-        "SOEJ01",
         "SOLN01",
         "SOLN02",
-        "SSKA01",
         "TWAR02",
         "ULAN01",
+        "ULAN02",
         "URWO01",
         "WEGO01",
         "WEGO02",
@@ -5084,7 +5210,6 @@
         "WISE02",
         "WISE04",
         "WORD02",
-        "WYSP01",
         "ZONK02"
       ],
       "brygady": 5
@@ -10378,8 +10503,8 @@
         "PMLOT02",
         "PMMOD01",
         "PMMOD02",
-        "PMOLS01",
         "PMOLS02",
+        "PMOLS91",
         "PMRYN01",
         "PMRYN02",
         "PONZ02",
@@ -10448,8 +10573,8 @@
         "PMLOT02",
         "PMMOD01",
         "PMMOD02",
-        "PMOLS01",
         "PMOLS02",
+        "PMOLS91",
         "PMRYN01",
         "PMRYN02",
         "PONZ02",
@@ -10528,8 +10653,8 @@
         "PMLOT02",
         "PMMOD01",
         "PMMOD02",
-        "PMOLS01",
         "PMOLS02",
+        "PMOLS91",
         "PMRYN01",
         "PMRYN02",
         "PONZ02",
@@ -10947,7 +11072,7 @@
         "Ogrody",
         "Ogrody"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Baranowo/Ametystowa - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -11539,6 +11664,23 @@
         "ZYSWI02"
       ],
       "brygady": 7
+    },
+    {
+      "name": "899",
+      "typ": "bus",
+      "agency": "Zak\u0142ad Us\u0142ug Komunikacyjnych ROKBUS Sp. z o.o.",
+      "petle": [
+        "Kiekrz Cosmo",
+        "Rokietnica W\u0119ze\u0142 Przesiadkowy"
+      ],
+      "przebieg": "KIEKRZ COSMO - Kiekrz/Dojazd - Rokietnica/Dworcowa - ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "COS01",
+        "RKPKM03"
+      ],
+      "brygady": 4
     },
     {
       "name": "901",
