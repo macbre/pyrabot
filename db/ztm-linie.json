@@ -7,7 +7,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":4,
+    "przystanki":5,
     "przebieg":"ALEJE MARCINKOWSKIEGO - Aleje Marcinkowskiego - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":4
   },
@@ -830,13 +830,13 @@
   "190":{
     "typ":"bus",
     "petle":[
-      "Awf",
+      "Rondo Rataje",
       "Osiedle Sobieskiego"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":25,
-    "przebieg":"AWF - Kazimierza Wielkiego - Mostowa - Garbary - Szel\u0105gowska - S\u0142owia\u0144ska - Pi\u0105tkowska - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+    "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Strzelecka - Kazimierza Wielkiego - Mostowa - Garbary - Szel\u0105gowska - S\u0142owia\u0144ska - Pi\u0105tkowska - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
     "brygady":14
   },
   "191":{
@@ -1186,13 +1186,13 @@
   "320":{
     "typ":"bus",
     "petle":[
-      "Kozieg\u0142owy Zak\u0142ady Drobiarskie",
+      "Kicin P\u0119tla",
       "Rondo \u015ar\u00f3dka"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":18,
-    "przebieg":"KOZIEG\u0141OWY ZAK\u0141ADY DROBIARSKIE - Kozieg\u0142owy/Piaskowa - Kozieg\u0142owy/Taczaka - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+    "przebieg":"KICIN P\u0118TLA - Kicin/Pozna\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Taczaka - Kozieg\u0142owy/Piaskowa - Kozieg\u0142owy/Taczaka - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":9,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=320"
@@ -1201,13 +1201,13 @@
     "typ":"bus",
     "petle":[
       "Kicin P\u0119tla",
-      "Rondo \u015ar\u00f3dka"
+      "Wrzoska Szpitale"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":19,
-    "przebieg":"KICIN P\u0118TLA - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - Ba\u0142tycka - Prymasa Hlonda - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":11,
+    "przebieg":"KICIN P\u0118TLA - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - Ba\u0142tycka - Serbska - Aleje Solidarno\u015bci - Dojazd - WRZOSKA SZPITALE",
+    "brygady":8,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=321"
   },

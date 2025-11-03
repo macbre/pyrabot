@@ -16,9 +16,10 @@
         "KATE02",
         "MAGA03",
         "MAGA04",
-        "MRCI01",
         "MRCI02",
-        "PLWI92",
+        "MRCI91",
+        "PLWI95",
+        "PLWI96",
         "ROSR02",
         "ROSR04",
         "ROSR30"
@@ -3871,10 +3872,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Awf",
+        "Rondo Rataje",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "AWF - Kazimierza Wielkiego - Mostowa - Garbary - Szel\u0105gowska - S\u0142owia\u0144ska - Pi\u0105tkowska - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Strzelecka - Kazimierza Wielkiego - Mostowa - Garbary - Szel\u0105gowska - S\u0142owia\u0144ska - Pi\u0105tkowska - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4257,7 +4258,6 @@
         "GWAR71",
         "KORN43",
         "KORN44",
-        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
@@ -4336,7 +4336,6 @@
         "GWAR71",
         "KORN43",
         "KORN44",
-        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
@@ -6076,10 +6075,10 @@
       "typ": "bus",
       "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.",
       "petle": [
-        "Kozieg\u0142owy Zak\u0142ady Drobiarskie",
+        "Kicin P\u0119tla",
         "Rondo \u015ar\u00f3dka"
       ],
-      "przebieg": "KOZIEG\u0141OWY ZAK\u0141ADY DROBIARSKIE - Kozieg\u0142owy/Piaskowa - Kozieg\u0142owy/Taczaka - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "przebieg": "KICIN P\u0118TLA - Kicin/Pozna\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Taczaka - Kozieg\u0142owy/Piaskowa - Kozieg\u0142owy/Taczaka - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -6129,9 +6128,9 @@
       "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.",
       "petle": [
         "Kicin P\u0119tla",
-        "Rondo \u015ar\u00f3dka"
+        "Wrzoska Szpitale"
       ],
-      "przebieg": "KICIN P\u0118TLA - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - Ba\u0142tycka - Prymasa Hlonda - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "przebieg": "KICIN P\u0118TLA - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - Ba\u0142tycka - Serbska - Aleje Solidarno\u015bci - Dojazd - WRZOSKA SZPITALE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -6176,7 +6175,7 @@
         "WISE02",
         "WRSZ02"
       ],
-      "brygady": 11
+      "brygady": 8
     },
     {
       "name": "322",
