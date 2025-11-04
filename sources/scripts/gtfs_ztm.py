@@ -69,7 +69,7 @@ for _, trip in feed.trips.iterrows():
     if route_id == '188' and not is_main:
         is_main = not str(trip['trip_id']).endswith('^R')
 
-    # if route_id not in ['1', '174', '188']: continue  # DEBUG
+    #if route_id not in ['2', '5', '17']: continue  # DEBUG
     # logger.info(f'Trip: {route_id}: {trip['trip_id']}')
 
     # ignorujemy wyjazdy i zjazdy do zajezdni
@@ -130,8 +130,11 @@ for i, route in routes.iterrows():
     if route['route_id'] in ['PKS']:
         continue
 
+    # if route['route_id'] not in ['2', '6', '16', '5', '17']: continue  # DEBUG
+    route_piece = 1 if route['route_id'] in ['2', '5', '17'] else 0
+
     # Dopiewo Dworzec Kolejowy - Ogrody
-    trasa = route['route_long_name'].split('|')[0].lower().title()
+    trasa = route['route_long_name'].split('|')[route_piece].lower().title()
 
     trasa = trasa.replace('Os. ', 'Osiedle ')
     trasa = trasa.replace('OS. ', 'OSIEDLE ')  # OSIEDLE SOBIESKIEGO
@@ -145,7 +148,8 @@ for i, route in routes.iterrows():
     petle = trasa.split(' - ')
 
     # Linia 12: STAROŁĘKA PKM - Starołęcka - Zamenhofa - Krzywoustego - Królowej Jadwigi - Matyi - Głogowska - Trasa PST - OSIEDLE SOBIESKIEGO
-    przebieg = str(route['route_desc']).split('|')[0].split('^')[0]
+    # Linia 2: DĘBIEC PKM - 28 Czerwca 1956 r. - Górna Wilda - Królowej Jadwigi - Krzywoustego - Jana Pawła II - Warczygłowy - Trasa Kórnicka - Chartowo - Żegrze - Hetmańska - Starołęcka - STAROŁĘKA PKM
+    przebieg = str(route['route_desc']).split('|')[route_piece].split('^')[0]
 
     entry = OrderedDict()
     entry['name'] = route['route_id']
