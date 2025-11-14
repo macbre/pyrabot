@@ -1,16 +1,4 @@
 {
-  "T1":{
-    "typ":"tram",
-    "petle":[
-      "Rondo Nowaka-Jeziora\u0144skiego",
-      "G\u00f3rczyn PKM"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":6,
-    "przebieg":"RONDO NOWAKA-JEZIORA\u0143SKIEGO - Reymonta - Arciszewskiego - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
-    "brygady":2
-  },
   "T7":{
     "typ":"tram",
     "petle":[
@@ -103,7 +91,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":22,
     "przebieg":"ZAWADY - Podwale - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
-    "brygady":14,
+    "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=7"
   },
@@ -285,7 +273,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":8,
     "przebieg":"OGRODY - D\u0105browskiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Fredry - D\u0105browskiego - OGRODY",
-    "brygady":12
+    "brygady":6
   },
   "121":{
     "typ":"bus",
@@ -824,7 +812,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":21
   },
   "194":{
@@ -929,13 +917,13 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":45,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
   "215":{
@@ -958,8 +946,8 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":25,
-    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - Jurasz\u00f3w - Strzeszy\u0144ska - Biskupi\u0144ska - Koszali\u0144ska - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+    "przystanki":26,
+    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - Jurasz\u00f3w - Strzeszy\u0144ska - Jasielska - Druskienicka - Strzeszy\u0144ska - Biskupi\u0144ska - Koszali\u0144ska - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":3
   },
   "218":{
@@ -1055,7 +1043,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":25,
-    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Gol\u0119ci\u0144ska - Literacka - Koszali\u0144ska - Biskupi\u0144ska - Strzeszy\u0144ska - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Gol\u0119ci\u0144ska - Literacka - Koszali\u0144ska - Biskupi\u0144ska - Strzeszy\u0144ska - Druskienicka - Jasielska - Strzeszy\u0144ska - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":4
   },
   "227":{
@@ -2183,7 +2171,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":35,
     "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Z\u0142otowska - Bukowska - Szpitalna - OGRODY",
-    "brygady":6,
+    "brygady":5,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=729"
   },
@@ -2303,7 +2291,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":31,
+    "przystanki":33,
     "przebieg":"OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
     "brygady":14,
     "agency":"TPBUS",
@@ -2317,7 +2305,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":28,
+    "przystanki":30,
     "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Wysogotowo/Wierzbowa - Malwowa - Grunwaldzka - JUNIKOWO",
     "brygady":8,
     "agency":"TPBUS",
@@ -2331,7 +2319,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":29,
+    "przystanki":31,
     "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Zakrzewska - Zakrzewo/Pozna\u0144ska - Sieros\u0142aw/Bukowska - SIEROS\u0141AW DZIA\u0141KI",
     "brygady":6,
     "agency":"TPBUS",
@@ -2414,7 +2402,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":17,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Szamotulska - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Prze\u017amierowo/Rynkowa - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
     "brygady":2
   },
   "825":{
