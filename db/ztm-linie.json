@@ -917,13 +917,13 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":45,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
   "215":{
@@ -936,7 +936,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":39,
     "przebieg":"OS. D\u0118BINA - 28 Czerwca 1956 r. - \u0141ozowa - Czechos\u0142owacka - Dolna Wilda - Rolna - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - al. Kr\u00f3la Przemys\u0142a II - Towarowa - Sk\u0142adowa - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Ksi\u0119cia Mieszka I - Aleje Solidarno\u015bci - Po\u0142abska - Lechicka - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":6
+    "brygady":8
   },
   "216":{
     "typ":"bus",
@@ -1105,9 +1105,9 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":27,
-    "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
-    "brygady":1
+    "przystanki":-1,
+    "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewo/\u0141\u0105kowa - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
+    "brygady":0
   },
   "258":{
     "typ":"bus",
@@ -1117,8 +1117,8 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":41,
-    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - Sianowska - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
+    "przystanki":43,
+    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - Sianowska - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
     "brygady":1
   },
   "312":{
@@ -2171,7 +2171,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":35,
     "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Z\u0142otowska - Bukowska - Szpitalna - OGRODY",
-    "brygady":5,
+    "brygady":4,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=729"
   },
@@ -2292,7 +2292,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":33,
-    "przebieg":"OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
+    "przebieg":"OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
     "brygady":14,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=802"
@@ -2306,7 +2306,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":30,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Wysogotowo/Wierzbowa - Malwowa - Grunwaldzka - JUNIKOWO",
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Wysogotowo/Wierzbowa - Malwowa - Grunwaldzka - JUNIKOWO",
     "brygady":8,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=803"
@@ -2320,7 +2320,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":31,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Zakrzewska - Zakrzewo/Pozna\u0144ska - Sieros\u0142aw/Bukowska - SIEROS\u0141AW DZIA\u0141KI",
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Zakrzewska - Zakrzewo/Pozna\u0144ska - Sieros\u0142aw/Bukowska - SIEROS\u0141AW DZIA\u0141KI",
     "brygady":6,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=804"

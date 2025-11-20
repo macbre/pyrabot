@@ -4326,10 +4326,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4519,7 +4519,7 @@
         "WYLO01",
         "WYLO02"
       ],
-      "brygady": 6
+      "brygady": 8
     },
     {
       "name": "216",
@@ -5559,68 +5559,11 @@
         "Dopiewo Dworzec Kolejowy",
         "Junikowo"
       ],
-      "przebieg": "DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
+      "przebieg": "DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewo/\u0141\u0105kowa - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
       "color1": "000000",
       "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "DBBUK01",
-        "DBBUK02",
-        "DBWIK01",
-        "DBWIK02",
-        "DBWIL01",
-        "DBWIL02",
-        "DKKAS01",
-        "DKKAS02",
-        "DKLAS01",
-        "DKLAS02",
-        "DKPAR01",
-        "DKPAR02",
-        "DODWK01",
-        "DOKOS01",
-        "DOKOS02",
-        "DOOSR01",
-        "DOOSR02",
-        "DPDOP01",
-        "DPDOP02",
-        "DPPRZ01",
-        "DPPRZ02",
-        "GERB01",
-        "GERB02",
-        "JUNI30",
-        "KWIA02",
-        "MALW01",
-        "MALW04",
-        "MANZ01",
-        "MANZ02",
-        "NAWA01",
-        "NAWA02",
-        "PANOW01",
-        "PANOW02",
-        "PAPAL01",
-        "PAPAL02",
-        "SKGIM01",
-        "SKGIM02",
-        "SKGRA01",
-        "SKGRA02",
-        "SKKOS01",
-        "SKKOS02",
-        "SKOSM01",
-        "SKOSM02",
-        "SKSZA01",
-        "SKSZA02",
-        "ZKBUK01",
-        "ZKBUK02",
-        "ZKBUK04",
-        "ZKSPO01",
-        "ZKSPO02",
-        "ZKSWI01",
-        "ZKSWI02",
-        "ZKZAC01",
-        "ZKZAC02",
-        "ZONK01",
-        "ZONK02"
-      ],
-      "brygady": 1
+      "przystankiSymbole": [],
+      "brygady": 0
     },
     {
       "name": "258",
@@ -5630,12 +5573,12 @@
         "Pozna\u0144 G\u0142\u00f3wny",
         "Tarnowo Podg\u00f3rne Centrum"
       ],
-      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - Sianowska - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
+      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - Sianowska - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "BNRUB01",
-        "BNRUB02",
+        "BNPRZ01",
+        "BNPRZ02",
         "BRAN01",
         "BTBAT01",
         "BTBAT02",
@@ -5675,14 +5618,18 @@
         "PLOT02",
         "PMBRZ01",
         "PMBRZ02",
-        "PMLOT01",
-        "PMLOT02",
-        "PMMOD01",
-        "PMMOD02",
+        "PMCME01",
+        "PMCME02",
+        "PMKOS01",
+        "PMKOS02",
+        "PMKRA01",
+        "PMKRA02",
+        "PMLES01",
+        "PMLES02",
         "PMOLS02",
         "PMOLS91",
-        "PMRYN01",
-        "PMRYN02",
+        "PMWIA01",
+        "PMWIA02",
         "POGL01",
         "POGL02",
         "PONA71",
@@ -5715,6 +5662,7 @@
         "TPROL01",
         "TPROL02",
         "WICH02",
+        "WICH03",
         "ZERO71",
         "ZERO72"
       ],
@@ -10055,7 +10003,7 @@
         "ZLDZ02",
         "ZLOT02"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "789",
@@ -10432,7 +10380,7 @@
         "Ogrody",
         "Tarnowo Podg\u00f3rne Centrum"
       ],
-      "przebieg": "OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
+      "przebieg": "OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10515,7 +10463,7 @@
         "Ogrody",
         "Junikowo"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Wysogotowo/Wierzbowa - Malwowa - Grunwaldzka - JUNIKOWO",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Wysogotowo/Wierzbowa - Malwowa - Grunwaldzka - JUNIKOWO",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10591,7 +10539,7 @@
         "Ogrody",
         "Sieros\u0142aw Dzia\u0142ki"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Rzemie\u015blnicza - Prze\u017amierowo/Modrzewiowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Zakrzewska - Zakrzewo/Pozna\u0144ska - Sieros\u0142aw/Bukowska - SIEROS\u0141AW DZIA\u0141KI",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Zakrzewska - Zakrzewo/Pozna\u0144ska - Sieros\u0142aw/Bukowska - SIEROS\u0141AW DZIA\u0141KI",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
