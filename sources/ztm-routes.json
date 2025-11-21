@@ -5,21 +5,16 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Aleje Marcinkowskiego",
+        "Ma\u0142e Garbary",
         "Rondo \u015ar\u00f3dka"
       ],
-      "przebieg": "ALEJE MARCINKOWSKIEGO - Aleje Marcinkowskiego - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "przebieg": "MA\u0141E GARBARY - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "KATE01",
         "KATE02",
         "MAGA03",
-        "MAGA04",
-        "MRCI02",
-        "MRCI91",
-        "PLWI95",
-        "PLWI96",
         "ROSR02",
         "ROSR04",
         "ROSR30"
@@ -31,10 +26,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Budziszy\u0144ska",
+        "Junikowo",
         "Franowo"
       ],
-      "przebieg": "BUDZISZY\u0143SKA - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
       "color1": "D0006F",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -44,10 +39,10 @@
         "AREN42",
         "BUDZ41",
         "BUDZ42",
-        "BUDZ43",
-        "BUDZ44",
         "BULG41",
         "BULG42",
+        "CMNA41",
+        "CMNA42",
         "DRZE41",
         "DRZE42",
         "FRWO41",
@@ -56,8 +51,13 @@
         "GLHE44",
         "GROC41",
         "GROC42",
+        "GROT71",
+        "GROT72",
         "HEWI41",
         "HEWI42",
+        "JUNI41",
+        "JUNI42",
+        "JUNI43",
         "KOLE41",
         "KOLE42",
         "OCZ71",
@@ -97,7 +97,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 15
+      "brygady": 18
     },
     {
       "name": "2",
@@ -172,7 +172,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 13
+      "brygady": 12
     },
     {
       "name": "3",
@@ -198,6 +198,7 @@
         "KMIE71",
         "KORN43",
         "KORN44",
+        "KORN78",
         "LACI41",
         "LACI42",
         "LENA41",
@@ -256,6 +257,49 @@
         "ZAME71",
         "ZIII41",
         "ZIII42",
+        "ZNIW42",
+        "ZNIW71"
+      ],
+      "brygady": 17
+    },
+    {
+      "name": "4",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Ma\u0142e Garbary",
+        "Po\u0142abska"
+      ],
+      "przebieg": "MA\u0141E GARBARY - Ma\u0142e Garbary - pl. Wielkopolski - pl. Ratajskiego - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
+      "color1": "2E6A4C",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "ARPO41",
+        "ARPO42",
+        "FRRY41",
+        "FRRY42",
+        "MAGA41",
+        "MAGA42",
+        "MT44",
+        "MT73",
+        "MURA41",
+        "MURA42",
+        "OPL41",
+        "OPL42",
+        "PASI41",
+        "PASI42",
+        "PLRA41",
+        "PLRA42",
+        "PLWI41",
+        "PLWI42",
+        "POLA41",
+        "POLA42",
+        "POZN41",
+        "POZN42",
+        "ROSO41",
+        "ROSO42",
+        "WIKA41",
+        "WIKA42",
         "ZNIW42",
         "ZNIW71"
       ],
@@ -325,9 +369,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Mi\u0142ostowo",
-        "Junikowo"
+        "Budziszy\u0144ska"
       ],
-      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - Bukowska - Grunwaldzka - JUNIKOWO",
+      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
       "color1": "009639",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -339,21 +383,16 @@
         "BALT71",
         "BUDZ41",
         "BUDZ42",
+        "BUDZ43",
+        "BUDZ44",
         "BULG41",
         "BULG42",
-        "CMNA41",
-        "CMNA42",
         "DRZE41",
         "DRZE42",
         "GROC41",
         "GROC42",
-        "GROT71",
-        "GROT72",
         "GRUD72",
         "GWAR71",
-        "JUNI41",
-        "JUNI42",
-        "JUNI43",
         "KORN41",
         "KORN42",
         "KORN45",
@@ -408,7 +447,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 18
+      "brygady": 15
     },
     {
       "name": "7",
@@ -468,7 +507,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 13
+      "brygady": 25
     },
     {
       "name": "8",
@@ -532,7 +571,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 13
+      "brygady": 27
     },
     {
       "name": "9",
@@ -821,7 +860,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "13",
@@ -858,6 +897,7 @@
         "JUNI43",
         "KORN41",
         "KORN42",
+        "KORN78",
         "MATE42",
         "MATE71",
         "MORO71",
@@ -1031,6 +1071,7 @@
         "GWAR71",
         "KORN43",
         "KORN44",
+        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
@@ -1071,7 +1112,7 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 12
+      "brygady": 14
     },
     {
       "name": "17",
@@ -1079,18 +1120,14 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "G\u00f3rczyn PKM",
-        "Po\u0142abska"
+        "Ma\u0142e Garbary"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
+      "przebieg": "G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - pl. Ratajskiego - pl. Wielkopolski - Ma\u0142e Garbary - MA\u0141E GARBARY",
       "color1": "004F71",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "ARPO41",
-        "ARPO42",
         "DWZA71",
         "DWZA72",
-        "FRRY41",
-        "FRRY42",
         "GLHE71",
         "GLHE72",
         "GORC41",
@@ -1099,40 +1136,28 @@
         "GWAR71",
         "KRAU71",
         "KRAU72",
-        "MT44",
-        "MT73",
-        "MURA41",
-        "MURA42",
-        "OPL41",
-        "OPL42",
-        "PASI41",
-        "PASI42",
+        "MAGA41",
+        "MAGA42",
         "PAWI71",
         "PAWI72",
+        "PLRA41",
+        "PLRA42",
+        "PLWI41",
+        "PLWI42",
         "POGL41",
         "POGL42",
         "POGL73",
         "POGL74",
-        "POLA41",
-        "POLA42",
-        "POZN41",
-        "POZN42",
-        "ROSO41",
-        "ROSO42",
         "RYLA71",
         "RYLA72",
         "SIEL71",
         "SIEL72",
         "UE42",
         "UE71",
-        "WIKA41",
-        "WIKA42",
         "ZAME71",
-        "ZAME72",
-        "ZNIW42",
-        "ZNIW71"
+        "ZAME72"
       ],
-      "brygady": 13
+      "brygady": 17
     },
     {
       "name": "18",
@@ -1288,32 +1313,31 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Ogrody",
+        "Plac Wielkopolski",
         "Ogrody"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Fredry - D\u0105browskiego - OGRODY",
+      "przebieg": "PL. WIELKOPOLSKI - pl. Wielkopolski - pl. Ratajskiego - Fredry - D\u0105browskiego - OGRODY",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
         "FRRY41",
         "FRRY42",
-        "GRUD72",
-        "GWAR71",
-        "MRCI71",
-        "MRCI72",
         "MT72",
         "MT73",
         "OGDY41",
         "OGDY42",
+        "PLRA41",
+        "PLRA42",
+        "PLWI42",
+        "PLWI43",
         "PONA71",
         "PONA72",
         "RJEZ73",
         "RJEZ74",
-        "SWMN71",
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 6
+      "brygady": 7
     },
     {
       "name": "121",
@@ -1584,7 +1608,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 6
+      "brygady": 7
     },
     {
       "name": "149",
@@ -3033,7 +3057,6 @@
         "DMOW01",
         "DMOW02",
         "DRUZ91",
-        "DRUZ92",
         "GLHE01",
         "GLHE02",
         "GORE01",
@@ -3985,6 +4008,7 @@
         "GWAR71",
         "KORN43",
         "KORN44",
+        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
@@ -4063,6 +4087,7 @@
         "GWAR71",
         "KORN43",
         "KORN44",
+        "KORN78",
         "KURP41",
         "KURP42",
         "LACI41",
@@ -4326,10 +4351,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Malwowa",
+        "Junikowo",
         "Radojewo"
       ],
-      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4519,7 +4544,7 @@
         "WYLO01",
         "WYLO02"
       ],
-      "brygady": 8
+      "brygady": 5
     },
     {
       "name": "216",
@@ -4529,7 +4554,7 @@
         "Pozna\u0144 G\u0142\u00f3wny",
         "Pozna\u0144 G\u0142\u00f3wny"
       ],
-      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - Jurasz\u00f3w - Strzeszy\u0144ska - Jasielska - Druskienicka - Strzeszy\u0144ska - Biskupi\u0144ska - Koszali\u0144ska - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - Jurasz\u00f3w - Lutycka - Szczawnicka - Druskienicka - Jasielska - Strzeszy\u0144ska - Biskupi\u0144ska - Koszali\u0144ska - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -5172,20 +5197,20 @@
         "Pozna\u0144 G\u0142\u00f3wny",
         "Pozna\u0144 G\u0142\u00f3wny"
       ],
-      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Gol\u0119ci\u0144ska - Literacka - Koszali\u0144ska - Biskupi\u0144ska - Strzeszy\u0144ska - Druskienicka - Jasielska - Strzeszy\u0144ska - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Roosevelta - D\u0105browskiego - Ko\u015bcielna - Nad Wierzbakiem - Wojska Polskiego - Gol\u0119ci\u0144ska - Literacka - Koszali\u0144ska - Biskupi\u0144ska - Strzeszy\u0144ska - Jasielska - Druskienicka - Szczawnicka - Lutycka - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - D\u0105browskiego - Roosevelta - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "BIAL02",
-        "DUKI02",
+        "DRUS02",
         "FIEL01",
         "GOKA01",
         "GOLE01",
         "HEZJ01",
         "HEZJ02",
         "INTP02",
-        "JAI01",
-        "JAII01",
+        "JAI02",
+        "JAII02",
         "JEZY01",
         "JEZY02",
         "KONT01",
@@ -5193,7 +5218,9 @@
         "KOSC02",
         "LITA01",
         "LITA03",
+        "LUDO02",
         "LUSZ02",
+        "LUTY02",
         "MT02",
         "MT72",
         "NADW01",
@@ -5211,14 +5238,18 @@
         "SLAS02",
         "STGR01",
         "STGR02",
-        "STKA02",
+        "STLI02",
+        "STNZ02",
         "STRS02",
         "STST04",
         "SUCH02",
         "SYPU02",
+        "SZCM02",
+        "SZKA02",
         "TOLT01",
         "TOLT02",
         "TROJ02",
+        "TRUS02",
         "TULO02",
         "UP01",
         "UP02",
@@ -9352,7 +9383,7 @@
         "G\u00f3rczyn PKM",
         "Komorniki Jeziorna"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Polna - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -9382,8 +9413,6 @@
         "LUKOS02",
         "LUKRE01",
         "LUKRE02",
-        "LUKRE04",
-        "LUKRE05",
         "LUKWI01",
         "LUKWI02",
         "LUOLU01",
@@ -10003,7 +10032,7 @@
         "ZLDZ02",
         "ZLOT02"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "789",
