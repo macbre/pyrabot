@@ -14,3 +14,14 @@ updates:
     directory: "/"
     schedule:
       interval: daily
+
+  # sources/scripts
+  - package-ecosystem: "pip"
+    directory: "/sources/scripts"
+    schedule:
+      interval: daily
+
+  - package-ecosystem: "docker"
+    directory: "/sources/scripts"
+    schedule:
+      interval: daily
