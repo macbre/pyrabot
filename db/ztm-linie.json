@@ -11,6 +11,18 @@
     "przebieg":"MA\u0141E GARBARY - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":4
   },
+  "T9":{
+    "typ":"bus",
+    "petle":[
+      "Pi\u0105tkowska",
+      "Rondo Kaponiera"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":10,
+    "przebieg":"PI\u0104TKOWSKA - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - al. Wielkopolska - Pu\u0142askiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
+    "brygady":4
+  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -273,7 +285,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":25,
     "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
-    "brygady":10,
+    "brygady":12,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
@@ -371,7 +383,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":16,
     "przebieg":"BA\u0141TYK - Bukowska - Bu\u0142garska - Marceli\u0144ska - Strzegomska - Brzechwy - Bukowska - Perzycka - Z\u0142otowska - Brzechwy - Strzegomska - Marceli\u0144ska - Bu\u0142garska - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":7
+    "brygady":6
   },
   "149":{
     "typ":"bus",
@@ -826,7 +838,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":21
   },
   "194":{
@@ -931,13 +943,13 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Malwowa",
       "Radojewo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":45,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
   "215":{
@@ -1119,9 +1131,9 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":-1,
-    "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewo/\u0141\u0105kowa - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
-    "brygady":0
+    "przystanki":27,
+    "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
+    "brygady":1
   },
   "258":{
     "typ":"bus",
@@ -2050,7 +2062,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Polna - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
     "brygady":3,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=701"
@@ -2185,7 +2197,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":35,
     "przebieg":"DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Z\u0142otowska - Bukowska - Szpitalna - OGRODY",
-    "brygady":5,
+    "brygady":6,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=729"
   },

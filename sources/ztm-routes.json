@@ -22,6 +22,43 @@
       "brygady": 4
     },
     {
+      "name": "T9",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Pi\u0105tkowska",
+        "Rondo Kaponiera"
+      ],
+      "przebieg": "PI\u0104TKOWSKA - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - al. Wielkopolska - Pu\u0142askiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "KLIN01",
+        "KLIN02",
+        "MT01",
+        "MT02",
+        "NADW01",
+        "NADW02",
+        "PIAT04",
+        "RKAP01",
+        "SLAS01",
+        "SLAS02",
+        "TROJ01",
+        "TROJ02",
+        "UP01",
+        "UP02",
+        "WIKA01",
+        "WIKA02",
+        "WIKL02",
+        "WINI01",
+        "WINI02",
+        "WIWI02",
+        "WOPO01",
+        "WOPO04"
+      ],
+      "brygady": 4
+    },
+    {
       "name": "1",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1306,7 +1343,7 @@
         "ZNIW42",
         "ZNIW71"
       ],
-      "brygady": 10
+      "brygady": 12
     },
     {
       "name": "28",
@@ -1608,7 +1645,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 7
+      "brygady": 6
     },
     {
       "name": "149",
@@ -3774,7 +3811,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4351,10 +4388,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -5590,11 +5627,68 @@
         "Dopiewo Dworzec Kolejowy",
         "Junikowo"
       ],
-      "przebieg": "DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewo/\u0141\u0105kowa - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
+      "przebieg": "DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
       "color1": "000000",
       "color2": "FFFFFF",
-      "przystankiSymbole": [],
-      "brygady": 0
+      "przystankiSymbole": [
+        "DBBUK01",
+        "DBBUK02",
+        "DBWIK01",
+        "DBWIK02",
+        "DBWIL01",
+        "DBWIL02",
+        "DKKAS01",
+        "DKKAS02",
+        "DKLAS01",
+        "DKLAS02",
+        "DKPAR01",
+        "DKPAR02",
+        "DODWK01",
+        "DOKOS01",
+        "DOKOS02",
+        "DOOSR01",
+        "DOOSR02",
+        "DPDOP01",
+        "DPDOP02",
+        "DPPRZ01",
+        "DPPRZ02",
+        "GERB01",
+        "GERB02",
+        "JUNI30",
+        "KWIA02",
+        "MALW01",
+        "MALW04",
+        "MANZ01",
+        "MANZ02",
+        "NAWA01",
+        "NAWA02",
+        "PANOW01",
+        "PANOW02",
+        "PAPAL01",
+        "PAPAL02",
+        "SKGIM01",
+        "SKGIM02",
+        "SKGRA01",
+        "SKGRA02",
+        "SKKOS01",
+        "SKKOS02",
+        "SKOSM01",
+        "SKOSM02",
+        "SKSZA01",
+        "SKSZA02",
+        "ZKBUK01",
+        "ZKBUK02",
+        "ZKBUK04",
+        "ZKSPO01",
+        "ZKSPO02",
+        "ZKSWI01",
+        "ZKSWI02",
+        "ZKZAC01",
+        "ZKZAC02",
+        "ZONK01",
+        "ZONK02"
+      ],
+      "brygady": 1
     },
     {
       "name": "258",
@@ -9383,7 +9477,7 @@
         "G\u00f3rczyn PKM",
         "Komorniki Jeziorna"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Polna - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10032,7 +10126,7 @@
         "ZLDZ02",
         "ZLOT02"
       ],
-      "brygady": 5
+      "brygady": 6
     },
     {
       "name": "789",
