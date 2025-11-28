@@ -11,18 +11,6 @@
     "przebieg":"MA\u0141E GARBARY - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":4
   },
-  "T9":{
-    "typ":"bus",
-    "petle":[
-      "Pi\u0105tkowska",
-      "Rondo Kaponiera"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":10,
-    "przebieg":"PI\u0104TKOWSKA - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - al. Wielkopolska - Pu\u0142askiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":4
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -285,7 +273,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":25,
     "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
-    "brygady":12,
+    "brygady":10,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
@@ -693,7 +681,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":14,
+    "przystanki":15,
     "przebieg":"D\u0118BIEC PKM - Opolska - Jesionowa - G\u00f3recka - Dmowskiego - Hetma\u0144ska - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":11
   },
@@ -838,7 +826,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":21
   },
   "194":{
@@ -850,7 +838,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":18,
-    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
     "brygady":8
   },
   "196":{
@@ -943,13 +931,13 @@
   "214":{
     "typ":"bus",
     "petle":[
-      "Malwowa",
+      "Junikowo",
       "Radojewo"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":45,
-    "przebieg":"MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":5
   },
   "215":{
@@ -1668,7 +1656,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":36,
-    "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Krzywoustego - Jaryszki/Krzywoustego - Jaryszki/Sk\u0142adowa - Koninko/Sk\u0142adowa - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Jeziorna - Koninko/Lazurowa - Koninko/Radiowa - Bor\u00f3wiec/Radiowa - Bor\u00f3wiec/Pozna\u0144ska - Bor\u00f3wiec/Szkolna - Bor\u00f3wiec/G\u0142\u00f3wna - Kamionki/Pozna\u0144ska - Kamionki/Platanowa - KAMIONKI KLONOWA",
+    "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Krzywoustego - Jaryszki/Krzywoustego - Jaryszki/Sk\u0142adowa - Koninko/Sk\u0142adowa - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Wsp\u00f3lna - Szczytniki/Jeziorna - Koninko/Lazurowa - Koninko/Radiowa - Bor\u00f3wiec/Radiowa - Bor\u00f3wiec/Pozna\u0144ska - Bor\u00f3wiec/Szkolna - Bor\u00f3wiec/G\u0142\u00f3wna - Kamionki/Pozna\u0144ska - Kamionki/Platanowa - KAMIONKI KLONOWA",
     "brygady":4,
     "agency":"KOMBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=511"
@@ -1681,8 +1669,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":34,
-    "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Jaryszki/Ostrowska - \u017berniki/ - \u017berniki/\u017berniki - Koninko/Gutenberga - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Jeziorna - Kamionki/Mostowa - Kamionki/Pozna\u0144ska - Bor\u00f3wiec/G\u0142\u00f3wna - Bor\u00f3wiec/Szkolna - BOR\u00d3WIEC SZKO\u0141A",
+    "przystanki":37,
+    "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Jaryszki/Ostrowska - \u017berniki/ - \u017berniki/\u017berniki - Koninko/Gutenberga - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Wsp\u00f3lna - Koninko/Pisarska - Koninko/Lazurowa - Szczytniki/Jeziorna - Kamionki/Mostowa - Kamionki/Pozna\u0144ska - Bor\u00f3wiec/G\u0142\u00f3wna - Bor\u00f3wiec/Szkolna - BOR\u00d3WIEC SZKO\u0141A",
     "brygady":2,
     "agency":"KOMBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=512"
@@ -2062,7 +2050,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
     "brygady":3,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=701"
@@ -2373,7 +2361,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":28,
     "przebieg":"OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Rumianek/Nowa - Rumianek/Szkolna - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Jankowicka - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Otowska - LUS\u00d3WKO P\u0118TLA",
-    "brygady":8,
+    "brygady":7,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=811"
   },
@@ -2394,14 +2382,14 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Ka\u017amierz Rynek"
+      "Ka\u017amierz Rynek",
+      "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":29,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
-    "brygady":5,
+    "przystanki":14,
+    "przebieg":"KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+    "brygady":3,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=813"
   },

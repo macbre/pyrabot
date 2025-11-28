@@ -22,43 +22,6 @@
       "brygady": 4
     },
     {
-      "name": "T9",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Pi\u0105tkowska",
-        "Rondo Kaponiera"
-      ],
-      "przebieg": "PI\u0104TKOWSKA - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Wojska Polskiego - Nad Wierzbakiem - al. Wielkopolska - Pu\u0142askiego - Roosevelta - Zwierzyniecka - RONDO KAPONIERA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "KLIN01",
-        "KLIN02",
-        "MT01",
-        "MT02",
-        "NADW01",
-        "NADW02",
-        "PIAT04",
-        "RKAP01",
-        "SLAS01",
-        "SLAS02",
-        "TROJ01",
-        "TROJ02",
-        "UP01",
-        "UP02",
-        "WIKA01",
-        "WIKA02",
-        "WIKL02",
-        "WINI01",
-        "WINI02",
-        "WIWI02",
-        "WOPO01",
-        "WOPO04"
-      ],
-      "brygady": 4
-    },
-    {
       "name": "1",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1343,7 +1306,7 @@
         "ZNIW42",
         "ZNIW71"
       ],
-      "brygady": 12
+      "brygady": 10
     },
     {
       "name": "28",
@@ -2556,7 +2519,6 @@
         "BUKO02",
         "GROC03",
         "GROC04",
-        "KORD04",
         "KULY01",
         "KULY02",
         "LIBE02",
@@ -2592,7 +2554,7 @@
         "ROSO01",
         "ROSO02",
         "SCIE01",
-        "SCIE04",
+        "SCIE02",
         "SLKA02",
         "SLKA06",
         "SZAM01",
@@ -3093,7 +3055,8 @@
         "DEEC02",
         "DMOW01",
         "DMOW02",
-        "DRUZ91",
+        "DRUZ01",
+        "DRUZ02",
         "GLHE01",
         "GLHE02",
         "GORE01",
@@ -3811,7 +3774,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3896,7 +3859,7 @@
         "Unii Lubelskiej",
         "Staro\u0142\u0119ka PKM"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4388,10 +4351,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Malwowa",
+        "Junikowo",
         "Radojewo"
       ],
-      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -7948,7 +7911,7 @@
         "Rondo Rataje",
         "Kamionki Klonowa"
       ],
-      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Krzywoustego - Jaryszki/Krzywoustego - Jaryszki/Sk\u0142adowa - Koninko/Sk\u0142adowa - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Jeziorna - Koninko/Lazurowa - Koninko/Radiowa - Bor\u00f3wiec/Radiowa - Bor\u00f3wiec/Pozna\u0144ska - Bor\u00f3wiec/Szkolna - Bor\u00f3wiec/G\u0142\u00f3wna - Kamionki/Pozna\u0144ska - Kamionki/Platanowa - KAMIONKI KLONOWA",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Krzywoustego - Jaryszki/Krzywoustego - Jaryszki/Sk\u0142adowa - Koninko/Sk\u0142adowa - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Wsp\u00f3lna - Szczytniki/Jeziorna - Koninko/Lazurowa - Koninko/Radiowa - Bor\u00f3wiec/Radiowa - Bor\u00f3wiec/Pozna\u0144ska - Bor\u00f3wiec/Szkolna - Bor\u00f3wiec/G\u0142\u00f3wna - Kamionki/Pozna\u0144ska - Kamionki/Platanowa - KAMIONKI KLONOWA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -8018,6 +7981,7 @@
         "SANT02",
         "SCNWO01",
         "SCNWO02",
+        "SCPET01",
         "STRA01",
         "STRA02",
         "TORW01",
@@ -8036,7 +8000,7 @@
         "Rondo Rataje",
         "Bor\u00f3wiec Szko\u0142a"
       ],
-      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Jaryszki/Ostrowska - \u017berniki/ - \u017berniki/\u017berniki - Koninko/Gutenberga - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Jeziorna - Kamionki/Mostowa - Kamionki/Pozna\u0144ska - Bor\u00f3wiec/G\u0142\u00f3wna - Bor\u00f3wiec/Szkolna - BOR\u00d3WIEC SZKO\u0141A",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Jaryszki/Ostrowska - \u017berniki/ - \u017berniki/\u017berniki - Koninko/Gutenberga - Koninko/Telewizyjna - Koninko/Pisarska - Szczytniki/Wsp\u00f3lna - Koninko/Pisarska - Koninko/Lazurowa - Szczytniki/Jeziorna - Kamionki/Mostowa - Kamionki/Pozna\u0144ska - Bor\u00f3wiec/G\u0142\u00f3wna - Bor\u00f3wiec/Szkolna - BOR\u00d3WIEC SZKO\u0141A",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -8070,6 +8034,8 @@
         "KRWI02",
         "KXDZI01",
         "KXDZI02",
+        "KXLAZ01",
+        "KXLAZ02",
         "KXPIS01",
         "KXPIS02",
         "KXTEL02",
@@ -8089,6 +8055,9 @@
         "RYMA02",
         "SANT01",
         "SANT02",
+        "SCNWO01",
+        "SCNWO02",
+        "SCPET01",
         "SCSAR01",
         "SCSAR02",
         "SCSZC01",
@@ -9477,7 +9446,7 @@
         "G\u00f3rczyn PKM",
         "Komorniki Jeziorna"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10874,7 +10843,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 8
+      "brygady": 7
     },
     {
       "name": "812",
@@ -10963,74 +10932,45 @@
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
       "petle": [
-        "Ogrody",
-        "Ka\u017amierz Rynek"
+        "Ka\u017amierz Rynek",
+        "Ogrody"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
+      "przebieg": "KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "BNPRZ01",
         "BNPRZ02",
-        "BUZA01",
         "BUZA02",
-        "BZZNO01",
         "BZZNO02",
-        "GRCIE01",
         "GRCIE02",
-        "GRKRE01",
         "GRKRE02",
-        "GRPET01",
         "GRPET02",
-        "GRSZK01",
         "GRSZK02",
         "KMRYN01",
-        "KMSTO01",
         "KMSTO02",
-        "KOLO01",
         "KOLO02",
-        "LEKA01",
         "LEKA02",
-        "OGDY02",
         "OGDY12",
-        "PILO01",
         "PILO02",
         "PINA02",
-        "PLOT01",
         "PLOT02",
-        "PMWIA01",
         "PMWIA02",
-        "PMWYS01",
         "PMWYS02",
         "PONZ02",
-        "SAWIA01",
         "SAWIA02",
-        "SMOC01",
         "SMOC02",
-        "SWKLA01",
         "SWKLA02",
-        "SWWIA01",
         "SWWIA02",
-        "TATR01",
         "TATR02",
-        "TPCEN01",
         "TPCEN02",
-        "TPDZI01",
         "TPDZI02",
-        "TPGRU01",
-        "TPKRO01",
-        "TPMAR01",
         "TPMAR02",
-        "TPOKR01",
         "TPOKR02",
-        "TPROL01",
         "TPROL02",
-        "TPZIE01",
         "TPZIE02",
-        "WICH01",
         "WICH02"
       ],
-      "brygady": 5
+      "brygady": 3
     },
     {
       "name": "821",
