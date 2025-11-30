@@ -6,16 +6,20 @@ Współdzielone klasy
 import logging
 import requests
 
-
-class NominatimApi(object):
-    def __init__(self, base_url):
-        self._logger = logging.getLogger('NominatimApi')
-
-        self._base_url = base_url
+class HttpClient(object):
+    def __init__(self, user_agent: str):
         self._session = requests.session()
-        self._headers = {
-            'User-Agent': 'NominatimApi (+https://github.com/macbre/pyrabot)',
+        self._session.headers = {
+            'User-Agent': user_agent,
         }
+
+
+class NominatimApi(HttpClient):
+    def __init__(self, base_url):
+        super().__init__(user_agent='NominatimApi (+https://github.com/macbre/pyrabot)')
+
+        self._logger = logging.getLogger('NominatimApi')
+        self._base_url = base_url
 
     def _query(self, params):
         """
