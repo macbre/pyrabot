@@ -3,12 +3,16 @@
 Skrypt generujący dane o taborze obsługującym linie ZTM
 
 https://gtfs.org/documentation/realtime/language-bindings/python/
+
+https://www.ztm.poznan.pl/otwarte-dane/dla-deweloperow/
 https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=feeds.pb
+https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=vehicle_positions.pb
 """
 import logging
 from collections import defaultdict
 from dataclasses import dataclass
 
+import requests
 from google.transit import gtfs_realtime_pb2
 from google.protobuf.message import Message
 
@@ -21,10 +25,16 @@ class VehicleOnRoute:
 
 def main():
     feed = gtfs_realtime_pb2.FeedMessage()
-    # response = requests.get('URL OF YOUR GTFS-REALTIME SOURCE GOES HERE')
 
-    with open('../../feeds.pb', 'rb') as f:
-        feed.ParseFromString(f.read())
+    response = requests.get('https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=feeds.pb')
+    response.raise_for_status()
+
+    logging.info('Response HTTP %d (headers: %r)', response.status_code, response.headers)
+
+    feed.ParseFromString(response.content)
+
+    # with open('../../feeds.pb', 'rb') as f:
+    #     feed.ParseFromString(f.read())
 
     vehicles_on_routes: dict[str, list[str]] = defaultdict(list)
 
@@ -40,6 +50,8 @@ def main():
             #     label: "158/4"
             #   }
             #
+            logging.info('entity: %r', entity.ListFields())
+
             # https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto#L163-L164
             vehicle_on_route: Message = entity.vehicle
             vehicle = VehicleOnRoute(
