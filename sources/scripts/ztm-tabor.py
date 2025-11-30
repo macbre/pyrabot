@@ -11,9 +11,11 @@ https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=vehicle_positio
 https://gtfs.org/documentation/realtime/feed-entities/trip-updates/
 https://gtfs.org/documentation/realtime/feed-entities/vehicle-positions/
 """
+import json
 import logging
 from collections import defaultdict
 from dataclasses import dataclass
+from os import path
 
 import requests
 from google.transit import gtfs_realtime_pb2
@@ -85,7 +87,22 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger('ztm-tabor')
 
-    vehicles = get_vehicles_on_routes()
+    vehicles = []
 
-    for route, vehicles_on_route in sorted(vehicles.items()):
+    # 1, 2, ..., 9, 10, ..., 18
+    for route, vehicles_on_route in sorted(get_vehicles_on_routes().items(), key=lambda item: int(item[0])):
         logging.info('Vehicles on route #%s: %r', route, vehicles_on_route)
+
+        vehicles.append({
+            'route_id': route,
+            'vehicles': vehicles_on_route
+        })
+
+    # save to a file
+    json_path = path.dirname(__file__) + '/../ztm-tabor.json'
+    logger.info('Saving to vehicles data to %s ...', json_path)
+
+    with open(json_path, 'wt') as f:
+        json.dump(vehicles, fp=f, indent=2)
+
+    logger.info('Done')
