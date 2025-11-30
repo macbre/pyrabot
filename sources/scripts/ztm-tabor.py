@@ -7,6 +7,9 @@ https://gtfs.org/documentation/realtime/language-bindings/python/
 https://www.ztm.poznan.pl/otwarte-dane/dla-deweloperow/
 https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=feeds.pb
 https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=vehicle_positions.pb
+
+https://gtfs.org/documentation/realtime/feed-entities/trip-updates/
+https://gtfs.org/documentation/realtime/feed-entities/vehicle-positions/
 """
 import logging
 from collections import defaultdict
@@ -26,7 +29,8 @@ class VehicleOnRoute:
 def main():
     feed = gtfs_realtime_pb2.FeedMessage()
 
-    response = requests.get('https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=feeds.pb')
+    # response = requests.get('https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=feeds.pb')
+    response = requests.get('https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=vehicle_positions.pb')
     response.raise_for_status()
 
     logging.info('Response HTTP %d (headers: %r)', response.status_code, response.headers)
@@ -50,8 +54,6 @@ def main():
             #     label: "158/4"
             #   }
             #
-            logging.info('entity: %r', entity.ListFields())
-
             # https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto#L163-L164
             vehicle_on_route: Message = entity.vehicle
             vehicle = VehicleOnRoute(
@@ -65,6 +67,8 @@ def main():
             # INFO:root:VehicleOnRoute(trip_id='13', vehicle_id='298')
             # https://czynaczas.pl/api/poznan/vehicle?id=0%2F298
             # brandModel	"105Na"
+            # if vehicle.trip_id == '17':
+            #     logging.debug('entity: %r', entity.ListFields())
 
             vehicles_on_routes[vehicle.trip_id].append(vehicle.vehicle_id)
             logging.debug(vehicle)
