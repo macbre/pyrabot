@@ -21,6 +21,8 @@ import requests
 from google.transit import gtfs_realtime_pb2
 from google.protobuf.message import Message
 
+from utils import HttpClient
+
 
 @dataclass
 class VehicleOnRoute:
@@ -83,6 +85,24 @@ def get_vehicles_on_routes():
     return vehicles_on_routes
 
 
+class CzyNaCzasApiClient(HttpClient):
+    """
+    INFO:root:VehicleOnRoute(trip_id='13', vehicle_id='298')
+    https://czynaczas.pl/api/poznan/vehicle?id=0%2F298
+    brandModel	"105Na"
+    """
+    def __init__(self):
+        super().__init__(user_agent='mozilla/pyrabot')
+        self._logger = logging.getLogger('czy-na-czas-api')
+
+    def get_vehicle_info(self, vehicle_id: str) -> dict:
+        r = self._session.get(f'https://czynaczas.pl/api/poznan/vehicle?id=0%2F{vehicle_id}')
+        r.raise_for_status()
+
+        # "brand":"Konstal","brandModel":"105Na","productionYear":"1989",
+        return r.json()[0]
+
+
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger('ztm-tabor')
@@ -93,9 +113,19 @@ if __name__ == '__main__':
     for route, vehicles_on_route in sorted(get_vehicles_on_routes().items(), key=lambda item: int(item[0])):
         logging.info('Vehicles on route #%s: %r', route, vehicles_on_route)
 
+        vehicles_brands: set[str] = set()
+
+        for vehicle_id in vehicles_on_route:
+            vehicle_info = CzyNaCzasApiClient().get_vehicle_info(vehicle_id)
+
+            # "brand":"Konstal","brandModel":"105Na","productionYear":"1989",
+            # Konstal 105Na
+            vehicles_brands.add(f'{vehicle_info["brand"]} {vehicle_info["brandModel"]}')
+
         vehicles.append({
             'route_id': route,
-            'vehicles': vehicles_on_route
+            'vehicles': vehicles_on_route,
+            'vehicles_brands': sorted(vehicles_brands)
         })
 
     # save to a file
