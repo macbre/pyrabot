@@ -26,14 +26,15 @@ class VehicleOnRoute:
     vehicle_id: str
 
 
-def main():
+def get_vehicles_on_routes():
+    logger = logging.getLogger('get_vehicles_on_routes-tabor')
     feed = gtfs_realtime_pb2.FeedMessage()
 
     # response = requests.get('https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=feeds.pb')
     response = requests.get('https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=vehicle_positions.pb')
     response.raise_for_status()
 
-    logging.info('Response HTTP %d (headers: %r)', response.status_code, response.headers)
+    logger.info('Response HTTP %d (headers: %r)', response.status_code, response.headers)
 
     feed.ParseFromString(response.content)
 
@@ -71,14 +72,20 @@ def main():
             #     logging.debug('entity: %r', entity.ListFields())
 
             vehicles_on_routes[vehicle.trip_id].append(vehicle.vehicle_id)
-            logging.debug(vehicle)
+            logger.debug(vehicle)
 
-    for route_id in sorted(vehicles_on_routes.keys()):
-        logging.info('Vehicles on route #%s: %r', route_id, vehicles_on_routes[route_id])
+    # order by vehicle ID
+    for route_id, vehicles_on_route in vehicles_on_routes.items():
+        vehicles_on_routes[route_id] = sorted(vehicles_on_route)
+
+    return vehicles_on_routes
 
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger('ztm-tabor')
 
-    main()
+    vehicles = get_vehicles_on_routes()
+
+    for route, vehicles_on_route in sorted(vehicles.items()):
+        logging.info('Vehicles on route #%s: %r', route, vehicles_on_route)
