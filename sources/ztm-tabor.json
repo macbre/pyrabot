@@ -1,154 +1,252 @@
 [
   {
+    "route_id": "1",
+    "vehicles": [
+      "400",
+      "408",
+      "411",
+      "449",
+      "505",
+      "628",
+      "955"
+    ],
+    "vehicles_brands": []
+  },
+  {
     "route_id": "2",
     "vehicles": [
-      "436"
+      "421",
+      "425",
+      "426",
+      "455",
+      "460",
+      "501",
+      "620",
+      "911"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Beta MF02 AC"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "3",
     "vehicles": [
-      "933",
-      "945"
+      "924",
+      "928",
+      "930",
+      "943",
+      "949",
+      "952",
+      "954",
+      "957"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Gamma LF03 AC BD",
-      "Modertrans Moderus Gamma LF04 AC BD"
-    ]
+    "vehicles_brands": []
+  },
+  {
+    "route_id": "4",
+    "vehicles": [
+      "916",
+      "918",
+      "944",
+      "948"
+    ],
+    "vehicles_brands": []
+  },
+  {
+    "route_id": "5",
+    "vehicles": [
+      "454",
+      "510",
+      "605",
+      "627",
+      "915",
+      "953"
+    ],
+    "vehicles_brands": []
   },
   {
     "route_id": "6",
     "vehicles": [
-      "519",
+      "290",
+      "527",
+      "549",
+      "550",
       "556",
-      "605",
+      "608",
+      "609",
+      "615",
       "626"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Gamma LF02 AC",
-      "Solaris Tramino S105p"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "7",
     "vehicles": [
-      "538"
+      "427",
+      "442",
+      "459",
+      "522",
+      "523",
+      "542",
+      "543"
     ],
-    "vehicles_brands": [
-      "Solaris Tramino S105p"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "8",
     "vehicles": [
-      "550",
-      "955"
+      "434",
+      "545",
+      "555",
+      "559",
+      "616",
+      "956"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Gamma LF04 AC BD",
-      "Solaris Tramino S105p"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "9",
     "vehicles": [
+      "430",
       "432",
-      "447",
-      "510"
+      "451",
+      "503",
+      "544",
+      "553",
+      "919"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Beta MF02 AC",
-      "Modertrans Moderus Beta MF20 AC",
-      "Siemens/SAATZ Combino"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "10",
     "vehicles": [
-      "938",
-      "943",
-      "947"
+      "925",
+      "929",
+      "933",
+      "942",
+      "946",
+      "950",
+      "959",
+      "961"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Gamma LF03 AC BD",
-      "Modertrans Moderus Gamma LF04 AC BD"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "11",
     "vehicles": [
-      "434",
-      "513"
+      "431",
+      "441",
+      "445",
+      "446",
+      "453",
+      "511",
+      "524",
+      "617"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Beta MF02 AC",
-      "Siemens/SAATZ Combino"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "12",
     "vehicles": [
-      "521",
-      "549"
+      "519",
+      "532",
+      "535",
+      "538",
+      "540",
+      "611",
+      "619"
     ],
-    "vehicles_brands": [
-      "Solaris Tramino S105p"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "13",
     "vehicles": [
+      "399",
       "402",
+      "405",
       "409",
-      "418"
+      "412",
+      "414",
+      "420",
+      "424"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Beta MF02 AC-2",
-      "Tatra/Modertrans RT6N1 -> MF06AC"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "14",
     "vehicles": [
-      "503",
-      "508"
+      "504",
+      "506",
+      "513",
+      "612",
+      "623"
     ],
-    "vehicles_brands": [
-      "Siemens/SAATZ Combino"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "15",
     "vehicles": [
-      "623",
-      "625"
+      "514",
+      "531",
+      "541",
+      "546",
+      "603",
+      "604"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Gamma LF02 AC"
-    ]
+    "vehicles_brands": []
   },
   {
     "route_id": "16",
     "vehicles": [
-      "545"
+      "520",
+      "521",
+      "526",
+      "534",
+      "536",
+      "547",
+      "551"
     ],
-    "vehicles_brands": [
-      "Solaris Tramino S105p"
-    ]
+    "vehicles_brands": []
+  },
+  {
+    "route_id": "17",
+    "vehicles": [
+      "917",
+      "931",
+      "945",
+      "947",
+      "965"
+    ],
+    "vehicles_brands": []
   },
   {
     "route_id": "18",
     "vehicles": [
       "416",
-      "423",
-      "437"
+      "418",
+      "419",
+      "422",
+      "428",
+      "429",
+      "436",
+      "437",
+      "913"
     ],
-    "vehicles_brands": [
-      "Modertrans Moderus Beta MF02 AC",
-      "Modertrans Moderus Beta MF02 AC-2"
-    ]
+    "vehicles_brands": []
+  },
+  {
+    "route_id": "19",
+    "vehicles": [
+      "903"
+    ],
+    "vehicles_brands": []
+  },
+  {
+    "route_id": "28",
+    "vehicles": [
+      "443",
+      "450",
+      "458",
+      "502"
+    ],
+    "vehicles_brands": []
   }
 ]

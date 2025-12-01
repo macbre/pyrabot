@@ -13,6 +13,7 @@ https://gtfs.org/documentation/realtime/feed-entities/vehicle-positions/
 """
 import json
 import logging
+import time
 from collections import defaultdict
 from dataclasses import dataclass
 from os import path
@@ -96,8 +97,19 @@ class CzyNaCzasApiClient(HttpClient):
         self._logger = logging.getLogger('czy-na-czas-api')
 
     def get_vehicle_info(self, vehicle_id: str) -> dict:
-        r = self._session.get(f'https://czynaczas.pl/api/poznan/vehicle?id=0%2F{vehicle_id}')
-        r.raise_for_status()
+        retries = 0
+        while True:
+            try:
+                r = self._session.get(f'https://czynaczas.pl/api/poznan/vehicle?id=0%2F{vehicle_id}')
+                r.raise_for_status()
+                break
+            except requests.exceptions.HTTPError as ex:
+                retries += 1
+                # give up after three retries
+                if retries > 3: raise
+
+                self._logger.warning(f'HTTP error occurred ({ex.response.status_code}) ({ex.response.headers}), retrying in {retries * 2} seconds...')
+                time.sleep(retries * 2)
 
         # "brand":"Konstal","brandModel":"105Na","productionYear":"1989",
         return r.json()[0]
