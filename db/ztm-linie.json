@@ -277,6 +277,18 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
+  "24":{
+    "typ":"tram",
+    "petle":[
+      "G\u00f3rczyn PKM",
+      "G\u00f3rczyn PKM"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#FFFFFF",
+    "przystanki":12,
+    "przebieg":"G\u00d3RCZYN PKM - G\u0142ogowska - Roosevelta - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - G\u00d3RCZYN PKM",
+    "brygady":1
+  },
   "28":{
     "typ":"tram",
     "petle":[
@@ -336,6 +348,18 @@
     "przystanki":7,
     "przebieg":"SAFONY - Safony - Literacka - Koszali\u0144ska - Biskupi\u0144ska - INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY",
     "brygady":4
+  },
+  "126":{
+    "typ":"bus",
+    "petle":[
+      "Smo\u0142dzinowska",
+      "Mogile\u0144ska"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":5,
+    "przebieg":"SMO\u0141DZINOWSKA - Smo\u0142dzinowska - Browarna - Warszawska - Pusta - MOGILE\u0143SKA",
+    "brygady":1
   },
   "145":{
     "typ":"bus",
@@ -489,7 +513,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":25,
+    "przystanki":23,
     "przebieg":"GARBARY PKM - Garbary - Ma\u0142e Garbary - Solna - Nowowiejskiego - al. Wielkopolska - Nad Wierzbakiem - Wojska Polskiego - Podola\u0144ska - Szczawnicka - Druskienicka - Strzeszy\u0144ska - Biskupi\u0144ska - STARY STRZESZYN",
     "brygady":15
   },
@@ -838,7 +862,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":18,
-    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
     "brygady":8
   },
   "196":{
@@ -2050,7 +2074,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
     "brygady":3,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=701"

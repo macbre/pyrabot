@@ -1309,6 +1309,46 @@
       "brygady": 10
     },
     {
+      "name": "24",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "G\u00f3rczyn PKM",
+        "G\u00f3rczyn PKM"
+      ],
+      "przebieg": "G\u00d3RCZYN PKM - G\u0142ogowska - Roosevelta - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - G\u00d3RCZYN PKM",
+      "color1": "FFFFFF",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "DWZA71",
+        "DWZA72",
+        "GLHE71",
+        "GLHE72",
+        "GORC41",
+        "GORC42",
+        "GRUD72",
+        "GWAR71",
+        "KRAU71",
+        "KRAU72",
+        "MODW71",
+        "MODW72",
+        "MRCI71",
+        "MRCI72",
+        "PAWI71",
+        "PAWI72",
+        "RKAP73",
+        "RKAP74",
+        "RYLA71",
+        "RYLA72",
+        "SIEL71",
+        "SIEL72",
+        "SWMN71",
+        "ZAME71",
+        "ZAME72"
+      ],
+      "brygady": 1
+    },
+    {
       "name": "28",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1456,6 +1496,32 @@
         "ZOWY02"
       ],
       "brygady": 4
+    },
+    {
+      "name": "126",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Smo\u0142dzinowska",
+        "Mogile\u0144ska"
+      ],
+      "przebieg": "SMO\u0141DZINOWSKA - Smo\u0142dzinowska - Browarna - Warszawska - Pusta - MOGILE\u0143SKA",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BONY01",
+        "LSNA91",
+        "LSNA92",
+        "MILO01",
+        "MILO02",
+        "MOGI02",
+        "PUST01",
+        "PUST02",
+        "SMOL92",
+        "SWIA01",
+        "SWIA02"
+      ],
+      "brygady": 1
     },
     {
       "name": "145",
@@ -2076,6 +2142,7 @@
         "DRUS01",
         "DRUS02",
         "DUKI01",
+        "DUKI02",
         "GABA03",
         "GABA04",
         "GOLE01",
@@ -2083,8 +2150,6 @@
         "GRLA02",
         "INTP01",
         "INTP02",
-        "JAI02",
-        "JAII02",
         "KLIN01",
         "KLIN02",
         "MAGA01",
@@ -2101,8 +2166,6 @@
         "SLAS02",
         "SOLN01",
         "SOLN02",
-        "STLI02",
-        "STNZ02",
         "STRS01",
         "STRS02",
         "STST21",
@@ -3859,7 +3922,7 @@
         "Unii Lubelskiej",
         "Staro\u0142\u0119ka PKM"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - Obodrzycka - Go\u0142\u0119\u017cycka - Baranowska - Sandomierska - O\u017carowska - Czernichowska - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -9446,7 +9509,7 @@
         "G\u00f3rczyn PKM",
         "Komorniki Jeziorna"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+      "przebieg": "G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
