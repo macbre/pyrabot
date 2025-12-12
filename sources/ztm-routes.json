@@ -3633,6 +3633,7 @@
         "UMTA01",
         "UMTA02",
         "WDNZ01",
+        "WDNZ92",
         "WIED01",
         "WIET01",
         "WIET02"
@@ -4414,10 +4415,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Malwowa",
+        "Junikowo",
         "Radojewo"
       ],
-      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4607,7 +4608,7 @@
         "WYLO01",
         "WYLO02"
       ],
-      "brygady": 5
+      "brygady": 6
     },
     {
       "name": "216",
@@ -10367,7 +10368,7 @@
         "WKSZK01",
         "WKSZK02"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "795",
@@ -10505,7 +10506,7 @@
         "SKWRZ01",
         "SKWRZ02"
       ],
-      "brygady": 2
+      "brygady": 1
     },
     {
       "name": "799",
@@ -10525,7 +10526,7 @@
         "PAWRZ01",
         "PAWRZ02"
       ],
-      "brygady": 1
+      "brygady": 2
     },
     {
       "name": "802",
