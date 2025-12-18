@@ -97,7 +97,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "2",
@@ -860,7 +860,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 17
+      "brygady": 16
     },
     {
       "name": "13",
@@ -1563,7 +1563,7 @@
         "ULAN01",
         "ULAN02"
       ],
-      "brygady": 13
+      "brygady": 12
     },
     {
       "name": "146",
@@ -1626,7 +1626,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 10
+      "brygady": 9
     },
     {
       "name": "148",
@@ -2122,7 +2122,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 14
+      "brygady": 12
     },
     {
       "name": "160",
@@ -2185,7 +2185,7 @@
         "WOPO04",
         "WOPO08"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "162",
@@ -2368,7 +2368,7 @@
         "WYSP01",
         "WYSP02"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "166",
@@ -2563,7 +2563,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 17
+      "brygady": 16
     },
     {
       "name": "169",
@@ -2797,7 +2797,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 6
+      "brygady": 5
     },
     {
       "name": "174",
@@ -2886,7 +2886,7 @@
         "WIOS72",
         "WOJT01"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "175",
@@ -2977,7 +2977,7 @@
         "ZEKA01",
         "ZEKA02"
       ],
-      "brygady": 13
+      "brygady": 12
     },
     {
       "name": "177",
@@ -3039,7 +3039,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "178",
@@ -3099,7 +3099,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 21
+      "brygady": 20
     },
     {
       "name": "179",
@@ -3308,7 +3308,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 19
+      "brygady": 18
     },
     {
       "name": "183",
@@ -3380,7 +3380,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 19
+      "brygady": 18
     },
     {
       "name": "184",
@@ -3521,7 +3521,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "186",
@@ -3580,7 +3580,7 @@
         "WIMO01",
         "WIMO02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "188",
@@ -3828,7 +3828,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 23
+      "brygady": 21
     },
     {
       "name": "193",
@@ -4415,10 +4415,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Malwowa",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "MALWOWA - Malwowa - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4442,18 +4442,15 @@
         "DWZA72",
         "GABA01",
         "GABA02",
-        "GERB01",
         "GRLA02",
         "GROC01",
         "GROC02",
         "GROT71",
         "GROT72",
         "JUNI30",
-        "JUST01",
         "KRES01",
         "KRES02",
         "KRES03",
-        "KWIA01",
         "LENA01",
         "LENA02",
         "LIBE02",
@@ -4461,8 +4458,6 @@
         "LOPI02",
         "MAGA01",
         "MAGA04",
-        "MALW01",
-        "MANZ01",
         "MAPO01",
         "MAPO02",
         "MODW71",
@@ -4471,7 +4466,6 @@
         "MT73",
         "NARA71",
         "NARA72",
-        "NAWA01",
         "ORP02",
         "OSTR01",
         "OSTR02",
@@ -4496,7 +4490,6 @@
         "SLWY01",
         "SOLN01",
         "SOLN02",
-        "TWAR01",
         "ULAN01",
         "ULAN02",
         "UMTA01",
@@ -4511,8 +4504,7 @@
         "WILC01",
         "WILC02",
         "WLOD01",
-        "WLOD02",
-        "ZONK01"
+        "WLOD02"
       ],
       "brygady": 5
     },
@@ -5198,7 +5190,6 @@
         "DWZA72",
         "GABA01",
         "GABA02",
-        "GERB02",
         "GRLA02",
         "GROC01",
         "GROC02",
@@ -5206,19 +5197,16 @@
         "GROT72",
         "JUNI30",
         "JUST01",
-        "KWIA02",
+        "KWIA01",
         "LIBE02",
         "MAGA01",
         "MAGA04",
-        "MALW01",
-        "MANZ02",
         "MODW71",
         "MODW72",
         "MT71",
         "MT73",
         "NARA71",
         "NARA72",
-        "NAWA02",
         "OSTR01",
         "OSTR02",
         "PAWI01",
@@ -5234,6 +5222,7 @@
         "SLWY01",
         "SOLN01",
         "SOLN02",
+        "TWAR01",
         "TWAR02",
         "ULAN01",
         "ULAN02",
@@ -5248,8 +5237,7 @@
         "WIML02",
         "WISE02",
         "WISE04",
-        "WORD02",
-        "ZONK02"
+        "WORD02"
       ],
       "brygady": 5
     },
@@ -7009,7 +6997,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "431",
@@ -10636,9 +10624,7 @@
         "LEKA01",
         "LEKA02",
         "MALW01",
-        "MALW03",
-        "MANZ01",
-        "MANZ02",
+        "MALW02",
         "NAWA01",
         "NAWA02",
         "OGDY02",
@@ -10663,6 +10649,8 @@
         "PMWIA01",
         "PMWIA02",
         "PONZ02",
+        "ROLW01",
+        "ROLW03",
         "SMOC01",
         "SMOC02",
         "TATR01",
