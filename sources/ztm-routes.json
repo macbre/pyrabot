@@ -2922,8 +2922,6 @@
         "MALE02",
         "MALW01",
         "MALW02",
-        "MANZ01",
-        "MANZ02",
         "NAWA01",
         "NAWA02",
         "OBA01",
@@ -2933,6 +2931,8 @@
         "POLN01",
         "POLN02",
         "RKAP02",
+        "ROLW01",
+        "ROLW02",
         "SWOB01",
         "SWOB02",
         "SZPI03",
@@ -5186,7 +5186,7 @@
         "WISE04",
         "WORD02"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "226",
@@ -9969,12 +9969,12 @@
         "JUNI30",
         "KWIA02",
         "MALW01",
-        "MALW04",
-        "MANZ01",
-        "MANZ02",
+        "MALW02",
         "NAWA01",
         "NAWA02",
         "PADWR01",
+        "ROLW01",
+        "ROLW04",
         "SKGIM01",
         "SKGIM02",
         "SKGRA01",
