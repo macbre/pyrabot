@@ -93,7 +93,7 @@ class CzyNaCzasApiClient(HttpClient):
     brandModel	"105Na"
     """
     def __init__(self):
-        super().__init__(user_agent='mozilla/pyrabot')
+        super().__init__(user_agent='mozilla')
         self._logger = logging.getLogger('czy-na-czas-api')
 
     def get_vehicle_info(self, vehicle_id: str) -> dict:
@@ -111,6 +111,9 @@ class CzyNaCzasApiClient(HttpClient):
                 self._logger.warning(f'HTTP error occurred ({ex.response.status_code}) ({ex.response.headers}), retrying in {retries * 2} seconds...')
                 time.sleep(retries * 2)
 
+        # wait a bit to avoid getting our IP blocked by rate limiting (we'd receive 429 instead)
+        time.sleep(2)
+
         # "brand":"Konstal","brandModel":"105Na","productionYear":"1989",
         return r.json()[0]
 
@@ -125,14 +128,15 @@ if __name__ == '__main__':
     for route, vehicles_on_route in sorted(get_vehicles_on_routes().items(), key=lambda item: int(item[0])):
         logging.info('Vehicles on route #%s: %r', route, vehicles_on_route)
 
+        # https://en.wikipedia.org/wiki/Trams_in_Pozna%C5%84#Rolling_stock
         vehicles_brands: set[str] = set()
 
-        for vehicle_id in vehicles_on_route:
-            vehicle_info = CzyNaCzasApiClient().get_vehicle_info(vehicle_id)
-
-            # "brand":"Konstal","brandModel":"105Na","productionYear":"1989",
-            # Konstal 105Na
-            vehicles_brands.add(f'{vehicle_info["brand"]} {vehicle_info["brandModel"]}')
+        # for vehicle_id in vehicles_on_route:
+        #     vehicle_info = CzyNaCzasApiClient().get_vehicle_info(vehicle_id)
+        #
+        #     # "brand":"Konstal","brandModel":"105Na","productionYear":"1989",
+        #     # Konstal 105Na
+        #     vehicles_brands.add(f'{vehicle_info["brand"]} {vehicle_info["brandModel"]}')
 
         vehicles.append({
             'route_id': route,
