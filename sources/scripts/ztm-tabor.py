@@ -68,7 +68,8 @@ def get_vehicles_on_routes():
             )
 
             # for now - only tram lines (0-99)
-            if len(vehicle.trip_id) > 2: continue
+            # and night lines - 20x
+            if len(vehicle.trip_id) > 2 and not vehicle.trip_id in ['201', '202']: continue
 
             # INFO:root:VehicleOnRoute(trip_id='13', vehicle_id='298')
             # https://czynaczas.pl/api/poznan/vehicle?id=0%2F298
