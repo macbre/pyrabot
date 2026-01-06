@@ -1309,46 +1309,6 @@
       "brygady": 10
     },
     {
-      "name": "24",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "G\u00f3rczyn PKM",
-        "G\u00f3rczyn PKM"
-      ],
-      "przebieg": "G\u00d3RCZYN PKM - G\u0142ogowska - Roosevelta - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - G\u00d3RCZYN PKM",
-      "color1": "FFFFFF",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "DWZA71",
-        "DWZA72",
-        "GLHE71",
-        "GLHE72",
-        "GORC41",
-        "GORC42",
-        "GRUD72",
-        "GWAR71",
-        "KRAU71",
-        "KRAU72",
-        "MODW71",
-        "MODW72",
-        "MRCI71",
-        "MRCI72",
-        "PAWI71",
-        "PAWI72",
-        "RKAP73",
-        "RKAP74",
-        "RYLA71",
-        "RYLA72",
-        "SIEL71",
-        "SIEL72",
-        "SWMN71",
-        "ZAME71",
-        "ZAME72"
-      ],
-      "brygady": 1
-    },
-    {
       "name": "28",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -5647,6 +5607,77 @@
       "brygady": 1
     },
     {
+      "name": "257",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.",
+      "petle": [
+        "Dopiewo Dworzec Kolejowy",
+        "Junikowo"
+      ],
+      "przebieg": "DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "DBBUK01",
+        "DBBUK02",
+        "DBWIK01",
+        "DBWIK02",
+        "DBWIL01",
+        "DBWIL02",
+        "DKKAS01",
+        "DKKAS02",
+        "DKLAS01",
+        "DKLAS02",
+        "DKPAR01",
+        "DKPAR02",
+        "DODWK01",
+        "DOKOS01",
+        "DOKOS02",
+        "DOOSR01",
+        "DOOSR02",
+        "DPDOP01",
+        "DPDOP02",
+        "DPPRZ01",
+        "DPPRZ02",
+        "GERB01",
+        "GERB02",
+        "JUNI30",
+        "KWIA02",
+        "MALW01",
+        "MALW02",
+        "NAWA01",
+        "NAWA02",
+        "PANOW01",
+        "PANOW02",
+        "PAPAL01",
+        "PAPAL02",
+        "ROLW01",
+        "ROLW04",
+        "SKGIM01",
+        "SKGIM02",
+        "SKGRA01",
+        "SKGRA02",
+        "SKKOS01",
+        "SKKOS02",
+        "SKOSM01",
+        "SKOSM02",
+        "SKSZA01",
+        "SKSZA02",
+        "ZKBUK01",
+        "ZKBUK02",
+        "ZKBUK04",
+        "ZKSPO01",
+        "ZKSPO02",
+        "ZKSWI01",
+        "ZKSWI02",
+        "ZKZAC01",
+        "ZKZAC02",
+        "ZONK01",
+        "ZONK02"
+      ],
+      "brygady": 1
+    },
+    {
       "name": "258",
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
@@ -5883,7 +5914,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 6
+      "brygady": 9
     },
     {
       "name": "321",
@@ -7731,7 +7762,7 @@
         "Rondo Rataje",
         "K\u00f3rnik Bnin Osiedle"
       ],
-      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00d3RNIK BNIN OSIEDLE",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - Koninko/Magazynowa - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00d3RNIK BNIN OSIEDLE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -7768,7 +7799,7 @@
         "SYJEZ01",
         "SYJEZ02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "502",
@@ -7858,7 +7889,7 @@
         "Rondo Rataje",
         "Szczodrzykowo Szko\u0142a"
       ],
-      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - G\u0105dki/Zbo\u017cowa - Robakowo/Szkolna - Robakowo/Nowina - Dachowa/Nowina - Dachowa/Pozna\u0144ska - Dachowa/Okr\u0119\u017cna - Dachowa/Pozna\u0144ska - Szczodrzykowo/Pozna\u0144ska - Szczodrzykowo/Ogrodowa - SZCZODRZYKOWO SZKO\u0141A",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - Koninko/Magazynowa - G\u0105dki/Zbo\u017cowa - Robakowo/Szkolna - Robakowo/Nowina - Dachowa/Nowina - Dachowa/Pozna\u0144ska - Dachowa/Okr\u0119\u017cna - Dachowa/Pozna\u0144ska - Szczodrzykowo/Pozna\u0144ska - Szczodrzykowo/Ogrodowa - SZCZODRZYKOWO SZKO\u0141A",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -8207,7 +8238,7 @@
         "Rondo Rataje",
         "Zaniemy\u015bl Ko\u015bci\u00f3\u0142"
       ],
-      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00f3rnik/Zwierzyniecka - K\u00f3rnik/B\u0142a\u017cejewska - B\u0142a\u017cejewo/Zaniemyska - B\u0142a\u017cejewko/Zaniemyska - B\u0142a\u017cejewko/Sportowa - Jeziory Wielkie/Sportowa - Jeziory Wielkie/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - \u0141\u0119kno/K\u00f3rnicka - Zaniemy\u015bl/Pozna\u0144ska - Zaniemy\u015bl/Raczy\u0144skiego - ZANIEMY\u015aL KO\u015aCI\u00d3\u0141",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Krzywoustego - Koninko/Gutenberga - Koninko/Magazynowa - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00f3rnik/Zwierzyniecka - K\u00f3rnik/B\u0142a\u017cejewska - B\u0142a\u017cejewo/Zaniemyska - B\u0142a\u017cejewko/Zaniemyska - B\u0142a\u017cejewko/Sportowa - Jeziory Wielkie/Sportowa - Jeziory Wielkie/K\u00f3rnicka - Jeziory Ma\u0142e/K\u00f3rnicka - \u0141\u0119kno/K\u00f3rnicka - Zaniemy\u015bl/Pozna\u0144ska - Zaniemy\u015bl/Raczy\u0144skiego - ZANIEMY\u015aL KO\u015aCI\u00d3\u0141",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10268,7 +10299,7 @@
         "Tarnowo Podg\u00f3rne Termy",
         "Dopiewo Dworzec Kolejowy"
       ],
-      "przebieg": "TARNOWO PDG TERMY - Tarnowo Pdg/Nowa - Tarnowo Pdg/Pozna\u0144ska - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Tarnowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Dopiewska - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
+      "przebieg": "TARNOWO PDG TERMY - Tarnowo Pdg/Nowa - Tarnowo Pdg/Pozna\u0144ska - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Tarnowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Otowska - Sieros\u0142aw/Prosta - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
@@ -10381,7 +10412,7 @@
         "WKSZK01",
         "WKSZK02"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "795",
@@ -10408,7 +10439,7 @@
         "PAPAL01",
         "PAPAL02"
       ],
-      "brygady": 1
+      "brygady": 2
     },
     {
       "name": "796",
@@ -10493,7 +10524,7 @@
         "SKSZA01",
         "SKSZA02"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "798",
@@ -10622,7 +10653,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "803",
@@ -10920,7 +10951,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "812",
@@ -11164,7 +11195,7 @@
         "WLKE01",
         "WLKE02"
       ],
-      "brygady": 10
+      "brygady": 9
     },
     {
       "name": "822",
