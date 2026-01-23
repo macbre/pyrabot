@@ -77,7 +77,7 @@
     "kolor2":"#000000",
     "przystanki":21,
     "przebieg":"G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Podwale - ZAWADY",
-    "brygady":14,
+    "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=5"
   },
@@ -1845,18 +1845,6 @@
     "przebieg":"CZO\u0141OWO WIE\u015a - Czo\u0142owo/Czo\u0142owo - Mo\u015bcienica/Wierzbowa - Mo\u015bcienica/Jesienna - K\u00f3rnik/Dworcowa - K\u00f3rnik/Pl. Niepodleg\u0142o\u015bci - K\u00d3RNIK PL. NIEPODLEG\u0141O\u015aCI",
     "brygady":2
   },
-  "597":{
-    "typ":"bus",
-    "petle":[
-      "Jaryszki Dzia\u0142ki",
-      "K\u00f3rnik Bnin Osiedle"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "przystanki":13,
-    "przebieg":"JARYSZKI DZIA\u0141KI - Jaryszki/Ostrowska - \u017berniki/ - \u017berniki/\u017berniki - Koninko/Magazynowa - G\u0105dki/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Skrzynki/Pozna\u0144ska - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/Pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Zamkowa - K\u00f3rnik/Armii Krajowej - K\u00f3rnik/\u015aremska - K\u00d3RNIK BNIN OSIEDLE",
-    "brygady":1
-  },
   "598":{
     "typ":"bus",
     "petle":[
@@ -2397,7 +2385,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":28,
     "przebieg":"OGRODY - Szpitalna - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Rumianek/Nowa - Rumianek/Szkolna - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Jankowicka - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Otowska - LUS\u00d3WKO P\u0118TLA",
-    "brygady":7,
+    "brygady":8,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=811"
   },
@@ -2418,14 +2406,14 @@
   "813":{
     "typ":"bus",
     "petle":[
-      "Ka\u017amierz Rynek",
-      "Ogrody"
+      "Ogrody",
+      "Ka\u017amierz Rynek"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":14,
-    "przebieg":"KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
-    "brygady":3,
+    "przystanki":29,
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
+    "brygady":5,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=813"
   },
