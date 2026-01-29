@@ -1812,7 +1812,7 @@
         "ZELA01",
         "ZELA02"
       ],
-      "brygady": 23
+      "brygady": 24
     },
     {
       "name": "153",
@@ -2004,7 +2004,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 9
+      "brygady": 11
     },
     {
       "name": "158",
@@ -2656,7 +2656,7 @@
         "WOPO06",
         "WRSZ02"
       ],
-      "brygady": 6
+      "brygady": 7
     },
     {
       "name": "171",
@@ -3285,7 +3285,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "183",
@@ -3498,7 +3498,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 14
+      "brygady": 15
     },
     {
       "name": "186",
@@ -4024,7 +4024,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "201",
@@ -8712,6 +8712,7 @@
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
+        "BRSZK01",
         "CLWIE01",
         "DZOWW01",
         "KDNIE02",
@@ -11216,8 +11217,8 @@
         "Tarnowo Podg\u00f3rne Liceum"
       ],
       "przebieg": "G\u00d3RA P\u0118TLA - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/D\u0142uga - Kokoszczyn/Lipowa - Kokoszczyn/Dworcowa - Kokoszczyn/Lipowa - G\u00f3ra/D\u0142uga - G\u00f3ra/ - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/ - Tarnowo Pdg/Szkolna - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG LICEUM",
-      "color1": "FFFFFF",
-      "color2": "000000",
+      "color1": "525252",
+      "color2": "FFFFFF",
       "przystankiSymbole": [
         "GRCIE01",
         "GRCIE02",
