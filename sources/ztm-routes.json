@@ -1,48 +1,6 @@
 {
   "lines": [
     {
-      "name": "T12",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo Kaponiera",
-        "Osiedle Sobieskiego"
-      ],
-      "przebieg": "RONDO KAPONIERA - Zwierzyniecka - Roosevelta - Pu\u0142askiego - Ksi\u0119cia Mieszka I - Szeligowskiego - Szymanowskiego - Smole\u0144ska - OS. SOBIESKIEGO",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ALSO03",
-        "ALSO04",
-        "ARPO01",
-        "KSMI01",
-        "KSMI02",
-        "KURP03",
-        "KURP04",
-        "LECH01",
-        "LECH02",
-        "MT01",
-        "MT02",
-        "OSSM01",
-        "OSSM02",
-        "PRNZ02",
-        "RKAP01",
-        "SLKA01",
-        "SLKA02",
-        "SOB01",
-        "SOB03",
-        "SZLI02",
-        "SZYM01",
-        "SZYM06",
-        "URBA02",
-        "WIKA01",
-        "WIKA02",
-        "WYLO01",
-        "WYLO02"
-      ],
-      "brygady": 11
-    },
-    {
       "name": "T7",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
