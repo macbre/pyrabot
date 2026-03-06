@@ -96,7 +96,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "2",
@@ -859,7 +859,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 17
+      "brygady": 16
     },
     {
       "name": "13",
@@ -1339,6 +1339,150 @@
       "brygady": 7
     },
     {
+      "name": "52",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "D\u0119biec PKM",
+        "G\u00f3rczyn PKM"
+      ],
+      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - G\u00d3RCZYN PKM",
+      "color1": "6CC24A",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "AWF41",
+        "AWF42",
+        "DEEC41",
+        "DEEC42",
+        "DWZA71",
+        "DWZA72",
+        "GLHE71",
+        "GLHE72",
+        "GORC41",
+        "GORC42",
+        "GRUD72",
+        "GWAR71",
+        "HCP41",
+        "HCP42",
+        "KOSI71",
+        "KOSI72",
+        "KRAU71",
+        "KRAU72",
+        "LAKO41",
+        "LAKO42",
+        "MRCI71",
+        "MRCI72",
+        "PAMI71",
+        "PAMI72",
+        "PAWI71",
+        "PAWI72",
+        "PLWL41",
+        "PLWL42",
+        "POGL41",
+        "POGL42",
+        "POGL73",
+        "POGL74",
+        "POLW41",
+        "POLW42",
+        "ROZA41",
+        "ROZA42",
+        "RYLA71",
+        "RYLA72",
+        "RYWI71",
+        "RYWI72",
+        "SIEL71",
+        "SIEL72",
+        "SWMN71",
+        "TRAU41",
+        "TRAU42",
+        "UE42",
+        "UE71",
+        "WSPO41",
+        "WSPO42",
+        "ZAME71",
+        "ZAME72"
+      ],
+      "brygady": 5
+    },
+    {
+      "name": "53",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "K\u00f3rnicka",
+        "Osiedle Lecha"
+      ],
+      "przebieg": "K\u00d3RNICKA - Warczyg\u0142owy - Trasa K\u00f3rnicka - OS. LECHA",
+      "color1": "6CC24A",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "KORN43",
+        "KORN44",
+        "LACI41",
+        "LACI42",
+        "OSLE41",
+        "OSLE42",
+        "OSTY41",
+        "OSTY42",
+        "POKA41",
+        "POKA42"
+      ],
+      "brygady": 2
+    },
+    {
+      "name": "56",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Rondo \u015ar\u00f3dka",
+        "Rondo Rataje"
+      ],
+      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - RONDO RATAJE",
+      "color1": "6CC24A",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "BAKA41",
+        "BAKA42",
+        "KORN41",
+        "KORN42",
+        "KORN45",
+        "ROSR43",
+        "ROSR44",
+        "RRAT73",
+        "RRAT74"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "58",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Mi\u0142ostowo",
+        "Rondo \u015ar\u00f3dka"
+      ],
+      "przebieg": "MI\u0141OSTOWO - Warszawska - RONDO \u015aR\u00d3DKA",
+      "color1": "6CC24A",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "KRAN41",
+        "KRAN42",
+        "LOMZ41",
+        "LOMZ42",
+        "MILO41",
+        "MILO42",
+        "MOGI41",
+        "MOGI42",
+        "ROSR45",
+        "ROSR46",
+        "SWMI41",
+        "SWMI42",
+        "TERM41",
+        "TERM42"
+      ],
+      "brygady": 2
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1648,7 +1792,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "149",
@@ -1810,7 +1954,7 @@
         "ZELA01",
         "ZELA02"
       ],
-      "brygady": 24
+      "brygady": 23
     },
     {
       "name": "153",
@@ -1913,7 +2057,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 22
+      "brygady": 19
     },
     {
       "name": "156",
@@ -2097,7 +2241,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 12
+      "brygady": 11
     },
     {
       "name": "160",
@@ -2211,7 +2355,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 17
+      "brygady": 13
     },
     {
       "name": "163",
@@ -2269,7 +2413,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 20
+      "brygady": 16
     },
     {
       "name": "164",
@@ -2406,7 +2550,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 22
+      "brygady": 21
     },
     {
       "name": "167",
@@ -2478,7 +2622,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 12
+      "brygady": 9
     },
     {
       "name": "168",
@@ -2609,7 +2753,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 17
+      "brygady": 15
     },
     {
       "name": "170",
@@ -2728,7 +2872,7 @@
         "ZNTK01",
         "ZNTK02"
       ],
-      "brygady": 13
+      "brygady": 12
     },
     {
       "name": "173",
@@ -3073,7 +3217,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "179",
@@ -3119,7 +3263,7 @@
         "TREB01",
         "TREB02"
       ],
-      "brygady": 11
+      "brygady": 10
     },
     {
       "name": "180",
@@ -3355,7 +3499,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "184",
@@ -3426,7 +3570,7 @@
         "WOLK01",
         "WOLK02"
       ],
-      "brygady": 27
+      "brygady": 26
     },
     {
       "name": "185",
@@ -3496,7 +3640,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 15
+      "brygady": 12
     },
     {
       "name": "186",
@@ -3720,7 +3864,7 @@
         "WRTV01",
         "WRTV02"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "191",
@@ -3992,7 +4136,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 20
+      "brygady": 16
     },
     {
       "name": "198",
@@ -4101,72 +4245,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 9
-    },
-    {
-      "name": "202",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Franowo",
-        "Osiedle Sobieskiego"
-      ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-      "color1": "000000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ALSO41",
-        "ALSO42",
-        "FRRY41",
-        "FRRY42",
-        "FRWO41",
-        "FRWO42",
-        "GRUD72",
-        "GWAR71",
-        "KORN43",
-        "KORN44",
-        "KORN78",
-        "KURP41",
-        "KURP42",
-        "LACI41",
-        "LACI42",
-        "LECH41",
-        "LECH42",
-        "MORO71",
-        "MORO72",
-        "MRCI71",
-        "MRCI72",
-        "MT44",
-        "MT73",
-        "OSLE41",
-        "OSLE42",
-        "OSTY41",
-        "OSTY42",
-        "PIAR41",
-        "PIAR42",
-        "PK41",
-        "PK42",
-        "PLBE71",
-        "PLBE72",
-        "POKA41",
-        "POKA42",
-        "PP71",
-        "PP72",
-        "SLKA41",
-        "SLKA42",
-        "SOB41",
-        "SOB42",
-        "SWMN71",
-        "SZWA41",
-        "SZWA42",
-        "SZWE41",
-        "SZWE42",
-        "SZYM41",
-        "SZYM42",
-        "WROC71",
-        "WROC72"
-      ],
-      "brygady": 7
+      "brygady": 6
     },
     {
       "name": "212",
@@ -4176,7 +4255,7 @@
         "Szwajcarska Szpital",
         "Kacza"
       ],
-      "przebieg": "SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "SZWAJCARSKA SZPITAL - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4418,7 +4497,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "215",
@@ -4643,7 +4722,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "218",
@@ -5130,7 +5209,7 @@
         "TREB02",
         "URWO01"
       ],
-      "brygady": 3
+      "brygady": 2
     },
     {
       "name": "224",
@@ -5209,7 +5288,7 @@
         "WISE04",
         "WORD02"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "226",
@@ -5330,7 +5409,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "250",
@@ -5912,7 +5991,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 9
+      "brygady": 6
     },
     {
       "name": "321",
@@ -6372,7 +6451,7 @@
         "WDNZ01",
         "WDNZ02"
       ],
-      "brygady": 11
+      "brygady": 9
     },
     {
       "name": "388",
@@ -6697,7 +6776,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 15
+      "brygady": 13
     },
     {
       "name": "405",
@@ -6738,7 +6817,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 15
+      "brygady": 13
     },
     {
       "name": "406",
@@ -6828,7 +6907,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 8
+      "brygady": 6
     },
     {
       "name": "412",
@@ -6876,7 +6955,7 @@
         "XOSTA01",
         "XOSTA02"
       ],
-      "brygady": 19
+      "brygady": 17
     },
     {
       "name": "416",
@@ -7190,7 +7269,7 @@
         "ZASPA02",
         "ZATRA03"
       ],
-      "brygady": 8
+      "brygady": 6
     },
     {
       "name": "485",
@@ -7240,7 +7319,7 @@
         "SDWPR01",
         "SDWPR02"
       ],
-      "brygady": 7
+      "brygady": 6
     },
     {
       "name": "486",
@@ -7294,7 +7373,7 @@
         "SEMIO02",
         "SEPET01"
       ],
-      "brygady": 17
+      "brygady": 14
     },
     {
       "name": "488",
@@ -7480,7 +7559,7 @@
         "XOSZK01",
         "XOSZK02"
       ],
-      "brygady": 11
+      "brygady": 8
     },
     {
       "name": "493",
@@ -7513,7 +7592,7 @@
         "XOSTA01",
         "XOSTA02"
       ],
-      "brygady": 13
+      "brygady": 9
     },
     {
       "name": "494",
@@ -7700,7 +7779,7 @@
         "ZAOLS01",
         "ZAOSE01"
       ],
-      "brygady": 16
+      "brygady": 13
     },
     {
       "name": "499",
@@ -7750,7 +7829,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 12
+      "brygady": 11
     },
     {
       "name": "501",
@@ -7797,7 +7876,7 @@
         "SYJEZ01",
         "SYJEZ02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "502",
@@ -8458,7 +8537,7 @@
         "SCPKM02",
         "SCPKM03"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "591",
@@ -10031,7 +10110,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 4
+      "brygady": 3
     },
     {
       "name": "728",
@@ -10248,95 +10327,18 @@
       "brygady": 1
     },
     {
-      "name": "790",
-      "typ": "bus",
-      "agency": "Urz\u0105d Gminy Dopiewo",
-      "petle": [
-        "Tarnowo Podg\u00f3rne Termy",
-        "Dopiewo Dworzec Kolejowy"
-      ],
-      "przebieg": "TARNOWO PDG TERMY - Tarnowo Pdg/Nowa - Tarnowo Pdg/Pozna\u0144ska - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Tarnowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Otowska - Sieros\u0142aw/Prosta - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "DODWK01",
-        "DOKAS01",
-        "DOKAS02",
-        "DOKOS01",
-        "DOKOS02",
-        "DOWDW01",
-        "DOWDW02",
-        "DOWJE01",
-        "DOWJE02",
-        "FIALK01",
-        "FIALK02",
-        "JNPRZ01",
-        "JNPRZ02",
-        "LKBOS01",
-        "LKBOS02",
-        "LKDOP01",
-        "LKDOP02",
-        "LKPET01",
-        "LKPET02",
-        "LKSZA01",
-        "LKSZA02",
-        "SIDWA01",
-        "SIDWA02",
-        "SIDZI01",
-        "SIJED01",
-        "SIJED02",
-        "SIKSZ01",
-        "SIKSZ02",
-        "SIPRO01",
-        "SIPRO02",
-        "SIWIE02",
-        "TPLIC02",
-        "TPNOW01",
-        "TPOSI02",
-        "TPPIA01",
-        "TPPIA02",
-        "TPTER01",
-        "TPTER02",
-        "WKBLO01",
-        "WKBLO02",
-        "WKGRO01",
-        "WKGRO02",
-        "WKSZK01",
-        "WKSZK02"
-      ],
-      "brygady": 2
-    },
-    {
       "name": "791",
       "typ": "bus",
       "agency": "Urz\u0105d Gminy Dopiewo",
       "petle": [
-        "Trzcielin P\u0119tla",
+        "Lis\u00f3wki Wie\u015b",
         "Dopiewo Dworzec Kolejowy"
       ],
-      "przebieg": "TRZCIELIN P\u0118TLA - Trzcielin/Kopy - Konarzewo/Ko\u015bcielna - Konarzewo/Pozna\u0144ska - Konarzewo/Ko\u015bcielna - Konarzewo/Dopiewska - Dopiewo/Dopiewska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
+      "przebieg": "LIS\u00d3WKI WIE\u015a - Lis\u00f3wki/Trzcieli\u0144ska - Trzcielin/Kopy - Konarzewo/Ko\u015bcielna - Konarzewo/Pozna\u0144ska - Konarzewo/Ko\u015bcielna - Konarzewo/Dopiewska - Dopiewo/Dopiewska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
       "color1": "FFFFFF",
       "color2": "000000",
-      "przystankiSymbole": [
-        "DODWK01",
-        "DOWYZ01",
-        "DOWYZ02",
-        "KNCME01",
-        "KNCME02",
-        "KNDOP01",
-        "KNDOP02",
-        "KNKOS01",
-        "KNKOS02",
-        "KNKSH01",
-        "KNKSH02",
-        "KNPER01",
-        "KNPER02",
-        "KNPET02",
-        "KNSEZ01",
-        "KNSEZ02",
-        "TLPET01"
-      ],
-      "brygady": 3
+      "przystankiSymbole": [],
+      "brygady": 0
     },
     {
       "name": "792",
@@ -10368,7 +10370,7 @@
         "WKSZK01",
         "WKSZK02"
       ],
-      "brygady": 3
+      "brygady": 2
     },
     {
       "name": "795",
@@ -10394,42 +10396,6 @@
         "PANOW02",
         "PAPAL01",
         "PAPAL02"
-      ],
-      "brygady": 2
-    },
-    {
-      "name": "796",
-      "typ": "bus",
-      "agency": "Urz\u0105d Gminy Dopiewo",
-      "petle": [
-        "D\u0105browa Kr\u00f3tka",
-        "D\u0105br\u00f3wka Szko\u0142a"
-      ],
-      "przebieg": "D\u0104BROWA KR\u00d3TKA - D\u0105browa/Wiejska - D\u0105browa/Pozna\u0144ska - Zakrzewo/Gajowa - Zakrzewo/D\u0142uga - D\u0105br\u00f3wka/D\u0142uga - D\u0105br\u00f3wka/Pozna\u0144ska - Pal\u0119dzie/Kolejowa - D\u0105br\u00f3wka/Ja\u0142owcowa - D\u0104BR\u00d3WKA SZKO\u0141A",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "DBBUK01",
-        "DBBUK02",
-        "DBWIK01",
-        "DBWIK02",
-        "DKKAS01",
-        "DKKAS02",
-        "DKLAS01",
-        "DKLAS02",
-        "DKPAR01",
-        "DKPAR02",
-        "DKSZK01",
-        "PADWR01",
-        "ZKBUK01",
-        "ZKBUK02",
-        "ZKBUK04",
-        "ZKSPO01",
-        "ZKSPO02",
-        "ZKSWI01",
-        "ZKSWI02",
-        "ZKZAC01",
-        "ZKZAC02"
       ],
       "brygady": 1
     },
@@ -10480,33 +10446,7 @@
         "SKSZA01",
         "SKSZA02"
       ],
-      "brygady": 4
-    },
-    {
-      "name": "798",
-      "typ": "bus",
-      "agency": "Urz\u0105d Gminy Dopiewo",
-      "petle": [
-        "Rondo \u0141awickich Wydm",
-        "Sk\u00f3rzewo Wiosenna"
-      ],
-      "przebieg": "RONDO \u0141AWICKICH WYDM - Sk\u00f3rzewo/Pozna\u0144ska - Sk\u00f3rzewo/ - SK\u00d3RZEWO WIOSENNA",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "ROLW04",
-        "SKCYT01",
-        "SKCYT02",
-        "SKOGR01",
-        "SKOGR02",
-        "SKSZA01",
-        "SKSZA02",
-        "SKWIO01",
-        "SKWIO02",
-        "SKWRZ01",
-        "SKWRZ02"
-      ],
-      "brygady": 1
+      "brygady": 2
     },
     {
       "name": "799",
@@ -10516,17 +10456,11 @@
         "Dopiewiec Polarna",
         "Pal\u0119dzie Dworzec Kolejowy"
       ],
-      "przebieg": "DOPIEWIEC POLARNA - Dopiewiec/Jesionowa - Dopiewiec/ - Pal\u0119dzie/Le\u015bna - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY",
+      "przebieg": "DOPIEWIEC POLARNA - Dopiewiec/Jesionowa - Dopiewiec/ - Pal\u0119dzie/Le\u015bna - D\u0105br\u00f3wka/Ja\u0142owcowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY",
       "color1": "FFFFFF",
       "color2": "000000",
-      "przystankiSymbole": [
-        "DPPOL01",
-        "DPPOR01",
-        "PADWR01",
-        "PAWRZ01",
-        "PAWRZ02"
-      ],
-      "brygady": 2
+      "przystankiSymbole": [],
+      "brygady": 0
     },
     {
       "name": "802",
@@ -12150,7 +12084,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 15
+      "brygady": 12
     }
   ]
 }
