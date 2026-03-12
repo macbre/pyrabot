@@ -21,7 +21,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":31,
     "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
-    "brygady":18,
+    "brygady":17,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=1"
   },
@@ -175,7 +175,7 @@
     "kolor2":"#000000",
     "przystanki":30,
     "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":17,
+    "brygady":16,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=12"
   },
@@ -1903,7 +1903,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":23,
+    "przystanki":21,
     "przebieg":"GARBARY PKM - Garbary - Droga D\u0119bi\u0144ska - Dolna Wilda - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - Lubo\u0144/Armii Pozna\u0144 - \u0141\u0119czyca/Pozna\u0144ska - \u0141\u0118CZYCA DWORCOWA",
     "brygady":7,
     "agency":"TRANSLUB",
@@ -2271,7 +2271,7 @@
     "kolor2":"#000000",
     "przystanki":8,
     "przebieg":"WI\u0118CKOWICE SZKO\u0141A - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
-    "brygady":2
+    "brygady":3
   },
   "795":{
     "typ":"bus",
@@ -2283,7 +2283,7 @@
     "kolor2":"#000000",
     "przystanki":5,
     "przebieg":"GO\u0141USKI P\u0118TLA - Go\u0142uski/Szkolna - Go\u0142uski/Dopiewska - Pal\u0119dzie/\u017belazka - Pal\u0119dzie/Pocztowa - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY",
-    "brygady":1
+    "brygady":2
   },
   "797":{
     "typ":"bus",
