@@ -364,13 +364,13 @@
   "146":{
     "typ":"bus",
     "petle":[
-      "Stary Strzeszyn",
+      "Strzeszynek",
       "Boranta"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":25,
-    "przebieg":"STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+    "przebieg":"STRZESZYNEK - Koszali\u0144ska - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Boranta - BORANTA",
     "brygady":10
   },
   "148":{
@@ -407,7 +407,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":17,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Rubie\u017c - Bielicowa - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":9
+    "brygady":10
   },
   "152":{
     "typ":"bus",
@@ -526,7 +526,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":20,
-    "przebieg":"GARBARY PKM - Garbary - Ma\u0142e Garbary - Solna - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Taczanowskiego - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"GARBARY PKM - Garbary - Ma\u0142e Garbary - Solna - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":20
   },
   "164":{
@@ -753,7 +753,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":27,
+    "przystanki":30,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - TERMY MALTA\u0143SKIE",
     "brygady":27
   },
@@ -772,13 +772,13 @@
   "186":{
     "typ":"bus",
     "petle":[
-      "Kiekrz",
+      "Podjazdowa",
       "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":21,
-    "przebieg":"KIEKRZ - Wilk\u00f3w Morskich - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
+    "przebieg":"PODJAZDOWA - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
     "brygady":8
   },
   "188":{
@@ -826,7 +826,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":33,
-    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Pi\u0105tkowska - Maczka - Nad Wierzbakiem - \u015bw. Wawrzy\u0144ca - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - OS. KOPERNIKA",
+    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - S\u0142owia\u0144ska - Maczka - Nad Wierzbakiem - \u015bw. Wawrzy\u0144ca - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - OS. KOPERNIKA",
     "brygady":22
   },
   "193":{
@@ -949,7 +949,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":40,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":4
   },
   "215":{
@@ -986,7 +986,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":21,
     "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Forteczna - Obodrzycka - Unii Lubelskiej - Inflancka - Pawia - Orla - Zamenhofa - Jana Paw\u0142a II - Zawady - G\u0142\u00f3wna - G\u0141\u00d3WNA",
-    "brygady":4
+    "brygady":3
   },
   "218":{
     "typ":"bus",
@@ -1069,7 +1069,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":31,
-    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Boranta - BORANTA",
     "brygady":5
   },
   "226":{
@@ -1094,7 +1094,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":16,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zawady - G\u0142\u00f3wna - Gdy\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Pi\u0142sudskiego - KOZIEG\u0141OWY OS. LE\u015aNE",
-    "brygady":5
+    "brygady":4
   },
   "250":{
     "typ":"bus",
@@ -1266,7 +1266,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"PRZEB\u0118DOWO P\u0118TLA - Przeb\u0119dowo/ - M. Go\u015blina/Rogozi\u0144ska - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - Szlach\u0119cin/ - Bolechowo-Os./Obornicka - Promnice/Wojska Polskiego - Biedrusko/Zjednoczenia - Biedrusko/Pozna\u0144ska - Radojewo - Naramowicka - Krygowskiego - Uniwersytetu Pozna\u0144skiego - Umultowska - Opie\u0144skiego - Szymanowskiego - Smole\u0144ska - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+    "przebieg":"PRZEB\u0118DOWO P\u0118TLA - Przeb\u0119dowo/ - M. Go\u015blina/Rogozi\u0144ska - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - Szlach\u0119cin/ - Bolechowo-Os./Obornicka - Promnice/Wojska Polskiego - Biedrusko/Parkowa - Biedrusko/Pozna\u0144ska - Radojewo - Naramowicka - Krygowskiego - Uniwersytetu Pozna\u0144skiego - Umultowska - Opie\u0144skiego - Szymanowskiego - Smole\u0144ska - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
     "brygady":11,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=348"
@@ -2504,7 +2504,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":30,
-    "przebieg":"OGRODY - D\u0105browskiego - S\u0142upska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Kierska - Kiekrz/Kierska - Rokietnica/Gol\u0119ci\u0144ska - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Szamotulska - Rokietnica/Koszycy - Krzyszkowo/Koszycy - KRZYSZKOWO P\u0118TLA",
+    "przebieg":"OGRODY - D\u0105browskiego - S\u0142upska - Psarskie - Chojnicka - Kierska - Kiekrz/Kierska - Rokietnica/Gol\u0119ci\u0144ska - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Szamotulska - Rokietnica/Koszycy - Krzyszkowo/Koszycy - KRZYSZKOWO P\u0118TLA",
     "brygady":12
   },
   "837":{
@@ -2516,7 +2516,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":22,
-    "przebieg":"OGRODY - S\u0142upska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Paw\u0142owicka - Kiekrz/Czysta - Paw\u0142owice/Paw\u0142owicka - Paw\u0142owice/Szkolna - PAW\u0141OWICE P\u0118TLA",
+    "przebieg":"OGRODY - S\u0142upska - Psarskie - Chojnicka - Paw\u0142owicka - Kiekrz/Czysta - Paw\u0142owice/Paw\u0142owicka - Paw\u0142owice/Szkolna - PAW\u0141OWICE P\u0118TLA",
     "brygady":8
   },
   "881":{
@@ -2566,7 +2566,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":24,
-    "przebieg":"\u017bYDOWO P\u0118TLA - \u017bydowo/Przec\u0142awska - \u017bydowo/Rostworowska - Rostworowo/Rokietnicka - Rokietnica/Kolejowa - Rokietnica/ - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Gol\u0119ci\u0144ska - Kiekrz/Kierska - Kierska - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Podjazdowa - Kobylniki/Podjazdowa - Kobylniki/Szamotulska - Napachanie/Kobylnicka - Kobylniki/Szkolna - Kobylniki/Kobylnicka - KOBYLNIKI TARNOWSKA",
+    "przebieg":"\u017bYDOWO P\u0118TLA - \u017bydowo/Przec\u0142awska - \u017bydowo/Rostworowska - Rostworowo/Rokietnicka - Rokietnica/Kolejowa - Rokietnica/ - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Gol\u0119ci\u0144ska - Kiekrz/Kierska - Kierska - Chojnicka - Podjazdowa - Kobylniki/Podjazdowa - Kobylniki/Szamotulska - Napachanie/Kobylnicka - Kobylniki/Szkolna - Kobylniki/Kobylnicka - KOBYLNIKI TARNOWSKA",
     "brygady":7,
     "agency":"ROKBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=893"
