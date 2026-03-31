@@ -1,6 +1,6 @@
 {
   "T7":{
-    "typ":"tram",
+    "typ":"bus",
     "petle":[
       "Ma\u0142e Garbary",
       "Rondo \u015ar\u00f3dka"
@@ -1120,9 +1120,9 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":19,
+    "przystanki":20,
     "przebieg":"KICIN P\u0118TLA - Kozieg\u0142owy/Pozna\u0144ska - Gdy\u0144ska - Ba\u0142tycka - Serbska - Aleje Solidarno\u015bci - Dojazd - WRZOSKA SZPITALE",
-    "brygady":5,
+    "brygady":4,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=321"
   },
@@ -1254,8 +1254,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":9,
-    "przebieg":"TRZASKOWO WIE\u015a - Trzaskowo/Trzaskowo - Bolechowo/Poligonowa - Bolechowo-Os./Kolejowa - Bolechowo-Os./Wojska Polskiego - Bolechowo-Os./Obornicka - Promnice/Le\u015bna - Promnice/P\u00f3\u0142nocna - Promnice/Wojska Polskiego - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
+    "przystanki":10,
+    "przebieg":"TRZASKOWO WIE\u015a - Trzaskowo/Trzaskowo - Bolechowo/Poligonowa - Bolechowo-Os./Kolejowa - Bolechowo-Os./Wojska Polskiego - Bolechowo-Os./Obornicka - Promnice/Le\u015bna - Promnice/P\u00f3\u0142nocna - Promnice/Wojska Polskiego - Biedrusko/Parkowa - BIEDRUSKO PARK",
     "brygady":1,
     "agency":"TRANSKOM",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=397"
@@ -2353,7 +2353,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":17,
-    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Prze\u017amierowo/Rynkowa - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+    "przebieg":"OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Prze\u017amierowo/Rynkowa - Baranowo/ - Baranowo/Szamotulska - Chyby/Kasztanowa - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
     "brygady":2
   },
   "825":{

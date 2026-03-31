@@ -2,7 +2,7 @@
   "lines": [
     {
       "name": "T7",
-      "typ": "tram",
+      "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Ma\u0142e Garbary",
@@ -5514,9 +5514,10 @@
         "WINI02",
         "WISE01",
         "WISE02",
+        "WRSZ01",
         "WRSZ02"
       ],
-      "brygady": 5
+      "brygady": 4
     },
     {
       "name": "322",
@@ -6131,10 +6132,11 @@
         "Trzaskowo Wie\u015b",
         "Biedrusko Park"
       ],
-      "przebieg": "TRZASKOWO WIE\u015a - Trzaskowo/Trzaskowo - Bolechowo/Poligonowa - Bolechowo-Os./Kolejowa - Bolechowo-Os./Wojska Polskiego - Bolechowo-Os./Obornicka - Promnice/Le\u015bna - Promnice/P\u00f3\u0142nocna - Promnice/Wojska Polskiego - Biedrusko/Zjednoczenia - BIEDRUSKO PARK",
+      "przebieg": "TRZASKOWO WIE\u015a - Trzaskowo/Trzaskowo - Bolechowo/Poligonowa - Bolechowo-Os./Kolejowa - Bolechowo-Os./Wojska Polskiego - Bolechowo-Os./Obornicka - Promnice/Le\u015bna - Promnice/P\u00f3\u0142nocna - Promnice/Wojska Polskiego - Biedrusko/Parkowa - BIEDRUSKO PARK",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
+        "BIPRK01",
         "BIPRK02",
         "BOKRE01",
         "BOKRE02",
@@ -10592,7 +10594,7 @@
         "Ogrody",
         "Ogrody"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Prze\u017amierowo/Rynkowa - Baranowo/ - Baranowo/Szamotulska - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Ametystowa - Prze\u017amierowo/Ko\u015bcielna - Prze\u017amierowo/Rynkowa - Baranowo/ - Baranowo/Szamotulska - Chyby/Kasztanowa - Chyby/ - Chyby/Szkolna - Chyby/Szamotulska - Baranowo/Szamotulska - Baranowo/Wypoczynkowa - Prze\u017amierowo/Rynkowa - Baranowo/Ametystowa - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10606,7 +10608,8 @@
         "BUZA01",
         "BUZA02",
         "CYCDR02",
-        "CYKWI0101",
+        "CYKWI01",
+        "CYNJZ01",
         "CYSZK01",
         "KOLO01",
         "KOLO02",
