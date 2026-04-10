@@ -6,9 +6,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Ma\u0142e Garbary",
-        "Rondo \u015ar\u00f3dka"
+        "Mi\u0142ostowo"
       ],
-      "przebieg": "MA\u0141E GARBARY - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "przebieg": "MA\u0141E GARBARY - Estkowskiego - Wyszy\u0144skiego - Warszawska - MI\u0141OSTOWO",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -18,7 +18,7 @@
         "ROSR04",
         "ROSR30"
       ],
-      "brygady": 3
+      "brygady": 5
     },
     {
       "name": "1",
@@ -354,10 +354,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Mi\u0142ostowo",
+        "Zawady",
         "Budziszy\u0144ska"
       ],
-      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+      "przebieg": "ZAWADY - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
       "color1": "009639",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -433,10 +433,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Mi\u0142ostowo",
+        "Zawady",
         "Ogrody"
       ],
-      "przebieg": "MI\u0141OSTOWO - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
+      "przebieg": "ZAWADY - Podwale - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
       "color1": "003594",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -506,9 +506,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Ogrody",
-        "Mi\u0142ostowo"
+        "Zawady"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+      "przebieg": "OGRODY - D\u0105browskiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Podwale - ZAWADY",
       "color1": "DA291C",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -967,7 +967,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 24
+      "brygady": 23
     },
     {
       "name": "15",
@@ -1026,7 +1026,7 @@
         "WEGO42",
         "WOJS41"
       ],
-      "brygady": 24
+      "brygady": 23
     },
     {
       "name": "16",
@@ -1693,7 +1693,7 @@
         "WROB01",
         "WROB02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "151",
@@ -2088,7 +2088,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 11
+      "brygady": 12
     },
     {
       "name": "160",
@@ -2426,6 +2426,7 @@
         "JROL03",
         "KRES01",
         "KRES02",
+        "KRES03",
         "LENA01",
         "LENA02",
         "LOPI01",
@@ -2438,6 +2439,7 @@
         "MOST01",
         "NARA71",
         "NARA72",
+        "ORP02",
         "PLBE02",
         "RADO01",
         "RADO02",
@@ -2467,7 +2469,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 12
+      "brygady": 13
     },
     {
       "name": "168",
@@ -2598,7 +2600,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 17
+      "brygady": 16
     },
     {
       "name": "170",
@@ -3108,7 +3110,7 @@
         "TREB01",
         "TREB02"
       ],
-      "brygady": 7
+      "brygady": 11
     },
     {
       "name": "180",
@@ -3420,7 +3422,7 @@
         "WOLK02",
         "ZOO02"
       ],
-      "brygady": 23
+      "brygady": 22
     },
     {
       "name": "185",
@@ -3606,7 +3608,7 @@
         "WIET01",
         "WIET02"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "189",
@@ -3647,7 +3649,7 @@
         "WARO01",
         "WARO02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "190",
@@ -3936,7 +3938,7 @@
         "ZEGL01",
         "ZEGL02"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "196",
@@ -3988,7 +3990,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 19
+      "brygady": 20
     },
     {
       "name": "198",
@@ -4018,7 +4020,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 13
+      "brygady": 5
     },
     {
       "name": "201",
@@ -5173,7 +5175,7 @@
         "TREB02",
         "URWO01"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "224",
@@ -6411,14 +6413,12 @@
         "BOKAS02",
         "BOWOJ01",
         "BOWOJ02",
-        "DUNZ01",
-        "DUNZ02",
+        "DESZ01",
+        "DESZ02",
         "IMBI01",
         "IMBI02",
-        "KRES02",
-        "KRES03",
-        "LOPI01",
-        "LOPI02",
+        "JSNZ01",
+        "JSNZ02",
         "MGCME01",
         "MGCME02",
         "MGKRT02",
@@ -6434,13 +6434,12 @@
         "MGPOL02",
         "MGPOZ01",
         "MGPOZ02",
-        "OPIE01",
-        "OPIE02",
-        "ORP02",
-        "OSBA01",
-        "OSBA02",
-        "OSBA03",
-        "OSBA04",
+        "MOCM01",
+        "MOCM02",
+        "OSMA01",
+        "OSMA02",
+        "OSZY01",
+        "OSZY02",
         "PDPAR01",
         "PDPAR02",
         "PDPET01",
@@ -6449,23 +6448,17 @@
         "RADO01",
         "RADO02",
         "RDWA01",
-        "RDWA02",
-        "RUMA01",
-        "RUMA02",
+        "RDWA03",
         "SHCIN01",
         "SHCIN02",
         "SOB01",
         "SOB26",
         "SOB30",
-        "SZYM01",
-        "SZYM02",
-        "UAMG01",
-        "UAMG02",
-        "UAMK02",
-        "UMTA01",
-        "UMTA02",
-        "WDNZ01",
-        "WDNZ02"
+        "SZKL01",
+        "SZKL02",
+        "WIED01",
+        "WIET01",
+        "WIET02"
       ],
       "brygady": 11
     },
@@ -6980,9 +6973,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Gruszczyn Katarzy\u0144ska",
-        "Mogile\u0144ska"
+        "Rondo \u015ar\u00f3dka"
       ],
-      "przebieg": "GRUSZCZYN KATARZY\u0143SKA - Gruszczyn/Swarz\u0119dzka - Gruszczyn/Zielarska - Gruszczyn/Zieli\u0144ska - Darniowa - Arko\u0144ska - Kamie\u0144ska - Sarnia - Warszawska - Pusta - MOGILE\u0143SKA",
+      "przebieg": "GRUSZCZYN KATARZY\u0143SKA - Gruszczyn/Swarz\u0119dzka - Gruszczyn/Zielarska - Gruszczyn/Zieli\u0144ska - Darniowa - Arko\u0144ska - Kamie\u0144ska - Sarnia - Warszawska - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -7014,7 +7007,7 @@
         "WARP02",
         "ZIEL01"
       ],
-      "brygady": 1
+      "brygady": 2
     },
     {
       "name": "425",
@@ -10256,6 +10249,8 @@
         "OGDY12",
         "OWCZ01",
         "OWCZ02",
+        "PANOW01",
+        "PANOW02",
         "PAPAL01",
         "PAPAL02",
         "ROLW02",
@@ -10289,7 +10284,7 @@
         "ZLDZ02",
         "ZLOT02"
       ],
-      "brygady": 7
+      "brygady": 2
     },
     {
       "name": "789",
@@ -10721,7 +10716,7 @@
         "TATR02",
         "WICH01",
         "WICH02",
-        "WYDLU01",
+        "WYDLU02",
         "WYDLU03",
         "WYPKN01",
         "WYPKN02",
@@ -10877,6 +10872,7 @@
         "TPTER02",
         "TPTUR01",
         "TPTUR02",
+        "WYBAT01",
         "WYBAT02",
         "WYBAT05",
         "WYSZP01",
@@ -11305,7 +11301,7 @@
         "Lusowo Szko\u0142a",
         "Lusowo Szko\u0142a"
       ],
-      "przebieg": "LUSOWO SZKO\u0141A - Lusowo/Nowa - Sady/Lusowska - Sady/Lipowa - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Sady/Lusowska - Lusowo/Nowa - LUSOWO SZKO\u0141A",
+      "przebieg": "LUSOWO SZKO\u0141A - Lusowo/Nowa - Sady/Lusowska - Sady/Lipowa - Swadzim/Wschodnia - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Sady/Lusowska - Lusowo/Nowa - LUSOWO SZKO\u0141A",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
@@ -11316,7 +11312,7 @@
         "SALUS01",
         "SAWIA01",
         "SWKLA01",
-        "SWKLA02",
+        "SWLIP01",
         "SWWIA01"
       ],
       "brygady": 1
@@ -12162,6 +12158,7 @@
         "JROL03",
         "KRES01",
         "KRES02",
+        "KRES03",
         "LENA01",
         "LENA02",
         "LOPI01",
@@ -12174,6 +12171,7 @@
         "MOST01",
         "NARA71",
         "NARA72",
+        "ORP02",
         "PLBE02",
         "RADO01",
         "RADO02",
