@@ -849,7 +849,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":12,
+    "przystanki":11,
     "przebieg":"STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - Czernichowska - O\u017carowska - Minikowo - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
     "brygady":3
   },
@@ -1083,21 +1083,6 @@
     "przystanki":16,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zawady - G\u0142\u00f3wna - Gdy\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Pi\u0142sudskiego - KOZIEG\u0141OWY OS. LE\u015aNE",
     "brygady":3
-  },
-  "231":{
-    "typ":"bus",
-    "petle":[
-      "Wroc\u0142awska",
-      "Unii Lubelskiej"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "przystanki":17,
-    "przebieg":"WROC\u0141AWSKA - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Brne\u0144ska - Milcza\u0144ska - Inflancka - Pia\u015bnicka - Chartowo - \u017begrze - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":2,
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=231"
   },
   "312":{
     "typ":"bus",
