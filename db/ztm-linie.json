@@ -11,19 +11,6 @@
     "przebieg":"MA\u0141E GARBARY - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":3
   },
-  "0":{
-    "typ":"tram",
-    "petle":[
-      "Biblioteka Uniwersytecka",
-      "27 Grudnia",
-      "Teatr Polski"
-    ],
-    "kolor1":"#0D7B49",
-    "kolor2":"#FFFFFF",
-    "przystanki":7,
-    "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Pl. Ratajskiego - Pl. Wielkopolski - Fredry - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Towarowa - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-    "brygady":1
-  },
   "1":{
     "typ":"tram",
     "petle":[
@@ -90,7 +77,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":32,
     "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
-    "brygady":17,
+    "brygady":16,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=6"
   },
@@ -230,7 +217,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":12,
+    "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
   },
@@ -262,32 +249,31 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
   },
-  "20":{
-    "typ":"tram",
-    "petle":[
-      "Biblioteka Uniwersytecka",
-      "27 Grudnia",
-      "Teatr Polski"
-    ],
-    "kolor1":"#595FA7",
-    "kolor2":"#FFFFFF",
-    "przystanki":8,
-    "przebieg":"BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - Fredry - Roosevelta - G\u0142ogowska - Hetma\u0144ska - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-    "brygady":1,
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
-  },
   "33":{
     "typ":"tram",
     "petle":[
-      "Budziszy\u0144ska",
+      "Po\u0142abska",
       "Budziszy\u0144ska"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
-    "przystanki":21,
-    "przebieg":"BUDZISZY\u0143SKA - Grunwaldzka - Bukowska - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
-    "brygady":6
+    "przystanki":-1,
+    "przebieg":"PO\u0141ABSKA - Aleje Solidarno\u015bci - Murawa - Winogrady - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+    "brygady":0
+  },
+  "51":{
+    "typ":"tram",
+    "petle":[
+      "Staro\u0142\u0119ka PKM",
+      "G\u00f3rczyn PKM"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":26,
+    "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - G\u0142ogowska - G\u00d3RCZYN PKM",
+    "brygady":7,
+    "agency":"MPK",
+    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=51"
   },
   "97":{
     "typ":"tram",
@@ -923,7 +909,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":31,
     "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":9,
+    "brygady":8,
     "night":true,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=201"
@@ -938,7 +924,31 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":7
+    "brygady":6
+  },
+  "204":{
+    "typ":"tram",
+    "petle":[
+      "Osiedle Sobieskiego",
+      "Osiedle Sobieskiego"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "przystanki":14,
+    "przebieg":"OS. SOBIESKIEGO - Trasa PST - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+    "brygady":6
+  },
+  "205":{
+    "typ":"tram",
+    "petle":[
+      "Franowo",
+      "Franowo"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "przystanki":22,
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Chartowo - \u017begrze - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Towarowa - \u015awi\u0119ty Marcin - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
+    "brygady":6
   },
   "212":{
     "typ":"bus",
@@ -1119,21 +1129,6 @@
     "przystanki":16,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zawady - G\u0142\u00f3wna - Gdy\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Pi\u0142sudskiego - KOZIEG\u0141OWY OS. LE\u015aNE",
     "brygady":5
-  },
-  "231":{
-    "typ":"bus",
-    "petle":[
-      "Wroc\u0142awska",
-      "Unii Lubelskiej"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "przystanki":17,
-    "przebieg":"WROC\u0141AWSKA - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Brne\u0144ska - Milcza\u0144ska - Inflancka - Pia\u015bnicka - Chartowo - \u017begrze - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":2,
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=231"
   },
   "250":{
     "typ":"bus",
@@ -2121,13 +2116,13 @@
   "702":{
     "typ":"bus",
     "petle":[
-      "Komorniki Osiedle Zielone Wzg\u00f3rze ",
+      "Komorniki Osiedle Zielone Wzg\u00f3rze",
       "G\u00f3rczyn PKM"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":23,
-    "przebieg":"KOMORNIKI OS. ZIELONE WZG\u00d3RZE  - Komorniki/Sadowa - Komorniki/M\u0142y\u0144ska - Komorniki/Zak\u0142adowa - Komorniki/Nizinna - Komorniki/Komornicka - Komorniki/\u017babikowska - Lubo\u0144/11 Listopada - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"KOMORNIKI OS. ZIELONE WZG\u00d3RZE - Komorniki/Sadowa - Komorniki/M\u0142y\u0144ska - Komorniki/Zak\u0142adowa - Komorniki/Nizinna - Komorniki/Komornicka - Komorniki/\u017babikowska - Lubo\u0144/11 Listopada - Lubo\u0144/Poniatowskiego - Kotowo - Modlibowskiej - G\u0142ogowska - Zgoda - G\u00d3RCZYN PKM",
     "brygady":3,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=702"
