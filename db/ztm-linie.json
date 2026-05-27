@@ -161,7 +161,7 @@
     "kolor2":"#000000",
     "przystanki":27,
     "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":15,
+    "brygady":14,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=12"
   },
@@ -295,9 +295,9 @@
     ],
     "kolor1":"#E31E24",
     "kolor2":"#FFFFFF",
-    "przystanki":15,
+    "przystanki":16,
     "przebieg":"NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - Rychlewskiego - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":4
+    "brygady":6
   },
   "102":{
     "typ":"bus",
@@ -310,6 +310,18 @@
     "przystanki":7,
     "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":2
+  },
+  "105":{
+    "typ":"bus",
+    "petle":[
+      "Strzeszynek",
+      "Rondo Kaponiera"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":16,
+    "przebieg":"STRZESZYNEK - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Niestachowska - \u017beromskiego - Przybyszewskiego - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+    "brygady":8
   },
   "121":{
     "typ":"bus",
@@ -393,7 +405,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":23,
     "przebieg":"STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Boranta - BORANTA",
-    "brygady":9
+    "brygady":8
   },
   "148":{
     "typ":"bus",
@@ -465,7 +477,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"SP\u0141AWIE - Sp\u0142awie - Szczepankowo - Chartowo - Pia\u015bnicka - Milcza\u0144ska - Brne\u0144ska - Krzywoustego - RONDO RATAJE",
-    "brygady":22
+    "brygady":21
   },
   "156":{
     "typ":"bus",
@@ -537,7 +549,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":17,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":17
+    "brygady":18
   },
   "163":{
     "typ":"bus",
@@ -573,7 +585,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":23,
     "przebieg":"ZIELINIEC - Kamie\u0144ska - Sarnia - Warszawska - Browarna - Abpa Dymka - Folwarczna - Szwajcarska - Kurlandzka - Chartowo - Wiatraczna - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":22
+    "brygady":23
   },
   "167":{
     "typ":"bus",
@@ -777,7 +789,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":30,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - Kra\u0144cowa - NOWE ZOO",
-    "brygady":22
+    "brygady":21
   },
   "185":{
     "typ":"bus",
@@ -789,7 +801,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":27,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Umultowska - Lechicka - Murawa - Aleje Solidarno\u015bci - Serbska - Ba\u0142tycka - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":15
+    "brygady":14
   },
   "186":{
     "typ":"bus",
@@ -849,7 +861,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":33,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - S\u0142owia\u0144ska - Maczka - Nad Wierzbakiem - \u015bw. Wawrzy\u0144ca - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - OS. KOPERNIKA",
-    "brygady":22
+    "brygady":23
   },
   "193":{
     "typ":"bus",
@@ -861,7 +873,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":34,
     "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
-    "brygady":20
+    "brygady":19
   },
   "194":{
     "typ":"bus",
@@ -873,6 +885,18 @@
     "kolor2":"#FFFFFF",
     "przystanki":11,
     "przebieg":"STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - \u017beglarska - Minikowo - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+    "brygady":5
+  },
+  "195":{
+    "typ":"bus",
+    "petle":[
+      "Ogrody",
+      "Strzeszynek"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":13,
+    "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - STRZESZYNEK",
     "brygady":5
   },
   "196":{

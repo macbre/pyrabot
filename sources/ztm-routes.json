@@ -875,7 +875,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "13",
@@ -1411,6 +1411,8 @@
         "RKAP06",
         "ROSR01",
         "ROSR04",
+        "SWMI93",
+        "SWMI94",
         "SWMN71",
         "SZOO71",
         "TEMA01",
@@ -1422,7 +1424,7 @@
         "ZAME02",
         "ZOO02"
       ],
-      "brygady": 4
+      "brygady": 6
     },
     {
       "name": "102",
@@ -1454,6 +1456,54 @@
         "ZERO72"
       ],
       "brygady": 2
+    },
+    {
+      "name": "105",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Strzeszynek",
+        "Rondo Kaponiera"
+      ],
+      "przebieg": "STRZESZYNEK - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Niestachowska - \u017beromskiego - Przybyszewskiego - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BALT71",
+        "BUKO01",
+        "FIEL01",
+        "FIEL02",
+        "GOKA01",
+        "GOKA02",
+        "GOLE01",
+        "GOLE02",
+        "KONT01",
+        "KONT02",
+        "KRAJ01",
+        "KRAJ02",
+        "LITA01",
+        "LITA02",
+        "NIES01",
+        "NIES02",
+        "POLN01",
+        "POLN02",
+        "RKAP02",
+        "STEK01",
+        "STEK02",
+        "STST01",
+        "STST02",
+        "SZYL01",
+        "SZYL02",
+        "WOPO02",
+        "WOPO03",
+        "WOPO08",
+        "ZERO01",
+        "ZERO02",
+        "ZERO06",
+        "ZOWY01",
+        "ZOWY02"
+      ],
+      "brygady": 8
     },
     {
       "name": "121",
@@ -1716,7 +1766,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 9
+      "brygady": 8
     },
     {
       "name": "148",
@@ -2039,7 +2089,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 22
+      "brygady": 21
     },
     {
       "name": "156",
@@ -2342,7 +2392,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 17
+      "brygady": 18
     },
     {
       "name": "163",
@@ -2537,7 +2587,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 22
+      "brygady": 23
     },
     {
       "name": "167",
@@ -3561,7 +3611,7 @@
         "WOLK02",
         "ZOO02"
       ],
-      "brygady": 22
+      "brygady": 21
     },
     {
       "name": "185",
@@ -3631,7 +3681,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "186",
@@ -3942,7 +3992,7 @@
         "ZERO02",
         "ZERO03"
       ],
-      "brygady": 22
+      "brygady": 23
     },
     {
       "name": "193",
@@ -4026,7 +4076,7 @@
         "ZERO02",
         "ZERO03"
       ],
-      "brygady": 20
+      "brygady": 19
     },
     {
       "name": "194",
@@ -4064,6 +4114,48 @@
         "TARN02",
         "TOMA01",
         "ZAKL01"
+      ],
+      "brygady": 5
+    },
+    {
+      "name": "195",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Ogrody",
+        "Strzeszynek"
+      ],
+      "przebieg": "OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - STRZESZYNEK",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "FIEL01",
+        "FIEL02",
+        "GOKA01",
+        "GOKA02",
+        "GOLE01",
+        "GOLE02",
+        "KONT01",
+        "KONT02",
+        "KRAJ01",
+        "KRAJ02",
+        "LITA01",
+        "LITA02",
+        "NIES01",
+        "NIES02",
+        "OGDY06",
+        "STEK01",
+        "STEK02",
+        "STST01",
+        "STST02",
+        "WOPO02",
+        "WOPO03",
+        "WOPO08",
+        "ZERO01",
+        "ZERO02",
+        "ZERO06",
+        "ZOWY01",
+        "ZOWY02"
       ],
       "brygady": 5
     },
