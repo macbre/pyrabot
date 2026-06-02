@@ -96,7 +96,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 30
+      "brygady": 29
     },
     {
       "name": "3",
@@ -875,7 +875,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 15
+      "brygady": 14
     },
     {
       "name": "13",
@@ -958,7 +958,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 30
+      "brygady": 29
     },
     {
       "name": "14",
@@ -1003,7 +1003,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 22
+      "brygady": 23
     },
     {
       "name": "15",
@@ -1062,7 +1062,7 @@
         "WEGO42",
         "WOJS41"
       ],
-      "brygady": 22
+      "brygady": 23
     },
     {
       "name": "16",
@@ -1243,6 +1243,74 @@
       "brygady": 14
     },
     {
+      "name": "51",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Staro\u0142\u0119ka PKM",
+        "G\u00f3rczyn PKM"
+      ],
+      "przebieg": "STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - G\u0142ogowska - G\u00d3RCZYN PKM",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "AWF42",
+        "AWF73",
+        "BYST41",
+        "BYST42",
+        "DWZA71",
+        "DWZA72",
+        "FRRY42",
+        "GLHE71",
+        "GLHE72",
+        "GORC41",
+        "GORC42",
+        "GRUD72",
+        "KRAU71",
+        "KRAU72",
+        "LAKO41",
+        "LAKO42",
+        "MODW71",
+        "MODW72",
+        "MRCI71",
+        "MRCI72",
+        "MT71",
+        "OPIA41",
+        "OPIA42",
+        "ORZE41",
+        "ORZE42",
+        "PAWI71",
+        "PAWI72",
+        "PLWL41",
+        "PLWL42",
+        "RKAP71",
+        "RKAP73",
+        "RRAT71",
+        "RRAT72",
+        "RRAT75",
+        "RRAT76",
+        "RSTA41",
+        "RSTA42",
+        "RSTA45",
+        "RSTA46",
+        "RYLA71",
+        "RYLA72",
+        "SERA71",
+        "SERA72",
+        "SIEL71",
+        "SIEL72",
+        "STAR41",
+        "STAR42",
+        "STMA41",
+        "STMA42",
+        "SWMN71",
+        "WIOS71",
+        "WIOS72",
+        "ZAME71"
+      ],
+      "brygady": 7
+    },
+    {
       "name": "97",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1297,6 +1365,85 @@
       "brygady": 22
     },
     {
+      "name": "100",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Nowe Zoo",
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ],
+      "przebieg": "NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - Rychlewskiego - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+      "color1": "E31E24",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "GRUD72",
+        "GWAR71",
+        "JEZY02",
+        "KATE01",
+        "KLIN02",
+        "LIBE02",
+        "MAGA03",
+        "MOBE01",
+        "MORO72",
+        "MRCI72",
+        "NOGO02",
+        "PLBE72",
+        "PLWI43",
+        "POGL01",
+        "POGL02",
+        "RJEZ71",
+        "RKAP01",
+        "RKAP05",
+        "RKAP06",
+        "ROSR01",
+        "ROSR04",
+        "SWMI93",
+        "SWMI94",
+        "SWMN71",
+        "SZOO71",
+        "TEMA01",
+        "TERM03",
+        "TERM04",
+        "TORM01",
+        "TORM02",
+        "WROC72",
+        "ZAME02",
+        "ZOO02"
+      ],
+      "brygady": 6
+    },
+    {
+      "name": "102",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Muzeum Broni Pancernej",
+        "Pozna\u0144 G\u0142\u00f3wny"
+      ],
+      "przebieg": "MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+      "color1": "E31E24",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "MBP91",
+        "OGDY01",
+        "OGDY06",
+        "POGL01",
+        "POGL02",
+        "PONZ01",
+        "PONZ02",
+        "RJEZ71",
+        "RJEZ72",
+        "RKAP01",
+        "RKAP05",
+        "RKAP06",
+        "SZOO71",
+        "SZOO72",
+        "ZERO71",
+        "ZERO72"
+      ],
+      "brygady": 2
+    },
+    {
       "name": "105",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1342,7 +1489,7 @@
         "ZOWY01",
         "ZOWY02"
       ],
-      "brygady": 6
+      "brygady": 8
     },
     {
       "name": "121",
@@ -1425,8 +1572,7 @@
         "STAR30",
         "SWAC02",
         "SWAK02",
-        "SWAN01",
-        "ZEGL01"
+        "ZEGL03"
       ],
       "brygady": 1
     },
@@ -1565,7 +1711,6 @@
         "BRON02",
         "INTP01",
         "INTP02",
-        "JROL02",
         "JROL03",
         "KULY01",
         "KULY02",
@@ -1588,6 +1733,7 @@
         "OSSM02",
         "OSZY01",
         "OSZY02",
+        "RUBI02",
         "SS I01",
         "SS I02",
         "STOI03",
@@ -1657,7 +1803,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 9
+      "brygady": 10
     },
     {
       "name": "149",
@@ -1721,17 +1867,13 @@
         "Osiedle Sobieskiego",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Karpia - Nowa Mleczarska - Bielicowa - Czarnucha - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Rubie\u017c - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "BIEA01",
-        "BIEA02",
         "CCHA01",
-        "CCHA02",
-        "DWOR01",
         "DWOR02",
-        "KARP01",
         "KARP02",
         "KULY01",
         "KULY02",
@@ -1742,7 +1884,6 @@
         "NARA71",
         "NARA72",
         "NAWS02",
-        "NAWS04",
         "OJLY01",
         "OJLY02",
         "OLOK01",
@@ -1751,8 +1892,8 @@
         "OSCH02",
         "OSZY01",
         "OSZY02",
-        "RUBI04",
-        "RUBI05",
+        "RUBI03",
+        "SLWY01",
         "SOB21",
         "SOB30",
         "STOI03",
@@ -1766,7 +1907,7 @@
         "WRTV01",
         "WRTV02"
       ],
-      "brygady": 7
+      "brygady": 10
     },
     {
       "name": "152",
@@ -1824,7 +1965,7 @@
         "ZELA01",
         "ZELA02"
       ],
-      "brygady": 19
+      "brygady": 25
     },
     {
       "name": "153",
@@ -1889,7 +2030,7 @@
         "ZAKL01",
         "ZAKL02"
       ],
-      "brygady": 5
+      "brygady": 8
     },
     {
       "name": "154",
@@ -1933,7 +2074,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 13
+      "brygady": 21
     },
     {
       "name": "156",
@@ -2124,7 +2265,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 9
+      "brygady": 14
     },
     {
       "name": "160",
@@ -2236,7 +2377,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 6
+      "brygady": 18
     },
     {
       "name": "163",
@@ -2294,7 +2435,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 16
+      "brygady": 20
     },
     {
       "name": "164",
@@ -2431,7 +2572,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 18
+      "brygady": 23
     },
     {
       "name": "167",
@@ -2459,7 +2600,6 @@
         "GABA02",
         "GRLA02",
         "GROL02",
-        "JROL02",
         "JROL03",
         "KRES01",
         "KRES02",
@@ -2485,6 +2625,7 @@
         "RRAT73",
         "RRAT75",
         "RRAT76",
+        "RUBI02",
         "RUMA01",
         "RUMA02",
         "SERA71",
@@ -2503,7 +2644,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 9
+      "brygady": 13
     },
     {
       "name": "168",
@@ -2562,7 +2703,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 12
+      "brygady": 17
     },
     {
       "name": "169",
@@ -2634,7 +2775,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 15
+      "brygady": 17
     },
     {
       "name": "170",
@@ -2753,7 +2894,7 @@
         "ZNTK01",
         "ZNTK02"
       ],
-      "brygady": 11
+      "brygady": 13
     },
     {
       "name": "173",
@@ -2926,7 +3067,7 @@
         "SWIE01",
         "SWIE02"
       ],
-      "brygady": 7
+      "brygady": 8
     },
     {
       "name": "176",
@@ -3038,7 +3179,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 5
+      "brygady": 7
     },
     {
       "name": "178",
@@ -3098,7 +3239,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 17
+      "brygady": 18
     },
     {
       "name": "179",
@@ -3144,7 +3285,7 @@
         "TREB01",
         "TREB02"
       ],
-      "brygady": 5
+      "brygady": 11
     },
     {
       "name": "180",
@@ -3307,7 +3448,7 @@
         "ZERO02",
         "ZERO03"
       ],
-      "brygady": 14
+      "brygady": 17
     },
     {
       "name": "183",
@@ -3379,7 +3520,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 15
+      "brygady": 18
     },
     {
       "name": "184",
@@ -3440,6 +3581,8 @@
         "RUSA01",
         "RUSA02",
         "SSZP02",
+        "SWMI93",
+        "SWMI94",
         "SZCH01",
         "SZCH02",
         "SZII01",
@@ -3455,7 +3598,7 @@
         "WOLK02",
         "ZOO02"
       ],
-      "brygady": 16
+      "brygady": 21
     },
     {
       "name": "185",
@@ -3525,7 +3668,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 11
+      "brygady": 13
     },
     {
       "name": "186",
@@ -3753,7 +3896,7 @@
         "WRTV02",
         "WYLO02"
       ],
-      "brygady": 12
+      "brygady": 14
     },
     {
       "name": "191",
@@ -3836,7 +3979,7 @@
         "ZERO02",
         "ZERO03"
       ],
-      "brygady": 21
+      "brygady": 22
     },
     {
       "name": "193",
@@ -3920,7 +4063,7 @@
         "ZERO02",
         "ZERO03"
       ],
-      "brygady": 19
+      "brygady": 20
     },
     {
       "name": "194",
@@ -3959,7 +4102,49 @@
         "TOMA01",
         "ZAKL01"
       ],
-      "brygady": 3
+      "brygady": 5
+    },
+    {
+      "name": "195",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Ogrody",
+        "Strzeszynek"
+      ],
+      "przebieg": "OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - STRZESZYNEK",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "FIEL01",
+        "FIEL02",
+        "GOKA01",
+        "GOKA02",
+        "GOLE01",
+        "GOLE02",
+        "KONT01",
+        "KONT02",
+        "KRAJ01",
+        "KRAJ02",
+        "LITA01",
+        "LITA02",
+        "NIES01",
+        "NIES02",
+        "OGDY06",
+        "STEK01",
+        "STEK02",
+        "STST01",
+        "STST02",
+        "WOPO02",
+        "WOPO03",
+        "WOPO08",
+        "ZERO01",
+        "ZERO02",
+        "ZERO06",
+        "ZOWY01",
+        "ZOWY02"
+      ],
+      "brygady": 5
     },
     {
       "name": "196",
@@ -4011,7 +4196,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 7
+      "brygady": 20
     },
     {
       "name": "198",
@@ -4041,7 +4226,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 12
+      "brygady": 13
     },
     {
       "name": "201",
@@ -4120,7 +4305,178 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 4
+      "brygady": 9
+    },
+    {
+      "name": "202",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Franowo",
+        "Osiedle Sobieskiego"
+      ],
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "ALSO41",
+        "ALSO42",
+        "FRRY41",
+        "FRRY42",
+        "FRWO41",
+        "FRWO42",
+        "GRUD72",
+        "GWAR71",
+        "KORN43",
+        "KORN44",
+        "KORN78",
+        "KURP41",
+        "KURP42",
+        "LACI41",
+        "LACI42",
+        "LECH41",
+        "LECH42",
+        "MORO71",
+        "MORO72",
+        "MRCI71",
+        "MRCI72",
+        "MT44",
+        "MT73",
+        "OSLE41",
+        "OSLE42",
+        "OSTY41",
+        "OSTY42",
+        "PIAR41",
+        "PIAR42",
+        "PK41",
+        "PK42",
+        "PLBE71",
+        "PLBE72",
+        "POKA41",
+        "POKA42",
+        "PP71",
+        "PP72",
+        "SLKA41",
+        "SLKA42",
+        "SOB41",
+        "SOB42",
+        "SWMN71",
+        "SZWA41",
+        "SZWA42",
+        "SZWE41",
+        "SZWE42",
+        "SZYM41",
+        "SZYM42",
+        "WROC71",
+        "WROC72"
+      ],
+      "brygady": 7
+    },
+    {
+      "name": "204",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Osiedle Sobieskiego",
+        "Osiedle Sobieskiego"
+      ],
+      "przebieg": "OS. SOBIESKIEGO - Trasa PST - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "ALSO41",
+        "ALSO42",
+        "AWF41",
+        "DWZA41",
+        "DWZA71",
+        "FRRY41",
+        "GWAR71",
+        "KURP41",
+        "KURP42",
+        "LAKO41",
+        "LECH41",
+        "LECH42",
+        "MRCI71",
+        "MT45",
+        "MT73",
+        "PLWL41",
+        "POGL41",
+        "POLW41",
+        "RKAP46",
+        "ROZA41",
+        "RYWI43",
+        "SLKA41",
+        "SLKA42",
+        "SOB41",
+        "SOB42",
+        "SWCZ72",
+        "SWMN71",
+        "SZYM41",
+        "SZYM42",
+        "WIER94"
+      ],
+      "brygady": 6
+    },
+    {
+      "name": "205",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Franowo",
+        "Franowo"
+      ],
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Chartowo - \u017begrze - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Towarowa - \u015awi\u0119ty Marcin - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "FRWO41",
+        "FRWO42",
+        "HEWI41",
+        "HEWI42",
+        "KOSI71",
+        "KOSI72",
+        "MODW71",
+        "OCZ71",
+        "OCZ72",
+        "PAMI71",
+        "PAMI72",
+        "PIAR41",
+        "PIAR42",
+        "PK41",
+        "PK42",
+        "POGL42",
+        "POGL74",
+        "RKAP74",
+        "ROLN41",
+        "ROLN42",
+        "RSTA43",
+        "RSTA44",
+        "RSTA47",
+        "RSTA48",
+        "RYWI71",
+        "RYWI72",
+        "RZEG41",
+        "RZEG42",
+        "RZEG43",
+        "RZEG44",
+        "SWCZ71",
+        "SWCZ72",
+        "SZWA41",
+        "SZWA42",
+        "SZWE41",
+        "SZWE42",
+        "TRAU43",
+        "UE42",
+        "WIER93",
+        "WIER94",
+        "Z I41",
+        "Z I42",
+        "Z II41",
+        "Z II42",
+        "ZIII41",
+        "ZIII42"
+      ],
+      "brygady": 6
     },
     {
       "name": "212",
@@ -4130,7 +4486,7 @@
         "Szwajcarska Szpital",
         "Kacza"
       ],
-      "przebieg": "SZWAJCARSKA SZPITAL - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4314,7 +4670,6 @@
         "GROC02",
         "GROT71",
         "GROT72",
-        "JROL02",
         "JROL03",
         "JUNI30",
         "KRES01",
@@ -4350,6 +4705,7 @@
         "RONJ04",
         "ROSK01",
         "ROSK02",
+        "RUBI02",
         "RUMA01",
         "RUMA02",
         "SERB01",
@@ -4372,7 +4728,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "215",
@@ -4597,7 +4953,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 2
+      "brygady": 4
     },
     {
       "name": "218",
@@ -4705,7 +5061,7 @@
         "WIKA01",
         "WIKA02"
       ],
-      "brygady": 5
+      "brygady": 6
     },
     {
       "name": "219",
@@ -4756,10 +5112,10 @@
         "TATR01",
         "TATR02",
         "WICH02",
-        "ZERO71",
-        "ZERO72"
+        "ZERO03",
+        "ZERO92"
       ],
-      "brygady": 1
+      "brygady": 3
     },
     {
       "name": "220",
@@ -4907,7 +5263,7 @@
         "ZAKL02",
         "ZEGL01"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "222",
@@ -5026,7 +5382,7 @@
         "ZIEM02",
         "ZLOT01"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "223",
@@ -5088,7 +5444,7 @@
         "TREB02",
         "URWO01"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "224",
@@ -5124,7 +5480,6 @@
         "GROC02",
         "GROT71",
         "GROT72",
-        "JROL02",
         "JROL03",
         "JUNI30",
         "JUST01",
@@ -5148,6 +5503,7 @@
         "RONJ04",
         "ROSK01",
         "ROSK02",
+        "RUBI02",
         "SOLN01",
         "SOLN02",
         "TWAR01",
@@ -5167,7 +5523,7 @@
         "WISE04",
         "WORD02"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "226",
@@ -5240,7 +5596,7 @@
         "WOPO04",
         "ZOWY01"
       ],
-      "brygady": 3
+      "brygady": 5
     },
     {
       "name": "227",
@@ -5288,7 +5644,454 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 3
+      "brygady": 5
+    },
+    {
+      "name": "250",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.",
+      "petle": [
+        "G\u00f3rczyn PKM",
+        "G\u0142uchowo Stawna"
+      ],
+      "przebieg": "G\u00d3RCZYN PKM - Zgoda - G\u0142ogowska - Lerczak\u00f3wny - Kowalewicka - Kotowo - Lubo\u0144/Poniatowskiego - Lubo\u0144/11 Listopada - Komorniki/\u017babikowska - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Szreniawa/Pozna\u0144ska - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Bukowa - Walerianowo/Bukowa - Rosnowo/Bukowa - Chom\u0119cice/Pozna\u0144ska - Konarzewo/Pozna\u0144ska - Chom\u0119cice/Pozna\u0144ska - G\u0142uchowo/Stawna - G\u0141UCHOWO STAWNA",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BOJA01",
+        "BOJA02",
+        "COEKS02",
+        "COJES01",
+        "COJES02",
+        "COSRD01",
+        "COSRD02",
+        "COSZK01",
+        "COSZK02",
+        "COWSP01",
+        "COWSP02",
+        "FABI01",
+        "GLIN02",
+        "GLMOR01",
+        "GLMOR02",
+        "GLSTW04",
+        "GORC21",
+        "GORC30",
+        "KMNZ02",
+        "KNEKS01",
+        "KNOSL01",
+        "KNOSL02",
+        "KNPET02",
+        "KOCEN01",
+        "KOCEN02",
+        "KOGRA01",
+        "KOGRA02",
+        "KOJEZ01",
+        "KOJEZ02",
+        "KOLUB01",
+        "KOLUB02",
+        "KONOW02",
+        "KONOW04",
+        "KOPAK01",
+        "KOPAK02",
+        "KOTO01",
+        "KOTO02",
+        "KOWI01",
+        "KOWIR01",
+        "KOWIR02",
+        "LERC01",
+        "LUPBO01",
+        "LUPBO02",
+        "LUSTU01",
+        "LUSTU02",
+        "LUTRA01",
+        "LUTRA02",
+        "LUUNI01",
+        "LUUNI02",
+        "LUZAB01",
+        "LUZAB02",
+        "OSIA01",
+        "OSIA02",
+        "RODKU01",
+        "RODKU02",
+        "ROSTW01",
+        "ROSTW02",
+        "ROWIC01",
+        "ROWIC02",
+        "RSROS02",
+        "RSROS03",
+        "RSROS04",
+        "SZDWO01",
+        "SZDWO02",
+        "SZNOW01",
+        "TYNZ02",
+        "URAD01",
+        "URAD02",
+        "WABRZ01",
+        "WABRZ02",
+        "WABUK01",
+        "WABUK02",
+        "WYKO01"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "252",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Wielobran\u017cowe TRANSKOM Sp. z o.o.",
+      "petle": [
+        "Rondo \u015ar\u00f3dka",
+        "Przeb\u0119dowo P\u0119tla"
+      ],
+      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Podwale - Prymasa Hlonda - Ba\u0142tycka - Gdy\u0144ska - Kozieg\u0142owy/Gdy\u0144ska - Czerwonak/Gdy\u0144ska - Mi\u0119kowo/Pozna\u0144ska - Owi\u0144ska/Pozna\u0144ska - Owi\u0144ska/Kolejowa - Owi\u0144ska/Dworcowa - Owi\u0144ska/Zielona - Owi\u0144ska/Ks. Piotrowskiego - Bolechowo/Pozna\u0144ska - Bolechowo/Poligonowa - Bolechowo-Os./Wojska Polskiego - Promnice/Wojska Polskiego - Biedrusko/Parkowa - Biedrusko/Zjednoczenia - Promnice/Wojska Polskiego - Bolechowo-Os./Obornicka - Szlach\u0119cin/ - M. Go\u015blina/Kutrzeby - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/Mostowa - M. Go\u015blina/Kolejowa - M. Go\u015blina/Rogozi\u0144ska - Przeb\u0119dowo/ - PRZEB\u0118DOWO P\u0118TLA",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BALA01",
+        "BALA03",
+        "BIPRK01",
+        "BIPRK02",
+        "BOFAU01",
+        "BOFAU02",
+        "BOKAS01",
+        "BOKAS02",
+        "BOPOL01",
+        "BOPOL04",
+        "BOPRZ01",
+        "BOPRZ02",
+        "BOSZK01",
+        "BOSZK02",
+        "BOWOJ01",
+        "BOWOJ02",
+        "CEELE01",
+        "CEELE02",
+        "CEKRE01",
+        "CEKRE02",
+        "CEOPP01",
+        "CEOPP02",
+        "CEPKM01",
+        "CEPKM02",
+        "CESZK01",
+        "CESZK02",
+        "CHEM02",
+        "CHEM04",
+        "CZEA01",
+        "CZEA02",
+        "GDYN01",
+        "GDYN02",
+        "HLDA01",
+        "HLDA02",
+        "KAIN01",
+        "KAIN02",
+        "KZLIP01",
+        "KZLIP02",
+        "KZZON01",
+        "KZZON02",
+        "MGCME01",
+        "MGCME02",
+        "MGKRT02",
+        "MGLES01",
+        "MGLES02",
+        "MGMOD01",
+        "MGNRY01",
+        "MGOKR01",
+        "MGOKR02",
+        "MGPKM01",
+        "MGPKM02",
+        "MGPOL01",
+        "MGPOL02",
+        "MGPOZ01",
+        "MGPOZ02",
+        "MWKOL01",
+        "MWKOL02",
+        "OWKSP03",
+        "OWKSP04",
+        "OWLIP01",
+        "OWLIP02",
+        "OWOGR01",
+        "OWOGR02",
+        "OWPAR01",
+        "OWPAR02",
+        "OWPKM01",
+        "OWPKM02",
+        "PDPAR01",
+        "PDPAR02",
+        "PDPET01",
+        "PRPLN01",
+        "PRPLN02",
+        "ROSR03",
+        "ROSR04",
+        "ROSR30",
+        "SHCIN01",
+        "SHCIN02",
+        "SMNA01",
+        "SMNA02",
+        "ZAWA02",
+        "ZAWA03"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "253",
+      "typ": "bus",
+      "agency": "Zak\u0142ad Komunikacji Publicznej Suchy Las Sp. z o.o.",
+      "petle": [
+        "Osiedle Sobieskiego",
+        "Chludowo Szko\u0142a"
+      ],
+      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Morasko - Suchy Las/Meteorytowa - Suchy Las/Le\u015bna - Suchy Las/Obornicka - Jelonek/Obornicka - Z\u0142otniki/Obornicka - Z\u0142otniki/\u0141agiewnicka - Z\u0142otniki/Obornicka - Z\u0142otkowo/Obornicka - Z\u0142otkowo/Lipowa - Z\u0142otkowo/Z\u0142ota - Z\u0142otkowo/Sobocka - Gol\u0119czewo/Dworcowa - Ziel\u0105tkowo/Dworcowa - Ziel\u0105tkowo/Le\u015bna - Ziel\u0105tkowo/Dworcowa - Chludowo/Dworcowa - Chludowo/Pozna\u0144ska - CHLUDOWO SZKO\u0141A",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "CHKOS02",
+        "CHNAT01",
+        "CHNAT02",
+        "CHPKM01",
+        "CHPKM02",
+        "CHRYN02",
+        "CHSZK02",
+        "CHTYS01",
+        "CHTYS02",
+        "CHWAR01",
+        "CHWAR02",
+        "GOOBO01",
+        "GOOBO02",
+        "GOPKM01",
+        "GOPKM02",
+        "GOPRO01",
+        "GOPRO02",
+        "GOSZK01",
+        "GOSZK02",
+        "JENEK01",
+        "JENEK02",
+        "OSMA01",
+        "OSMA02",
+        "OSZY01",
+        "OSZY02",
+        "SLKON01",
+        "SLKON02",
+        "SLKOS01",
+        "SLNWR01",
+        "SLNWR02",
+        "SLPRZ01",
+        "SLPRZ02",
+        "SLSPR01",
+        "SLSPR02",
+        "SLSTR01",
+        "SLSTR02",
+        "SLSZK01",
+        "SLSZK02",
+        "SOB21",
+        "SOB30",
+        "SZLI01",
+        "SZLI02",
+        "SZYM01",
+        "SZYM08",
+        "WIED01",
+        "WIET01",
+        "WIET02",
+        "ZILAS01",
+        "ZILAS02",
+        "ZIOSP01",
+        "ZIOSP02",
+        "ZIPOG01",
+        "ZIPOG02",
+        "ZISWI01",
+        "ZISWI02",
+        "ZIWSP01",
+        "ZIWSP02",
+        "ZLLAG01",
+        "ZLLAG02",
+        "ZLPAW01",
+        "ZLPAW02",
+        "ZLWIE01",
+        "ZLZIE01",
+        "ZLZIE02",
+        "ZLZLO01",
+        "ZLZLO02",
+        "ZOCED01",
+        "ZOCED02",
+        "ZOSOB01",
+        "ZOSOB02",
+        "ZOWIE01",
+        "ZOWIE02",
+        "ZOZYT01",
+        "ZOZYT02"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "257",
+      "typ": "bus",
+      "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych Komorniki sp. z o.o.",
+      "petle": [
+        "Dopiewo Dworzec Kolejowy",
+        "Junikowo"
+      ],
+      "przebieg": "DOPIEWO DWORZEC KOLEJOWY - Dopiewo/Le\u015bna - Dopiewo/Pozna\u0144ska - Dopiewiec/Pozna\u0144ska - Dopiewiec/Szkolna - Pal\u0119dzie/Pocztowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - Zakrzewo/D\u0142uga - Zakrzewo/Gajowa - Zakrzewo/Pozna\u0144ska - D\u0105browa/Szkolna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "DBBUK01",
+        "DBBUK02",
+        "DBWIK01",
+        "DBWIK02",
+        "DBWIL01",
+        "DBWIL02",
+        "DKKAS01",
+        "DKKAS02",
+        "DKLAS01",
+        "DKLAS02",
+        "DKPAR01",
+        "DKPAR02",
+        "DODWK01",
+        "DOKOS01",
+        "DOKOS02",
+        "DOOSR01",
+        "DOOSR02",
+        "DPDOP01",
+        "DPDOP02",
+        "DPPRZ01",
+        "DPPRZ02",
+        "GERB01",
+        "GERB02",
+        "JUNI30",
+        "KWIA02",
+        "MALW01",
+        "MALW02",
+        "NAWA01",
+        "NAWA02",
+        "PANOW01",
+        "PANOW02",
+        "PAPAL01",
+        "PAPAL02",
+        "ROLW01",
+        "ROLW04",
+        "SKGIM01",
+        "SKGIM02",
+        "SKGRA01",
+        "SKGRA02",
+        "SKKOS01",
+        "SKKOS02",
+        "SKOSM01",
+        "SKOSM02",
+        "SKSZA01",
+        "SKSZA02",
+        "ZKBUK01",
+        "ZKBUK02",
+        "ZKBUK04",
+        "ZKSPO01",
+        "ZKSPO02",
+        "ZKSWI01",
+        "ZKSWI02",
+        "ZKZAC01",
+        "ZKZAC02",
+        "ZONK01",
+        "ZONK02"
+      ],
+      "brygady": 1
+    },
+    {
+      "name": "258",
+      "typ": "bus",
+      "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
+      "petle": [
+        "Pozna\u0144 G\u0142\u00f3wny",
+        "Tarnowo Podg\u00f3rne Centrum"
+      ],
+      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - Sianowska - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Prze\u017amierowo/Rynkowa - Prze\u017amierowo/Sosnowa - Prze\u017amierowo/Olszynowa - Batorowo/Batorego - Lusowo/Nowa - Lusowo/Pozna\u0144ska - Sady/Lusowska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - TARNOWO PDG CENTRUM",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BNPRZ01",
+        "BNPRZ02",
+        "BRAN01",
+        "BTBAT01",
+        "BTBAT02",
+        "BTBRZ01",
+        "BTBRZ02",
+        "BTPOR01",
+        "BTPOR02",
+        "BTSKO01",
+        "BTSKO02",
+        "BTWID01",
+        "BTWID02",
+        "BTZAK01",
+        "BTZAK02",
+        "BUZA01",
+        "BUZA02",
+        "CZKA01",
+        "KOLO01",
+        "KOLO02",
+        "KRAS42",
+        "KRAS71",
+        "LEKA02",
+        "LUPO01",
+        "LWKOS01",
+        "LWOTO01",
+        "LWOTO02",
+        "LWSWA01",
+        "LWSWA02",
+        "LWSZK01",
+        "LWSZK02",
+        "MIED03",
+        "OGDY01",
+        "OGDY02",
+        "PILO01",
+        "PILO02",
+        "PINA02",
+        "PLOT01",
+        "PLOT02",
+        "PMBRZ01",
+        "PMBRZ02",
+        "PMCME01",
+        "PMCME02",
+        "PMKOS01",
+        "PMKOS02",
+        "PMKRA01",
+        "PMKRA02",
+        "PMLES01",
+        "PMLES02",
+        "PMOLS02",
+        "PMOLS91",
+        "PMWIA01",
+        "PMWIA02",
+        "POGL01",
+        "POGL02",
+        "PONA71",
+        "PONA72",
+        "PONZ01",
+        "PONZ02",
+        "RJEZ71",
+        "RJEZ72",
+        "RKAP01",
+        "RKAP02",
+        "RKAP05",
+        "RKAP06",
+        "SALIP01",
+        "SALIP02",
+        "SAWIA01",
+        "SAWIA02",
+        "SMOC01",
+        "SMOC02",
+        "SZOO71",
+        "SZOO72",
+        "TATR01",
+        "TATR02",
+        "TPCEN01",
+        "TPCEN02",
+        "TPDZI01",
+        "TPDZI02",
+        "TPKRO01",
+        "TPMAR01",
+        "TPMAR02",
+        "TPROL01",
+        "TPROL02",
+        "WICH02",
+        "WICH03",
+        "ZERO71",
+        "ZERO72"
+      ],
+      "brygady": 1
     },
     {
       "name": "312",
@@ -5372,7 +6175,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 5
+      "brygady": 7
     },
     {
       "name": "320",
@@ -5424,7 +6227,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 4
+      "brygady": 6
     },
     {
       "name": "321",
@@ -5480,7 +6283,7 @@
         "WRSZ01",
         "WRSZ02"
       ],
-      "brygady": 4
+      "brygady": 7
     },
     {
       "name": "322",
@@ -5616,7 +6419,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 2
+      "brygady": 4
     },
     {
       "name": "341",
@@ -5800,7 +6603,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 4
+      "brygady": 7
     },
     {
       "name": "348",
@@ -5885,7 +6688,7 @@
         "WDNZ01",
         "WDNZ02"
       ],
-      "brygady": 8
+      "brygady": 11
     },
     {
       "name": "388",
@@ -6211,7 +7014,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 12
+      "brygady": 15
     },
     {
       "name": "405",
@@ -6252,7 +7055,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 13
+      "brygady": 15
     },
     {
       "name": "406",
@@ -6342,7 +7145,7 @@
         "TERM01",
         "TERM02"
       ],
-      "brygady": 6
+      "brygady": 8
     },
     {
       "name": "412",
@@ -6390,7 +7193,7 @@
         "XOSTA01",
         "XOSTA02"
       ],
-      "brygady": 14
+      "brygady": 19
     },
     {
       "name": "416",
@@ -6703,7 +7506,7 @@
         "ZASPA02",
         "ZATRA03"
       ],
-      "brygady": 5
+      "brygady": 8
     },
     {
       "name": "485",
@@ -6753,7 +7556,7 @@
         "SDWPR01",
         "SDWPR02"
       ],
-      "brygady": 6
+      "brygady": 7
     },
     {
       "name": "486",
@@ -6807,7 +7610,7 @@
         "SEMIO02",
         "SEPET01"
       ],
-      "brygady": 10
+      "brygady": 17
     },
     {
       "name": "488",
@@ -6966,7 +7769,7 @@
         "SDWPR01",
         "SDWPR02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "492",
@@ -6993,7 +7796,7 @@
         "XOSZK01",
         "XOSZK02"
       ],
-      "brygady": 5
+      "brygady": 12
     },
     {
       "name": "493",
@@ -7026,7 +7829,7 @@
         "XOSTA01",
         "XOSTA02"
       ],
-      "brygady": 5
+      "brygady": 13
     },
     {
       "name": "494",
@@ -7213,7 +8016,7 @@
         "ZAOLS01",
         "ZAOSE01"
       ],
-      "brygady": 10
+      "brygady": 16
     },
     {
       "name": "499",
@@ -7263,7 +8066,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 9
+      "brygady": 12
     },
     {
       "name": "501",
@@ -7310,7 +8113,7 @@
         "SYJEZ01",
         "SYJEZ02"
       ],
-      "brygady": 5
+      "brygady": 8
     },
     {
       "name": "502",
@@ -7439,7 +8242,7 @@
         "SWKI01",
         "SWKI02"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "511",
@@ -7745,7 +8548,6 @@
         "STWI03",
         "SWAC02",
         "SWAK02",
-        "SWAN01",
         "TARN01",
         "TARN02",
         "TOMA02",
@@ -7827,7 +8629,7 @@
         "ZMRYN01",
         "ZMRYN02"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "561",
@@ -7849,6 +8651,7 @@
         "JMJMM02",
         "JWDOL02",
         "JWJWW02",
+        "KDBAK02",
         "KDBIE01",
         "KDNIE02",
         "KDPOP02",
@@ -7903,7 +8706,7 @@
         "PSPLD01",
         "PSWIE01"
       ],
-      "brygady": 5
+      "brygady": 6
     },
     {
       "name": "582",
@@ -8038,34 +8841,48 @@
       "typ": "bus",
       "agency": "K\u00f3rnickie Przedsi\u0119biorstwo Autobusowe KOMBUS Sp. z o.o.",
       "petle": [
-        "K\u00f3rnik Plac Niepodleg\u0142o\u015bci",
-        "Robakowo Szko\u0142a"
+        "Robakowo Szko\u0142a",
+        "K\u00f3rnik Plac Niepodleg\u0142o\u015bci"
       ],
-      "przebieg": "K\u00d3RNIK PL. NIEPODLEG\u0141O\u015aCI - K\u00f3rnik/Pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Dworcowa - K\u00f3rnik/Pozna\u0144ska - Dzie\u0107mierowo/Dworcowa - Szczodrzykowo/Dworcowa - Szczodrzykowo/Ogrodowa - Szczodrzykowo/Pozna\u0144ska - Dachowa/Okr\u0119\u017cna - Dachowa/Pozna\u0144ska - Robakowo/Pozna\u0144ska - Robakowo/Wiejska - Robakowo/Szkolna - ROBAKOWO SZKO\u0141A",
+      "przebieg": "ROBAKOWO SZKO\u0141A - Robakowo/Szkolna - Robakowo/Wiejska - Dachowa/Pozna\u0144ska - Dachowa/Okr\u0119\u017cna - Dachowa/Pozna\u0144ska - Szczodrzykowo/Pozna\u0144ska - Szczodrzykowo/Dworcowa - Dzie\u0107mierowo/Dworcowa - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/Pl. Niepodleg\u0142o\u015bci - K\u00d3RNIK PL. NIEPODLEG\u0141O\u015aCI",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
+        "DHKLO01",
         "DHKLO04",
+        "DHKRE01",
         "DHKRE02",
+        "DHOKE01",
         "DHOKE02",
         "DHTEC02",
+        "DHWIA01",
         "DHWIA02",
         "DZLES01",
+        "DZLES02",
         "DZPOL01",
+        "DZPOL02",
         "DZSLO01",
+        "DZSLO02",
+        "KDNIE01",
         "KDNIE02",
+        "KDPOP01",
         "KDPOP02",
+        "KDREJ01",
         "KDREJ02",
         "KDSZK01",
         "RBSZE02",
         "RBSZK01",
+        "RBWIE03",
         "RBWIE04",
         "SCOGR01",
+        "SCOGR02",
         "SCPKM01",
+        "SCPKM02",
         "SCSZK01",
+        "SCTRZ01",
         "SCTRZ02"
       ],
-      "brygady": 1
+      "brygady": 2
     },
     {
       "name": "593",
@@ -8584,7 +9401,7 @@
         "SWIE02",
         "SWIE03"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "616",
@@ -8925,25 +9742,31 @@
       "typ": "bus",
       "agency": "Przedsi\u0119biorstwo Us\u0142ug Komunalnych sp. z o.o. w Mosinie",
       "petle": [
-        "Mosina Dworzec Kolejowy",
-        "K\u00f3rnik Szko\u0142a Nr 1"
+        "K\u00f3rnik Szko\u0142a Nr 1",
+        "Mosina Dworzec Kolejowy"
       ],
-      "przebieg": "MOSINA DWORZEC KOLEJOWY - Mosina/Dworcowa - Mosina/Mostowa - Mosina/Rzeczypospolitej Mosi\u0144skiej - Puszczykowo/Kraszewskiego - Rogalinek/Mostowa - Rogalinek/Pozna\u0144ska - Sasinowo/Pozna\u0144ska - Rogalin/Mosi\u0144ska - \u015awi\u0105tniki/\u015aremska - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Mieczewo/Szeroka - Czo\u0142owo/Czo\u0142owo - K\u00f3rnik/Pozna\u0144ska - K\u00f3rnik/Pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Dworcowa - K\u00d3RNIK SZKO\u0141A NR 1",
+      "przebieg": "K\u00d3RNIK SZKO\u0141A NR 1 - K\u00f3rnik/Dworcowa - K\u00f3rnik/Pl. Niepodleg\u0142o\u015bci - K\u00f3rnik/Pozna\u0144ska - Czo\u0142owo/Czo\u0142owo - Mieczewo/Szeroka - \u015awi\u0105tniki/\u015aremska - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Pozna\u0144ska - Sasinowo/Pozna\u0144ska - Rogalinek/Mostowa - Puszczykowo/Kraszewskiego - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
         "CLWIE01",
         "KDNIE01",
+        "KDNIE02",
         "KDPOP01",
+        "KDPOP02",
         "KDSZK01",
         "MIMIE02",
         "MODWK02",
+        "MORON01",
         "MORON02",
+        "MORZM02",
         "MORZM03",
         "PUNIW02",
         "REMOS01",
+        "REMOS02",
         "RESKR01",
         "RIMUZ01",
+        "RIMUZ02",
         "RZRII01",
         "RZRZI01",
         "RZRZI02",
@@ -9515,7 +10338,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "728",
@@ -9667,7 +10490,7 @@
         "ZLDZ02",
         "ZLOT02"
       ],
-      "brygady": 6
+      "brygady": 7
     },
     {
       "name": "789",
@@ -9852,7 +10675,7 @@
         "WKSZK01",
         "WKSZK02"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "795",
@@ -9879,7 +10702,7 @@
         "PAPAL01",
         "PAPAL02"
       ],
-      "brygady": 1
+      "brygady": 2
     },
     {
       "name": "796",
@@ -9964,7 +10787,7 @@
         "SKSZA01",
         "SKSZA02"
       ],
-      "brygady": 3
+      "brygady": 4
     },
     {
       "name": "798",
@@ -10093,7 +10916,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 13
+      "brygady": 14
     },
     {
       "name": "803",
@@ -10169,7 +10992,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 6
+      "brygady": 8
     },
     {
       "name": "804",
@@ -10248,7 +11071,7 @@
         "ZKZAK01",
         "ZKZAK02"
       ],
-      "brygady": 4
+      "brygady": 6
     },
     {
       "name": "805",
@@ -10392,7 +11215,7 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 5
+      "brygady": 8
     },
     {
       "name": "812",
@@ -10474,52 +11297,81 @@
         "WICH01",
         "WICH02"
       ],
-      "brygady": 5
+      "brygady": 6
     },
     {
       "name": "813",
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
       "petle": [
-        "Ka\u017amierz Rynek",
-        "Ogrody"
+        "Ogrody",
+        "Ka\u017amierz Rynek"
       ],
-      "przebieg": "KA\u0179MIERZ RYNEK - Ka\u017amierz/Rynek - Ka\u017amierz/Pozna\u0144ska - Brzezno/Pozna\u0144ska - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - Tarnowo Pdg/Pozna\u0144ska - Sady/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Baranowo/Pozna\u0144ska - D\u0105browskiego - Polska - Nowina - Szpitalna - OGRODY",
+      "przebieg": "OGRODY - D\u0105browskiego - Baranowo/Pozna\u0144ska - Prze\u017amierowo/Pozna\u0144ska - Swadzim/Pozna\u0144ska - Sady/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - Brzezno/Pozna\u0144ska - Ka\u017amierz/Pozna\u0144ska - Ka\u017amierz/Rynek - KA\u0179MIERZ RYNEK",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
+        "BNPRZ01",
         "BNPRZ02",
+        "BUZA01",
         "BUZA02",
+        "BZZNO01",
         "BZZNO02",
+        "GRCIE01",
         "GRCIE02",
+        "GRKRE01",
         "GRKRE02",
+        "GRPET01",
         "GRPET02",
+        "GRSZK01",
         "GRSZK02",
         "KMRYN01",
+        "KMSTO01",
         "KMSTO02",
+        "KOLO01",
         "KOLO02",
+        "LEKA01",
         "LEKA02",
+        "OGDY02",
         "OGDY12",
+        "PILO01",
         "PILO02",
         "PINA02",
+        "PLOT01",
         "PLOT02",
+        "PMWIA01",
         "PMWIA02",
+        "PMWYS01",
         "PMWYS02",
         "PONZ02",
+        "SAWIA01",
         "SAWIA02",
+        "SMOC01",
         "SMOC02",
+        "SWKLA01",
         "SWKLA02",
+        "SWWIA01",
         "SWWIA02",
+        "TATR01",
         "TATR02",
+        "TPCEN01",
         "TPCEN02",
+        "TPDZI01",
         "TPDZI02",
+        "TPGRU01",
+        "TPKRO01",
+        "TPMAR01",
         "TPMAR02",
+        "TPOKR01",
         "TPOKR02",
+        "TPROL01",
         "TPROL02",
+        "TPZIE01",
         "TPZIE02",
+        "WICH01",
         "WICH02"
       ],
-      "brygady": 3
+      "brygady": 5
     },
     {
       "name": "821",
@@ -10800,7 +11652,7 @@
         "ZOZYT01",
         "ZOZYT02"
       ],
-      "brygady": 4
+      "brygady": 5
     },
     {
       "name": "833",
@@ -10879,7 +11731,7 @@
         "WIMO01",
         "WIMO02"
       ],
-      "brygady": 8
+      "brygady": 11
     },
     {
       "name": "835",
@@ -10963,7 +11815,7 @@
         "ZOWY01",
         "ZOWY02"
       ],
-      "brygady": 9
+      "brygady": 12
     },
     {
       "name": "837",
@@ -11029,7 +11881,7 @@
         "ZOWY01",
         "ZOWY02"
       ],
-      "brygady": 6
+      "brygady": 8
     },
     {
       "name": "881",
@@ -11209,7 +12061,7 @@
         "ZYSWI01",
         "ZYSWI02"
       ],
-      "brygady": 5
+      "brygady": 7
     },
     {
       "name": "901",
@@ -11360,7 +12212,7 @@
         "ZLZLO02",
         "ZLZLO03"
       ],
-      "brygady": 2
+      "brygady": 3
     },
     {
       "name": "905",
@@ -11565,7 +12417,6 @@
         "GROL02",
         "IMBI01",
         "IMBI02",
-        "JROL02",
         "JROL03",
         "KRES01",
         "KRES02",
@@ -11591,6 +12442,7 @@
         "RRAT73",
         "RRAT75",
         "RRAT76",
+        "RUBI02",
         "RUMA01",
         "RUMA02",
         "SERA71",
@@ -11609,7 +12461,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 9
+      "brygady": 13
     }
   ]
 }
