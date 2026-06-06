@@ -6,7 +6,7 @@ node_modules
 npm-debug.log
 .idea
 
-config.js
+config*.js
 
 # python
 *.pyc
@@ -15,3 +15,9 @@ sources/env*
 sources/scripts/env*
 
 sources/gtfs_ztm.zip
+
+*.jpg
+*.pdf
+*.png
+*.webp
+.pass
