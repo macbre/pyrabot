@@ -1,69 +1,6 @@
 {
   "lines": [
     {
-      "name": "T",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Osiedle Wichrowe Wzg\u00f3rze",
-        "Pi\u0105tkowska"
-      ],
-      "przebieg": "OS. WICHROWE WZG\u00d3RZE - Murawa - Winogrady - Przepadek - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - PI\u0104TKOWSKA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ARPO91",
-        "ARPO92",
-        "KLIN01",
-        "KLIN02",
-        "LIBE02",
-        "MT44",
-        "MT71",
-        "MURA91",
-        "MURA92",
-        "NADW01",
-        "NADW02",
-        "OKOS01",
-        "OKOS02",
-        "OPL01",
-        "OPL92",
-        "OWW01",
-        "OWW02",
-        "PASI41",
-        "PASI42",
-        "PIAT04",
-        "PRNZ04",
-        "RKAP71",
-        "RKAP72",
-        "RKAP73",
-        "RKAP74",
-        "ROSO01",
-        "ROSO02",
-        "SLAS01",
-        "SLAS02",
-        "TROJ01",
-        "TROJ02",
-        "UP01",
-        "UP02",
-        "URMA01",
-        "URMA02",
-        "URWO01",
-        "WIKA01",
-        "WIKA02",
-        "WIKL02",
-        "WINI01",
-        "WINI02",
-        "WIWI02",
-        "WOPO01",
-        "WOPO04",
-        "ZAME01",
-        "ZAME02",
-        "ZNIW42",
-        "ZNIW71"
-      ],
-      "brygady": 6
-    },
-    {
       "name": "T7",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -198,9 +135,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Unii Lubelskiej",
-        "Osiedle Sobieskiego"
+        "B\u0142a\u017ceja"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
       "color1": "8E364C",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -692,9 +629,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "D\u0119biec PKM",
-        "Osiedle Sobieskiego"
+        "Pi\u0105tkowska"
       ],
-      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - Os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
       "color1": "FF671F",
       "color2": "000000",
       "przystankiSymbole": [
@@ -763,10 +700,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Ma\u0142e Garbary",
+        "B\u0142a\u017ceja",
         "D\u0119biec PKM"
       ],
-      "przebieg": "MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Fredry - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+      "przebieg": "B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
       "color1": "F1B434",
       "color2": "000000",
       "przystankiSymbole": [
@@ -1221,7 +1158,7 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 14
+      "brygady": 13
     },
     {
       "name": "17",
@@ -1371,37 +1308,6 @@
       "brygady": 1
     },
     {
-      "name": "93",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "B\u0142a\u017ceja",
-        "Wilczak"
-      ],
-      "przebieg": "B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - WILCZAK",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "BLAZ41",
-        "BLAZ42",
-        "JROL41",
-        "JROL42",
-        "LENA41",
-        "LENA42",
-        "NARA71",
-        "NARA72",
-        "OLOK41",
-        "OLOK42",
-        "SERB41",
-        "SERB42",
-        "WILC41",
-        "WILC42",
-        "WLOD41",
-        "WLOD42"
-      ],
-      "brygady": 3
-    },
-    {
       "name": "97",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1488,8 +1394,6 @@
         "RKAP06",
         "ROSR01",
         "ROSR04",
-        "SWMI93",
-        "SWMI94",
         "SWMN71",
         "SZOO71",
         "TEMA01",
@@ -1501,7 +1405,7 @@
         "ZAME02",
         "ZOO02"
       ],
-      "brygady": 6
+      "brygady": 4
     },
     {
       "name": "102",
@@ -1955,7 +1859,7 @@
         "WRTV01",
         "WRTV02"
       ],
-      "brygady": 8
+      "brygady": 9
     },
     {
       "name": "152",
@@ -2122,7 +2026,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 21
+      "brygady": 22
     },
     {
       "name": "156",
@@ -2424,7 +2328,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 18
+      "brygady": 17
     },
     {
       "name": "163",
@@ -2619,7 +2523,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 23
+      "brygady": 22
     },
     {
       "name": "167",
@@ -2760,7 +2664,7 @@
         "\u0141u\u017cycka",
         "Osiedle Kopernika"
       ],
-      "przebieg": "\u0141U\u017bYCKA - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - Winogrady - Przepadek - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
+      "przebieg": "\u0141U\u017bYCKA - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3643,7 +3547,7 @@
         "WOLK02",
         "ZOO02"
       ],
-      "brygady": 21
+      "brygady": 22
     },
     {
       "name": "185",
@@ -3713,7 +3617,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 14
+      "brygady": 15
     },
     {
       "name": "186",
@@ -4416,39 +4320,6 @@
       "brygady": 7
     },
     {
-      "name": "203",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Dworzec Zachodni",
-        "Osiedle Sobieskiego"
-      ],
-      "przebieg": "DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
-      "color1": "000000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ALSO41",
-        "ALSO42",
-        "DWZA41",
-        "DWZA42",
-        "KURP41",
-        "KURP42",
-        "LECH41",
-        "LECH42",
-        "MT45",
-        "MT46",
-        "RKAP45",
-        "RKAP46",
-        "SLKA41",
-        "SLKA42",
-        "SOB41",
-        "SOB42",
-        "SZYM41",
-        "SZYM42"
-      ],
-      "brygady": 3
-    },
-    {
       "name": "212",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -4456,7 +4327,7 @@
         "Szwajcarska Szpital",
         "Kacza"
       ],
-      "przebieg": "SZWAJCARSKA SZPITAL - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -6108,8 +5979,8 @@
         "TPROL02",
         "WICH02",
         "WICH03",
-        "ZERO71",
-        "ZERO72"
+        "ZERO03",
+        "ZERO92"
       ],
       "brygady": 1
     },

@@ -1,16 +1,4 @@
 {
-  "T":{
-    "typ":"bus",
-    "petle":[
-      "Osiedle Wichrowe Wzg\u00f3rze",
-      "Pi\u0105tkowska"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":23,
-    "przebieg":"OS. WICHROWE WZG\u00d3RZE - Murawa - Winogrady - Przepadek - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Nad Wierzbakiem - Wojska Polskiego - Witosa - Aleje Solidarno\u015bci - Pi\u0105tkowska - PI\u0104TKOWSKA",
-    "brygady":6
-  },
   "T7":{
     "typ":"bus",
     "petle":[
@@ -54,12 +42,12 @@
     "typ":"tram",
     "petle":[
       "Unii Lubelskiej",
-      "Osiedle Sobieskiego"
+      "B\u0142a\u017ceja"
     ],
     "kolor1":"#8E364C",
     "kolor2":"#FFFFFF",
     "przystanki":36,
-    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
     "brygady":14,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=3"
@@ -138,12 +126,12 @@
     "typ":"tram",
     "petle":[
       "D\u0119biec PKM",
-      "Osiedle Sobieskiego"
+      "Pi\u0105tkowska"
     ],
     "kolor1":"#FF671F",
     "kolor2":"#000000",
     "przystanki":28,
-    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - Os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
     "brygady":15,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=9"
@@ -151,13 +139,13 @@
   "10":{
     "typ":"tram",
     "petle":[
-      "Ma\u0142e Garbary",
+      "B\u0142a\u017ceja",
       "D\u0119biec PKM"
     ],
     "kolor1":"#F1B434",
     "kolor2":"#000000",
     "przystanki":27,
-    "przebieg":"MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Fredry - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+    "przebieg":"B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
     "brygady":12,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=10"
@@ -242,7 +230,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":14,
+    "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
   },
@@ -289,20 +277,6 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
   },
-  "93":{
-    "typ":"tram",
-    "petle":[
-      "B\u0142a\u017ceja",
-      "Wilczak"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "przystanki":7,
-    "przebieg":"B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - WILCZAK",
-    "brygady":3,
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=93"
-  },
   "97":{
     "typ":"tram",
     "petle":[
@@ -323,9 +297,9 @@
     ],
     "kolor1":"#E31E24",
     "kolor2":"#FFFFFF",
-    "przystanki":16,
+    "przystanki":15,
     "przebieg":"NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - Rychlewskiego - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":6
+    "brygady":4
   },
   "102":{
     "typ":"bus",
@@ -457,7 +431,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":19,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Karpia - Nowa Mleczarska - Bielicowa - Czarnucha - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":8
+    "brygady":9
   },
   "152":{
     "typ":"bus",
@@ -493,7 +467,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"SP\u0141AWIE - Sp\u0142awie - Szczepankowo - Chartowo - Pia\u015bnicka - Milcza\u0144ska - Brne\u0144ska - Krzywoustego - RONDO RATAJE",
-    "brygady":21
+    "brygady":22
   },
   "156":{
     "typ":"bus",
@@ -565,7 +539,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":17,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":18
+    "brygady":17
   },
   "163":{
     "typ":"bus",
@@ -601,7 +575,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":23,
     "przebieg":"ZIELINIEC - Kamie\u0144ska - Sarnia - Warszawska - Browarna - Abpa Dymka - Folwarczna - Szwajcarska - Kurlandzka - Chartowo - Wiatraczna - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":23
+    "brygady":22
   },
   "167":{
     "typ":"bus",
@@ -636,7 +610,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":28,
-    "przebieg":"\u0141U\u017bYCKA - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - Winogrady - Przepadek - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
+    "przebieg":"\u0141U\u017bYCKA - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Przepadek - Al. Niepodleg\u0142o\u015bci - \u015awi\u0119ty Marcin - Bukowska - Przybyszewskiego - Marceli\u0144ska - Grochowska - Promienista - OS. KOPERNIKA",
     "brygady":17
   },
   "170":{
@@ -805,7 +779,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":30,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - Kra\u0144cowa - NOWE ZOO",
-    "brygady":21
+    "brygady":22
   },
   "185":{
     "typ":"bus",
@@ -817,7 +791,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":27,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Umultowska - Lechicka - Murawa - Aleje Solidarno\u015bci - Serbska - Ba\u0142tycka - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":14
+    "brygady":15
   },
   "186":{
     "typ":"bus",
@@ -966,18 +940,6 @@
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
     "brygady":7
   },
-  "203":{
-    "typ":"tram",
-    "petle":[
-      "Dworzec Zachodni",
-      "Osiedle Sobieskiego"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "przystanki":8,
-    "przebieg":"DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":3
-  },
   "212":{
     "typ":"bus",
     "petle":[
@@ -987,7 +949,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":33,
-    "przebieg":"SZWAJCARSKA SZPITAL - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+    "przebieg":"SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":2
   },
   "213":{
