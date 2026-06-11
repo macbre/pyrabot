@@ -277,6 +277,18 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
   },
+  "33":{
+    "typ":"tram",
+    "petle":[
+      "Budziszy\u0144ska",
+      "Budziszy\u0144ska"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":23,
+    "przebieg":"BUDZISZY\u0143SKA - Grunwaldzka - Bukowska - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+    "brygady":11
+  },
   "97":{
     "typ":"tram",
     "petle":[
@@ -429,7 +441,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":19,
+    "przystanki":17,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Karpia - Nowa Mleczarska - Bielicowa - Czarnucha - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
     "brygady":9
   },
@@ -659,7 +671,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":36,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Murawa - S\u0142owia\u0144ska - Szel\u0105gowska - Garbary - Kr\u00f3lowej Jadwigi - Krzywoustego - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Obodrzycka - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":13
+    "brygady":14
   },
   "175":{
     "typ":"bus",
@@ -972,7 +984,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":40,
+    "przystanki":41,
     "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":4
   },
@@ -1092,7 +1104,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":31,
+    "przystanki":32,
     "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Boranta - BORANTA",
     "brygady":5
   },
@@ -1354,7 +1366,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":24,
+    "przystanki":25,
     "przebieg":"KOZIEG\u0141OWY SZKO\u0141A - Kozieg\u0142owy/Piaskowa - Kozieg\u0142owy/Pozna\u0144ska - Kicin/Pozna\u0144ska - Kicin/Nowe Osiedle - Czerwonak/Zdroje - Czerwonak/\u0179r\u00f3dlana - Czerwonak/Le\u015bna - Czerwonak/Gdy\u0144ska - Mi\u0119kowo/Pozna\u0144ska - Owi\u0144ska/Pozna\u0144ska - Owi\u0144ska/Kolejowa - Owi\u0144ska/Dworcowa - Owi\u0144ska/Zielona - Bolech\u00f3wko/Lipowa - Potasze/Lipowa - POTASZE JOD\u0141OWA",
     "brygady":2,
     "agency":"TRANSKOM",
@@ -2047,25 +2059,25 @@
   "692":{
     "typ":"bus",
     "petle":[
-      "Dymaczewo Nowe Klub",
+      "Dymaczewo Nowe Wsp\u00f3lna",
       "Mosina Dworzec Kolejowy"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "przystanki":7,
-    "przebieg":"DYMACZEWO NOWE KLUB - Dymaczewo Nowe/Dymaczewo Nowe - Dymaczewo Stare/Szkolna - Krosinko/Wiejska - Ludwikowo/Ludwikowska - Krosinko/Ludwikowska - Mosina/Konopnickiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+    "przebieg":"DYMACZEWO NOWE WSP\u00d3LNA - Dymaczewo Nowe/Dymaczewo Nowe - Dymaczewo Stare/Szkolna - Krosinko/Wiejska - Ludwikowo/Ludwikowska - Krosinko/Ludwikowska - Mosina/Konopnickiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
     "brygady":1
   },
   "693":{
     "typ":"bus",
     "petle":[
-      "Krajkowo II",
+      "Krajkowo P\u0119tla",
       "Mosina Dworzec Kolejowy"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "przystanki":4,
-    "przebieg":"KRAJKOWO II - Krajkowo/Krajkowo - Baranowo./Baranowo - Sowinki/Sowiniecka - Sowiniec/Sowiniecka - Mosina/Sowiniecka - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+    "przebieg":"KRAJKOWO P\u0118TLA - Krajkowo/Krajkowo - Baranowo./Baranowo - Sowinki/Sowiniecka - Sowiniec/Sowiniecka - Mosina/Sowiniecka - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
     "brygady":1
   },
   "694":{
@@ -2083,13 +2095,13 @@
   "698":{
     "typ":"bus",
     "petle":[
-      "Radzewice II",
+      "Radzewice D\u0142uga",
       "Mosina Dworzec Kolejowy"
     ],
     "kolor1":"#FFFFFF",
     "kolor2":"#000000",
     "przystanki":9,
-    "przebieg":"RADZEWICE II - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Mostowa - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
+    "przebieg":"RADZEWICE D\u0141UGA - Radzewice/D\u0142uga - \u015awi\u0105tniki/\u015aremska - Rogalin/Mosi\u0144ska - Rogalinek/Mostowa - Mosina/Rzeczypospolitej Mosi\u0144skiej - Mosina/Mostowa - Mosina/Dworcowa - MOSINA DWORZEC KOLEJOWY",
     "brygady":1
   },
   "699":{
