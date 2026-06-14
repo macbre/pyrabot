@@ -19,7 +19,7 @@ client.logIn((err, data) => {
 
 	client.getArticle(ULICA, (err, content) => {
 		// strona istnieje
-		if (typeof content !== 'undefined') {
+		if (typeof content !== 'undefined' && ! client.dryRun) {
 			throw 'Artykuł juz istnieje';
 		}
 
