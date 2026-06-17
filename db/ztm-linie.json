@@ -34,7 +34,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":31,
     "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Pia\u015bnicka - Szwajcarska - FRANOWO",
-    "brygady":31,
+    "brygady":30,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=1"
   },
@@ -76,7 +76,7 @@
     "kolor2":"#000000",
     "przystanki":21,
     "przebieg":"G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Podwale - ZAWADY",
-    "brygady":22,
+    "brygady":24,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=5"
   },
@@ -90,7 +90,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":32,
     "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
-    "brygady":16,
+    "brygady":21,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=6"
   },
@@ -146,7 +146,7 @@
     "kolor2":"#000000",
     "przystanki":27,
     "przebieg":"B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
-    "brygady":12,
+    "brygady":15,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=10"
   },
@@ -160,7 +160,7 @@
     "kolor2":"#000000",
     "przystanki":27,
     "przebieg":"PI\u0104TKOWSKA - Bronowa - Witosa - Os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - Al. Wielkopolska - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":12,
+    "brygady":13,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=11"
   },
@@ -174,7 +174,7 @@
     "kolor2":"#000000",
     "przystanki":27,
     "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":15,
+    "brygady":20,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=12"
   },
@@ -188,7 +188,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":33,
     "przebieg":"STARO\u0141\u0118KA PKM - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Bukowska - Grunwaldzka - JUNIKOWO",
-    "brygady":31,
+    "brygady":30,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=13"
   },
@@ -202,7 +202,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"OS. SOBIESKIEGO - Trasa PST - G\u0142ogowska - G\u00d3RCZYN PKM",
-    "brygady":24,
+    "brygady":22,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=14"
   },
@@ -216,7 +216,7 @@
     "kolor2":"#000000",
     "przystanki":21,
     "przebieg":"JUNIKOWO - Grunwaldzka - Bukowska - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":24,
+    "brygady":22,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=15"
   },
@@ -277,18 +277,6 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
   },
-  "33":{
-    "typ":"tram",
-    "petle":[
-      "Budziszy\u0144ska",
-      "Budziszy\u0144ska"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "przystanki":23,
-    "przebieg":"BUDZISZY\u0143SKA - Grunwaldzka - Bukowska - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
-    "brygady":11
-  },
   "97":{
     "typ":"tram",
     "petle":[
@@ -299,7 +287,7 @@
     "kolor2":"#000000",
     "przystanki":19,
     "przebieg":"ZAWADY - Podwale - Jana Paw\u0142a II - Warczyg\u0142owy - Trasa K\u00f3rnicka - Chartowo - \u017begrze - Hetma\u0144ska - Staro\u0142\u0119cka - STARO\u0141\u0118KA PKM",
-    "brygady":22
+    "brygady":23
   },
   "100":{
     "typ":"bus",
@@ -406,7 +394,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":23,
-    "przebieg":"STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Boranta - BORANTA",
+    "przebieg":"STARY STRZESZYN - Biskupi\u0144ska - Strzeszy\u0144ska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
     "brygady":8
   },
   "148":{
@@ -442,7 +430,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":17,
-    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Karpia - Nowa Mleczarska - Bielicowa - Czarnucha - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+    "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Rubie\u017c - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
     "brygady":9
   },
   "152":{
@@ -575,7 +563,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":29,
     "przebieg":"PUSZKINA - Literacka - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Nad Wierzbakiem - Ko\u015bcielna - Kraszewskiego - Matejki - Kasprzaka - Chociszewskiego - Arciszewskiego - \u015aciegiennego - Promienista - Mr\u0105gowska - Kacza - KACZA",
-    "brygady":14
+    "brygady":13
   },
   "166":{
     "typ":"bus",
@@ -671,7 +659,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":36,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Murawa - S\u0142owia\u0144ska - Szel\u0105gowska - Garbary - Kr\u00f3lowej Jadwigi - Krzywoustego - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Obodrzycka - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":14
+    "brygady":13
   },
   "175":{
     "typ":"bus",
@@ -892,14 +880,14 @@
   "195":{
     "typ":"bus",
     "petle":[
-      "Ogrody",
-      "Strzeszynek"
+      "Strzeszynek",
+      "Rondo Kaponiera"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":13,
-    "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - STRZESZYNEK",
-    "brygady":3
+    "przystanki":16,
+    "przebieg":"STRZESZYNEK - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Niestachowska - \u017beromskiego - Przybyszewskiego - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+    "brygady":5
   },
   "196":{
     "typ":"bus",
@@ -935,7 +923,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":31,
     "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":9,
+    "brygady":14,
     "night":true,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=201"
@@ -950,7 +938,19 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":7
+    "brygady":5
+  },
+  "208":{
+    "typ":"tram",
+    "petle":[
+      "Mi\u0142ostowo",
+      "Mi\u0142ostowo"
+    ],
+    "kolor1":"#000000",
+    "kolor2":"#FFFFFF",
+    "przystanki":20,
+    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Matyi - Wierzbi\u0119cice - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+    "brygady":5
   },
   "212":{
     "typ":"bus",
@@ -961,7 +961,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":33,
-    "przebieg":"SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+    "przebieg":"SZWAJCARSKA SZPITAL - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":2
   },
   "213":{
@@ -985,7 +985,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":41,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":4
   },
   "215":{
@@ -1105,7 +1105,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":32,
-    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Hilczer-Kurnatowskiej - Naramowicka - Boranta - BORANTA",
+    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
     "brygady":5
   },
   "226":{
@@ -1502,8 +1502,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":28,
-    "przebieg":"KLESZCZEWO PARK - Kleszczewo/Sportowa - Bylin/Bylin - Nagradowice/Nagradowice - Komorniki gm.Kleszczewo/Bylin - Komorniki gm.Kleszczewo/Komorniki k.Kleszczewa - Tanib\u00f3rz/Jesionowa - Gowarzewo/Jesionowa - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
+    "przystanki":27,
+    "przebieg":"KLESZCZEWO PARK - Bylin/Bylin - Nagradowice/Nagradowice - Komorniki gm.Kleszczewo/Bylin - Komorniki gm.Kleszczewo/Komorniki k.Kleszczewa - Tanib\u00f3rz/Jesionowa - Gowarzewo/Jesionowa - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
     "brygady":12
   },
   "433":{
@@ -1562,8 +1562,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":16,
-    "przebieg":"MARKOWICE CENTRUM - Markowice/Markowice - Krerowo/Krerowo - Zimin/Zimin - \u015ar\u00f3dka/\u015ar\u00f3dka - Krzy\u017cowniki/Krzy\u017cowniki - Nagradowice/Nagradowice - Bylin/Bylin - Kleszczewo/Sportowa - Kleszczewo/Pozna\u0144ska - KLESZCZEWO PARK",
+    "przystanki":15,
+    "przebieg":"MARKOWICE CENTRUM - Markowice/Markowice - Krerowo/Krerowo - Zimin/Zimin - \u015ar\u00f3dka/\u015ar\u00f3dka - Krzy\u017cowniki/Krzy\u017cowniki - Nagradowice/Nagradowice - Bylin/Bylin - Kleszczewo/Pozna\u0144ska - KLESZCZEWO PARK",
     "brygady":4
   },
   "489":{
