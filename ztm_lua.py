@@ -16,6 +16,7 @@ local database = {
 return database
 
 """
+
 import json
 import logging
 
@@ -26,79 +27,81 @@ logging.basicConfig(level=logging.INFO)
 
 
 # czytaj ze źródeł
-with open("sources/ztm-routes.json", 'rt') as f:
+with open("sources/ztm-routes.json", "rt") as f:
     routes: dict = json.load(f)
 
 # generuj dane o liniach i przystankach
 lines = defaultdict(dict)
 stops = defaultdict(set)
 
-for line in routes['lines']:
+for line in routes["lines"]:
     try:
         # wspieraj numery liczbowe i ze znakami, np.: T12 / 1
-        line['name'] = int(line['name'])
+        line["name"] = int(line["name"])
     except:
         pass
 
     logging.info(f"Linia {line['name']} ...")
 
     # rejestruj linię zatrzymujące się na poszczególnych przystankach
-    for stop in line['przystankiSymbole']:
-        stops[stop].add(line['name'])
+    for stop in line["przystankiSymbole"]:
+        stops[stop].add(line["name"])
 
     # rejestruj linię
     line_entry = {
-        "typ": line['typ'],
-        "petle": line['petle'],
-        "kolor1": '#' + line['color1'],
-        "kolor2": '#' + line['color2'],
+        "typ": line["typ"],
+        "petle": line["petle"],
+        "kolor1": "#" + line["color1"],
+        "kolor2": "#" + line["color2"],
         # przystanki uwzględniają te końcowe + w obie strony, liczba przystanków (pętla liczona jako zero): ceil((len - 2) / 2)
-        "przystanki": ceil( (len(line['przystankiSymbole'])-2) / 2),
-        "przebieg": line.get('przebieg'),
-        "brygady": line.get('brygady'),
+        "przystanki": ceil((len(line["przystankiSymbole"]) - 2) / 2),
+        "przebieg": line.get("przebieg"),
+        "brygady": line.get("brygady"),
     }
 
     # opcjonalne pola
-    if line.get('brygady_laczone'):
-        line_entry['brygady_laczone'] = line.get('brygady_laczone')
+    if line.get("brygady_laczone"):
+        line_entry["brygady_laczone"] = line.get("brygady_laczone")
 
-    lines[str(line['name'])] = line_entry
+    lines[str(line["name"])] = line_entry
 
 
 # czytaj dane o operatorachj
 with open("sources/ztm-operators.json") as f:
     try:
         operators: dict = json.load(f)
-        logger = logging.getLogger('operators')
+        logger = logging.getLogger("operators")
 
-        for line in operators['lines']:
-            logger.info(f'Line #{line['name']}: ' + repr(line))
+        for line in operators["lines"]:
+            logger.info(f"Line #{line['name']}: " + repr(line))
 
-            if line['name'] in lines:
+            if line["name"] in lines:
                 # rozszerz dane
-                if line['night'] is True:
-                    lines[line['name']]['night'] = True
-                
+                if line["night"] is True:
+                    lines[line["name"]]["night"] = True
+
                 # operator
-                lines[line['name']]['agency'] = line['operator'].replace('ZTM_', '')
+                lines[line["name"]]["agency"] = line["operator"].replace("ZTM_", "")
 
                 # link do rozkładu jazdy
                 # https://www.ztm.poznan.pl/rozklad-jazdy/?linia=5
-                lines[line['name']]['rozklad'] = f'https://www.ztm.poznan.pl/rozklad-jazdy/?linia={line['name']}'
+                lines[line["name"]][
+                    "rozklad"
+                ] = f"https://www.ztm.poznan.pl/rozklad-jazdy/?linia={line['name']}"
 
     except ValueError:
-        logging.error('Failed reading operators data', exc_info=True)
+        logging.error("Failed reading operators data", exc_info=True)
 
 
 # generuj plik JSON z danymi o liniach ZTM
 # plik wykorzystuje następnie skrypt "petle_linia_ztm" aktualizując artykuły na wiki
 with open("db/ztm-linie.json", "w") as out:
-    json.dump(lines, out, indent=2, separators=(',', ':'), sort_keys=False)
+    json.dump(lines, out, indent=2, separators=(",", ":"), sort_keys=False)
 
 
 # generuj dane o przystankach (format dla skryptów LUA)
 with open("db/ztm-stops.lua", "wt") as lua:
-    lua.write('local database = {\n')
+    lua.write("local database = {\n")
 
     first_row = True
 
@@ -107,21 +110,23 @@ with open("db/ztm-stops.lua", "wt") as lua:
             # a = [1, 2, 190, 'T9', 'T3', 'T']; a.sort(key=lambda line: (900 + int(line[1:] or 0) if str(line)[0] == 'T' else line)); print(a)
             lines = list(map(str, stops[stop]))
             lines.sort(
-                key=lambda line: (900 + int(line[1:] or 0) if line[0] == 'T' else int(line))
+                key=lambda line: (
+                    900 + int(line[1:] or 0) if line[0] == "T" else int(line)
+                )
             )
         except:
-            logger.error('Sorting of lines failed: ' + repr(stops[stop]), exc_info=True)
+            logger.error("Sorting of lines failed: " + repr(stops[stop]), exc_info=True)
             raise
 
         lines_list = '{ "%s" }' % '", "'.join(lines)
 
         # add the previous row with comma
         if not first_row:
-            lua.write(',\n')
+            lua.write(",\n")
 
         lua.write(f'    ["{stop}"] = {lines_list}')
         first_row = False
 
-    lua.write('\n}\n\nreturn database\n')
+    lua.write("\n}\n\nreturn database\n")
 
 logging.info(f"Gotowe")

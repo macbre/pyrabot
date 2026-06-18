@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 
 class POI(object):
     def __init__(self):
-        self._logger = logging.getLogger('POI')
+        self._logger = logging.getLogger("POI")
         self._session = requests.session()
         self._geo = Geo()
 
@@ -29,12 +29,14 @@ class POI(object):
         resp = self._session.get(url)
 
         if resp.status_code != 200:
-            raise Exception("HTTP request <%s> returned status code %d", url, resp.status_code)
+            raise Exception(
+                "HTTP request <%s> returned status code %d", url, resp.status_code
+            )
 
         return html.fromstring(resp.text.encode("utf8"))
 
     def get_points(self, category_name, url):
-        self._logger.info('Category: {}'.format(category_name))
+        self._logger.info("Category: {}".format(category_name))
 
         tree = self._fetch_and_parse(url)
 
@@ -43,33 +45,35 @@ class POI(object):
         elif tree.xpath('//article[@class="object"]'):
             res = self._get_points_from_new_tree(tree)
         else:
-            raise Exception('Unknown POI page format: <{}>'.format(url))
+            raise Exception("Unknown POI page format: <{}>".format(url))
 
         points = []
 
-        self._logger.info('Points: {}'.format(len(res)))
+        self._logger.info("Points: {}".format(len(res)))
 
         for name, address in res:
             name = name.text.strip()
             address = address.text.strip()
 
-            street = re.split('[,\(-]', address)[0].strip()
+            street = re.split("[,\(-]", address)[0].strip()
 
             # brak adresu, miejsce poza Poznaniem
-            if address == '' or ('Pozna' not in address and "\n" in address):
+            if address == "" or ("Pozna" not in address and "\n" in address):
                 self._logger.info("Skipping! - %s: %s", name, address)
                 continue
 
-            self._logger.debug('%s - %s', name, street)
+            self._logger.debug("%s - %s", name, street)
 
-            pos = self._geo.query(street + u', Poznań')
+            pos = self._geo.query(street + ", Poznań")
 
-            points.append({
-                "name": name,
-                "address": street,
-                "lat": pos['lat'] if pos is not None else False,
-                "lon": pos['lon'] if pos is not None else False,
-            })
+            points.append(
+                {
+                    "name": name,
+                    "address": street,
+                    "lat": pos["lat"] if pos is not None else False,
+                    "lon": pos["lon"] if pos is not None else False,
+                }
+            )
 
         return points
 
@@ -109,27 +113,33 @@ def main():
     poi = POI()
     points = []
 
-    for (category_name, index_url) in categories.iteritems():
+    for category_name, index_url in categories.iteritems():
         category_points = poi.get_points(category_name, index_url)
 
-        points.append({
-            "category": category_name,
-            "source": index_url,
-            "count": len(category_points),
-            "points": category_points
-        })
+        points.append(
+            {
+                "category": category_name,
+                "source": index_url,
+                "count": len(category_points),
+                "points": category_points,
+            }
+        )
 
     # eksport do JSONa
     with open("../db/places.json", "w") as json_output:
-        json.dump(points, json_output, indent=True, separators=(',', ':'))
+        json.dump(points, json_output, indent=True, separators=(",", ":"))
 
     # zapis do wikitekstu
     with open("../db/places.wikitext", "w") as wikitext_output:
         for category in points:
-            wikitext_output.write("=== [[:Category:%s]] ===\n[[" % category['category'])
-            wikitext_output.write(']] &middot;\n[['.
-                                  join([point['name'].encode('utf-8') for point in category['points']]))
+            wikitext_output.write("=== [[:Category:%s]] ===\n[[" % category["category"])
+            wikitext_output.write(
+                "]] &middot;\n[[".join(
+                    [point["name"].encode("utf-8") for point in category["points"]]
+                )
+            )
             wikitext_output.write("]]\n\n")
+
 
 if __name__ == "__main__":
     main()
