@@ -9,12 +9,12 @@ import requests
 
 class NominatimApi(object):
     def __init__(self, base_url):
-        self._logger = logging.getLogger('NominatimApi')
+        self._logger = logging.getLogger("NominatimApi")
 
         self._base_url = base_url
         self._session = requests.session()
         self._headers = {
-            'User-Agent': 'NominatimApi (+https://github.com/macbre/pyrabot)',
+            "User-Agent": "NominatimApi (+https://github.com/macbre/pyrabot)",
         }
 
     def _query(self, params):
@@ -33,34 +33,40 @@ class Geo(NominatimApi):
     """
     @see http://wiki.openstreetmap.org/wiki/Nominatim#Search
     """
+
     def __init__(self, base_url="http://nominatim.openstreetmap.org/search"):
         super(Geo, self).__init__(base_url)
 
     def query(self, address, limit=1, addressdetails=0):
-        data = self._query({
-            "format": "json",
-            "q": address,
-            "addressdetails": addressdetails,
-            "limit": limit
-        })
+        data = self._query(
+            {
+                "format": "json",
+                "q": address,
+                "addressdetails": addressdetails,
+                "limit": limit,
+            }
+        )
 
         if data is None or len(data) < 1:
             return None
 
         # pierwszy punkt
         point = data[0]
-        self._logger.debug("Geo point found (%s, %s): %s", point['lat'], point['lon'], point['display_name'])
+        self._logger.debug(
+            "Geo point found (%s, %s): %s",
+            point["lat"],
+            point["lon"],
+            point["display_name"],
+        )
 
-        return {
-            "lat": float(point['lat']),
-            "lon": float(point['lon'])
-        }
+        return {"lat": float(point["lat"]), "lon": float(point["lon"])}
 
 
 class ReverseGeo(NominatimApi):
     """
     Reverse geocoding
     """
+
     def __init__(self, base_url="http://nominatim.openstreetmap.org/reverse"):
         super(ReverseGeo, self).__init__(base_url)
 
@@ -68,32 +74,28 @@ class ReverseGeo(NominatimApi):
         """
         Zwraca informacje o mieście i ulicy dla podanej lokalizacji
         """
-        data = self._query({
-            "lat": lat,
-            "lon": lon,
-            "format": "json"
-        })
+        data = self._query({"lat": lat, "lon": lon, "format": "json"})
 
-        if 'address' in data:
-            details = data['address']
-            self._logger.info('[%s] %s', data['osm_type'], details)
+        if "address" in data:
+            details = data["address"]
+            self._logger.info("[%s] %s", data["osm_type"], details)
 
             # Folwarczna
-            if 'road' in details:
-                place = details['road']
+            if "road" in details:
+                place = details["road"]
             # M1 Centrum Handlowe
-            elif 'address26' in details:
-                place = details['address26']
+            elif "address26" in details:
+                place = details["address26"]
             # Park Handlowy Franowo
-            elif 'retail' in details:
-                place = details['retail']
+            elif "retail" in details:
+                place = details["retail"]
             else:
                 return None
 
-            self._logger.info('Place: %s (%s)', place, details['city'])
+            self._logger.info("Place: %s (%s)", place, details["city"])
 
             return {
-                "city": details['city'],
+                "city": details["city"],
                 "place": place,
             }
 
