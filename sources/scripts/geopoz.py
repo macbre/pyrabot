@@ -15,28 +15,29 @@ with open("../geopoz.csv", "rt") as f:
 
     for row in rows:
         # ul.     23 Lutego
-        (category, name) = row
+        category, name = row
 
-        name = name.\
-            replace('abpa', 'Arcybiskupa').\
-            replace('św.', 'Świętego').\
-            replace('ks.', 'Księdza')
+        name = (
+            name.replace("abpa", "Arcybiskupa")
+            .replace("św.", "Świętego")
+            .replace("ks.", "Księdza")
+        )
 
-        if category == 'ul.':
-            prefix = 'Ulica'
-        elif category == 'al.':
-            prefix = 'Aleja'
-        elif category == 'os.':
-            prefix = 'Osiedle'
-        elif category == 'pl.':
-            prefix = 'Plac'
+        if category == "ul.":
+            prefix = "Ulica"
+        elif category == "al.":
+            prefix = "Aleja"
+        elif category == "os.":
+            prefix = "Osiedle"
+        elif category == "pl.":
+            prefix = "Plac"
         else:
             prefix = category.title()  # wiadukt -> Wiadukt
 
         if prefix not in points:
             points[prefix] = []
 
-        points[prefix].append(prefix + ' ' + name)
+        points[prefix].append(prefix + " " + name)
 
 # zapis do wikitekstu
 with open("../../db/geopoz.wikitext", "w") as wikitext_output:
@@ -44,6 +45,6 @@ with open("../../db/geopoz.wikitext", "w") as wikitext_output:
         wikitext_output.write("== {0} ==\n".format(category))
 
         for item in sorted(items):
-            wikitext_output.write('* [[{0}]]\n'.format(item))
+            wikitext_output.write("* [[{0}]]\n".format(item))
 
         wikitext_output.write("\n")
