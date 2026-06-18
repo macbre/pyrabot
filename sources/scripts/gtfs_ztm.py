@@ -8,6 +8,8 @@ import json
 import logging
 import requests
 
+from pandas import Series
+
 from collections import defaultdict, OrderedDict
 from os import getenv
 
@@ -54,9 +56,37 @@ trips_per_line = defaultdict(dict)  # e.g. '5': {'here': '1_8739366', 'there': '
 # lista brygad na linii
 brigades_per_line: dict[str, set[str]] = defaultdict(lambda: set())
 
+# brygady łączone
+# https://czynaczas.pl/poznan/laczony-rozklad-jazdy-brygady/linia/17/brygada/3 17/4
+# https://czynaczas.pl/poznan/laczony-rozklad-jazdy-brygady/linia/5/brygada/3 5/97
+#
+# kolejne numery trip_id: 1_13148 / 1_13149 + ten sam numer brygady
+#
+# INFO:gfts-ztm:Trip: 5: route_id                         5
+# service_id                       1
+# trip_id                  1_13148^+
+# trip_headsign               Zawady
+# direction_id                     1
+# shape_id                       919
+# wheelchair_accessible            0
+# brigade                          3
+# Name: 3861, dtype: str
+#
+# INFO:gfts-ztm:Trip: 97: route_id                            97
+# service_id                           1
+# trip_id                      1_13149^+
+# trip_headsign            Starołęka PKM
+# direction_id                         0
+# shape_id                           947
+# wheelchair_accessible                0
+# brigade                              3
+# Name: 15273, dtype: str
+trip_id_two_line: dict[int, str] = dict()
+shared_brigades: dict[str, set[str]] = defaultdict(lambda: set()) # e.g. '4': {'17'} and '17': {'4'}
+
 #       route_id service_id       trip_id   trip_headsign direction_id shape_id wheelchair_accessible brigade
 # 0            1          1  1_8737446^N+         Franowo            0  1188316                     1       1
-for _, trip in feed.trips.iterrows():
+for _, trip in feed.trips.iterrows(): # type: Series
     route_id: str = str(trip['route_id'])
     direction_name: str = 'there' if str(trip['direction_id']) == '1' else 'here'
 
@@ -69,7 +99,7 @@ for _, trip in feed.trips.iterrows():
     if route_id == '188' and not is_main:
         is_main = not str(trip['trip_id']).endswith('^R')
 
-    #if route_id not in ['2', '5', '17']: continue  # DEBUG
+    # if route_id not in ['2', '4', '5', '17', '97']: continue  # DEBUG
     # logger.info(f'Trip: {route_id}: {trip['trip_id']}')
 
     # ignorujemy wyjazdy i zjazdy do zajezdni
@@ -109,6 +139,33 @@ for _, trip in feed.trips.iterrows():
         logger.info(f"Linia {route_id} stops {direction_name}: {', '.join(stop_codes)}")
         trips_per_line[route_id][direction_name] = stop_codes
 
+    # shared brigades
+    logger.debug(f'Trip: {route_id}: {trip_id}')
+    if route_id in shared_brigades:
+        continue
+
+    # 13148 -> 5
+    # 13149 -> 97
+    trip_number = int(trip_id.split('_')[-1])
+    trip_id_two_line[trip_number] = route_id
+
+    if trip_number - 1 in trip_id_two_line:
+        other_line = trip_id_two_line[trip_number - 1]
+
+        # Trip 12284 has two lines: 4 and 17
+        # Trip 13003 has two lines: 5 and 97
+        # Trip 11203 has two lines: 12 and 201
+        # Trip 78720 has two lines: 162 and 196
+        # Trip 79345 has two lines: 167 and 911
+        # Trip 216841 has two lines: 213 and 223
+        if other_line != route_id:
+            logger.warning(f"Trip {trip_number} has two lines: {trip_id_two_line[trip_number - 1]} and {route_id}")
+
+            shared_brigades[other_line].add(route_id)
+            shared_brigades[route_id].add(other_line)
+
+# INFO:root:Brygady łączone: {'4': {'17'}, '17': {'4'}, '5': {'97'}, '97': {'5'}}
+logging.info('Brygady łączone: %r', dict(shared_brigades))
 
 logging.info('Pobieram dane o liniach...')
 
@@ -164,6 +221,7 @@ for i, route in routes.iterrows():
         trips_per_line[route['route_id']].get('there', [])
     ))
     entry['brygady'] = len(brigades_per_line[route['route_id']])  # liczba brygad na linii
+    entry['brygady_laczone'] = list(shared_brigades.get(route['route_id'], set()))
 
     # validate
     if len(entry['przystankiSymbole']) == 0:
