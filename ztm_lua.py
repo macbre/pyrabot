@@ -47,7 +47,7 @@ for line in routes['lines']:
         stops[stop].add(line['name'])
 
     # rejestruj linię
-    lines[str(line['name'])] = {
+    line_entry = {
         "typ": line['typ'],
         "petle": line['petle'],
         "kolor1": '#' + line['color1'],
@@ -56,7 +56,13 @@ for line in routes['lines']:
         "przystanki": ceil( (len(line['przystankiSymbole'])-2) / 2),
         "przebieg": line.get('przebieg'),
         "brygady": line.get('brygady'),
-   }
+    }
+
+    # opcjonalne pola
+    if line.get('brygady_laczone'):
+        line_entry['brygady_laczone'] = line.get('brygady_laczone')
+
+    lines[str(line['name'])] = line_entry
 
 
 # czytaj dane o operatorachj
