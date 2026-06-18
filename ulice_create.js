@@ -19,7 +19,7 @@ client.logIn((err, data) => {
 
 	client.getArticle(ULICA, (err, content) => {
 		// strona istnieje
-		if (typeof content !== 'undefined') {
+		if (typeof content !== 'undefined' && ! client.dryRun) {
 			throw 'Artykuł juz istnieje';
 		}
 
@@ -67,6 +67,18 @@ client.logIn((err, data) => {
 			     postcode: '61-206',
 			     country: 'Polska',
 			     country_code: 'pl' } }
+
+			  address: {
+			    road: 'Unii Europejskiej',
+			    neighbourhood: 'Osiedle Mikołaja Kopernika',
+			    quarter: 'Grunwald Południe',
+			    city: 'Poznań',
+			    state: 'województwo wielkopolskie',
+			    'ISO3166-2-lvl4': 'PL-30',
+			    postcode: '60-322',
+			    country: 'Polska',
+			    country_code: 'pl'
+			  }
 			**/
 
 /**
@@ -82,11 +94,11 @@ https://www.openstreetmap.org/way/776814487
 
 			let content = `{{Ulica infobox
 |nazwa_ulicy=${ULICA}
-|mapa_ulica={{Place|lat=${place.lat}|lon=${place.lon}|width=300}}
+|mapa_ulica={{Place|lat=${place.lat}|lon=${place.lon}|width=300|zoom=15}}
 |patron=
 |patron_wikipedia=
 |długość=
-|dzielnice=${place.address.neighbourhood}, ${place.address.suburb}
+|dzielnice=${place.address.neighbourhood}, ${place.address.suburb || place.address.quarter}
 |rok=
 |numery=
 |najwyższy_budynek=

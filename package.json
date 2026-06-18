@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "dependencies": {
     "ansicolors": "^0.3.2",
-    "diff": "^8.0.2",
+    "diff": "^9.0.0",
     "flickr-client": "^0.0.4",
     "flickr-photo-info": "^0.0.1",
-    "jsdom": "^27.2.0",
-    "nodemw": "^0.25.0"
+    "jsdom": "^29.1.1",
+    "nodemw": "^0.26.0"
   },
   "overrides": {
     "get-json": {
@@ -18,7 +18,7 @@
     }
   },
   "devDependencies": {
-    "@snyk/protect": "^1.1301.0",
+    "@snyk/protect": "^1.1305.1",
     "jshint": "^2.13.6"
   },
   "scripts": {

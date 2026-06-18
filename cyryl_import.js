@@ -2,8 +2,9 @@
 /**
  * Skrypt importujący wybrane zdjęcie z portalu Cyryl
  *
- * @see http://www.cyryl.poznan.pl/katalog.php?pdgObRozsz=1&id_obiektu=21369
  * @see https://cyryl.poznan.pl/items/search?key=CYRYL_19_1_19_0006
+ * @see https://cyryl.poznan.pl/items/search?key=CYRYL_19_17_0_1_0015
+ * @see https://cyryl.poznan.pl/items/search?key=CYRYL_195_0_0_2_0085
  */
 var bot = require('nodemw'),
 	client = new bot('config.js'),
@@ -17,60 +18,40 @@ if (!SIGN || !DEST) {
 	process.exit(1);
 }
 
-URL = 'http://www.cyryl.poznan.pl/katalog.php?reset=1&baza=obiekty&sygnatura=' + SIGN;
+URL = 'https://cyryl.poznan.pl/items/search?key=' + SIGN;
 
 client.log('Sygnatura: ' + SIGN);
 client.log('URL: ' + URL);
 client.log('Plik: ' + DEST);
+client.fetchUrl(URL, function(err, resp) {
+   if (err) throw err;
 
-client.logIn(function() {
-	var jsdom = require('jsdom');
+    // <a href="https://cyryl.poznan.pl/content/uploads/2024/12/CYRYL_19_17_0_1_0015.jpg"
+    const imageUrl = resp.match(/<a href="(https:\/\/cyryl.poznan.pl\/content\/.*?)"/)[1];
 
-	jsdom.env(
-		URL,
-		["http://code.jquery.com/jquery.js"],
-		function (errors, window) {
-			var $ = window.$,
-				imageUrl = 'http://www.cyryl.poznan.pl/' + $('.obraz > a').attr('href'),
-				author = $('.autor_obiektu > a').text() || $('.wlasciciel_obiektu > a').text(),
-				place = ($('.miejsce_obiektu > a').text() + ',').split(',')[1].trim(),
-				desc = $('.tytul_obiektu > a').text(),
-				date = $('.data_obiektu').text().split('.').pop().trim();
+    // data-caption="Projekt trasy Poznańskiego Szybkiego Tramwaju (PST, Pestki) z uwzględnieniem przystanków"
+    const imageDesc = resp.match(/data-caption="(.*?)"/)[1];
 
-			// parsuj datę
-			var matches = date.match(/\d{4}/);
-			if (matches) date = matches[0];
+    client.log('Obrazek: ' + imageUrl);
+    client.log('Opis:    ' + imageDesc);
 
-			// miejsce
-			place = place.replace('ul. ', 'Ulica ');
+    // upload
+    const params = {
+        comment: 'Import z Cyryla',
+        text: ('{{Cyryl|' + SIGN + '}}\n\n' + imageDesc).trim()
+    };
 
-			client.log('Obrazek: ' + imageUrl);
-			client.log('Autor:   ' + author);
-			client.log('Miejsce: ' + place);
-			client.log('Opis:    ' + desc);
-			client.log('Data:    ' + date);
+    client.log(params.text);
 
-			// upload
-			var params = {
-				comment: 'Import z Cyryla',
-				text: ('{{Cyryl|' + SIGN + '}}\n\nAutor: [[' + author + ']]\n\n' + desc + "\n\n[[Kategoria:" + date + "]][[Kategoria:" + author + "]][[Kategoria:" + place + "]]").trim()
-			};
+    client.log('Wrzucam plik <' + imageUrl + '> jako <' + DEST + '>...');
+    client.log(JSON.stringify(params));
 
-			client.log(params.text);
+    // dodaj zdjęcie
+    client.logIn(function() {
+        client.uploadByUrl(DEST, imageUrl, params, function (err, res) {
+            if (err) throw err;
 
-			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4_ar16x9.jpg
-			// http://www.cyryl.poznan.pl/upload_ext/kolekcje/557/tzKGtUik0FGXDHC57Dm4.jpg
-			imageUrl = imageUrl.replace(/_ar\d+x\d+\.jpg/, '.jpg');
-
-			client.log('Wrzucam plik <' + imageUrl + '> jako <' + DEST + '>...');
-			client.log(JSON.stringify(params));
-
-			// dodaj zdjęcie
-			client.uploadByUrl(DEST, imageUrl, params, function(err, res) {
-				if (err) throw err;
-
-				console.log('Import zakończony');
-			});
-		}
-	);
+            console.log('Import zakończony');
+        });
+    });
 });

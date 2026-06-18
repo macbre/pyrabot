@@ -98,10 +98,10 @@ with open("db/ztm-stops.lua", "wt") as lua:
 
     for stop in sorted(stops.keys()):
         try:
-            # a = [1, 2, 190, 'T9', 'T3']; a.sort(key=lambda line: (900 + int(line[1:]) if str(line)[0] == 'T' else line)); print(a)
+            # a = [1, 2, 190, 'T9', 'T3', 'T']; a.sort(key=lambda line: (900 + int(line[1:] or 0) if str(line)[0] == 'T' else line)); print(a)
             lines = list(map(str, stops[stop]))
             lines.sort(
-                key=lambda line: (900 + int(line[1:]) if line[0] == 'T' else int(line))
+                key=lambda line: (900 + int(line[1:] or 0) if line[0] == 'T' else int(line))
             )
         except:
             logger.error('Sorting of lines failed: ' + repr(stops[stop]), exc_info=True)
