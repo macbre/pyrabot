@@ -81,8 +81,9 @@ brigades_per_line: dict[str, set[str]] = defaultdict(lambda: set())
 # wheelchair_accessible                0
 # brigade                              3
 # Name: 15273, dtype: str
-trip_id_two_line: dict[int, str] = dict()
+trip_id_to_route_id: dict[int, str] = dict()
 shared_brigades: dict[str, set[str]] = defaultdict(lambda: set()) # e.g. '4': {'17'} and '17': {'4'}
+shared_brigades_count: dict[str, int] = defaultdict(lambda: int(0))  # there must be at least X shared trips to make lines share brigads
 
 #       route_id service_id       trip_id   trip_headsign direction_id shape_id wheelchair_accessible brigade
 # 0            1          1  1_8737446^N+         Franowo            0  1188316                     1       1
@@ -147,22 +148,35 @@ for _, trip in feed.trips.iterrows(): # type: Series
     # 13148 -> 5
     # 13149 -> 97
     trip_number = int(trip_id.split('_')[-1])
-    trip_id_two_line[trip_number] = route_id
+    trip_id_to_route_id[trip_number] = route_id
 
-    if trip_number - 1 in trip_id_two_line:
-        other_line = trip_id_two_line[trip_number - 1]
+    if trip_number - 1 in trip_id_to_route_id:
+        other_line = trip_id_to_route_id[trip_number - 1]
 
-        # Trip 12284 has two lines: 4 and 17
-        # Trip 13003 has two lines: 5 and 97
-        # Trip 11203 has two lines: 12 and 201
-        # Trip 78720 has two lines: 162 and 196
-        # Trip 79345 has two lines: 167 and 911
-        # Trip 216841 has two lines: 213 and 223
+        # INFO:gfts-ztm:Lines 1 and 13 share brigades
+        # INFO:gfts-ztm:Lines 14 and 15 share brigades
+        # INFO:gfts-ztm:Lines 4 and 17 share brigades
+        # INFO:gfts-ztm:Lines 9 and 19 share brigades
+        # INFO:gfts-ztm:Lines 5 and 97 share brigades
+        # INFO:gfts-ztm:Lines 159 and 168 share brigades
+        # INFO:gfts-ztm:Lines 152 and 166 share brigades
+        # INFO:gfts-ztm:Lines 152 and 184 share brigades
+        # INFO:gfts-ztm:Lines 157 and 185 share brigades
+        # INFO:gfts-ztm:Lines 156 and 186 share brigades
+        # INFO:gfts-ztm:Lines 189 and 194 share brigades
+        # INFO:gfts-ztm:Lines 162 and 196 share brigades
+        # INFO:gfts-ztm:Lines 792 and 797 share brigades
+        # INFO:gfts-ztm:Lines 167 and 911 share brigades
         if other_line != route_id:
-            logger.warning(f"Trip {trip_number} has two lines: {trip_id_two_line[trip_number - 1]} and {route_id}")
+            logger.debug(f"Trip {trip_number} has two lines: {trip_id_to_route_id[trip_number - 1]} and {route_id}")
 
-            shared_brigades[other_line].add(route_id)
-            shared_brigades[route_id].add(other_line)
+            key = f'{route_id}_{other_line}'
+            shared_brigades_count[key] += 1
+
+            if shared_brigades_count[key] > 3:
+                logger.info(f"Lines {trip_id_to_route_id[trip_number - 1]} and {route_id} share brigades")
+                shared_brigades[other_line].add(route_id)
+                shared_brigades[route_id].add(other_line)
 
 # INFO:root:Brygady łączone: {'4': {'17'}, '17': {'4'}, '5': {'97'}, '97': {'5'}}
 logging.info('Brygady łączone: %r', dict(shared_brigades))
