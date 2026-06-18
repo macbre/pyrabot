@@ -163,6 +163,7 @@ for _, trip in feed.trips.iterrows(): # type: Series
         # INFO:gfts-ztm:Lines 152 and 184 share brigades
         # INFO:gfts-ztm:Lines 157 and 185 share brigades
         # INFO:gfts-ztm:Lines 156 and 186 share brigades
+        # INFO:gfts-ztm:Lines 159 and 168 share brigades
         # INFO:gfts-ztm:Lines 189 and 194 share brigades
         # INFO:gfts-ztm:Lines 162 and 196 share brigades
         # INFO:gfts-ztm:Lines 792 and 797 share brigades
