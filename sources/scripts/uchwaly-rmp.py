@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
+#!/usr/bin/env python3
 """
 Skrypt generujący plik TSV z listą uchwał Rady Miasta Poznania wraz z linkowaniem jako źródło
 """
@@ -18,7 +16,7 @@ logging.basicConfig(level=logging.INFO)
 # pobierz wszystkie uchwały
 def get_all_resolutions():
     page = 1
-    url = "http://bip.poznan.pl/api-json/bip/uchwaly/{page}/"
+    url = "https://bip.poznan.pl/api-json/bip/uchwaly/{page}/"
 
     http = requests.session()
 
@@ -26,7 +24,7 @@ def get_all_resolutions():
         res = http.get(url.format(page=page)).json()
 
         try:
-            items = res["bip.poznan.pl"]["data"][0]["uchwaly"]["items"][0]["uchwala"]
+            items: list|None = res["bip.poznan.pl"]["data"][0]["uchwaly"]["items"][0]["uchwala"]
         except (TypeError, ValueError):
             items = None
 
@@ -37,19 +35,23 @@ def get_all_resolutions():
         if items is None:
             return
 
-        for item in items:
+        for item in items:  # type: dict[str, str]
             try:
                 yield [
                     str(item["id"]),
                     item["symbol"],
                     item["data_podjecia"],
-                    item["tytul"].encode("utf8"),
+                    # <p>w sprawie nadania nazw ulicom.</p>
+                    item["tytul"].replace("<p>", "").replace("</p>", ""),
                     "<ref>{{{{Uchwała RMP|{id}|{symbol}}}}}</ref>".format(**item),
                 ]
             except UnicodeEncodeError:
                 logging.error(
                     "UTF encoding failed for " + json.dumps(item), exc_info=True
                 )
+
+        last_item = items[-1]
+        logging.info(f"Last item on the page from {last_item['data_podjecia']}")
 
         # next page
         page += 1
