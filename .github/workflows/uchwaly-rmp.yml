@@ -1,0 +1,48 @@
+name: Aktualizacja uchwał Rady Miasta Poznania
+
+# Controls when the action will run. 
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '4 21 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  gtfs:
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # https://github.com/actions/checkout
+      - uses: actions/checkout@v7.0.0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies and run the script
+        run: |
+          set -x
+          cd ./sources/scripts && pwd
+          pip install -r requirements.txt
+
+          ./uchwaly-rmp.py
+
+      # https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
+      - name: Set up git
+        run: |
+          git config user.name "macbrebot"
+          git config user.email "<51094006+macbrebot@users.noreply.github.com>"
+
+      - name: Show a diff
+        run: |
+          git diff
+          git add db/
+
+      - name: Commit if needed
+        continue-on-error: true
+        run: |
+          git commit -m 'rmp: nowe uchwały' && git push origin master
