@@ -255,7 +255,7 @@ for i, route in routes.iterrows():
     entry["brygady"] = len(
         brigades_per_line[route["route_id"]]
     )  # liczba brygad na linii
-    entry["brygady_laczone"] = list(shared_brigades.get(route["route_id"], set()))
+    entry["brygady_laczone"] = sorted(list(shared_brigades.get(route["route_id"], set())))
 
     # validate
     if len(entry["przystankiSymbole"]) == 0:
