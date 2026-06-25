@@ -2,8 +2,10 @@
   "name": "pyrabot",
   "version": "0.0.0",
   "dependencies": {
+    "@eslint/js": "^10.0.1",
     "ansicolors": "^0.3.2",
     "diff": "^9.0.0",
+    "eslint": "^10.5.0",
     "flickr-client": "^0.0.4",
     "flickr-photo-info": "^0.0.1",
     "jsdom": "^29.1.1",
@@ -18,11 +20,10 @@
     }
   },
   "devDependencies": {
-    "@snyk/protect": "^1.1305.2",
-    "jshint": "^2.13.6"
+    "@snyk/protect": "^1.1305.2"
   },
   "scripts": {
-    "lint": "jshint --verbose *.js",
+    "lint": "eslint",
     "snyk-protect": "snyk-protect",
     "prepare": "npm run snyk-protect"
   },
