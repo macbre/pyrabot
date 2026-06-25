@@ -6,18 +6,9 @@
     "ansicolors": "^0.3.2",
     "diff": "^9.0.0",
     "eslint": "^10.5.0",
-    "flickr-client": "^0.0.4",
-    "flickr-photo-info": "^0.0.1",
+    "flickr-sdk": "^7.1.0",
     "jsdom": "^29.1.1",
     "nodemw": "^0.27.0"
-  },
-  "overrides": {
-    "get-json": {
-      "request": "npm:@cypress/request@^3.0.7"
-    },
-    "flickr-client": {
-      "debug": "3.x"
-    }
   },
   "devDependencies": {
     "@snyk/protect": "^1.1305.2"
