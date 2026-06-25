@@ -3,6 +3,8 @@
  * Skrypt importujący wybrane zdjęcie z Flickra
  *
  * ./flickr_import.js 20469728769 "Tórshavn - nabrzeże.jpg"
+ *
+ * @see https://github.com/flickr/flickr-sdk
  */
 var bot = require('nodemw'),
 	client = new bot('config.js'),
@@ -15,17 +17,38 @@ if (!PHOTO_ID || !DEST) {
 	process.exit(1);
 }
 
-var flickrApiKey = client.getConfig('flickrApiKey');
+/** @type { string } */
+const flickrApiKey = client.getConfig('flickrApiKey');
 
 client.log('Flickr #' + PHOTO_ID);
 client.log('Plik: ' + DEST);
 //client.log('Flickr API key: ' + flickrApiKey);
 
-function getFlickrInfo(photoId, callback) {
-	var client = require('flickr-client')({key: flickrApiKey}),
-		photoInfo = require('flickr-photo-info')(client);
+function getFlickrInfo(photo_id, callback) {
+    // https://github.com/flickr/flickr-sdk#make-a-flickr-api-call
+    const { createFlickr } = require("flickr-sdk");
+    const { flickr } = createFlickr( flickrApiKey );
 
-	photoInfo(photoId, callback);
+    Promise.all([
+        // https://www.flickr.com/services/api/flickr.photos.getInfo.htm
+        flickr("flickr.photos.getInfo", { photo_id } ),
+        // https://www.flickr.com/services/api/flickr.photos.getSizes.html
+        flickr("flickr.photos.getSizes", { photo_id })
+    ]).then(
+        ( [infoRes, sizesRes ] ) => {
+            const res = infoRes.photo;
+            res.title = res.title._content;
+
+            res['urls'] = {};
+            for (const sizesEntry of sizesRes.sizes.size) {
+                res['urls'][sizesEntry.label.toLowerCase()] = sizesEntry.source;
+            }
+
+            callback( null, res );
+        }
+    ).catch(
+        err => callback( err )
+    );
 }
 
 client.logIn(function() {
@@ -34,9 +57,12 @@ client.logIn(function() {
 			throw err;
 		}
 
-		const imageUrl = photo.urls.large,
-			authorName = photo.owner.name,
-			tags = photo.tags.map(function(tag) {
+        // console.log( 'Flickr photo info', photo );
+        // console.log( 'Tags', photo.tags.tag );
+
+		const imageUrl = photo.urls.large;
+        let authorName = photo.owner.name,
+			tags = photo.tags.tag.map(function(tag) {
 				if (!authorName) {
 					authorName = tag.authorname;
 				}
@@ -44,16 +70,23 @@ client.logIn(function() {
 				return tag._content;
 			});
 
+        const authorId = photo.owner.nsid;
+
 		// @see https://github.com/npm-flickr/flickr-photo-info#usage
 		client.log('Info:');
 		client.log(photo);
 		client.log('Desc:   ' + photo.title);
 		client.log('Image:  ' + imageUrl);
 		client.log('Author: ' + authorName);
+		client.log('ID:     ' + authorId);
 		client.log('Tags:   ' + tags);
 
 		// szablon Flickr
-		var text = photo.title + '\n\n{{MediaWiki:Flickr5|1=$1|2=$2|3=$3|4=$4}}'.replace('$1', photo.id).replace('$2', photo.owner.id).replace('$3', authorName).replace('$4', photo.owner.id);
+        // https://poznan.fandom.com/wiki/MediaWiki:Flickr5
+		var text = photo.title + '\n\n{{MediaWiki:Flickr5|1=$1|2=$2|3=$3}}'
+            .replace('$1', photo.id)
+            .replace('$2', authorId)
+            .replace('$3', authorName);
 
 		// dodaj kategorie
 		text += tags.map(function(tag) {
@@ -74,6 +107,7 @@ client.logIn(function() {
 		};
 
 		client.log('Wrzucam plik <' + imageUrl + '> jako <' + DEST + '>...');
+        client.log('Text: ' + text);
 		client.log(params);
 
 		// dodaj zdjęcie
