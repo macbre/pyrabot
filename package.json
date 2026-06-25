@@ -10,14 +10,6 @@
     "jsdom": "^29.1.1",
     "nodemw": "^0.27.0"
   },
-  "overrides": {
-    "get-json": {
-      "request": "npm:@cypress/request@^3.0.7"
-    },
-    "flickr-client": {
-      "debug": "3.x"
-    }
-  },
   "devDependencies": {
     "@snyk/protect": "^1.1305.2"
   },
