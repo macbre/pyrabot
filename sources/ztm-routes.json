@@ -1408,6 +1408,37 @@
       "brygady_laczone": []
     },
     {
+      "name": "106",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Ogrody",
+        "Ogrody"
+      ],
+      "przebieg": "OGRODY - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - OGRODY",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BUZA01",
+        "BUZA02",
+        "KOLO01",
+        "KOLO02",
+        "OGDY01",
+        "OGDY04",
+        "PILO01",
+        "PILO02",
+        "PLOT01",
+        "PLOT02",
+        "PONZ01",
+        "SMOC01",
+        "SMOC02",
+        "TATR01",
+        "TATR02"
+      ],
+      "brygady": 3,
+      "brygady_laczone": []
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -7841,7 +7872,7 @@
         "ZASPA01",
         "ZASPA02"
       ],
-      "brygady": 5,
+      "brygady": 4,
       "brygady_laczone": []
     },
     {
@@ -11408,6 +11439,8 @@
         "ZERO02",
         "ZERO06",
         "ZERO72",
+        "ZLKA01",
+        "ZLKA02",
         "ZOWY01",
         "ZOWY02"
       ],

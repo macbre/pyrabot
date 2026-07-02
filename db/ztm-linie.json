@@ -338,6 +338,18 @@
     "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":2
   },
+  "106":{
+    "typ":"tram",
+    "petle":[
+      "Ogrody",
+      "Ogrody"
+    ],
+    "kolor1":"#525252",
+    "kolor2":"#FFFFFF",
+    "przystanki":7,
+    "przebieg":"OGRODY - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - OGRODY",
+    "brygady":3
+  },
   "121":{
     "typ":"bus",
     "petle":[
@@ -1784,7 +1796,7 @@
     "kolor2":"#000000",
     "przystanki":19,
     "przebieg":"KOBYLNICA STACJA - Kobylnica/Dworcowa - Gruszczyn/Swarz\u0119dzka - Swarz\u0119dz/os. Ko\u015bciuszkowc\u00f3w - Swarz\u0119dz/Kwa\u015bniewskiego - Swarz\u0119dz/Cieszkowskiego - Swarz\u0119dz/pl. Niez\u0142omnych - Swarz\u0119dz/Ko\u015bciuszki - Swarz\u0119dz/\u015aredzka - Swarz\u0119dz/Tysi\u0105clecia - Swarz\u0119dz/Graniczna - Swarz\u0119dz/K\u00f3rnicka - Zalasewo/K\u00f3rnicka - Garby Wielkie/Tulecka - Garby Ma\u0142e/Podle\u015bna - GARBY MA\u0141E P\u0118TLA",
-    "brygady":5
+    "brygady":4
   },
   "497":{
     "typ":"bus",
@@ -2658,7 +2670,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":24,
+    "przystanki":25,
     "przebieg":"OGRODY - D\u0105browskiego - \u017beromskiego - Niestachowska - Wojska Polskiego - Gol\u0119ci\u0144ska - Koszali\u0144ska - Psarskie - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Paw\u0142owicka - Kiekrz/Czysta - Paw\u0142owice/Paw\u0142owicka - Paw\u0142owice/Szkolna - PAW\u0141OWICE P\u0118TLA",
     "brygady":8,
     "brygady_laczone":[
