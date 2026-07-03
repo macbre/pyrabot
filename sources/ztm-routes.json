@@ -1599,6 +1599,7 @@
         "BOWA02",
         "BRON01",
         "BRON02",
+        "INTP02",
         "KOSO01",
         "KULY01",
         "KULY02",
@@ -1692,7 +1693,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 10,
+      "brygady": 16,
       "brygady_laczone": [
         "159"
       ]
@@ -2172,7 +2173,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 14,
+      "brygady": 19,
       "brygady_laczone": [
         "148",
         "168"
@@ -2636,7 +2637,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 17,
+      "brygady": 21,
       "brygady_laczone": [
         "159"
       ]
@@ -3104,9 +3105,10 @@
         "GERB02",
         "GROD01",
         "GROD02",
-        "JUNI30",
+        "JUST01",
         "KLRA01",
         "KLRA02",
+        "KWIA01",
         "KWIA02",
         "LAWI01",
         "LAWI02",
@@ -3133,6 +3135,8 @@
         "SZPI04",
         "SZYL01",
         "SZYL02",
+        "TWAR01",
+        "TWAR02",
         "WIEC01",
         "WIEC02",
         "ZGOR01",
@@ -3142,7 +3146,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 6,
+      "brygady": 7,
       "brygady_laczone": [
         "727"
       ]
@@ -4224,7 +4228,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 10,
+      "brygady": 11,
       "brygady_laczone": [
         "348"
       ]
@@ -11969,7 +11973,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 12,
+      "brygady": 11,
       "brygady_laczone": [
         "167"
       ]
