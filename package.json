@@ -11,7 +11,7 @@
     "nodemw": "^0.27.0"
   },
   "devDependencies": {
-    "@snyk/protect": "^1.1305.2"
+    "@snyk/protect": "^1.1306.0"
   },
   "scripts": {
     "lint": "eslint",
