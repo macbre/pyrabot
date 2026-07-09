@@ -1163,7 +1163,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 6,
+      "brygady": 9,
       "brygady_laczone": []
     },
     {
@@ -1271,6 +1271,51 @@
         "WROC72"
       ],
       "brygady": 1,
+      "brygady_laczone": []
+    },
+    {
+      "name": "30",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Wilczak",
+        "Wilczak"
+      ],
+      "przebieg": "WILCZAK - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - WILCZAK",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "ARPO41",
+        "ARPO42",
+        "FRRY41",
+        "FRRY42",
+        "GWAR42",
+        "GWAR71",
+        "KMIE42",
+        "KMIE71",
+        "MODW72",
+        "MT44",
+        "MT73",
+        "PASI41",
+        "PASI42",
+        "POGL41",
+        "POGL73",
+        "POZN41",
+        "POZN42",
+        "PZEL41",
+        "PZEL42",
+        "RKAP73",
+        "UE71",
+        "WIKA41",
+        "WIKA42",
+        "WILC41",
+        "WILC44",
+        "ZAME71",
+        "ZAME72",
+        "ZNIW42",
+        "ZNIW71"
+      ],
+      "brygady": 6,
       "brygady_laczone": []
     },
     {
@@ -1405,37 +1450,6 @@
         "ZERO72"
       ],
       "brygady": 2,
-      "brygady_laczone": []
-    },
-    {
-      "name": "106",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Ogrody",
-        "Ogrody"
-      ],
-      "przebieg": "OGRODY - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - OGRODY",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BUZA01",
-        "BUZA02",
-        "KOLO01",
-        "KOLO02",
-        "OGDY01",
-        "OGDY04",
-        "PILO01",
-        "PILO02",
-        "PLOT01",
-        "PLOT02",
-        "PONZ01",
-        "SMOC01",
-        "SMOC02",
-        "TATR01",
-        "TATR02"
-      ],
-      "brygady": 3,
       "brygady_laczone": []
     },
     {
@@ -1586,10 +1600,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Strzeszyn PKM",
+        "Instytut Technologiczno-Przyrodniczy",
         "Boranta"
       ],
-      "przebieg": "STRZESZYN PKM - Zakopia\u0144ska - Kosowska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+      "przebieg": "INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY - Biskupi\u0144ska - Zakopia\u0144ska - Kosowska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -1640,7 +1654,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 7,
+      "brygady": 5,
       "brygady_laczone": []
     },
     {
@@ -1693,7 +1707,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 16,
+      "brygady": 10,
       "brygady_laczone": [
         "159"
       ]
@@ -2173,7 +2187,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 19,
+      "brygady": 14,
       "brygady_laczone": [
         "148",
         "168"
@@ -2637,7 +2651,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 21,
+      "brygady": 17,
       "brygady_laczone": [
         "159"
       ]
@@ -3088,10 +3102,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Junikowo",
+        "Junikowo PKM",
         "Rondo Kaponiera"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Malwowa - Z\u0142otowska - Brzechwy - Le\u015bnych Skrzat\u00f3w - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+      "przebieg": "JUNIKOWO PKM - Grunwaldzka - Malwowa - Z\u0142otowska - Brzechwy - Le\u015bnych Skrzat\u00f3w - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3147,9 +3161,7 @@
         "ZONK02"
       ],
       "brygady": 7,
-      "brygady_laczone": [
-        "727"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "178",
@@ -3427,7 +3439,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 16,
+      "brygady": 15,
       "brygady_laczone": []
     },
     {
@@ -3967,7 +3979,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 20,
+      "brygady": 18,
       "brygady_laczone": []
     },
     {
@@ -4861,6 +4873,7 @@
         "RRAT73",
         "RRAT74",
         "RSTA01",
+        "RSTA02",
         "RWSC01",
         "RWSC02",
         "STAR02",
@@ -4934,14 +4947,12 @@
         "OKOS02",
         "OLOK01",
         "OLOK02",
-        "OPIA01",
         "OPIE01",
         "OPIE02",
         "OPL01",
         "OPL03",
         "OPRZ01",
         "OPRZ02",
-        "ORZE01",
         "OSBA03",
         "OSBA04",
         "OSBP01",
@@ -10068,9 +10079,7 @@
         "ZONK02"
       ],
       "brygady": 5,
-      "brygady_laczone": [
-        "177"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "729",
@@ -11973,7 +11982,7 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 11,
+      "brygady": 12,
       "brygady_laczone": [
         "167"
       ]

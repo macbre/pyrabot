@@ -269,7 +269,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Pl. Ratajskiego - Pl. Wielkopolski - Ma\u0142e Garbary - MA\u0141E GARBARY",
-    "brygady":6,
+    "brygady":9,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=17"
   },
@@ -301,6 +301,18 @@
     "brygady":1,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=20"
+  },
+  "30":{
+    "typ":"tram",
+    "petle":[
+      "Wilczak",
+      "Wilczak"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":14,
+    "przebieg":"WILCZAK - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - Roosevelta - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - WILCZAK",
+    "brygady":6
   },
   "97":{
     "typ":"tram",
@@ -337,18 +349,6 @@
     "przystanki":7,
     "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":2
-  },
-  "106":{
-    "typ":"tram",
-    "petle":[
-      "Ogrody",
-      "Ogrody"
-    ],
-    "kolor1":"#525252",
-    "kolor2":"#FFFFFF",
-    "przystanki":7,
-    "przebieg":"OGRODY - D\u0105browskiego - Szpitalna - Nowina - D\u0105browskiego - OGRODY",
-    "brygady":3
   },
   "121":{
     "typ":"bus",
@@ -404,14 +404,14 @@
   "146":{
     "typ":"bus",
     "petle":[
-      "Strzeszyn PKM",
+      "Instytut Technologiczno-Przyrodniczy",
       "Boranta"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":22,
-    "przebieg":"STRZESZYN PKM - Zakopia\u0144ska - Kosowska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
-    "brygady":7
+    "przebieg":"INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY - Biskupi\u0144ska - Zakopia\u0144ska - Kosowska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+    "brygady":5
   },
   "148":{
     "typ":"bus",
@@ -423,7 +423,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Bukowska - Bu\u0142garska - Marceli\u0144ska - Strzegomska - Brzechwy - Bukowska - Perzycka - Z\u0142otowska - Brzechwy - Strzegomska - Marceli\u0144ska - Bu\u0142garska - Bukowska - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":16,
+    "brygady":10,
     "brygady_laczone":[
       "159"
     ]
@@ -554,7 +554,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":15,
     "przebieg":"PORT LOTNICZY \u0141AWICA - Bukowska - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":19,
+    "brygady":14,
     "brygady_laczone":[
       "148",
       "168"
@@ -660,7 +660,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":21,
     "przebieg":"STRZESZYN PKM - Zakopia\u0144ska - Kosowska - Strzeszy\u0144ska - Jurasz\u00f3w - Pi\u0105tkowska - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - Przepadek - Al. Niepodleg\u0142o\u015bci - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":21,
+    "brygady":17,
     "brygady_laczone":[
       "159"
     ]
@@ -761,17 +761,14 @@
   "177":{
     "typ":"bus",
     "petle":[
-      "Junikowo",
+      "Junikowo PKM",
       "Rondo Kaponiera"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":24,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Malwowa - Z\u0142otowska - Brzechwy - Le\u015bnych Skrzat\u00f3w - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-    "brygady":7,
-    "brygady_laczone":[
-      "727"
-    ]
+    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Malwowa - Z\u0142otowska - Brzechwy - Le\u015bnych Skrzat\u00f3w - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+    "brygady":7
   },
   "178":{
     "typ":"bus",
@@ -837,7 +834,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":26,
     "przebieg":"OS. WICHROWE WZG\u00d3RZE - Murawa - S\u0142owia\u0144ska - Maczka - Wojska Polskiego - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Grochowska - Arciszewskiego - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
-    "brygady":16
+    "brygady":15
   },
   "183":{
     "typ":"bus",
@@ -948,7 +945,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":34,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Po\u0142abska - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - S\u0142owia\u0144ska - Maczka - Nad Wierzbakiem - \u015bw. Wawrzy\u0144ca - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - OS. KOPERNIKA",
-    "brygady":20
+    "brygady":18
   },
   "193":{
     "typ":"bus",
@@ -1145,7 +1142,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":47,
+    "przystanki":46,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - FRANOWO",
     "brygady":5
   },
@@ -2365,9 +2362,6 @@
     "przystanki":16,
     "przebieg":"PAL\u0118DZIE DWORZEC KOLEJOWY - Pal\u0119dzie/Kolejowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - D\u0105browa/Le\u015bna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
     "brygady":5,
-    "brygady_laczone":[
-      "177"
-    ],
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=727"
   },
@@ -2791,7 +2785,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":37,
     "przebieg":"BIEDRUSKO PARK - Biedrusko/Zjednoczenia - Biedrusko/Pozna\u0144ska - Radojewo - Naramowicka - Krygowskiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Kr\u00f3lowej Jadwigi - Krzywoustego - RONDO RATAJE",
-    "brygady":11,
+    "brygady":12,
     "brygady_laczone":[
       "167"
     ],
