@@ -29,7 +29,7 @@
         "SZWE01",
         "SZWE03"
       ],
-      "brygady": 9,
+      "brygady": 7,
       "brygady_laczone": []
     },
     {
@@ -65,7 +65,7 @@
         "WEGO01",
         "WEGO02"
       ],
-      "brygady": 24,
+      "brygady": 18,
       "brygady_laczone": []
     },
     {
@@ -2551,7 +2551,6 @@
       ],
       "brygady": 12,
       "brygady_laczone": [
-        "214",
         "911"
       ]
     },
@@ -2822,9 +2821,7 @@
         "ZNTK02"
       ],
       "brygady": 14,
-      "brygady_laczone": [
-        "215"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "173",
@@ -3951,7 +3948,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4545,9 +4542,7 @@
         "WLOD02"
       ],
       "brygady": 4,
-      "brygady_laczone": [
-        "167"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "215",
@@ -4642,9 +4637,7 @@
         "WYLO02"
       ],
       "brygady": 6,
-      "brygady_laczone": [
-        "171"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "216",
@@ -5469,57 +5462,6 @@
         "ZAWA02"
       ],
       "brygady": 5,
-      "brygady_laczone": []
-    },
-    {
-      "name": "231",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Wroc\u0142awska",
-        "Unii Lubelskiej"
-      ],
-      "przebieg": "WROC\u0141AWSKA - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Brne\u0144ska - Milcza\u0144ska - Inflancka - Pia\u015bnicka - Chartowo - \u017begrze - Unii Lubelskiej - UNII LUBELSKIEJ",
-      "color1": "000000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BOBR02",
-        "BRKA01",
-        "BRKA02",
-        "KORN78",
-        "LAKO42",
-        "MORO71",
-        "MORO72",
-        "OCZ71",
-        "OCZ72",
-        "OJAG02",
-        "OJAG03",
-        "ORGN01",
-        "ORGN02",
-        "OSTY01",
-        "OSTY02",
-        "PLBE02",
-        "PLBE71",
-        "PLWL42",
-        "PP71",
-        "PP72",
-        "RRAT73",
-        "RRAT74",
-        "TADE01",
-        "TADE02",
-        "UNLU01",
-        "UNLU02",
-        "WIAT02",
-        "WIAT03",
-        "WROC71",
-        "Z I01",
-        "Z I02",
-        "Z II01",
-        "Z II02",
-        "ZIII01",
-        "ZIII02"
-      ],
-      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -7448,9 +7390,7 @@
         "ZATRA03"
       ],
       "brygady": 7,
-      "brygady_laczone": [
-        "499"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "485",
@@ -7930,9 +7870,7 @@
         "ZATRA02"
       ],
       "brygady": 12,
-      "brygady_laczone": [
-        "484"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "501",
@@ -9611,9 +9549,7 @@
         "WABUK02"
       ],
       "brygady": 3,
-      "brygady_laczone": [
-        "707"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "704",
@@ -9720,9 +9656,7 @@
         "WABUK02"
       ],
       "brygady": 3,
-      "brygady_laczone": [
-        "703"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "710",
@@ -10220,7 +10154,7 @@
         "KNSEZ02",
         "TLPET01"
       ],
-      "brygady": 3,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -10254,9 +10188,7 @@
         "WKSZK02"
       ],
       "brygady": 3,
-      "brygady_laczone": [
-        "797"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "795",
@@ -10320,7 +10252,7 @@
         "ZKZAC01",
         "ZKZAC02"
       ],
-      "brygady": 2,
+      "brygady": 1,
       "brygady_laczone": []
     },
     {
@@ -10370,10 +10302,8 @@
         "SKSZA01",
         "SKSZA02"
       ],
-      "brygady": 4,
-      "brygady_laczone": [
-        "792"
-      ]
+      "brygady": 3,
+      "brygady_laczone": []
     },
     {
       "name": "798",

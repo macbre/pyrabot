@@ -9,7 +9,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":7,
     "przebieg":"BOBRZA\u0143SKA - \u017begrze - Chartowo - Pia\u015bnicka - Kurlandzka - Szwajcarska - Szwedzka - Szwajcarska - SZWAJCARSKA CENTRUM HANDLOWE",
-    "brygady":9
+    "brygady":7
   },
   "T6":{
     "typ":"bus",
@@ -21,7 +21,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":9,
     "przebieg":"JUNIKOWO - Grunwaldzka - JUNIKOWO",
-    "brygady":24
+    "brygady":18
   },
   "T7":{
     "typ":"bus",
@@ -651,7 +651,6 @@
     "przebieg":"RADOJEWO - Pio\u0142unowa - Radojewo - Naramowicka - Krygowskiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Szel\u0105gowska - Garbary - Kr\u00f3lowej Jadwigi - Krzywoustego - RONDO RATAJE",
     "brygady":12,
     "brygady_laczone":[
-      "214",
       "911"
     ]
   },
@@ -704,10 +703,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":29,
     "przebieg":"OS. WICHROWE WZG\u00d3RZE - Murawa - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - Przepadek - Al. Niepodleg\u0142o\u015bci - Towarowa - Al. Kr\u00f3la Przemys\u0142a II - Przemys\u0142owa - Robocza - 28 Czerwca 1956 r. - Rolna - Wsp\u00f3lna - Dolna Wilda - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - OS. D\u0118BINA",
-    "brygady":14,
-    "brygady_laczone":[
-      "215"
-    ]
+    "brygady":14
   },
   "173":{
     "typ":"bus",
@@ -961,7 +957,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":20,
     "brygady_laczone":[
       "163"
@@ -1073,10 +1069,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":43,
     "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Umultowska - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
-    "brygady":4,
-    "brygady_laczone":[
-      "167"
-    ]
+    "brygady":4
   },
   "215":{
     "typ":"bus",
@@ -1088,10 +1081,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":39,
     "przebieg":"OS. D\u0118BINA - 28 Czerwca 1956 r. - \u0141ozowa - Czechos\u0142owacka - Dolna Wilda - Rolna - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Al. Kr\u00f3la Przemys\u0142a II - Towarowa - Sk\u0142adowa - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Ksi\u0119cia Mieszka I - Aleje Solidarno\u015bci - Po\u0142abska - Lechicka - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":6,
-    "brygady_laczone":[
-      "171"
-    ]
+    "brygady":6
   },
   "216":{
     "typ":"bus",
@@ -1233,21 +1223,6 @@
     "przystanki":16,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zawady - G\u0142\u00f3wna - Gdy\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Pi\u0142sudskiego - KOZIEG\u0141OWY OS. LE\u015aNE",
     "brygady":5
-  },
-  "231":{
-    "typ":"bus",
-    "petle":[
-      "Wroc\u0142awska",
-      "Unii Lubelskiej"
-    ],
-    "kolor1":"#000000",
-    "kolor2":"#FFFFFF",
-    "przystanki":17,
-    "przebieg":"WROC\u0141AWSKA - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Brne\u0144ska - Milcza\u0144ska - Inflancka - Pia\u015bnicka - Chartowo - \u017begrze - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":2,
-    "night":true,
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=231"
   },
   "250":{
     "typ":"bus",
@@ -1671,10 +1646,7 @@
     "kolor2":"#000000",
     "przystanki":6,
     "przebieg":"SWARZ\u0118DZ W\u0118ZE\u0141 PRZESIADKOWY - Swarz\u0119dz/Tabaki - Swarz\u0119dz/pl. Niez\u0142omnych - Swarz\u0119dz/Polna - Swarz\u0119dz/\u015aredzka - Swarz\u0119dz/Tysi\u0105clecia - Swarz\u0119dz/Graniczna - Swarz\u0119dz/K\u00f3rnicka - Zalasewo/K\u00f3rnicka - Zalasewo/Transportowa - ZALASEWO OS. LE\u015aNE",
-    "brygady":7,
-    "brygady_laczone":[
-      "499"
-    ]
+    "brygady":7
   },
   "485":{
     "typ":"bus",
@@ -1818,10 +1790,7 @@
     "kolor2":"#000000",
     "przystanki":17,
     "przebieg":"ZALASEWO OS. LE\u015aNE - Zalasewo/Transportowa - Zalasewo/Planetarna - Swarz\u0119dz/Armii Pozna\u0144 - Swarz\u0119dz/Geremka - Swarz\u0119dz/Graniczna - Swarz\u0119dz/K\u00f3rnicka - Swarz\u0119dz/\u015aredzka - Swarz\u0119dz/Polna - Swarz\u0119dz/Cieszkowskiego - Swarz\u0119dz/Kwa\u015bniewskiego - Swarz\u0119dz/os. Ko\u015bciuszkowc\u00f3w - SWARZ\u0118DZ OS. KO\u015aCIUSZKOWC\u00d3W",
-    "brygady":12,
-    "brygady_laczone":[
-      "484"
-    ]
+    "brygady":12
   },
   "501":{
     "typ":"bus",
@@ -2250,9 +2219,6 @@
     "przystanki":23,
     "przebieg":"G\u00d3RCZYN PKM - Zgoda - G\u0142ogowska - Komorniki/Pozna\u0144ska - Szreniawa/Pozna\u0144ska - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Bukowa - Walerianowo/Bukowa - Rosnowo/Bukowa - Chom\u0119cice/Pozna\u0144ska - Konarzewo/Pozna\u0144ska - KONARZEWO P\u0118TLA",
     "brygady":3,
-    "brygady_laczone":[
-      "707"
-    ],
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=703"
   },
@@ -2280,10 +2246,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"G\u00d3RCZYN PKM - G\u0142ogowska - Komorniki/Pozna\u0144ska - Szreniawa/Sadowa - Rosnowo/Sadowa - Walerianowo/Bukowa - Rosn\u00f3wko/Bukowa - Rosn\u00f3wko/Termalna - Rosn\u00f3wko/Pozna\u0144ska - Rosn\u00f3wko/Dworcowa - ROSN\u00d3WKO PKM",
-    "brygady":3,
-    "brygady_laczone":[
-      "703"
-    ]
+    "brygady":3
   },
   "710":{
     "typ":"bus",
@@ -2399,7 +2362,7 @@
     "kolor2":"#000000",
     "przystanki":8,
     "przebieg":"TRZCIELIN P\u0118TLA - Trzcielin/Kopy - Konarzewo/Ko\u015bcielna - Konarzewo/Pozna\u0144ska - Konarzewo/Ko\u015bcielna - Konarzewo/Dopiewska - Dopiewo/Dopiewska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
-    "brygady":3
+    "brygady":2
   },
   "792":{
     "typ":"bus",
@@ -2411,10 +2374,7 @@
     "kolor2":"#000000",
     "przystanki":8,
     "przebieg":"WI\u0118CKOWICE SZKO\u0141A - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
-    "brygady":3,
-    "brygady_laczone":[
-      "797"
-    ]
+    "brygady":3
   },
   "795":{
     "typ":"bus",
@@ -2438,7 +2398,7 @@
     "kolor2":"#000000",
     "przystanki":10,
     "przebieg":"D\u0104BROWA KR\u00d3TKA - D\u0105browa/Wiejska - D\u0105browa/Pozna\u0144ska - Zakrzewo/Gajowa - Zakrzewo/D\u0142uga - D\u0105br\u00f3wka/D\u0142uga - D\u0105br\u00f3wka/Pozna\u0144ska - Pal\u0119dzie/Kolejowa - D\u0105br\u00f3wka/Ja\u0142owcowa - D\u0104BR\u00d3WKA SZKO\u0141A",
-    "brygady":2
+    "brygady":1
   },
   "797":{
     "typ":"bus",
@@ -2450,10 +2410,7 @@
     "kolor2":"#000000",
     "przystanki":16,
     "przebieg":"RONDO \u0141AWICKICH WYDM - Pozna\u0144ska - Sk\u00f3rzewo/Pozna\u0144ska - Sk\u00f3rzewo/Kozierowskiego - D\u0105browa/Wiejska - D\u0105browa/Le\u015bna - D\u0105br\u00f3wka/D\u0142uga - D\u0105br\u00f3wka/Pozna\u0144ska - Pal\u0119dzie/Pocztowa - Dopiewiec/Szkolna - Dopiewiec/Pozna\u0144ska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
-    "brygady":4,
-    "brygady_laczone":[
-      "792"
-    ]
+    "brygady":3
   },
   "798":{
     "typ":"bus",
