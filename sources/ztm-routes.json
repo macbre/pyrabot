@@ -29,7 +29,7 @@
         "SZWE01",
         "SZWE03"
       ],
-      "brygady": 7,
+      "brygady": 6,
       "brygady_laczone": []
     },
     {
@@ -65,7 +65,7 @@
         "WEGO01",
         "WEGO02"
       ],
-      "brygady": 18,
+      "brygady": 22,
       "brygady_laczone": []
     },
     {
@@ -86,26 +86,7 @@
         "ROSR04",
         "ROSR30"
       ],
-      "brygady": 3,
-      "brygady_laczone": []
-    },
-    {
-      "name": "0",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Biblioteka Uniwersytecka",
-        "27 Grudnia",
-        "Teatr Polski"
-      ],
-      "przebieg": "BIBLIOTEKA UNIWERSYTECKA - Ratajczaka - 27 Grudnia - 27 GRUDNIA - TEATR POLSKI",
-      "color1": "0D7B49",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BIUN72",
-        "GRUD72"
-      ],
-      "brygady": 1,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -1163,7 +1144,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 19,
+      "brygady": 17,
       "brygady_laczone": [
         "12"
       ]
@@ -1948,7 +1929,7 @@
         "WIEP01",
         "WIEP02"
       ],
-      "brygady": 21,
+      "brygady": 20,
       "brygady_laczone": [
         "152"
       ]
@@ -2045,9 +2026,7 @@
         "ZIEM02"
       ],
       "brygady": 7,
-      "brygady_laczone": [
-        "185"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "158",
@@ -2095,9 +2074,7 @@
         "ZEGL02"
       ],
       "brygady": 8,
-      "brygady_laczone": [
-        "221"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "159",
@@ -2258,7 +2235,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 15,
+      "brygady": 14,
       "brygady_laczone": [
         "196"
       ]
@@ -2321,8 +2298,7 @@
       ],
       "brygady": 20,
       "brygady_laczone": [
-        "160",
-        "193"
+        "160"
       ]
     },
     {
@@ -3118,7 +3094,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 7,
+      "brygady": 9,
       "brygady_laczone": []
     },
     {
@@ -3624,9 +3600,7 @@
         "ZAWA02"
       ],
       "brygady": 14,
-      "brygady_laczone": [
-        "157"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "186",
@@ -3948,7 +3922,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4024,9 +3998,7 @@
         "ZERO72"
       ],
       "brygady": 20,
-      "brygady_laczone": [
-        "163"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "194",
@@ -5085,9 +5057,7 @@
         "ZEGL02"
       ],
       "brygady": 3,
-      "brygady_laczone": [
-        "158"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "222",
@@ -6054,7 +6024,8 @@
       ],
       "brygady": 9,
       "brygady_laczone": [
-        "321"
+        "321",
+        "342"
       ]
     },
     {
@@ -6343,9 +6314,7 @@
         "ZAWA03"
       ],
       "brygady": 6,
-      "brygady_laczone": [
-        "342"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "342",
@@ -6442,7 +6411,7 @@
       ],
       "brygady": 7,
       "brygady_laczone": [
-        "341"
+        "320"
       ]
     },
     {
@@ -6909,8 +6878,7 @@
       "brygady": 15,
       "brygady_laczone": [
         "406",
-        "407",
-        "412"
+        "407"
       ]
     },
     {
@@ -7057,7 +7025,6 @@
       ],
       "brygady": 20,
       "brygady_laczone": [
-        "405",
         "486",
         "498"
       ]
@@ -7227,8 +7194,7 @@
       ],
       "brygady": 13,
       "brygady_laczone": [
-        "432",
-        "433"
+        "432"
       ]
     },
     {
@@ -7359,9 +7325,7 @@
         "WIEP02"
       ],
       "brygady": 6,
-      "brygady_laczone": [
-        "431"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "484",
@@ -8073,9 +8037,7 @@
         "ZSNZ02"
       ],
       "brygady": 4,
-      "brygady_laczone": [
-        "512"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "512",
@@ -8173,9 +8135,7 @@
         "ZSNZ02"
       ],
       "brygady": 4,
-      "brygady_laczone": [
-        "511"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "527",
@@ -11216,8 +11176,7 @@
       ],
       "brygady": 12,
       "brygady_laczone": [
-        "833",
-        "837"
+        "833"
       ]
     },
     {
@@ -11286,9 +11245,7 @@
         "ZOWY02"
       ],
       "brygady": 8,
-      "brygady_laczone": [
-        "835"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "882",
