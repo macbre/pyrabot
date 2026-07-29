@@ -1322,6 +1322,54 @@
       "brygady_laczone": []
     },
     {
+      "name": "105",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Strzeszynek",
+        "Rondo Kaponiera"
+      ],
+      "przebieg": "STRZESZYNEK - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Niestachowska - \u017beromskiego - Przybyszewskiego - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BUKO01",
+        "FIEL01",
+        "FIEL02",
+        "GOKA01",
+        "GOKA02",
+        "GOLE01",
+        "GOLE02",
+        "KONT01",
+        "KONT02",
+        "KRAJ01",
+        "KRAJ02",
+        "LITA01",
+        "LITA02",
+        "NIES01",
+        "NIES02",
+        "POLN01",
+        "POLN02",
+        "RKAP01",
+        "RKAP02",
+        "STEK01",
+        "STEK02",
+        "STST01",
+        "SZYL01",
+        "SZYL02",
+        "WOPO02",
+        "WOPO03",
+        "WOPO08",
+        "ZERO01",
+        "ZERO02",
+        "ZERO06",
+        "ZOWY01",
+        "ZOWY02"
+      ],
+      "brygady": 10,
+      "brygady_laczone": []
+    },
+    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1680,7 +1728,7 @@
         "WRTV01",
         "WRTV02"
       ],
-      "brygady": 4,
+      "brygady": 5,
       "brygady_laczone": []
     },
     {
