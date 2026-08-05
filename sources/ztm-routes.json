@@ -1462,54 +1462,6 @@
       "brygady_laczone": []
     },
     {
-      "name": "105",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Strzeszynek",
-        "Rondo Kaponiera"
-      ],
-      "przebieg": "STRZESZYNEK - Koszali\u0144ska - Gol\u0119ci\u0144ska - Wojska Polskiego - Niestachowska - \u017beromskiego - Przybyszewskiego - Bukowska - Zwierzyniecka - RONDO KAPONIERA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BUKO01",
-        "FIEL01",
-        "FIEL02",
-        "GOKA01",
-        "GOKA02",
-        "GOLE01",
-        "GOLE02",
-        "KONT01",
-        "KONT02",
-        "KRAJ01",
-        "KRAJ02",
-        "LITA01",
-        "LITA02",
-        "NIES01",
-        "NIES02",
-        "POLN01",
-        "POLN02",
-        "RKAP01",
-        "RKAP02",
-        "STEK01",
-        "STEK02",
-        "STST01",
-        "SZYL01",
-        "SZYL02",
-        "WOPO02",
-        "WOPO03",
-        "WOPO08",
-        "ZERO01",
-        "ZERO02",
-        "ZERO06",
-        "ZOWY01",
-        "ZOWY02"
-      ],
-      "brygady": 10,
-      "brygady_laczone": []
-    },
-    {
       "name": "121",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1931,7 +1883,7 @@
         "ZELA01",
         "ZELA02"
       ],
-      "brygady": 21,
+      "brygady": 20,
       "brygady_laczone": [
         "154",
         "166",
@@ -3322,7 +3274,7 @@
         "TREB01",
         "TREB02"
       ],
-      "brygady": 11,
+      "brygady": 10,
       "brygady_laczone": [
         "145"
       ]
@@ -4527,7 +4479,7 @@
         "TERM02",
         "URWO01"
       ],
-      "brygady": 2,
+      "brygady": 3,
       "brygady_laczone": []
     },
     {
@@ -4873,7 +4825,7 @@
         "Osiedle Sobieskiego",
         "Szwajcarska Centrum Handlowe"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - \u017begrze - Chartowo - Pia\u015bnicka - Kurlandzka - Szwajcarska - SZWAJCARSKA CENTRUM HANDLOWE",
+      "przebieg": "OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Opie\u0144skiego - Umultowska - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Murawa - S\u0142owia\u0144ska - Ksi\u0119cia Mieszka I - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - SZWAJCARSKA CENTRUM HANDLOWE",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -7308,7 +7260,7 @@
         "Kleszczewo Park",
         "Rondo Rataje"
       ],
-      "przebieg": "KLESZCZEWO PARK - Kleszczewo/Pozna\u0144ska - Trzek/Trzek - Tanib\u00f3rz/Pozna\u0144ska - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
+      "przebieg": "KLESZCZEWO PARK - Kleszczewo/Pozna\u0144ska - Trzek/Trzek - Tanib\u00f3rz/Pozna\u0144ska - Gowarzewo/Swarz\u0119dzka - Gowarzewo/Topolowa - Gowarzewo/Swarz\u0119dzka - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -10222,7 +10174,7 @@
         "Tarnowo Podg\u00f3rne Termy",
         "Dopiewo Dworzec Kolejowy"
       ],
-      "przebieg": "TARNOWO PDG TERMY - Tarnowo Pdg/Nowa - Tarnowo Pdg/Pozna\u0144ska - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Tarnowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Otowska - Sieros\u0142aw/Prosta - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
+      "przebieg": "TARNOWO PDG TERMY - Tarnowo Pdg/Nowa - Tarnowo Pdg/Pozna\u0144ska - Jankowice/Pozna\u0144ska - Lus\u00f3wko/Tarnowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Dopiewska - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Wi\u0119ckowice/Gromadzka - Fia\u0142kowo/Gromadzka - Dopiewo/Wi\u0119ckowska - Dopiewo/Pozna\u0144ska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
       "color1": "FFFFFF",
       "color2": "000000",
       "przystankiSymbole": [
@@ -10243,15 +10195,14 @@
         "LKBOS02",
         "LKDOP01",
         "LKDOP02",
-        "LKPET01",
-        "LKPET02",
+        "LKKOS01",
+        "LKKOS02",
+        "LKRPE01",
+        "LKSTO01",
+        "LKSTO02",
         "LKSZA01",
         "LKSZA02",
-        "SIDWA01",
-        "SIDWA02",
         "SIDZI01",
-        "SIJED01",
-        "SIJED02",
         "SIKSZ01",
         "SIKSZ02",
         "SIPRO01",
