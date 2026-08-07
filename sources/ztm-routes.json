@@ -1824,7 +1824,7 @@
         "WRTV01",
         "WRTV02"
       ],
-      "brygady": 5,
+      "brygady": 6,
       "brygady_laczone": []
     },
     {
@@ -2104,7 +2104,7 @@
         "ZIEM01",
         "ZIEM02"
       ],
-      "brygady": 3,
+      "brygady": 4,
       "brygady_laczone": []
     },
     {
@@ -3443,7 +3443,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 15,
+      "brygady": 16,
       "brygady_laczone": []
     },
     {
@@ -3595,7 +3595,7 @@
         "WOLK02",
         "ZOO02"
       ],
-      "brygady": 20,
+      "brygady": 21,
       "brygady_laczone": [
         "152"
       ]
@@ -3668,7 +3668,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 6,
+      "brygady": 7,
       "brygady_laczone": []
     },
     {
@@ -6113,8 +6113,7 @@
         "KAIN02",
         "KCJON01",
         "KCJON02",
-        "KCPET02",
-        "KCPET95",
+        "KCPET01",
         "KCSZK01",
         "KCSZK02",
         "KORO01",
@@ -6173,8 +6172,7 @@
         "KAIN02",
         "KCJON01",
         "KCJON02",
-        "KCPET02",
-        "KCPET95",
+        "KCPET01",
         "KCSZK01",
         "KCSZK02",
         "KZDZI01",
@@ -6294,8 +6292,8 @@
         "GLOW02",
         "KAIN01",
         "KAIN02",
+        "KCPET01",
         "KCPET02",
-        "KCPET95",
         "KCPRO01",
         "KCPRO02",
         "KCROL01",
@@ -6648,8 +6646,8 @@
         "DEWIA01",
         "KCJON01",
         "KCJON02",
+        "KCPET01",
         "KCPET02",
-        "KCPET95",
         "KCROL01",
         "KCROL02",
         "KCSZK01",
@@ -6796,8 +6794,7 @@
         "KCJON02",
         "KCNOS01",
         "KCNOS02",
-        "KCPET02",
-        "KCPET95",
+        "KCPET01",
         "KCSZK01",
         "KCSZK02",
         "KZDZI01",
@@ -7331,7 +7328,7 @@
         "Kleszczewo Park",
         "Rondo Rataje"
       ],
-      "przebieg": "KLESZCZEWO PARK - Bylin/Bylin - Nagradowice/Nagradowice - Komorniki gm.Kleszczewo/Bylin - Komorniki gm.Kleszczewo/Komorniki k.Kleszczewa - Tanib\u00f3rz/Jesionowa - Gowarzewo/Jesionowa - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
+      "przebieg": "KLESZCZEWO PARK - Kleszczewo/Sportowa - Bylin/Bylin - Nagradowice/Nagradowice - Komorniki gm.Kleszczewo/Bylin - Komorniki gm.Kleszczewo/Komorniki k.Kleszczewa - Tanib\u00f3rz/Jesionowa - Gowarzewo/Jesionowa - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -7344,6 +7341,8 @@
         "GWSNI01",
         "GWSNI02",
         "KLPAR01",
+        "KLSTR01",
+        "KLSTR02",
         "KLSZO01",
         "KLWEZ01",
         "KXBYL01",
@@ -7602,7 +7601,7 @@
         "Markowice Centrum",
         "Kleszczewo Park"
       ],
-      "przebieg": "MARKOWICE CENTRUM - Markowice/Markowice - Krerowo/Krerowo - Zimin/Zimin - \u015ar\u00f3dka/\u015ar\u00f3dka - Krzy\u017cowniki/Krzy\u017cowniki - Nagradowice/Nagradowice - Bylin/Bylin - Kleszczewo/Pozna\u0144ska - KLESZCZEWO PARK",
+      "przebieg": "MARKOWICE CENTRUM - Markowice/Markowice - Krerowo/Krerowo - Zimin/Zimin - \u015ar\u00f3dka/\u015ar\u00f3dka - Krzy\u017cowniki/Krzy\u017cowniki - Nagradowice/Nagradowice - Bylin/Bylin - Kleszczewo/Sportowa - Kleszczewo/Pozna\u0144ska - KLESZCZEWO PARK",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -7615,6 +7614,8 @@
         "KEPAL01",
         "KEPAL02",
         "KLPAR01",
+        "KLSTR01",
+        "KLSTR02",
         "KLSZO01",
         "KLWEZ01",
         "KVPET02",

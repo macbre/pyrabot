@@ -463,7 +463,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":17,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Rubie\u017c - Bielicowa - Nowa Mleczarska - Karpia - Al. Praw Kobiet - \u0141u\u017cycka - Stoi\u0144skiego - Wiechowicza - Kurpi\u0144skiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":5
+    "brygady":6
   },
   "152":{
     "typ":"bus",
@@ -534,7 +534,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":16,
     "przebieg":"PUSTA - Warszawska - Browarna - Abpa Dymka - Abpa Baraniaka - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":3
+    "brygady":4
   },
   "158":{
     "typ":"bus",
@@ -844,7 +844,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":26,
     "przebieg":"OS. WICHROWE WZG\u00d3RZE - Murawa - S\u0142owia\u0144ska - Maczka - Wojska Polskiego - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Grochowska - Arciszewskiego - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
-    "brygady":15
+    "brygady":16
   },
   "183":{
     "typ":"bus",
@@ -871,7 +871,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":30,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - Kra\u0144cowa - NOWE ZOO",
-    "brygady":20,
+    "brygady":21,
     "brygady_laczone":[
       "152"
     ]
@@ -886,7 +886,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":27,
     "przebieg":"OS. SOBIESKIEGO - Str\u00f3\u017cy\u0144skiego - Szeligowskiego - Szymanowskiego - Str\u00f3\u017cy\u0144skiego - Jaroczy\u0144skiego - Kurpi\u0144skiego - Wiechowicza - Umultowska - Lechicka - Murawa - Aleje Solidarno\u015bci - Serbska - Ba\u0142tycka - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-    "brygady":6
+    "brygady":7
   },
   "186":{
     "typ":"bus",
@@ -1488,7 +1488,7 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":25,
+    "przystanki":24,
     "przebieg":"KOZIEG\u0141OWY SZKO\u0141A - Kozieg\u0142owy/Piaskowa - Kozieg\u0142owy/Pozna\u0144ska - Kicin/Pozna\u0144ska - Kicin/Nowe Osiedle - Czerwonak/Zdroje - Czerwonak/\u0179r\u00f3dlana - Czerwonak/Le\u015bna - Czerwonak/Gdy\u0144ska - Mi\u0119kowo/Pozna\u0144ska - Owi\u0144ska/Pozna\u0144ska - Owi\u0144ska/Kolejowa - Owi\u0144ska/Dworcowa - Owi\u0144ska/Zielona - Bolech\u00f3wko/Lipowa - Potasze/Lipowa - POTASZE JOD\u0141OWA",
     "brygady":2,
     "agency":"TRANSKOM",
@@ -1644,8 +1644,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":27,
-    "przebieg":"KLESZCZEWO PARK - Bylin/Bylin - Nagradowice/Nagradowice - Komorniki gm.Kleszczewo/Bylin - Komorniki gm.Kleszczewo/Komorniki k.Kleszczewa - Tanib\u00f3rz/Jesionowa - Gowarzewo/Jesionowa - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
+    "przystanki":28,
+    "przebieg":"KLESZCZEWO PARK - Kleszczewo/Sportowa - Bylin/Bylin - Nagradowice/Nagradowice - Komorniki gm.Kleszczewo/Bylin - Komorniki gm.Kleszczewo/Komorniki k.Kleszczewa - Tanib\u00f3rz/Jesionowa - Gowarzewo/Jesionowa - Gowarzewo/Tulecka - Tulce/Kra\u0144cowa - Tulce/Pozna\u0144ska - Szczepankowo - Krzywoustego - RONDO RATAJE",
     "brygady":12,
     "brygady_laczone":[
       "431"
@@ -1716,8 +1716,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":15,
-    "przebieg":"MARKOWICE CENTRUM - Markowice/Markowice - Krerowo/Krerowo - Zimin/Zimin - \u015ar\u00f3dka/\u015ar\u00f3dka - Krzy\u017cowniki/Krzy\u017cowniki - Nagradowice/Nagradowice - Bylin/Bylin - Kleszczewo/Pozna\u0144ska - KLESZCZEWO PARK",
+    "przystanki":16,
+    "przebieg":"MARKOWICE CENTRUM - Markowice/Markowice - Krerowo/Krerowo - Zimin/Zimin - \u015ar\u00f3dka/\u015ar\u00f3dka - Krzy\u017cowniki/Krzy\u017cowniki - Nagradowice/Nagradowice - Bylin/Bylin - Kleszczewo/Sportowa - Kleszczewo/Pozna\u0144ska - KLESZCZEWO PARK",
     "brygady":4
   },
   "490":{
