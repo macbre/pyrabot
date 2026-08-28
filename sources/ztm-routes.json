@@ -596,7 +596,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 8,
+      "brygady": 9,
       "brygady_laczone": []
     },
     {
@@ -707,7 +707,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 12,
+      "brygady": 13,
       "brygady_laczone": []
     },
     {
@@ -780,7 +780,7 @@
         "WSPO41",
         "WSPO42"
       ],
-      "brygady": 14,
+      "brygady": 15,
       "brygady_laczone": [
         "11"
       ]
@@ -928,7 +928,7 @@
         "WINI41",
         "WINI42"
       ],
-      "brygady": 14,
+      "brygady": 16,
       "brygady_laczone": [
         "9"
       ]
@@ -1002,7 +1002,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 11,
+      "brygady": 9,
       "brygady_laczone": []
     },
     {
@@ -1274,7 +1274,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 8,
+      "brygady": 11,
       "brygady_laczone": []
     },
     {
@@ -1461,7 +1461,7 @@
         "ULAN01",
         "ULAN02"
       ],
-      "brygady": 9,
+      "brygady": 7,
       "brygady_laczone": []
     },
     {
@@ -2224,7 +2224,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 13,
+      "brygady": 11,
       "brygady_laczone": [
         "175"
       ]
@@ -3803,7 +3803,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 16,
+      "brygady": 12,
       "brygady_laczone": []
     },
     {
@@ -3889,7 +3889,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 17,
+      "brygady": 15,
       "brygady_laczone": []
     },
     {
@@ -4142,7 +4142,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 4,
+      "brygady": 8,
       "brygady_laczone": []
     },
     {
@@ -4791,7 +4791,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 1,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -4867,7 +4867,7 @@
         "Sypniewo",
         "Garbary PKM"
       ],
-      "przebieg": "SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - \u015bw. Antoniego - Minikowo - Baranowska - Go\u0142\u0119\u017cycka - Forteczna - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
+      "przebieg": "SYPNIEWO - Sypniewo - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - Staro\u0142\u0119cka - Zamenhofa - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Garbary - GARBARY PKM",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4879,12 +4879,8 @@
         "DASZ02",
         "DZIE01",
         "DZIE02",
-        "FORT01",
-        "FORT02",
         "GABA03",
         "GABA04",
-        "GCKA01",
-        "GCKA02",
         "GLOS01",
         "GLOS02",
         "GLSZ01",
@@ -4901,8 +4897,6 @@
         "MORO71",
         "MORO72",
         "MOST01",
-        "OKOP01",
-        "OKOP02",
         "OPIA01",
         "OPIA02",
         "ORZE01",
@@ -4911,19 +4905,16 @@
         "OZAR02",
         "PASY01",
         "PASY02",
-        "PINC01",
-        "PINC02",
         "PLBE02",
         "PP71",
         "PP72",
-        "ROMI02",
-        "ROMI04",
         "RRAT71",
         "RRAT72",
         "RRAT73",
         "RRAT74",
         "RSTA01",
         "RSTA02",
+        "STAR01",
         "STAR02",
         "STAR07",
         "STAR21",
@@ -4935,16 +4926,10 @@
         "STRZ02",
         "STWI01",
         "STWI02",
-        "SWAC01",
-        "SWAC02",
-        "SWAK01",
-        "SWAK02",
         "SWAN01",
         "SWAN02",
         "SWAN04",
         "SYPN02",
-        "SZYD01",
-        "SZYD02",
         "TARN01",
         "TARN02",
         "WIEL01",
@@ -5217,7 +5202,7 @@
         "WISE04",
         "WORD02"
       ],
-      "brygady": 4,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -5845,7 +5830,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 4,
+      "brygady": 5,
       "brygady_laczone": [
         "341"
       ]
