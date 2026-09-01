@@ -363,25 +363,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":13,
     "przebieg":"NOWE ZOO - Kra\u0144cowa - Termalna - Jana Paw\u0142a II - Rychlewskiego - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":5,
-    "brygady_laczone":[
-      "101"
-    ]
-  },
-  "101":{
-    "typ":"bus",
-    "petle":[
-      "Pozna\u0144 G\u0142\u00f3wny",
-      "Pozna\u0144 G\u0142\u00f3wny"
-    ],
-    "kolor1":"#E31E24",
-    "kolor2":"#FFFFFF",
-    "przystanki":8,
-    "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Al. Niepodleg\u0142o\u015bci - Szel\u0105gowska - Lechicka - Lutycka - D\u0105browskiego - Polska - Chociszewskiego - Matejki - Szylinga - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":5,
-    "brygady_laczone":[
-      "100"
-    ]
+    "brygady":4
   },
   "102":{
     "typ":"bus",
@@ -391,8 +373,8 @@
     ],
     "kolor1":"#E31E24",
     "kolor2":"#FFFFFF",
-    "przystanki":8,
-    "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+    "przystanki":7,
+    "przebieg":"MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
     "brygady":2
   },
   "121":{
@@ -446,13 +428,13 @@
   "125":{
     "typ":"bus",
     "petle":[
-      "Szwajcarska Centrum Handlowe",
-      "Szwajcarska Centrum Handlowe"
+      "Franowo",
+      "Franowo"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":12,
-    "przebieg":"SZWAJCARSKA CENTRUM HANDLOWE - Szwajcarska - Szwedzka - Torowa - \u0141uga\u0144ska - Szczepankowo - Glebowa - Bobrownicka - Micha\u0142owo - Skibowa - Szczepankowo - Klenowska - Szwedzka - Szwajcarska - SZWAJCARSKA CENTRUM HANDLOWE",
+    "przystanki":13,
+    "przebieg":"FRANOWO - Szwajcarska - Szwedzka - Torowa - \u0141uga\u0144ska - Szczepankowo - Glebowa - Bobrownicka - Micha\u0142owo - Skibowa - Szczepankowo - Klenowska - Szwedzka - Szwajcarska - FRANOWO",
     "brygady":1
   },
   "145":{
@@ -492,7 +474,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Bukowska - Bu\u0142garska - Marceli\u0144ska - Strzegomska - Brzechwy - Bukowska - Perzycka - Z\u0142otowska - Brzechwy - Strzegomska - Marceli\u0144ska - Bu\u0142garska - Bukowska - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":15,
+    "brygady":10,
     "brygady_laczone":[
       "159"
     ]
@@ -617,7 +599,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":15,
     "przebieg":"PORT LOTNICZY \u0141AWICA - Bukowska - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-    "brygady":24,
+    "brygady":14,
     "brygady_laczone":[
       "148",
       "168"
@@ -2494,7 +2476,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":16,
     "przebieg":"PAL\u0118DZIE DWORZEC KOLEJOWY - Pal\u0119dzie/Kolejowa - D\u0105br\u00f3wka/Pozna\u0144ska - D\u0105br\u00f3wka/D\u0142uga - D\u0105browa/Le\u015bna - D\u0105browa/Wiejska - Sk\u00f3rzewo/Kozierowskiego - Sk\u00f3rzewo/Pozna\u0144ska - Malwowa - Grunwaldzka - JUNIKOWO",
-    "brygady":6,
+    "brygady":5,
     "brygady_laczone":[
       "177"
     ],
@@ -2561,7 +2543,7 @@
     "kolor2":"#000000",
     "przystanki":8,
     "przebieg":"TRZCIELIN P\u0118TLA - Trzcielin/Kopy - Konarzewo/Ko\u015bcielna - Konarzewo/Pozna\u0144ska - Konarzewo/Ko\u015bcielna - Konarzewo/Dopiewska - Dopiewo/Dopiewska - Dopiewo/Le\u015bna - DOPIEWO DWORZEC KOLEJOWY",
-    "brygady":2
+    "brygady":3
   },
   "792":{
     "typ":"bus",
@@ -2597,7 +2579,7 @@
     "kolor2":"#000000",
     "przystanki":10,
     "przebieg":"D\u0104BROWA KR\u00d3TKA - D\u0105browa/Wiejska - D\u0105browa/Pozna\u0144ska - Zakrzewo/Gajowa - Zakrzewo/D\u0142uga - D\u0105br\u00f3wka/D\u0142uga - D\u0105br\u00f3wka/Pozna\u0144ska - Pal\u0119dzie/Kolejowa - D\u0105br\u00f3wka/Ja\u0142owcowa - D\u0104BR\u00d3WKA SZKO\u0141A",
-    "brygady":1
+    "brygady":2
   },
   "797":{
     "typ":"bus",
@@ -2633,7 +2615,7 @@
     "kolor2":"#000000",
     "przystanki":2,
     "przebieg":"DOPIEWIEC POLARNA - Dopiewiec/Jesionowa - Dopiewiec/ - Pal\u0119dzie/Le\u015bna - Pal\u0119dzie/Kolejowa - PAL\u0118DZIE DWORZEC KOLEJOWY",
-    "brygady":2
+    "brygady":1
   },
   "802":{
     "typ":"bus",
@@ -2784,13 +2766,13 @@
   "825":{
     "typ":"bus",
     "petle":[
-      "Tarnowo Podg\u00f3rne Liceum",
-      "G\u00f3ra P\u0119tla"
+      "G\u00f3ra P\u0119tla",
+      "Kokoszczyn P\u0119tla"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":6,
-    "przebieg":"TARNOWO PDG LICEUM - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - G\u00d3RA P\u0118TLA",
+    "przystanki":9,
+    "przebieg":"G\u00d3RA P\u0118TLA - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/D\u0142uga - Kokoszczyn/Lipowa - Kokoszczyn/Dworcowa - KOKOSZCZYN P\u0118TLA",
     "brygady":4,
     "brygady_laczone":[
       "890"
@@ -2892,8 +2874,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":17,
-    "przebieg":"SIEROS\u0141AW DWORSKA  - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Prosta - Lus\u00f3wko/Otowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Jankowicka - Jankowice/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Kokoszczyn/Dworcowa - KOKOSZCZYN P\u0118TLA",
+    "przystanki":16,
+    "przebieg":"SIEROS\u0141AW DWORSKA  - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Lus\u00f3wko/Dopiewska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Jankowicka - Jankowice/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Kokoszczyn/Dworcowa - KOKOSZCZYN P\u0118TLA",
     "brygady":2,
     "brygady_laczone":[
       "825"

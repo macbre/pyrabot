@@ -1461,7 +1461,6 @@
         "GRUD72",
         "GWAR71",
         "KATE01",
-        "KRAS71",
         "MAGA03",
         "MOBE01",
         "MORO72",
@@ -1487,45 +1486,8 @@
         "ZAME02",
         "ZOO02"
       ],
-      "brygady": 5,
-      "brygady_laczone": [
-        "101"
-      ]
-    },
-    {
-      "name": "101",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Pozna\u0144 G\u0142\u00f3wny",
-        "Pozna\u0144 G\u0142\u00f3wny"
-      ],
-      "przebieg": "POZNA\u0143 G\u0141\u00d3WNY - Dworcowa - Al. Niepodleg\u0142o\u015bci - Szel\u0105gowska - Lechicka - Lutycka - D\u0105browskiego - Polska - Chociszewskiego - Matejki - Szylinga - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
-      "color1": "E31E24",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "CHOC02",
-        "ESTO01",
-        "FV91",
-        "FVII02",
-        "GABA01",
-        "LUDO91",
-        "MATE02",
-        "PALM02",
-        "POGL01",
-        "POGL02",
-        "PONZ02",
-        "RKAP02",
-        "RKAP05",
-        "SKFO02",
-        "WIML01",
-        "ZAME01",
-        "ZERO71"
-      ],
-      "brygady": 5,
-      "brygady_laczone": [
-        "100"
-      ]
+      "brygady": 4,
+      "brygady_laczone": []
     },
     {
       "name": "102",
@@ -1535,11 +1497,10 @@
         "Muzeum Broni Pancernej",
         "Pozna\u0144 G\u0142\u00f3wny"
       ],
-      "przebieg": "MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
+      "przebieg": "MUZEUM BRONI PANCERNEJ - 3 Pu\u0142ku Lotniczego - Polska - D\u0105browskiego - Dworcowa - POZNA\u0143 G\u0141\u00d3WNY",
       "color1": "E31E24",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "KRAS71",
         "MBP91",
         "OGDY01",
         "OGDY06",
@@ -1548,12 +1509,11 @@
         "PONZ01",
         "PONZ02",
         "RJEZ71",
-        "RJEZ72",
+        "RJEZ74",
         "RKAP01",
         "RKAP05",
         "RKAP06",
         "SZOO71",
-        "SZOO72",
         "ZERO71",
         "ZERO72"
       ],
@@ -1684,16 +1644,18 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Szwajcarska Centrum Handlowe",
-        "Szwajcarska Centrum Handlowe"
+        "Franowo",
+        "Franowo"
       ],
-      "przebieg": "SZWAJCARSKA CENTRUM HANDLOWE - Szwajcarska - Szwedzka - Torowa - \u0141uga\u0144ska - Szczepankowo - Glebowa - Bobrownicka - Micha\u0142owo - Skibowa - Szczepankowo - Klenowska - Szwedzka - Szwajcarska - SZWAJCARSKA CENTRUM HANDLOWE",
+      "przebieg": "FRANOWO - Szwajcarska - Szwedzka - Torowa - \u0141uga\u0144ska - Szczepankowo - Glebowa - Bobrownicka - Micha\u0142owo - Skibowa - Szczepankowo - Klenowska - Szwedzka - Szwajcarska - FRANOWO",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "ARWA02",
         "CZ I91",
         "CZ I92",
+        "FRWO01",
+        "FRWO02",
         "GLEB01",
         "GOSP04",
         "KLCH02",
@@ -1877,7 +1839,7 @@
         "WIEC02",
         "ZLOT01"
       ],
-      "brygady": 15,
+      "brygady": 10,
       "brygady_laczone": [
         "159"
       ]
@@ -2353,7 +2315,7 @@
         "ZLOT01",
         "ZLOT02"
       ],
-      "brygady": 24,
+      "brygady": 14,
       "brygady_laczone": [
         "148",
         "168"
@@ -10581,7 +10543,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 6,
+      "brygady": 5,
       "brygady_laczone": [
         "177"
       ]
@@ -10891,7 +10853,7 @@
         "KNSEZ02",
         "TLPET01"
       ],
-      "brygady": 2,
+      "brygady": 3,
       "brygady_laczone": []
     },
     {
@@ -10989,7 +10951,7 @@
         "ZKZAC01",
         "ZKZAC02"
       ],
-      "brygady": 1,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -11087,7 +11049,7 @@
         "PAWRZ01",
         "PAWRZ02"
       ],
-      "brygady": 2,
+      "brygady": 1,
       "brygady_laczone": []
     },
     {
@@ -11881,17 +11843,23 @@
       "typ": "bus",
       "agency": "Komunikacja Gminy Tarnowo Podg\u00f3rne TPBUS Sp. z o.o.",
       "petle": [
-        "Tarnowo Podg\u00f3rne Liceum",
-        "G\u00f3ra P\u0119tla"
+        "G\u00f3ra P\u0119tla",
+        "Kokoszczyn P\u0119tla"
       ],
-      "przebieg": "TARNOWO PDG LICEUM - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Tarnowo Pdg/23 Pa\u017adziernika - G\u00f3ra/Pozna\u0144ska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/Szamotulska - G\u00d3RA P\u0118TLA",
+      "przebieg": "G\u00d3RA P\u0118TLA - G\u00f3ra/Szamotulska - G\u00f3ra/Kr\u0119ta - G\u00f3ra/D\u0142uga - Kokoszczyn/Lipowa - Kokoszczyn/Dworcowa - KOKOSZCZYN P\u0118TLA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "GRCIE01",
+        "GRDLI01",
+        "GRDLII01",
         "GRKRE01",
+        "GRKRE02",
         "GRPET02",
         "GRSZK01",
+        "GRSZK02",
+        "KHKRE01",
+        "KHPET01",
         "TPCEN02",
         "TPGRU01",
         "TPLIC02",
@@ -12331,7 +12299,7 @@
         "Sieros\u0142aw Dworska ",
         "Kokoszczyn P\u0119tla"
       ],
-      "przebieg": "SIEROS\u0141AW DWORSKA  - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Sieros\u0142aw/Prosta - Lus\u00f3wko/Otowska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Jankowicka - Jankowice/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Kokoszczyn/Dworcowa - KOKOSZCZYN P\u0118TLA",
+      "przebieg": "SIEROS\u0141AW DWORSKA  - Sieros\u0142aw/Dworska - Sieros\u0142aw/Bukowska - Lus\u00f3wko/Dopiewska - Lus\u00f3wko/Zespo\u0142owa - Lus\u00f3wko/Jankowicka - Jankowice/Pozna\u0144ska - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Kokoszczyn/Dworcowa - KOKOSZCZYN P\u0118TLA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -12345,14 +12313,12 @@
         "LKDOP02",
         "LKGRA01",
         "LKGRA02",
-        "LKPET01",
-        "LKPET02",
-        "LKSZK01",
-        "SIDWA01",
-        "SIDWA02",
+        "LKKOS01",
+        "LKKOS02",
+        "LKRPE01",
+        "LKSTO01",
+        "LKSTO02",
         "SIDZI01",
-        "SIJED01",
-        "SIJED02",
         "SIKSZ01",
         "SIKSZ02",
         "SIPRO01",
