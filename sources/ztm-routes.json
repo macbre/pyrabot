@@ -1032,7 +1032,9 @@
         "SZYM42"
       ],
       "brygady": 12,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "201"
+      ]
     },
     {
       "name": "15",
@@ -1166,9 +1168,7 @@
         "WROC72"
       ],
       "brygady": 13,
-      "brygady_laczone": [
-        "201"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "17",
@@ -1283,7 +1283,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 13,
+      "brygady": 14,
       "brygady_laczone": []
     },
     {
@@ -1387,6 +1387,66 @@
         "ZAME72"
       ],
       "brygady": 1,
+      "brygady_laczone": []
+    },
+    {
+      "name": "33",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Budziszy\u0144ska",
+        "Budziszy\u0144ska"
+      ],
+      "przebieg": "BUDZISZY\u0143SKA - Grunwaldzka - Bukowska - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - Krzywoustego - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+      "color1": "FFFFFF",
+      "color2": "000000",
+      "przystankiSymbole": [
+        "AWF73",
+        "BALT42",
+        "BALT71",
+        "BUDZ41",
+        "BUDZ42",
+        "BUDZ43",
+        "BUDZ44",
+        "BULG41",
+        "BULG42",
+        "DRZE41",
+        "DRZE42",
+        "GROC41",
+        "GROC42",
+        "GRUD72",
+        "GWAR71",
+        "KORN42",
+        "KORN78",
+        "LAKO41",
+        "MATE42",
+        "MATE71",
+        "MORO72",
+        "MRCI71",
+        "MRCI72",
+        "OSTR41",
+        "OSTR42",
+        "PLBE72",
+        "PLWL41",
+        "PP72",
+        "RKAP73",
+        "RKAP74",
+        "RONJ41",
+        "RONJ42",
+        "ROSK41",
+        "ROSK42",
+        "RRAT74",
+        "RRAT75",
+        "SERA71",
+        "SWMN71",
+        "WEGO41",
+        "WEGO42",
+        "WOJS41",
+        "WROC72",
+        "ZAME71",
+        "ZAME72"
+      ],
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -3375,7 +3435,7 @@
         "TREB01",
         "TREB02"
       ],
-      "brygady": 11,
+      "brygady": 10,
       "brygady_laczone": [
         "145"
       ]
@@ -4100,7 +4160,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4175,7 +4235,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 17,
+      "brygady": 18,
       "brygady_laczone": []
     },
     {
@@ -4430,79 +4490,100 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 9,
+      "brygady": 14,
       "brygady_laczone": [
-        "16",
-        "202"
+        "14"
       ]
     },
     {
-      "name": "202",
+      "name": "206",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Franowo",
-        "Osiedle Sobieskiego"
+        "Junikowo",
+        "B\u0142a\u017ceja"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Bukowska - Roosevelta - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "ALSO41",
-        "ALSO42",
+        "ARPO41",
+        "ARPO42",
+        "BALT42",
+        "BALT71",
+        "BLAZ41",
+        "BLAZ42",
+        "BUDZ41",
+        "BUDZ42",
+        "BULG41",
+        "BULG42",
+        "CMNA41",
+        "CMNA42",
+        "DRZE41",
+        "DRZE42",
         "FRRY41",
         "FRRY42",
-        "FRWO41",
-        "FRWO42",
-        "GRUD72",
+        "GROC41",
+        "GROC42",
+        "GROT71",
+        "GROT72",
+        "GWAR42",
         "GWAR71",
-        "KORN43",
-        "KORN44",
-        "KORN78",
-        "KURP41",
-        "KURP42",
-        "LACI41",
-        "LACI42",
-        "LECH41",
-        "LECH42",
-        "MORO71",
-        "MORO72",
-        "MRCI71",
-        "MRCI72",
+        "JROL41",
+        "JROL42",
+        "JUNI41",
+        "JUNI42",
+        "JUNI43",
+        "KMIE42",
+        "KMIE71",
+        "LENA41",
+        "LENA42",
+        "MATE42",
+        "MATE71",
+        "MODW71",
+        "MODW72",
         "MT44",
         "MT73",
-        "OSLE41",
-        "OSLE42",
-        "OSTY41",
-        "OSTY42",
-        "PIAR41",
-        "PIAR42",
-        "PK41",
-        "PK42",
-        "PLBE71",
-        "PLBE72",
-        "POKA41",
-        "POKA42",
-        "PP71",
-        "PP72",
-        "SLKA41",
-        "SLKA42",
-        "SOB41",
-        "SOB42",
-        "SWMN71",
-        "SZWA41",
-        "SZWA42",
-        "SZWE41",
-        "SZWE42",
-        "SZYM41",
-        "SZYM42",
-        "WROC71",
-        "WROC72"
+        "NARA71",
+        "NARA72",
+        "OLOK41",
+        "OLOK42",
+        "OSTR41",
+        "OSTR42",
+        "PASI41",
+        "PASI42",
+        "POGL41",
+        "POGL42",
+        "POGL73",
+        "POGL74",
+        "POZN41",
+        "POZN42",
+        "PZEL41",
+        "PZEL42",
+        "RONJ41",
+        "RONJ42",
+        "ROSK41",
+        "ROSK42",
+        "SERB41",
+        "SERB42",
+        "UE42",
+        "UE71",
+        "WEGO41",
+        "WEGO42",
+        "WIKA41",
+        "WIKA42",
+        "WILC41",
+        "WILC42",
+        "WLOD41",
+        "WLOD42",
+        "WOJS41",
+        "ZAME71",
+        "ZAME72",
+        "ZNIW42",
+        "ZNIW71"
       ],
-      "brygady": 7,
-      "brygady_laczone": [
-        "201"
-      ]
+      "brygady": 4,
+      "brygady_laczone": []
     },
     {
       "name": "212",
@@ -4512,7 +4593,7 @@
         "Szwajcarska Szpital",
         "Kacza"
       ],
-      "przebieg": "SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
+      "przebieg": "SZWAJCARSKA SZPITAL - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
