@@ -1785,7 +1785,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 5,
+      "brygady": 6,
       "brygady_laczone": []
     },
     {
@@ -7347,7 +7347,6 @@
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "A-1EKS",
         "ANST01",
         "ANST02",
         "BONY01",
@@ -9343,7 +9342,7 @@
         "LUZSK02",
         "OSDE01",
         "OSDE02",
-        "OSDE94"
+        "OSDE04"
       ],
       "brygady": 3,
       "brygady_laczone": []
@@ -9400,7 +9399,7 @@
         "MOST01",
         "OSDE01",
         "OSDE02",
-        "OSDE94",
+        "OSDE04",
         "PINZ01",
         "PINZ02",
         "PLBE02",
@@ -9470,7 +9469,7 @@
         "LUZER02",
         "OSDE01",
         "OSDE02",
-        "OSDE94",
+        "OSDE04",
         "OSIA01",
         "OSIA02",
         "TYNZ02",
@@ -9674,7 +9673,7 @@
         "MORZM02",
         "OSDE01",
         "OSDE02",
-        "OSDE94",
+        "OSDE04",
         "PUKOS01",
         "PUKOS02",
         "PULIB01",
@@ -10894,8 +10893,10 @@
         "WKSZK01",
         "WKSZK02"
       ],
-      "brygady": 3,
-      "brygady_laczone": []
+      "brygady": 2,
+      "brygady_laczone": [
+        "797"
+      ]
     },
     {
       "name": "795",
@@ -11009,8 +11010,10 @@
         "SKSZA01",
         "SKSZA02"
       ],
-      "brygady": 3,
-      "brygady_laczone": []
+      "brygady": 4,
+      "brygady_laczone": [
+        "792"
+      ]
     },
     {
       "name": "798",
