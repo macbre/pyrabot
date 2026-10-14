@@ -1,32 +1,6 @@
 {
   "lines": [
     {
-      "name": "T6",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo \u015ar\u00f3dka",
-        "Rondo \u015ar\u00f3dka"
-      ],
-      "przebieg": "RONDO \u015aR\u00d3DKA - Warszawska - RONDO \u015aR\u00d3DKA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BONY01",
-        "LOMZ01",
-        "LOMZ02",
-        "MILO01",
-        "MILO02",
-        "PUST01",
-        "PUST02",
-        "ROSR01",
-        "TERM01",
-        "TERM02"
-      ],
-      "brygady": 3,
-      "brygady_laczone": []
-    },
-    {
       "name": "T7",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -464,9 +438,7 @@
         "WOJS41"
       ],
       "brygady": 14,
-      "brygady_laczone": [
-        "7"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "7",
@@ -476,7 +448,7 @@
         "Mi\u0142ostowo",
         "Ogrody"
       ],
-      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
+      "przebieg": "MI\u0141OSTOWO - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
       "color1": "003594",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -540,7 +512,6 @@
       ],
       "brygady": 25,
       "brygady_laczone": [
-        "6",
         "8"
       ]
     },
@@ -895,9 +866,10 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 30,
+      "brygady": 31,
       "brygady_laczone": [
-        "16"
+        "16",
+        "201"
       ]
     },
     {
@@ -1165,7 +1137,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 31,
+      "brygady": 32,
       "brygady_laczone": [
         "12"
       ]
@@ -1637,7 +1609,6 @@
         "BOWA02",
         "BRON01",
         "BRON02",
-        "INTP02",
         "KOSO01",
         "KULY01",
         "KULY02",
@@ -2373,7 +2344,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 14,
+      "brygady": 15,
       "brygady_laczone": [
         "193"
       ]
@@ -3525,9 +3496,9 @@
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
         "Rondo Rataje",
-        "Nowe Zoo"
+        "Termy Malta\u0144skie"
       ],
-      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - Kra\u0144cowa - NOWE ZOO",
+      "przebieg": "RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Orla - Pawia - Inflancka - Kurlandzka - Szwajcarska - Kurlandzka - Chartowo - Abpa Baraniaka - Jana Paw\u0142a II - Warszawska - Termalna - TERMY MALTA\u0143SKIE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3588,7 +3559,7 @@
         "WOLK01",
         "WOLK02"
       ],
-      "brygady": 22,
+      "brygady": 25,
       "brygady_laczone": [
         "152"
       ]
@@ -4321,41 +4292,9 @@
         "ZIII42"
       ],
       "brygady": 10,
-      "brygady_laczone": []
-    },
-    {
-      "name": "203",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Dworzec Zachodni",
-        "Osiedle Sobieskiego"
-      ],
-      "przebieg": "DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
-      "color1": "000000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ALSO41",
-        "ALSO42",
-        "DWZA41",
-        "DWZA42",
-        "KURP41",
-        "KURP42",
-        "LECH41",
-        "LECH42",
-        "MT45",
-        "MT46",
-        "RKAP45",
-        "RKAP46",
-        "SLKA41",
-        "SLKA42",
-        "SOB41",
-        "SOB42",
-        "SZYM41",
-        "SZYM42"
-      ],
-      "brygady": 2,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "12"
+      ]
     },
     {
       "name": "212",
@@ -7284,7 +7223,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 7,
+      "brygady": 6,
       "brygady_laczone": []
     },
     {
