@@ -361,7 +361,7 @@
         "ZAME72",
         "ZAWA42"
       ],
-      "brygady": 12,
+      "brygady": 11,
       "brygady_laczone": []
     },
     {
@@ -866,10 +866,9 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 31,
+      "brygady": 30,
       "brygady_laczone": [
-        "16",
-        "201"
+        "16"
       ]
     },
     {
@@ -1137,7 +1136,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 32,
+      "brygady": 31,
       "brygady_laczone": [
         "12"
       ]
@@ -1596,10 +1595,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Instytut Technologiczno-Przyrodniczy",
+        "Strzeszyn PKM",
         "Boranta"
       ],
-      "przebieg": "INSTYTUT TECHNOLOGICZNO-PRZYRODNICZY - Biskupi\u0144ska - Zakopia\u0144ska - Kosowska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+      "przebieg": "STRZESZYN PKM - Zakopia\u0144ska - Kosowska - Szarych Szereg\u00f3w - Obornicka - Mateckiego - Str\u00f3\u017cy\u0144skiego - Szymanowskiego - Szeligowskiego - Wiechowicza - Stoi\u0144skiego - \u0141u\u017cycka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2344,7 +2343,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 15,
+      "brygady": 14,
       "brygady_laczone": [
         "193"
       ]
@@ -4209,7 +4208,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 8,
+      "brygady": 9,
       "brygady_laczone": [
         "348"
       ]
@@ -4292,9 +4291,41 @@
         "ZIII42"
       ],
       "brygady": 10,
-      "brygady_laczone": [
-        "12"
-      ]
+      "brygady_laczone": []
+    },
+    {
+      "name": "203",
+      "typ": "tram",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Dworzec Zachodni",
+        "Osiedle Sobieskiego"
+      ],
+      "przebieg": "DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
+      "color1": "000000",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "ALSO41",
+        "ALSO42",
+        "DWZA41",
+        "DWZA42",
+        "KURP41",
+        "KURP42",
+        "LECH41",
+        "LECH42",
+        "MT45",
+        "MT46",
+        "RKAP45",
+        "RKAP46",
+        "SLKA41",
+        "SLKA42",
+        "SOB41",
+        "SOB42",
+        "SZYM41",
+        "SZYM42"
+      ],
+      "brygady": 2,
+      "brygady_laczone": []
     },
     {
       "name": "212",
@@ -12192,7 +12223,7 @@
         "\u017bydowo P\u0119tla",
         "Kobylniki Tarnowska"
       ],
-      "przebieg": "\u017bYDOWO P\u0118TLA - \u017bydowo/Przec\u0142awska - \u017bydowo/Rostworowska - Rostworowo/Rokietnicka - Rokietnica/Kolejowa - Rokietnica/ - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Gol\u0119ci\u0144ska - Kiekrz/Kierska - Kierska - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Podjazdowa - Kobylniki/Podjazdowa - Kobylniki/Szamotulska - Napachanie/Kobylnicka - Kobylniki/Szkolna - Kobylniki/Kobylnicka - KOBYLNIKI TARNOWSKA",
+      "przebieg": "\u017bYDOWO P\u0118TLA - \u017bydowo/Przec\u0142awska - \u017bydowo/Rostworowska - Rostworowo/Rokietnicka - Rokietnica/Kolejowa - Rokietnica/ - Rokietnica/Dworcowa - Rokietnica/Pocztowa - Rokietnica/Gol\u0119ci\u0144ska - Kiekrz/Kierska - Kierska - Chojnicka - Wilk\u00f3w Morskich - Chojnicka - Podjazdowa - Kobylniki/Podjazdowa - Kobylniki/Szamotulska - Napachanie/Kobylnicka - Kobylniki/Szkolna - KOBYLNIKI TARNOWSKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
