@@ -1,6 +1,6 @@
 # docker build . -t pyrabot
 # docker run --rm --volume $(pwd)/../ztm-routes.json:/tmp/ztm-routes.json pyrabot python gtfs_ztm.py
-FROM python:3.14-slim
+FROM python:3.15-slim
 
 WORKDIR /opt/pyrabot/
 RUN chown nobody /opt/pyrabot/
