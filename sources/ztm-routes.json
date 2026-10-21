@@ -437,7 +437,7 @@
         "WIER42",
         "WOJS41"
       ],
-      "brygady": 14,
+      "brygady": 16,
       "brygady_laczone": []
     },
     {
@@ -866,9 +866,10 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 30,
+      "brygady": 31,
       "brygady_laczone": [
-        "16"
+        "16",
+        "201"
       ]
     },
     {
@@ -1136,7 +1137,7 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 31,
+      "brygady": 32,
       "brygady_laczone": [
         "12"
       ]
@@ -1543,6 +1544,44 @@
         "ZZNA02"
       ],
       "brygady": 1,
+      "brygady_laczone": []
+    },
+    {
+      "name": "133",
+      "typ": "bus",
+      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
+      "petle": [
+        "Bogucin P\u0119tla",
+        "Rondo \u015ar\u00f3dka"
+      ],
+      "przebieg": "BOGUCIN P\u0118TLA - Bogucin/Gnie\u017anie\u0144ska - Gnie\u017anie\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "color1": "525252",
+      "color2": "FFFFFF",
+      "przystankiSymbole": [
+        "BGPET02",
+        "BOBA01",
+        "BOBA02",
+        "CMEN01",
+        "CMEN02",
+        "GLOW02",
+        "GLOW03",
+        "GNIE01",
+        "GNIE02",
+        "KORO01",
+        "KORO02",
+        "ROSR03",
+        "ROSR04",
+        "ROSR30",
+        "RWSC01",
+        "RWSC02",
+        "STUD01",
+        "STUD02",
+        "URWI01",
+        "URWI02",
+        "ZAWA01",
+        "ZAWA02"
+      ],
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -2228,7 +2267,7 @@
         "WOPO04",
         "WOPO08"
       ],
-      "brygady": 12,
+      "brygady": 11,
       "brygady_laczone": [
         "176"
       ]
@@ -2343,7 +2382,7 @@
         "ZAME01",
         "ZAME02"
       ],
-      "brygady": 14,
+      "brygady": 15,
       "brygady_laczone": [
         "193"
       ]
@@ -2556,7 +2595,6 @@
       ],
       "brygady": 10,
       "brygady_laczone": [
-        "214",
         "911"
       ]
     },
@@ -2827,7 +2865,7 @@
         "ZNTK01",
         "ZNTK02"
       ],
-      "brygady": 14,
+      "brygady": 13,
       "brygady_laczone": [
         "215"
       ]
@@ -3130,7 +3168,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 6,
+      "brygady": 9,
       "brygady_laczone": [
         "727"
       ]
@@ -3193,7 +3231,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 19,
+      "brygady": 18,
       "brygady_laczone": [
         "183"
       ]
@@ -3411,7 +3449,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 16,
+      "brygady": 15,
       "brygady_laczone": []
     },
     {
@@ -4208,7 +4246,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 9,
+      "brygady": 11,
       "brygady_laczone": [
         "348"
       ]
@@ -4290,42 +4328,10 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 10,
-      "brygady_laczone": []
-    },
-    {
-      "name": "203",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Dworzec Zachodni",
-        "Osiedle Sobieskiego"
-      ],
-      "przebieg": "DWORZEC ZACHODNI - Trasa PST - OS. SOBIESKIEGO",
-      "color1": "000000",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "ALSO41",
-        "ALSO42",
-        "DWZA41",
-        "DWZA42",
-        "KURP41",
-        "KURP42",
-        "LECH41",
-        "LECH42",
-        "MT45",
-        "MT46",
-        "RKAP45",
-        "RKAP46",
-        "SLKA41",
-        "SLKA42",
-        "SOB41",
-        "SOB42",
-        "SZYM41",
-        "SZYM42"
-      ],
-      "brygady": 2,
-      "brygady_laczone": []
+      "brygady": 14,
+      "brygady_laczone": [
+        "12"
+      ]
     },
     {
       "name": "212",
@@ -4581,10 +4587,8 @@
         "WLOD01",
         "WLOD02"
       ],
-      "brygady": 4,
-      "brygady_laczone": [
-        "167"
-      ]
+      "brygady": 3,
+      "brygady_laczone": []
     },
     {
       "name": "215",
@@ -5398,7 +5402,7 @@
         "WISE04",
         "WORD02"
       ],
-      "brygady": 5,
+      "brygady": 4,
       "brygady_laczone": []
     },
     {
@@ -8159,12 +8163,11 @@
         "KDBRY02",
         "KDBWI01",
         "KDBWI02",
-        "KDINS01",
-        "KDMOD01",
         "KDNIE01",
         "KDNIE02",
         "KDPOP01",
         "KDPOP02",
+        "KDPRO01",
         "KDPRO02",
         "KDREJ01",
         "KDREJ02",
