@@ -1510,6 +1510,54 @@
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=348"
   },
+  "381":{
+    "typ":"bus",
+    "petle":[
+      "M. Go\u015blina M\u015bciszewska Sp1",
+      "Przeb\u0119dowo Park"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":6,
+    "przebieg":"M. GO\u015aLINA M\u015aCISZEWSKA SP1 - M. Go\u015blina/ - M. Go\u015blina/Mostowa - M. Go\u015blina/Kolejowa - M. Go\u015blina/Szkolna - M. Go\u015blina/Rogozi\u0144ska - Trojanowo/ - Przeb\u0119dowo/ - PRZEB\u0118DOWO PARK",
+    "brygady":1
+  },
+  "382":{
+    "typ":"bus",
+    "petle":[
+      "D\u0142uga Go\u015blina Szko\u0142a",
+      "Uchorowo P\u0119tla"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":10,
+    "przebieg":"D\u0141UGA GO\u015aLINA SZKO\u0141A - D\u0142uga Go\u015blina/ - Wojnowo/ - Wojn\u00f3wko/ - Wojnowo/ - K\u0105ty/ - Bia\u0142\u0119gi/ - Bia\u0142\u0119\u017cyn/ - Uchorowo/ - UCHOROWO P\u0118TLA",
+    "brygady":1
+  },
+  "383":{
+    "typ":"bus",
+    "petle":[
+      "\u0141opuchowo Szko\u0142a",
+      "G\u0142\u0119bocko Zacisze"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":2,
+    "przebieg":"\u0141OPUCHOWO SZKO\u0141A - \u0141opuchowo/ - \u0141opuch\u00f3wko/ - G\u0142\u0119boczek/ - G\u0142\u0119bocko/ - G\u0141\u0118BOCKO ZACISZE",
+    "brygady":1
+  },
+  "384":{
+    "typ":"bus",
+    "petle":[
+      "P\u0142awno P\u0119tla",
+      "M. Go\u015blina Szko\u0142a"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":14,
+    "przebieg":"P\u0141AWNO P\u0118TLA - P\u0142awno/ - Kami\u0144sko/ - Rakownia/ - M. Go\u015blina/ - M. Go\u015blina/Gnie\u017anie\u0144ska - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - M. GO\u015aLINA SZKO\u0141A",
+    "brygady":1
+  },
   "388":{
     "typ":"bus",
     "petle":[
@@ -1521,6 +1569,30 @@
     "przystanki":22,
     "przebieg":"D\u0118BOG\u00d3RA D\u0104BR\u00d3WKI - D\u0119bog\u00f3ra/D\u0119bowa - Mielno/Le\u015bna - Kliny/Pozna\u0144ska - Kicin/Pozna\u0144ska - Kozieg\u0142owy/Pozna\u0144ska - Kozieg\u0142owy/Pi\u0142sudskiego - Czerwonak/\u015awi\u0119ty Wojciech - Czerwonak/Polna - Czerwonak/Gdy\u0144ska - CZERWONAK PKM",
     "brygady":2
+  },
+  "390":{
+    "typ":"bus",
+    "petle":[
+      "Uchorowo P\u0119tla",
+      "M. Go\u015blina Le\u015bna"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":13,
+    "przebieg":"UCHOROWO P\u0118TLA - Uchorowo/ - Bia\u0142\u0119\u017cyn/ - Nieszawa/ - Bia\u0142\u0119\u017cyn/ - K\u0105ty/ - Bia\u0142\u0119gi/ - Przeb\u0119dowo/ - M. Go\u015blina/Rogozi\u0144ska - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - M. GO\u015aLINA LE\u015aNA",
+    "brygady":1
+  },
+  "391":{
+    "typ":"bus",
+    "petle":[
+      "M\u015bciszewo G\u00f3rka",
+      "M. Go\u015blina PKM"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":7,
+    "przebieg":"M\u015aCISZEWO G\u00d3RKA - M\u015bciszewo/ - Raduszyn/ - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/Mostowa - M. Go\u015blina/Kolejowa - M. GO\u015aLINA PKM",
+    "brygady":1
   },
   "392":{
     "typ":"bus",
@@ -1534,6 +1606,18 @@
     "przebieg":"OWI\u0143SKA PKM - Owi\u0144ska/Dworcowa - Owi\u0144ska/Kolejowa - Owi\u0144ska/Bydgoska - Owi\u0144ska/Ks. Piotrowskiego - Bolech\u00f3wko/Lipowa - Potasze/Lipowa - POTASZE JOD\u0141OWA",
     "brygady":2
   },
+  "393":{
+    "typ":"bus",
+    "petle":[
+      "\u0141opuch\u00f3wko P\u0119tla",
+      "M. Go\u015blina Le\u015bna"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":10,
+    "przebieg":"\u0141OPUCH\u00d3WKO P\u0118TLA - \u0141opuch\u00f3wko/ - G\u0142\u0119bocko/ - Boduszewo/ - M. Go\u015blina/ - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - M. GO\u015aLINA LE\u015aNA",
+    "brygady":1
+  },
   "394":{
     "typ":"bus",
     "petle":[
@@ -1544,6 +1628,18 @@
     "kolor2":"#FFFFFF",
     "przystanki":12,
     "przebieg":"KOZIEG\u0141OWY SZKO\u0141A - Kozieg\u0142owy/Pi\u0142sudskiego - Czerwonak/\u015awi\u0119ty Wojciech - Czerwonak/Polna - Czerwonak/Gdy\u0144ska - Mi\u0119kowo/Pozna\u0144ska - Mi\u0119kowo/Ogrodowa - Mi\u0119kowo/\u0141\u0105kowa - MI\u0118KOWO STOKROTKOWA",
+    "brygady":1
+  },
+  "395":{
+    "typ":"bus",
+    "petle":[
+      "P\u0142awno P\u0119tla",
+      "M. Go\u015blina Le\u015bna"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":14,
+    "przebieg":"P\u0141AWNO P\u0118TLA - P\u0142awno/ - Kami\u0144sko/ - Rakownia/ - M. Go\u015blina/ - M. Go\u015blina/Gnie\u017anie\u0144ska - M. Go\u015blina/Kolejowa - M. Go\u015blina/Wojska Polskiego - M. Go\u015blina/Pozna\u0144ska - M. Go\u015blina/D\u0142uga - M. Go\u015blina/Kutrzeby - M. GO\u015aLINA LE\u015aNA",
     "brygady":1
   },
   "396":{
@@ -1573,6 +1669,18 @@
     "brygady":1,
     "agency":"TRANSKOM",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=397"
+  },
+  "399":{
+    "typ":"bus",
+    "petle":[
+      "D\u0142uga Go\u015blina Al. Czere\u015bniowa",
+      "M. Go\u015blina PKM"
+    ],
+    "kolor1":"#FFFFFF",
+    "kolor2":"#000000",
+    "przystanki":8,
+    "przebieg":"D\u0141UGA GO\u015aLINA AL. CZERE\u015aNIOWA - D\u0142uga Go\u015blina/ - Wojnowo/ - Trojanowo/ - M. Go\u015blina/Rogozi\u0144ska - M. Go\u015blina/Mostowa - M. Go\u015blina/Kolejowa - M. GO\u015aLINA PKM",
+    "brygady":1
   },
   "400":{
     "typ":"bus",
@@ -2220,8 +2328,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":16,
-    "przebieg":"D\u0118BIEC PKM - Opolska - Jesionowa - Ko\u0142\u0142\u0105taja - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Ko\u015bciuszki - Lubo\u0144/Poniatowskiego - Lubo\u0144/Przy Autostradzie - Lubo\u0144/Cmentarna - Lubo\u0144/Poniatowskiego - LUBO\u0143 \u017bABIKOWO",
+    "przystanki":13,
+    "przebieg":"D\u0118BIEC PKM - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Ko\u015bciuszki - Lubo\u0144/Poniatowskiego - Lubo\u0144/Przy Autostradzie - Lubo\u0144/Cmentarna - Lubo\u0144/Poniatowskiego - LUBO\u0143 \u017bABIKOWO",
     "brygady":5,
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=611"
@@ -2234,8 +2342,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":28,
-    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Jesionowa - Ko\u0142\u0142\u0105taja - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Powsta\u0144c\u00f3w Wlkp. - Lubo\u0144/Streicha - Lubo\u0144/Cieszkowskiego - Lubo\u0144/Pu\u0142askiego - Lubo\u0144/Wschodnia - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/ - \u0141\u0119czyca/Pozna\u0144ska - \u0141\u0118CZYCA DWORCOWA",
+    "przystanki":26,
+    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Powsta\u0144c\u00f3w Wlkp. - Lubo\u0144/Streicha - Lubo\u0144/Cieszkowskiego - Lubo\u0144/Pu\u0142askiego - Lubo\u0144/Wschodnia - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kwiatowa - Lubo\u0144/ - \u0141\u0119czyca/Pozna\u0144ska - \u0141\u0118CZYCA DWORCOWA",
     "brygady":5,
     "agency":"TRANSLUB",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=614"
@@ -2362,8 +2470,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":34,
-    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Jesionowa - Ko\u0142\u0142\u0105taja - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
+    "przystanki":32,
+    "przebieg":"G\u00d3RCZYN PKM - Zgoda - Rakoniewicka - Czechos\u0142owacka - G\u00f3recka - Jesionowa - Opolska - Lubo\u0144/\u017babikowska - Lubo\u0144/Jana III Sobieskiego - Lubo\u0144/Kr\u0119ta - Wiry/Laskowska - Wiry/\u0141\u0119czycka - Wiry/Komornicka - Komorniki/Komornicka - Komorniki/Pozna\u0144ska - Komorniki/Zak\u0142adowa - KOMORNIKI JEZIORNA",
     "brygady":3,
     "agency":"PUK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=701"
