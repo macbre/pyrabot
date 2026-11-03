@@ -28,14 +28,14 @@
   "2":{
     "typ":"tram",
     "petle":[
-      "D\u0119biec PKM",
-      "Ogrody"
+      "Ogrody",
+      "D\u0119biec PKM"
     ],
     "kolor1":"#72C4E7",
     "kolor2":"#000000",
     "przystanki":17,
-    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Matyi - Towarowa - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
-    "brygady":11,
+    "przebieg":"OGRODY - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Towarowa - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+    "brygady":10,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=2"
   },
@@ -48,7 +48,7 @@
     "kolor1":"#8E364C",
     "kolor2":"#FFFFFF",
     "przystanki":36,
-    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
+    "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
     "brygady":16,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=3"
@@ -62,24 +62,21 @@
     "kolor1":"#2E6A4C",
     "kolor2":"#FFFFFF",
     "przystanki":13,
-    "przebieg":"MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
-    "brygady":15,
-    "brygady_laczone":[
-      "17"
-    ],
+    "przebieg":"MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
+    "brygady":8,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=4"
   },
   "5":{
     "typ":"tram",
     "petle":[
-      "Mi\u0142ostowo",
-      "G\u00f3rczyn PKM"
+      "G\u00f3rczyn PKM",
+      "Zawady"
     ],
     "kolor1":"#6CC24A",
     "kolor2":"#000000",
     "przystanki":21,
-    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - G\u00d3RCZYN PKM",
+    "przebieg":"G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Podwale - ZAWADY",
     "brygady":24,
     "brygady_laczone":[
       "97"
@@ -96,8 +93,8 @@
     "kolor1":"#009639",
     "kolor2":"#FFFFFF",
     "przystanki":29,
-    "przebieg":"MI\u0141OSTOWO - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
-    "brygady":17,
+    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+    "brygady":14,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=6"
   },
@@ -111,10 +108,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":28,
     "przebieg":"MI\u0141OSTOWO - Jana Paw\u0142a II - Zamenhofa - Hetma\u0144ska - Reymonta - Przybyszewskiego - D\u0105browskiego - OGRODY",
-    "brygady":25,
-    "brygady_laczone":[
-      "8"
-    ],
+    "brygady":14,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=7"
   },
@@ -127,11 +121,8 @@
     "kolor1":"#DA291C",
     "kolor2":"#FFFFFF",
     "przystanki":22,
-    "przebieg":"OGRODY - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
-    "brygady":25,
-    "brygady_laczone":[
-      "7"
-    ],
+    "przebieg":"OGRODY - D\u0105browskiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+    "brygady":12,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=8"
   },
@@ -144,7 +135,7 @@
     "kolor1":"#FF671F",
     "kolor2":"#000000",
     "przystanki":26,
-    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - Os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
+    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - Os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
     "brygady":16,
     "brygady_laczone":[
       "11",
@@ -163,7 +154,7 @@
     "kolor2":"#000000",
     "przystanki":27,
     "przebieg":"B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - Roosevelta - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
-    "brygady":16,
+    "brygady":15,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=10"
   },
@@ -177,7 +168,7 @@
     "kolor2":"#000000",
     "przystanki":27,
     "przebieg":"PI\u0104TKOWSKA - Bronowa - Witosa - Os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - Al. Wielkopolska - Pu\u0142askiego - Roosevelta - G\u0142ogowska - Hetma\u0144ska - Unii Lubelskiej - UNII LUBELSKIEJ",
-    "brygady":14,
+    "brygady":15,
     "brygady_laczone":[
       "9"
     ],
@@ -194,11 +185,7 @@
     "kolor2":"#000000",
     "przystanki":24,
     "przebieg":"STARO\u0141\u0118KA PKM - Staro\u0142\u0119cka - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":29,
-    "brygady_laczone":[
-      "14",
-      "16"
-    ],
+    "brygady":14,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=12"
   },
@@ -226,9 +213,8 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"OS. SOBIESKIEGO - Trasa PST - G\u0142ogowska - G\u00d3RCZYN PKM",
-    "brygady":21,
+    "brygady":22,
     "brygady_laczone":[
-      "12",
       "15"
     ],
     "agency":"MPK",
@@ -260,12 +246,11 @@
     "kolor1":"#440099",
     "kolor2":"#FFFFFF",
     "przystanki":24,
-    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":30,
+    "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
+    "brygady":16,
     "brygady_laczone":[
-      "12",
       "201",
-      "46"
+      "202"
     ],
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=16"
@@ -280,10 +265,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":14,
     "przebieg":"G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Pl. Ratajskiego - Pl. Wielkopolski - Ma\u0142e Garbary - MA\u0141E GARBARY",
-    "brygady":15,
-    "brygady_laczone":[
-      "4"
-    ],
+    "brygady":7,
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=17"
   },
@@ -310,54 +292,13 @@
     "kolor1":"#40BDB0",
     "kolor2":"#FFFFFF",
     "przystanki":24,
-    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
-    "brygady":16,
+    "przebieg":"D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
+    "brygady":14,
     "brygady_laczone":[
       "9"
     ],
     "agency":"MPK",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=19"
-  },
-  "41":{
-    "typ":"tram",
-    "petle":[
-      "Junikowo",
-      "Mi\u0142ostowo"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "przystanki":40,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
-    "brygady":13
-  },
-  "43":{
-    "typ":"tram",
-    "petle":[
-      "B\u0142a\u017ceja",
-      "Junikowo"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "przystanki":30,
-    "przebieg":"B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - D\u0105browskiego - Przybyszewskiego - Grunwaldzka - JUNIKOWO",
-    "brygady":10
-  },
-  "46":{
-    "typ":"tram",
-    "petle":[
-      "Mi\u0142ostowo",
-      "Osiedle Sobieskiego"
-    ],
-    "kolor1":"#FFFFFF",
-    "kolor2":"#000000",
-    "przystanki":24,
-    "przebieg":"MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":9,
-    "brygady_laczone":[
-      "16"
-    ],
-    "agency":"MPK",
-    "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=46"
   },
   "97":{
     "typ":"tram",
@@ -496,8 +437,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":12,
-    "przebieg":"G\u00d3RCZYN PKM - Zgoda - G\u0142ogowska - Ostatnia - Bohater\u00f3w Westerplatte - Lotnik\u00f3w 302. Dywizjonu Pozna\u0144skiego - G\u00f3recka - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+    "przystanki":19,
+    "przebieg":"G\u00d3RCZYN PKM - Zgoda - G\u0142ogowska - Ostatnia - Bohater\u00f3w Westerplatte - Ko\u0142\u0142\u0105taja - Opolska - Jesionowa - G\u00f3recka - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
     "brygady":5,
     "brygady_laczone":[
       "175"
@@ -771,7 +712,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":13,
-    "przebieg":"JANIKOWO - Janikowska - Gnie\u017anie\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+    "przebieg":"JANIKOWO - Janikowska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
     "brygady":5
   },
   "174":{
@@ -794,8 +735,8 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":15,
-    "przebieg":"D\u0118BIEC PKM - Opolska - Jesionowa - Ko\u0142\u0142\u0105taja - Opolska - Leszczy\u0144ska - Zgoda - G\u00d3RCZYN PKM",
+    "przystanki":12,
+    "przebieg":"D\u0118BIEC PKM - Opolska - Leszczy\u0144ska - Zgoda - G\u00d3RCZYN PKM",
     "brygady":7,
     "brygady_laczone":[
       "149"
@@ -1032,7 +973,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":12,
-    "przebieg":"STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - Czernichowska - O\u017carowska - Minikowo - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+    "przebieg":"STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
     "brygady":5,
     "brygady_laczone":[
       "189"
@@ -1090,7 +1031,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":31,
     "przebieg":"UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":10,
+    "brygady":9,
     "brygady_laczone":[
       "16"
     ],
@@ -1108,7 +1049,10 @@
     "kolor2":"#FFFFFF",
     "przystanki":24,
     "przebieg":"FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-    "brygady":7
+    "brygady":7,
+    "brygady_laczone":[
+      "16"
+    ]
   },
   "212":{
     "typ":"bus",
@@ -1118,20 +1062,20 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":34,
+    "przystanki":33,
     "przebieg":"SZWAJCARSKA SZPITAL - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Jugos\u0142owia\u0144ska - Promienista - Mr\u0105gowska - Kacza - KACZA",
     "brygady":3
   },
   "213":{
     "typ":"bus",
     "petle":[
-      "Bohater\u00f3w Westerplatte",
+      "D\u0119biec PKM",
       "Mogile\u0144ska"
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":28,
-    "przebieg":"BOHATER\u00d3W WESTERPLATTE - Ko\u0142\u0142\u0105taja - Opolska - Leszczy\u0144ska - Zgoda - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
+    "przebieg":"D\u0118BIEC PKM - Opolska - Leszczy\u0144ska - Zgoda - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
     "brygady":2
   },
   "214":{
@@ -1143,7 +1087,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":41,
-    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+    "przebieg":"JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
     "brygady":4,
     "brygady_laczone":[
       "167"
@@ -1158,7 +1102,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":39,
-    "przebieg":"OS. D\u0118BINA - 28 Czerwca 1956 r. - \u0141ozowa - Czechos\u0142owacka - Dolna Wilda - Rolna - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Al. Kr\u00f3la Przemys\u0142a II - Towarowa - Sk\u0142adowa - Roosevelta - Al. Niepodleg\u0142o\u015bci - Ksi\u0119cia Mieszka I - Aleje Solidarno\u015bci - Po\u0142abska - Lechicka - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+    "przebieg":"OS. D\u0118BINA - 28 Czerwca 1956 r. - \u0141ozowa - Czechos\u0142owacka - Dolna Wilda - Rolna - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Al. Kr\u00f3la Przemys\u0142a II - Towarowa - Sk\u0142adowa - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Ksi\u0119cia Mieszka I - Aleje Solidarno\u015bci - Po\u0142abska - Lechicka - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
     "brygady":6,
     "brygady_laczone":[
       "171"
@@ -1250,7 +1194,7 @@
     ],
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
-    "przystanki":52,
+    "przystanki":51,
     "przebieg":"MOGILE\u0143SKA - Pusta - Warszawska - Browarna - Abpa Dymka - Folwarczna - Szwajcarska - Kurlandzka - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - Kr\u00f3lowej Jadwigi - Towarowa - Sk\u0142adowa - Al. Niepodleg\u0142o\u015bci - Roosevelta - Bukowska - Grochowska - Marceli\u0144ska - Bu\u0142garska - Bukowska - Le\u015bnych Skrzat\u00f3w - Brzechwy - Bukowska - PORT LOTNICZY \u0141AWICA",
     "brygady":3
   },
@@ -1263,7 +1207,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":23,
-    "przebieg":"KACZA - Kacza - Mr\u0105gowska - Promienista - \u015aciegiennego - Zgoda - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
+    "przebieg":"KACZA - Kacza - Mr\u0105gowska - Promienista - \u015aciegiennego - Zgoda - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
     "brygady":3
   },
   "224":{
@@ -1275,7 +1219,7 @@
     "kolor1":"#000000",
     "kolor2":"#FFFFFF",
     "przystanki":32,
-    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+    "przebieg":"JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
     "brygady":5
   },
   "226":{
@@ -1790,9 +1734,9 @@
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
-    "przystanki":16,
-    "przebieg":"ZALASEWO OS. LE\u015aNE - Zalasewo/Transportowa - Zalasewo/Planetarna - Swarz\u0119dz/Graniczna - Swarz\u0119dz/Przybylskiego - Swarz\u0119dz/Szumana - Bor\u00f3wki - Kobylepole - Folwarczna - Szwajcarska - FRANOWO",
-    "brygady":6
+    "przystanki":19,
+    "przebieg":"ZALASEWO OS. LE\u015aNE - Zalasewo/Transportowa - Zalasewo/Planetarna - Swarz\u0119dz/Graniczna - Swarz\u0119dz/Przybylskiego - Swarz\u0119dz/Szumana - Bor\u00f3wki - Micha\u0142owo - Klenowska - Szwedzka - Szwajcarska - FRANOWO",
+    "brygady":8
   },
   "431":{
     "typ":"bus",

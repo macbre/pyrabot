@@ -105,10 +105,10 @@
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "D\u0119biec PKM",
-        "Ogrody"
+        "Ogrody",
+        "D\u0119biec PKM"
       ],
-      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Matyi - Towarowa - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
+      "przebieg": "OGRODY - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Towarowa - Matyi - Wierzbi\u0119cice - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
       "color1": "72C4E7",
       "color2": "000000",
       "przystankiSymbole": [
@@ -149,7 +149,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 11,
+      "brygady": 10,
       "brygady_laczone": []
     },
     {
@@ -160,7 +160,7 @@
         "Unii Lubelskiej",
         "B\u0142a\u017ceja"
       ],
-      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
+      "przebieg": "UNII LUBELSKIEJ - Unii Lubelskiej - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Prze\u0142ajowa - Naramowicka - Al. Praw Kobiet - B\u0141A\u017bEJA",
       "color1": "8E364C",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -249,7 +249,7 @@
         "Ma\u0142e Garbary",
         "Po\u0142abska"
       ],
-      "przebieg": "MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
+      "przebieg": "MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
       "color1": "2E6A4C",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -282,20 +282,18 @@
         "ZNIW42",
         "ZNIW71"
       ],
-      "brygady": 15,
-      "brygady_laczone": [
-        "17"
-      ]
+      "brygady": 8,
+      "brygady_laczone": []
     },
     {
       "name": "5",
       "typ": "tram",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Mi\u0142ostowo",
-        "G\u00f3rczyn PKM"
+        "G\u00f3rczyn PKM",
+        "Zawady"
       ],
-      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - G\u00d3RCZYN PKM",
+      "przebieg": "G\u00d3RCZYN PKM - Matyi - Towarowa - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Podwale - ZAWADY",
       "color1": "6CC24A",
       "color2": "000000",
       "przystankiSymbole": [
@@ -356,7 +354,7 @@
         "Mi\u0142ostowo",
         "Budziszy\u0144ska"
       ],
-      "przebieg": "MI\u0141OSTOWO - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
+      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - Krzywoustego - Kr\u00f3lowej Jadwigi - Matyi - Roosevelta - Bukowska - Grunwaldzka - BUDZISZY\u0143SKA",
       "color1": "009639",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -421,7 +419,7 @@
         "WIER42",
         "WOJS41"
       ],
-      "brygady": 17,
+      "brygady": 14,
       "brygady_laczone": []
     },
     {
@@ -494,10 +492,8 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 25,
-      "brygady_laczone": [
-        "8"
-      ]
+      "brygady": 14,
+      "brygady_laczone": []
     },
     {
       "name": "8",
@@ -507,7 +503,7 @@
         "Ogrody",
         "Mi\u0142ostowo"
       ],
-      "przebieg": "OGRODY - D\u0105browskiego - Kraszewskiego - Zwierzyniecka - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
+      "przebieg": "OGRODY - D\u0105browskiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Podg\u00f3rna - Pl. Bernardy\u0144ski - Mostowa - K\u00f3rnicka - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
       "color1": "DA291C",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -557,10 +553,8 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 25,
-      "brygady_laczone": [
-        "7"
-      ]
+      "brygady": 12,
+      "brygady_laczone": []
     },
     {
       "name": "9",
@@ -570,7 +564,7 @@
         "D\u0119biec PKM",
         "Pi\u0105tkowska"
       ],
-      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - Os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
+      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Al. Wielkopolska - Ma\u0142opolska - Wo\u0142y\u0144ska - Winiarska - Os. Winiary - Witosa - Bronowa - PI\u0104TKOWSKA",
       "color1": "FF671F",
       "color2": "000000",
       "przystankiSymbole": [
@@ -704,7 +698,7 @@
         "ZNIW42",
         "ZNIW71"
       ],
-      "brygady": 16,
+      "brygady": 15,
       "brygady_laczone": []
     },
     {
@@ -776,7 +770,7 @@
         "WINI41",
         "WINI42"
       ],
-      "brygady": 14,
+      "brygady": 15,
       "brygady_laczone": [
         "9"
       ]
@@ -844,11 +838,8 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 29,
-      "brygady_laczone": [
-        "14",
-        "16"
-      ]
+      "brygady": 14,
+      "brygady_laczone": []
     },
     {
       "name": "13",
@@ -977,9 +968,8 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 21,
+      "brygady": 22,
       "brygady_laczone": [
-        "12",
         "15"
       ]
     },
@@ -1053,7 +1043,7 @@
         "Franowo",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Towarowa - Matyi - G\u0142ogowska - Trasa PST - OS. SOBIESKIEGO",
+      "przebieg": "FRANOWO - Szwajcarska - Pia\u015bnicka - Trasa K\u00f3rnicka - Warczyg\u0142owy - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
       "color1": "440099",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -1108,11 +1098,10 @@
         "WROC71",
         "WROC72"
       ],
-      "brygady": 30,
+      "brygady": 16,
       "brygady_laczone": [
-        "12",
         "201",
-        "46"
+        "202"
       ]
     },
     {
@@ -1158,10 +1147,8 @@
         "ZAME71",
         "ZAME72"
       ],
-      "brygady": 15,
-      "brygady_laczone": [
-        "4"
-      ]
+      "brygady": 7,
+      "brygady_laczone": []
     },
     {
       "name": "18",
@@ -1237,7 +1224,7 @@
         "D\u0119biec PKM",
         "Po\u0142abska"
       ],
-      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Kr\u00f3lowej Jadwigi - Strzelecka - Aleje Marcinkowskiego - 27 Grudnia - Gwarna - \u015awi\u0119ty Marcin - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
+      "przebieg": "D\u0118BIEC PKM - 28 Czerwca 1956 r. - G\u00f3rna Wilda - Matyi - Towarowa - \u015awi\u0119ty Marcin - Gwarna - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
       "color1": "40BDB0",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -1292,251 +1279,9 @@
         "ZNIW42",
         "ZNIW71"
       ],
-      "brygady": 16,
+      "brygady": 14,
       "brygady_laczone": [
         "9"
-      ]
-    },
-    {
-      "name": "41",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Junikowo",
-        "Mi\u0142ostowo"
-      ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Hetma\u0144ska - \u017begrze - Chartowo - Trasa K\u00f3rnicka - Warczyg\u0142owy - Jana Paw\u0142a II - Warszawska - MI\u0141OSTOWO",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "ARCI41",
-        "ARCI42",
-        "AREN41",
-        "AREN42",
-        "BAKA41",
-        "BAKA42",
-        "BUDZ41",
-        "BUDZ42",
-        "BULG41",
-        "BULG42",
-        "CMNA41",
-        "CMNA42",
-        "DRZE41",
-        "DRZE42",
-        "GLHE43",
-        "GLHE44",
-        "GROC41",
-        "GROC42",
-        "GROT71",
-        "GROT72",
-        "HEWI41",
-        "HEWI42",
-        "JUNI41",
-        "JUNI42",
-        "JUNI43",
-        "KOLE41",
-        "KOLE42",
-        "KORN43",
-        "KORN44",
-        "KORN45",
-        "KRAN41",
-        "KRAN42",
-        "LACI41",
-        "LACI42",
-        "LOMZ41",
-        "LOMZ42",
-        "MILO41",
-        "MILO42",
-        "MOGI41",
-        "MOGI42",
-        "OCZ71",
-        "OCZ72",
-        "OSLE41",
-        "OSLE42",
-        "OSTR41",
-        "OSTR42",
-        "OSTY41",
-        "OSTY42",
-        "POKA41",
-        "POKA42",
-        "ROLN41",
-        "ROLN42",
-        "RONJ41",
-        "RONJ74",
-        "ROSK41",
-        "ROSK42",
-        "ROSR43",
-        "ROSR44",
-        "ROSR45",
-        "ROSR46",
-        "RSTA43",
-        "RSTA44",
-        "RSTA47",
-        "RSTA48",
-        "RZEG41",
-        "RZEG42",
-        "RZEG43",
-        "RZEG44",
-        "SWMI41",
-        "SWMI42",
-        "TERM41",
-        "TERM42",
-        "TRAU43",
-        "TRAU44",
-        "WEGO41",
-        "WEGO42",
-        "Z I41",
-        "Z I42",
-        "Z II41",
-        "Z II42",
-        "ZIII41",
-        "ZIII42"
-      ],
-      "brygady": 13,
-      "brygady_laczone": []
-    },
-    {
-      "name": "43",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "B\u0142a\u017ceja",
-        "Junikowo"
-      ],
-      "przebieg": "B\u0141A\u017bEJA - Al. Praw Kobiet - Naramowicka - Prze\u0142ajowa - Winogrady - Pu\u0142askiego - D\u0105browskiego - Przybyszewskiego - Grunwaldzka - JUNIKOWO",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "ARPO41",
-        "ARPO42",
-        "BLAZ41",
-        "BLAZ42",
-        "BUDZ41",
-        "BUDZ42",
-        "BUKO41",
-        "BUKO42",
-        "BULG41",
-        "BULG42",
-        "CMNA41",
-        "CMNA42",
-        "DRZE41",
-        "DRZE42",
-        "GROC41",
-        "GROC42",
-        "GROT71",
-        "GROT72",
-        "JROL41",
-        "JROL42",
-        "JUNI41",
-        "JUNI42",
-        "JUNI43",
-        "KMIE42",
-        "KMIE71",
-        "LENA41",
-        "LENA42",
-        "MT44",
-        "MT72",
-        "NARA71",
-        "NARA72",
-        "OLOK41",
-        "OLOK42",
-        "OSTR41",
-        "OSTR42",
-        "PASI41",
-        "PASI42",
-        "PONA71",
-        "PONA72",
-        "POZN41",
-        "POZN42",
-        "PZEL41",
-        "PZEL42",
-        "RJEZ73",
-        "RJEZ74",
-        "RONJ41",
-        "RONJ73",
-        "ROSK41",
-        "ROSK42",
-        "SERB41",
-        "SERB42",
-        "WEGO41",
-        "WEGO42",
-        "WIKA41",
-        "WIKA42",
-        "WILC41",
-        "WILC42",
-        "WLOD41",
-        "WLOD42",
-        "ZNIW42",
-        "ZNIW71"
-      ],
-      "brygady": 10,
-      "brygady_laczone": []
-    },
-    {
-      "name": "46",
-      "typ": "tram",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Mi\u0142ostowo",
-        "Osiedle Sobieskiego"
-      ],
-      "przebieg": "MI\u0141OSTOWO - Warszawska - Jana Paw\u0142a II - K\u00f3rnicka - Mostowa - Pl. Bernardy\u0144ski - Podg\u00f3rna - Aleje Marcinkowskiego - 27 Grudnia - Fredry - Roosevelta - Trasa PST - OS. SOBIESKIEGO",
-      "color1": "FFFFFF",
-      "color2": "000000",
-      "przystankiSymbole": [
-        "ALSO41",
-        "ALSO42",
-        "BAKA41",
-        "BAKA42",
-        "FRRY41",
-        "FRRY42",
-        "GRUD72",
-        "GWAR71",
-        "KORN45",
-        "KORN78",
-        "KRAN41",
-        "KRAN42",
-        "KURP41",
-        "KURP42",
-        "LECH41",
-        "LECH42",
-        "LOMZ41",
-        "LOMZ42",
-        "MILO41",
-        "MILO42",
-        "MOGI41",
-        "MOGI42",
-        "MORO71",
-        "MORO72",
-        "MRCI71",
-        "MRCI72",
-        "MT44",
-        "MT73",
-        "PLBE71",
-        "PLBE72",
-        "PP71",
-        "PP72",
-        "ROSR43",
-        "ROSR44",
-        "ROSR45",
-        "ROSR46",
-        "SLKA41",
-        "SLKA42",
-        "SOB41",
-        "SOB42",
-        "SWMI41",
-        "SWMI42",
-        "SWMN71",
-        "SZYM41",
-        "SZYM42",
-        "TERM41",
-        "TERM42",
-        "WROC71",
-        "WROC72"
-      ],
-      "brygady": 9,
-      "brygady_laczone": [
-        "16"
       ]
     },
     {
@@ -1960,16 +1705,19 @@
         "G\u00f3rczyn PKM",
         "D\u0119biec PKM"
       ],
-      "przebieg": "G\u00d3RCZYN PKM - Zgoda - G\u0142ogowska - Ostatnia - Bohater\u00f3w Westerplatte - Lotnik\u00f3w 302. Dywizjonu Pozna\u0144skiego - G\u00f3recka - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
+      "przebieg": "G\u00d3RCZYN PKM - Zgoda - G\u0142ogowska - Ostatnia - Bohater\u00f3w Westerplatte - Ko\u0142\u0142\u0105taja - Opolska - Jesionowa - G\u00f3recka - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - D\u0118BIEC PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "AZAL01",
         "AZAL02",
+        "BEDZ01",
+        "BEDZ02",
         "BOJA01",
         "BOJA02",
-        "BOWE01",
         "BOWE02",
+        "BOWE03",
+        "CIES01",
         "DEEC09",
         "DETU01",
         "DETU02",
@@ -1979,16 +1727,27 @@
         "GORE02",
         "GSKA01",
         "GSKA02",
+        "JESI01",
+        "JESI02",
         "KALI01",
         "KALI02",
         "KASZ01",
         "KASZ02",
+        "KCZA01",
+        "KCZA02",
         "KEPI01",
         "KEPI02",
         "LOZO01",
         "LOZO02",
+        "OKEI01",
+        "OKEI02",
+        "OPOL01",
         "OSIA02",
-        "OSIA03"
+        "OSIA03",
+        "SJNZ01",
+        "SJNZ02",
+        "WROB01",
+        "WROB02"
       ],
       "brygady": 5,
       "brygady_laczone": [
@@ -2062,14 +1821,16 @@
       "przystankiSymbole": [
         "CZ I01",
         "CZ I02",
-        "DARZ01",
-        "DARZ02",
         "DZIA01",
         "DZIA02",
+        "FONA01",
+        "FONA02",
+        "FRWO01",
+        "FRWO02",
+        "FRWO03",
+        "FRWO04",
         "INFL02",
         "INFL03",
-        "KOBY01",
-        "KOBY02",
         "KUWI01",
         "KUWI02",
         "LUBU02",
@@ -2095,8 +1856,6 @@
         "RRAT73",
         "RUSA01",
         "RUSA02",
-        "SCDZ01",
-        "SCDZ02",
         "SSZP03",
         "SSZP04",
         "SZII01",
@@ -3086,7 +2845,7 @@
         "Janikowo",
         "Rondo \u015ar\u00f3dka"
       ],
-      "przebieg": "JANIKOWO - Janikowska - Gnie\u017anie\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "przebieg": "JANIKOWO - Janikowska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3220,42 +2979,36 @@
         "D\u0119biec PKM",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "D\u0118BIEC PKM - Opolska - Jesionowa - Ko\u0142\u0142\u0105taja - Opolska - Leszczy\u0144ska - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "D\u0118BIEC PKM - Opolska - Leszczy\u0144ska - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "BOWE01",
-        "BOWE03",
+        "BEDZ01",
+        "BEDZ02",
         "BUCZ01",
         "BUCZ02",
+        "CIES01",
         "DEEC02",
         "GORC21",
         "GORC30",
-        "JESI01",
-        "JESI02",
-        "KCZA01",
-        "KCZA02",
         "KORF01",
         "KORF02",
         "KOZM01",
         "KOZM02",
         "LESZ01",
         "LESZ02",
-        "OKEI01",
-        "OKEI02",
         "OKUL01",
         "OKUL02",
-        "OPOL01",
         "OPOL02",
         "RAKO01",
         "RAKO02",
         "RAKO03",
+        "SJNZ01",
+        "SJNZ02",
         "SMIE01",
         "SMIE02",
         "SWIE01",
-        "SWIE02",
-        "WROB01",
-        "WROB02"
+        "SWIE02"
       ],
       "brygady": 7,
       "brygady_laczone": [
@@ -4292,7 +4045,7 @@
         "Staro\u0142\u0119ka Wielka",
         "Staro\u0142\u0119ka PKM"
       ],
-      "przebieg": "STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - Czernichowska - O\u017carowska - Minikowo - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+      "przebieg": "STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4536,7 +4289,7 @@
         "ZIII41",
         "ZIII42"
       ],
-      "brygady": 10,
+      "brygady": 9,
       "brygady_laczone": [
         "16"
       ]
@@ -4605,7 +4358,9 @@
         "WROC72"
       ],
       "brygady": 7,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "16"
+      ]
     },
     {
       "name": "212",
@@ -4642,8 +4397,8 @@
         "MARS02",
         "MRAG01",
         "MRAG02",
-        "MT01",
         "MT71",
+        "MT73",
         "NIEZ02",
         "ORGN01",
         "ORGN02",
@@ -4683,7 +4438,6 @@
         "SZYL02",
         "UE01",
         "UE71",
-        "URWO01",
         "WIAT03",
         "WIAT04",
         "ZAME01",
@@ -4697,16 +4451,19 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Bohater\u00f3w Westerplatte",
+        "D\u0119biec PKM",
         "Mogile\u0144ska"
       ],
-      "przebieg": "BOHATER\u00d3W WESTERPLATTE - Ko\u0142\u0142\u0105taja - Opolska - Leszczy\u0144ska - Zgoda - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
+      "przebieg": "D\u0118BIEC PKM - Opolska - Leszczy\u0144ska - Zgoda - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
-        "BOWE03",
+        "BEDZ01",
+        "BEDZ02",
         "BUCZ01",
         "BUCZ02",
+        "CIES01",
+        "DEEC02",
         "DWZA71",
         "DWZA72",
         "GLHE71",
@@ -4714,8 +4471,6 @@
         "GORC21",
         "KATE01",
         "KATE92",
-        "KCZA01",
-        "KCZA02",
         "KORF01",
         "KORF02",
         "KOZM01",
@@ -4724,7 +4479,6 @@
         "KRAU72",
         "LESZ01",
         "LESZ02",
-        "LIBE01",
         "LIBE02",
         "LOMZ01",
         "LOMZ02",
@@ -4733,12 +4487,11 @@
         "MODW71",
         "MODW72",
         "MOGI02",
-        "MT01",
         "MT71",
-        "OKEI01",
-        "OKEI02",
+        "MT73",
         "OKUL01",
         "OKUL02",
+        "OPOL02",
         "PAWI71",
         "PAWI72",
         "RAKO01",
@@ -4751,6 +4504,8 @@
         "RYLA72",
         "SIEL71",
         "SIEL72",
+        "SJNZ01",
+        "SJNZ02",
         "SMIE01",
         "SMIE02",
         "SOLN01",
@@ -4759,8 +4514,7 @@
         "SWIE02",
         "TERM01",
         "TERM02",
-        "WROB01",
-        "WROB02"
+        "URWO01"
       ],
       "brygady": 2,
       "brygady_laczone": []
@@ -4773,7 +4527,7 @@
         "Junikowo",
         "Radojewo"
       ],
-      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
+      "przebieg": "JUNIKOWO - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Naramowicka - Al. Praw Kobiet - Naramowicka - Krygowskiego - Dzi\u0119gielowa - Naramowicka - Radojewo - Pio\u0142unowa - RADOJEWO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4808,7 +4562,6 @@
         "KRES03",
         "LENA01",
         "LENA02",
-        "LIBE01",
         "LIBE02",
         "LOPI01",
         "LOPI02",
@@ -4818,8 +4571,8 @@
         "MAPO02",
         "MODW71",
         "MODW72",
-        "MT01",
         "MT71",
+        "MT73",
         "NARA71",
         "NARA72",
         "ORP02",
@@ -4850,6 +4603,7 @@
         "ULAN02",
         "UMTA01",
         "UMTA02",
+        "URWO01",
         "WDNZ01",
         "WDNZ02",
         "WEGO01",
@@ -4874,7 +4628,7 @@
         "Osiedle D\u0119bina",
         "Osiedle Sobieskiego"
       ],
-      "przebieg": "OS. D\u0118BINA - 28 Czerwca 1956 r. - \u0141ozowa - Czechos\u0142owacka - Dolna Wilda - Rolna - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Al. Kr\u00f3la Przemys\u0142a II - Towarowa - Sk\u0142adowa - Roosevelta - Al. Niepodleg\u0142o\u015bci - Ksi\u0119cia Mieszka I - Aleje Solidarno\u015bci - Po\u0142abska - Lechicka - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
+      "przebieg": "OS. D\u0118BINA - 28 Czerwca 1956 r. - \u0141ozowa - Czechos\u0142owacka - Dolna Wilda - Rolna - Hetma\u0144ska - 28 Czerwca 1956 r. - Wierzbi\u0119cice - Al. Kr\u00f3la Przemys\u0142a II - Towarowa - Sk\u0142adowa - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Ksi\u0119cia Mieszka I - Aleje Solidarno\u015bci - Po\u0142abska - Lechicka - Wojciechowskiego - Jaroczy\u0144skiego - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4889,14 +4643,13 @@
         "KOSI72",
         "KSMI01",
         "KSMI02",
-        "LIBE01",
         "LIBE02",
         "LOZO01",
         "LOZO02",
         "MALI01",
         "MALI02",
-        "MT01",
         "MT71",
+        "MT73",
         "OJLY01",
         "OJLY02",
         "OSCH01",
@@ -4948,6 +4701,7 @@
         "URBA02",
         "URMA01",
         "URMA02",
+        "URWO01",
         "WIED01",
         "WIED02",
         "WIKT01",
@@ -5464,8 +5218,8 @@
         "MILO01",
         "MILO02",
         "MOGI02",
-        "MT01",
         "MT71",
+        "MT73",
         "NIEZ02",
         "OBA01",
         "OBA02",
@@ -5521,7 +5275,6 @@
         "SZYL02",
         "UE01",
         "UE71",
-        "URWO01",
         "WIAT03",
         "WIAT04",
         "WIEC01",
@@ -5545,7 +5298,7 @@
         "Kacza",
         "Mogile\u0144ska"
       ],
-      "przebieg": "KACZA - Kacza - Mr\u0105gowska - Promienista - \u015aciegiennego - Zgoda - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
+      "przebieg": "KACZA - Kacza - Mr\u0105gowska - Promienista - \u015aciegiennego - Zgoda - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Estkowskiego - Wyszy\u0144skiego - Jana Paw\u0142a II - Warszawska - Pusta - MOGILE\u0143SKA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -5564,7 +5317,6 @@
         "KORD02",
         "KRAU71",
         "KRAU72",
-        "LIBE01",
         "LIBE02",
         "LOMZ01",
         "LOMZ02",
@@ -5575,8 +5327,8 @@
         "MOGI02",
         "MRAG01",
         "MRAG02",
-        "MT01",
         "MT71",
+        "MT73",
         "OSKO01",
         "OSKO02",
         "PAWI71",
@@ -5595,7 +5347,8 @@
         "TERM01",
         "TERM02",
         "TREB01",
-        "TREB02"
+        "TREB02",
+        "URWO01"
       ],
       "brygady": 3,
       "brygady_laczone": []
@@ -5608,7 +5361,7 @@
         "Junikowo PKM",
         "Boranta"
       ],
-      "przebieg": "JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
+      "przebieg": "JUNIKOWO PKM - Grunwaldzka - Reymonta - Wyspia\u0144skiego - G\u0142ogowska - Roosevelta - Fredry - Al. Niepodleg\u0142o\u015bci - Solna - Garbary - Szel\u0105gowska - Serbska - Lechicka - Al. Praw Kobiet - Naramowicka - Boranta - BORANTA",
       "color1": "000000",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -5637,14 +5390,13 @@
         "JUNI30",
         "JUST01",
         "KWIA01",
-        "LIBE01",
         "LIBE02",
         "MAGA01",
         "MAGA04",
         "MODW71",
         "MODW72",
-        "MT01",
         "MT71",
+        "MT73",
         "NARA71",
         "NARA72",
         "OSTR01",
@@ -5666,6 +5418,7 @@
         "TWAR02",
         "ULAN01",
         "ULAN02",
+        "URWO01",
         "WEGO01",
         "WEGO02",
         "WIGR01",
@@ -7821,24 +7574,24 @@
         "Zalasewo Osiedle Le\u015bne",
         "Franowo"
       ],
-      "przebieg": "ZALASEWO OS. LE\u015aNE - Zalasewo/Transportowa - Zalasewo/Planetarna - Swarz\u0119dz/Graniczna - Swarz\u0119dz/Przybylskiego - Swarz\u0119dz/Szumana - Bor\u00f3wki - Kobylepole - Folwarczna - Szwajcarska - FRANOWO",
+      "przebieg": "ZALASEWO OS. LE\u015aNE - Zalasewo/Transportowa - Zalasewo/Planetarna - Swarz\u0119dz/Graniczna - Swarz\u0119dz/Przybylskiego - Swarz\u0119dz/Szumana - Bor\u00f3wki - Micha\u0142owo - Klenowska - Szwedzka - Szwajcarska - FRANOWO",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
         "BORO01",
         "BORO02",
+        "CZ I91",
+        "CZ I92",
+        "DARA91",
         "DARZ01",
         "DARZ02",
-        "FONA01",
-        "FONA02",
         "FRWO01",
         "FRWO02",
-        "FRWO03",
-        "FRWO04",
-        "KOBY01",
-        "KOBY02",
-        "SCDZ01",
-        "SCDZ02",
+        "KLCH02",
+        "LUGA01",
+        "MICH91",
+        "RZOD91",
+        "RZOD92",
         "SDCEG01",
         "SDCEG02",
         "SDKUP02",
@@ -7849,6 +7602,11 @@
         "SDRAC02",
         "SDSZU01",
         "SDSZU02",
+        "SZCH01",
+        "SZCH02",
+        "SZWE01",
+        "SZWE03",
+        "TORW03",
         "ZAGIM01",
         "ZAGIM02",
         "ZAHSZ01",
@@ -7860,7 +7618,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 6,
+      "brygady": 8,
       "brygady_laczone": []
     },
     {
