@@ -770,7 +770,7 @@
         "WINI41",
         "WINI42"
       ],
-      "brygady": 15,
+      "brygady": 14,
       "brygady_laczone": [
         "9"
       ]
@@ -838,7 +838,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 14,
+      "brygady": 13,
       "brygady_laczone": []
     },
     {
@@ -968,7 +968,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 22,
+      "brygady": 21,
       "brygady_laczone": [
         "15"
       ]
@@ -1100,8 +1100,7 @@
       ],
       "brygady": 16,
       "brygady_laczone": [
-        "201",
-        "202"
+        "201"
       ]
     },
     {
@@ -1504,39 +1503,6 @@
       "brygady_laczone": []
     },
     {
-      "name": "133",
-      "typ": "bus",
-      "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
-      "petle": [
-        "Rondo \u015ar\u00f3dka",
-        "Rondo \u015ar\u00f3dka"
-      ],
-      "przebieg": "RONDO \u015aR\u00d3DKA - Jana Paw\u0142a II - Podwale - Zawady - G\u0142\u00f3wna - Gnie\u017anie\u0144ska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
-      "color1": "525252",
-      "color2": "FFFFFF",
-      "przystankiSymbole": [
-        "BALA02",
-        "CMEN01",
-        "GLOW02",
-        "GLOW03",
-        "GNIE01",
-        "KORO01",
-        "KORO02",
-        "ROSR03",
-        "ROSR04",
-        "ROSR30",
-        "RWSC01",
-        "RWSC02",
-        "STUD01",
-        "STUD02",
-        "URWI01",
-        "ZAWA01",
-        "ZAWA02"
-      ],
-      "brygady": 6,
-      "brygady_laczone": []
-    },
-    {
       "name": "145",
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
@@ -1639,7 +1605,7 @@
         "SZYM02",
         "WIED01"
       ],
-      "brygady": 4,
+      "brygady": 5,
       "brygady_laczone": []
     },
     {
@@ -1812,10 +1778,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Darzyb\u00f3r",
+        "Franowo",
         "Rondo Rataje"
       ],
-      "przebieg": "DARZYB\u00d3R - Bor\u00f3wki - Kobylepole - Piwna - Abpa Dymka - Szwajcarska - Kurlandzka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
+      "przebieg": "FRANOWO - Szwajcarska - Folwarczna - Piwna - Abpa Dymka - Szwajcarska - Kurlandzka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -2561,7 +2527,6 @@
       ],
       "brygady": 10,
       "brygady_laczone": [
-        "214",
         "911"
       ]
     },
@@ -2756,7 +2721,7 @@
         "ZOWY01",
         "ZOWY02"
       ],
-      "brygady": 7,
+      "brygady": 5,
       "brygady_laczone": []
     },
     {
@@ -2833,9 +2798,7 @@
         "ZNTK02"
       ],
       "brygady": 14,
-      "brygady_laczone": [
-        "215"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "173",
@@ -2845,7 +2808,7 @@
         "Janikowo",
         "Rondo \u015ar\u00f3dka"
       ],
-      "przebieg": "JANIKOWO - Janikowska - Gdy\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
+      "przebieg": "JANIKOWO - Janikowska - Gnie\u017anie\u0144ska - G\u0142\u00f3wna - Zawady - Podwale - Jana Paw\u0142a II - RONDO \u015aR\u00d3DKA",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3064,7 +3027,7 @@
         "ZEKA01",
         "ZEKA02"
       ],
-      "brygady": 11,
+      "brygady": 12,
       "brygady_laczone": [
         "160"
       ]
@@ -3129,7 +3092,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 19,
+      "brygady": 6,
       "brygady_laczone": [
         "727"
       ]
@@ -3192,7 +3155,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 19,
+      "brygady": 21,
       "brygady_laczone": [
         "183"
       ]
@@ -3410,7 +3373,7 @@
         "ZERO71",
         "ZERO72"
       ],
-      "brygady": 21,
+      "brygady": 16,
       "brygady_laczone": []
     },
     {
@@ -3483,7 +3446,7 @@
         "ZAWA02",
         "ZAWA03"
       ],
-      "brygady": 25,
+      "brygady": 19,
       "brygady_laczone": [
         "178"
       ]
@@ -3791,7 +3754,7 @@
         "WARO01",
         "WARO02"
       ],
-      "brygady": 7,
+      "brygady": 6,
       "brygady_laczone": [
         "194"
       ]
@@ -4045,7 +4008,7 @@
         "Staro\u0142\u0119ka Wielka",
         "Staro\u0142\u0119ka PKM"
       ],
-      "przebieg": "STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
+      "przebieg": "STARO\u0141\u0118KA WIELKA - G\u0142uszyna - Staro\u0142\u0119cka - Czernichowska - O\u017carowska - Minikowo - \u015bw. Antoniego - Ksi\u0105\u017c\u0119ca - STARO\u0141\u0118KA PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4121,7 +4084,7 @@
         "ZOWY01",
         "ZOWY02"
       ],
-      "brygady": 3,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
@@ -4358,9 +4321,7 @@
         "WROC72"
       ],
       "brygady": 7,
-      "brygady_laczone": [
-        "16"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "212",
@@ -4616,9 +4577,7 @@
         "WLOD02"
       ],
       "brygady": 4,
-      "brygady_laczone": [
-        "167"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "215",
@@ -4714,9 +4673,7 @@
         "WYLO02"
       ],
       "brygady": 6,
-      "brygady_laczone": [
-        "171"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "216",
@@ -4854,7 +4811,7 @@
         "ZAWA01",
         "ZAWA02"
       ],
-      "brygady": 4,
+      "brygady": 3,
       "brygady_laczone": []
     },
     {
@@ -7518,7 +7475,6 @@
       ],
       "brygady": 19,
       "brygady_laczone": [
-        "485",
         "486",
         "498"
       ]
@@ -7618,7 +7574,7 @@
         "ZATRA01",
         "ZATRA02"
       ],
-      "brygady": 8,
+      "brygady": 9,
       "brygady_laczone": []
     },
     {
@@ -7901,9 +7857,7 @@
         "SDWPR02"
       ],
       "brygady": 7,
-      "brygady_laczone": [
-        "412"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "486",
@@ -10389,9 +10343,7 @@
         "WABUK02"
       ],
       "brygady": 3,
-      "brygady_laczone": [
-        "707"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "704",
@@ -10498,9 +10450,7 @@
         "WABUK02"
       ],
       "brygady": 2,
-      "brygady_laczone": [
-        "703"
-      ]
+      "brygady_laczone": []
     },
     {
       "name": "710",
@@ -10753,7 +10703,7 @@
         "ZONK01",
         "ZONK02"
       ],
-      "brygady": 4,
+      "brygady": 5,
       "brygady_laczone": [
         "177"
       ]
