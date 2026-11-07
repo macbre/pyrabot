@@ -770,7 +770,7 @@
         "WINI41",
         "WINI42"
       ],
-      "brygady": 14,
+      "brygady": 15,
       "brygady_laczone": [
         "9"
       ]
@@ -838,7 +838,7 @@
         "WIOS71",
         "WIOS72"
       ],
-      "brygady": 13,
+      "brygady": 14,
       "brygady_laczone": []
     },
     {
@@ -968,7 +968,7 @@
         "SZYM41",
         "SZYM42"
       ],
-      "brygady": 21,
+      "brygady": 22,
       "brygady_laczone": [
         "15"
       ]
@@ -1100,7 +1100,8 @@
       ],
       "brygady": 16,
       "brygady_laczone": [
-        "201"
+        "201",
+        "202"
       ]
     },
     {
@@ -2527,6 +2528,7 @@
       ],
       "brygady": 10,
       "brygady_laczone": [
+        "214",
         "911"
       ]
     },
@@ -2798,7 +2800,9 @@
         "ZNTK02"
       ],
       "brygady": 14,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "215"
+      ]
     },
     {
       "name": "173",
@@ -4321,7 +4325,9 @@
         "WROC72"
       ],
       "brygady": 7,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "16"
+      ]
     },
     {
       "name": "212",
@@ -4577,7 +4583,9 @@
         "WLOD02"
       ],
       "brygady": 4,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "167"
+      ]
     },
     {
       "name": "215",
@@ -4673,7 +4681,9 @@
         "WYLO02"
       ],
       "brygady": 6,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "171"
+      ]
     },
     {
       "name": "216",
@@ -7475,6 +7485,7 @@
       ],
       "brygady": 19,
       "brygady_laczone": [
+        "485",
         "486",
         "498"
       ]
@@ -7857,7 +7868,9 @@
         "SDWPR02"
       ],
       "brygady": 7,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "412"
+      ]
     },
     {
       "name": "486",
@@ -10343,7 +10356,9 @@
         "WABUK02"
       ],
       "brygady": 3,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "707"
+      ]
     },
     {
       "name": "704",
@@ -10450,7 +10465,9 @@
         "WABUK02"
       ],
       "brygady": 2,
-      "brygady_laczone": []
+      "brygady_laczone": [
+        "703"
+      ]
     },
     {
       "name": "710",
