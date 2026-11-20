@@ -45,8 +45,8 @@
       "Ma\u0142e Garbary",
       "Po\u0142abska"
     ],
-    "kolor1":"#008080",
-    "kolor2":"#000000",
+    "kolor1":"#115740",
+    "kolor2":"#FFFFFF",
     "przystanki":13,
     "przebieg":"MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
     "brygady":11,
@@ -121,7 +121,7 @@
       "Pi\u0105tkowska",
       "Ogrody"
     ],
-    "kolor1":"#FF8040",
+    "kolor1":"#FF671F",
     "kolor2":"#000000",
     "przystanki":32,
     "przebieg":"PI\u0104TKOWSKA - Bronowa - Witosa - Os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - Al. Wielkopolska - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - Towarowa - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
@@ -555,7 +555,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":17,
     "przebieg":"RONDO RATAJE - Jana Paw\u0142a II - Zamenhofa - Pi\u0142sudskiego - Inflancka - Pia\u015bnicka - Chartowo - Torowa - Pokrzywno - Pabianicka - Tarnowska - Ostrowska - Chartowo - Pia\u015bnicka - Inflancka - Pi\u0142sudskiego - Zamenhofa - Krzywoustego - RONDO RATAJE",
-    "brygady":15,
+    "brygady":17,
     "brygady_laczone":[
       "196"
     ]
@@ -667,7 +667,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":29,
     "przebieg":"OS. WICHROWE WZG\u00d3RZE - Murawa - Aleje Solidarno\u015bci - Ksi\u0119cia Mieszka I - Przepadek - Al. Niepodleg\u0142o\u015bci - Towarowa - Al. Kr\u00f3la Przemys\u0142a II - Przemys\u0142owa - Robocza - Pami\u0105tkowa - Rolna - Wsp\u00f3lna - Dolna Wilda - Czechos\u0142owacka - \u0141ozowa - 28 Czerwca 1956 r. - OS. D\u0118BINA",
-    "brygady":14,
+    "brygady":15,
     "brygady_laczone":[
       "215"
     ]
@@ -852,13 +852,13 @@
   "186":{
     "typ":"bus",
     "petle":[
-      "Kiekrz",
+      "Podjazdowa",
       "Ogrody"
     ],
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":21,
-    "przebieg":"KIEKRZ - Wilk\u00f3w Morskich - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
+    "przebieg":"PODJAZDOWA - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
     "brygady":8,
     "brygady_laczone":[
       "156"
@@ -927,7 +927,7 @@
     "kolor1":"#525252",
     "kolor2":"#FFFFFF",
     "przystanki":34,
-    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+    "przebieg":"OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
     "brygady":19,
     "brygady_laczone":[
       "163"
@@ -973,7 +973,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":7,
     "przebieg":"UAM OS. R\u00d3\u017bANY POTOK - Krygowskiego - Uniwersytetu Pozna\u0144skiego - Umultowska - Opie\u0144skiego - Szymanowskiego - Smole\u0144ska - Str\u00f3\u017cy\u0144skiego - OS. SOBIESKIEGO",
-    "brygady":9,
+    "brygady":14,
     "brygady_laczone":[
       "348"
     ]
@@ -2871,7 +2871,7 @@
     "kolor2":"#FFFFFF",
     "przystanki":18,
     "przebieg":"ROKIETNICA W\u0118ZE\u0141 PRZESIADKOWY - Rokietnica/Dworcowa - Rokietnica/Szamotulska - Rokietnica/Szkolna - Napachanie/Rakoniewicka - Napachanie/Rokietnicka - Napachanie/Tarnowska - Tarnowo Pdg/Rokietnicka - Tarnowo Pdg/Pozna\u0144ska - Tarnowo Pdg/ - Tarnowo Pdg/Nowa - TARNOWO PDG TERMY",
-    "brygady":3,
+    "brygady":2,
     "agency":"TPBUS",
     "rozklad":"https://www.ztm.poznan.pl/rozklad-jazdy/?linia=882"
   },

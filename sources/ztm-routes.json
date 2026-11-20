@@ -198,8 +198,8 @@
         "Po\u0142abska"
       ],
       "przebieg": "MA\u0141E GARBARY - Ma\u0142e Garbary - Pl. Wielkopolski - Pl. Ratajskiego - Fredry - Roosevelta - Pu\u0142askiego - Winogrady - Murawa - Aleje Solidarno\u015bci - PO\u0141ABSKA",
-      "color1": "008080",
-      "color2": "000000",
+      "color1": "115740",
+      "color2": "FFFFFF",
       "przystankiSymbole": [
         "ARPO41",
         "ARPO42",
@@ -520,7 +520,7 @@
         "Ogrody"
       ],
       "przebieg": "PI\u0104TKOWSKA - Bronowa - Witosa - Os. Winiary - Winiarska - Wo\u0142y\u0144ska - Ma\u0142opolska - Al. Wielkopolska - Pu\u0142askiego - Fredry - Gwarna - \u015awi\u0119ty Marcin - Aleje Marcinkowskiego - Strzelecka - Kr\u00f3lowej Jadwigi - G\u00f3rna Wilda - Wierzbi\u0119cice - Matyi - Towarowa - \u015awi\u0119ty Marcin - Zwierzyniecka - Kraszewskiego - D\u0105browskiego - OGRODY",
-      "color1": "FF8040",
+      "color1": "FF671F",
       "color2": "000000",
       "przystankiSymbole": [
         "AWF41",
@@ -2231,7 +2231,7 @@
         "WIAT03",
         "WIAT04"
       ],
-      "brygady": 15,
+      "brygady": 17,
       "brygady_laczone": [
         "196"
       ]
@@ -2763,7 +2763,7 @@
         "ZNTK01",
         "ZNTK02"
       ],
-      "brygady": 14,
+      "brygady": 15,
       "brygady_laczone": [
         "215"
       ]
@@ -3569,10 +3569,10 @@
       "typ": "bus",
       "agency": "Miejskie Przedsi\u0119biorstwo Komunikacyjne Sp. z o.o. w Poznaniu",
       "petle": [
-        "Kiekrz",
+        "Podjazdowa",
         "Ogrody"
       ],
-      "przebieg": "KIEKRZ - Wilk\u00f3w Morskich - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
+      "przebieg": "PODJAZDOWA - Chojnicka - S\u0142upska - Sianowska - D\u0105browskiego - OGRODY",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -3893,7 +3893,7 @@
         "Osiedle Sobieskiego",
         "G\u00f3rczyn PKM"
       ],
-      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
+      "przebieg": "OS. SOBIESKIEGO - Jaroczy\u0144skiego - Wojciechowskiego - Pi\u0105tkowska - Aleje Solidarno\u015bci - Witosa - Niestachowska - \u017beromskiego - D\u0105browskiego - Szpitalna - Bukowska - Kolorowa - Bu\u0142garska - Grunwaldzka - Jawornicka - Promienista - \u015aciegiennego - Zgoda - G\u00d3RCZYN PKM",
       "color1": "525252",
       "color2": "FFFFFF",
       "przystankiSymbole": [
@@ -4099,7 +4099,7 @@
         "UAMG02",
         "UAMK02"
       ],
-      "brygady": 9,
+      "brygady": 14,
       "brygady_laczone": [
         "348"
       ]
@@ -12365,7 +12365,7 @@
         "TPTUR01",
         "TPTUR02"
       ],
-      "brygady": 3,
+      "brygady": 2,
       "brygady_laczone": []
     },
     {
